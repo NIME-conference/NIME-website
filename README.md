@@ -28,7 +28,7 @@ The NIME archives bibtex files are stored in a different repository and automati
 - The website is published on every push to the `master` branch.
 - Proceedings are too big to be stored in GitHub so are manually deployed to the hosting server (`/proceedings/` folder) by the web officer.
 
-Contact the NIME Web Officer for further details.
+Contact the [NIME Proceedings Officer](https://nime.org/board/) for further details.
 
 ## How to do certain tasks
 
