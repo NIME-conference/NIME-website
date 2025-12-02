@@ -1,25 +1,22 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-	  {% include head.html %}
+    {% include head.html %}
   </head>
   <body>
     {% include nav.html %}
-
     {% if page.feature_image %}
     <div class="mx-0 px-0 bg-transparent container-fluid">
       <div class="row justify-content-between mx-0 px-0">
-          <img src="{% link {{ page.feature_image }} %}" class="img-fluid p-0 m-0" {% if page.feature_image_alt %}alt="{{ page.feature_image_alt }}"{% endif %} />
+          <img src="{{ page.feature_image | relative_url }}" class="img-fluid p-0 m-0" {% if page.feature_image_alt %}alt="{{ page.feature_image_alt }}"{% endif %} />
       </div>
     </div>
     {% endif %}
-
-    <div class="container rounded bg-body">	   
+    <div class="container rounded bg-body">    
       <main class="my-2 p-4" aria-label="Content">
         {{ content }}
       </main>
     </div>
-
     {% include footer.html %}
     {% fa_svg_generate %}
     {% include scripts.html %}
