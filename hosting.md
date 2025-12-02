@@ -9,7 +9,7 @@ The **Board of NIME** invites bids to host its 2027 and 2028 conferences.
 ## Eligibility
 
 - For **NIME 2027**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
-- For **NIME 2028**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026.
+- For **NIME 2028**, bids are welcome from **Europe**, in addition to the regions mentioned for 2027.
 
 ## Bid Components
 
@@ -29,7 +29,7 @@ Proposals should include the following elements:
 
 ## Submission Process
 
-Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [f.morreale@auckland.ac.nz](mailto:f.morreale@auckland.ac.nz). Please specify whether the proposal is for 2026, 2027, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
+Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [f.morreale@auckland.ac.nz](mailto:f.morreale@auckland.ac.nz). Please specify whether the proposal is for 2027, 2028, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
 
 ## Review Criteria
 
