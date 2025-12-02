@@ -14,7 +14,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2024](https://nime.org/web_archive/2024/): Utrecht, Netherlands ([live website](https://www.nime2024.org/))
 *   [NIME 2023](https://nime.org/web_archive/2023/): Mexico City, Mexico ([live website](https://www.nime2023.org/))
 *   [NIME 2022](https://nime.org/web_archive/2022/): Auckland, New Zealand
-*   [NIME 2021](https://nime.org/web_archive/2021): Shanghai, China
+*   [NIME 2021](https://web.archive.org/web/20211209021245/http://nime2021.org/): Shanghai, China
 *   [NIME 2020](https://nime.org/web_archive/2020/): Birmingham, UK
 *   [NIME 2019](https://nime.org/web_archive/2019/): Porto Alegre, Brazil
 *   [NIME 2018](https://nime.org/web_archive/2018/): Blacksburg, VA, USA
