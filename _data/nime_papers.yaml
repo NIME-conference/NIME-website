@@ -38246,7 +38246,7 @@
     stimuli, may indicate the strength of the relationship they developed with the
     new interface. The case study presented in this paper highlights the strengths
     and limitations of this method.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 1
   author: 'Guidi, Andrea and McPherson, Andrew'
   bibtex: "@inproceedings{NIME22_1,\n abstract = {This paper discusses a quantitative\
@@ -38262,21 +38262,23 @@
     \ the sensitivity, as well as their overall ability to replicate the stimuli,\
     \ may indicate the strength of the relationship they developed with the new interface.\
     \ The case study presented in this paper highlights the strengths and limitations\
-    \ of this method.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {1},\n author = {Guidi, Andrea and McPherson, Andrew},\n booktitle = {Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.79d0b38f},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {101.pdf},\n presentation-video = {https://youtu.be/J4981qsq_7c},\n title\
-    \ = {Quantitative evaluation of aspects of embodiment in new digital musical instruments},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.79d0b38f},\n year = {2022}\n}\n"
+    \ of this method.},\n address = {Auckland, New Zealand},\n articleno = {1},\n\
+    \ author = {Guidi, Andrea and McPherson, Andrew},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.79d0b38f},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/J4981qsq_7c},\n\
+    \ title = {Quantitative evaluation of aspects of embodiment in new digital musical\
+    \ instruments},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.79d0b38f},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.79d0b38f
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 101.pdf
   presentation-video: https://youtu.be/J4981qsq_7c
   title: Quantitative evaluation of aspects of embodiment in new digital musical instruments
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.79d0b38f
   year: 2022
 
@@ -38290,7 +38292,7 @@
     control string synthesizer Xian Kong Qin to the 2020’s Wing Pinger evolving harmony
     synthesizer, the author shines a light from different angles on the Chinese NIME
     community.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 2
   author: 'Wu, Jiayue Cecilia'
   bibtex: "@inproceedings{NIME22_2,\n abstract = {This article explores two in-depth\
@@ -38299,22 +38301,23 @@
     \ the Chinese NIME community. From the innovative NIME designers’ historical technological\
     \ innovation of the 1970s’ analog ribbon control string synthesizer Xian Kong\
     \ Qin to the 2020’s Wing Pinger evolving harmony synthesizer, the author shines\
-    \ a light from different angles on the Chinese NIME community.},\n address = {The\
-    \ University of Auckland, New Zealand},\n articleno = {2},\n author = {Wu, Jiayue\
-    \ Cecilia},\n booktitle = {Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.57e41c54},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {102.pdf},\n presentation-video\
+    \ a light from different angles on the Chinese NIME community.},\n address = {Auckland,\
+    \ New Zealand},\n articleno = {2},\n author = {Wu, Jiayue Cecilia},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.57e41c54},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://www.youtube.com/watch?v=4PMmDnUNgRk},\n title = {Today and Yesterday:\
-    \ Two Case Studies of China{\\textquotesingle}s {NIME} Community},\n url = {https://doi.org/10.21428%2F92fbeb44.57e41c54},\n\
-    \ year = {2022}\n}\n"
+    \ Two Case Studies of China{\\textquotesingle}s {NIME} Community},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.57e41c54},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.57e41c54
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 102.pdf
   presentation-video: https://www.youtube.com/watch?v=4PMmDnUNgRk
   title: 'Today and Yesterday: Two Case Studies of China’s NIME Community'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.57e41c54
   year: 2022
 
@@ -38334,7 +38337,7 @@
     of this approach are discussed from pilot testing the app using a practice-based
     approach. We conclude by pointing to new directions of telematic performance,
     which is a promising direction for network music and digital performance.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 3
   author: 'Xambó, Anna and Goudarzi, Visda'
   bibtex: "@inproceedings{NIME22_3,\n abstract = {One of the consequences of the pandemic\
@@ -38350,21 +38353,23 @@
     \ audience alike. The challenges and possibilities of this approach are discussed\
     \ from pilot testing the app using a practice-based approach. We conclude by pointing\
     \ to new directions of telematic performance, which is a promising direction for\
-    \ network music and digital performance.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {3},\n author = {Xamb{\\'{o}}, Anna and Goudarzi,\
-    \ Visda},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.21428/92fbeb44.706b549e},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {107.pdf},\n presentation-video = {https://youtu.be/xu5ySfbqYs8},\n\
-    \ title = {The Mobile Audience as a Digital Musical Persona in Telematic Performance},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.706b549e},\n year = {2022}\n}\n"
+    \ network music and digital performance.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {3},\n author = {Xamb{\\'{o}}, Anna and Goudarzi, Visda},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.706b549e},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
+    \ = {https://youtu.be/xu5ySfbqYs8},\n title = {The Mobile Audience as a Digital\
+    \ Musical Persona in Telematic Performance},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.706b549e},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.706b549e
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 107.pdf
   presentation-video: https://youtu.be/xu5ySfbqYs8
   title: The Mobile Audience as a Digital Musical Persona in Telematic Performance
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.706b549e
   year: 2022
 
@@ -38396,7 +38401,7 @@
     128x128 whilst the GPU continues to support higher resolutions up to 512x512.
     To conclude the paper, two instruments are developed using HyperModels based on
     established physical model designs.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 4
   author: 'Renney, Harri and Willemsen, Silvin and Gaster, Benedict and Mitchell,
     Tom'
@@ -38425,23 +38430,24 @@
     \ performance of CPU to GPU equivalents, the parallel CPU version supports resolutions\
     \ of up to 128x128 whilst the GPU continues to support higher resolutions up to\
     \ 512x512. To conclude the paper, two instruments are developed using HyperModels\
-    \ based on established physical model designs.},\n address = {The University of\
-    \ Auckland, New Zealand},\n articleno = {4},\n author = {Renney, Harri and Willemsen,\
-    \ Silvin and Gaster, Benedict and Mitchell, Tom},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.21428/92fbeb44.98a4210a},\n issn = {2220-4806},\n month = {jun},\n pdf\
-    \ = {109.pdf},\n presentation-video = {https://youtu.be/Pb4pAr2v4yU},\n title\
-    \ = {{HyperModels} - A Framework for {GPU} Accelerated Physical Modelling Sound\
-    \ Synthesis},\n url = {https://doi.org/10.21428%2F92fbeb44.98a4210a},\n year =\
+    \ based on established physical model designs.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {4},\n author = {Renney, Harri and Willemsen, Silvin and Gaster,\
+    \ Benedict and Mitchell, Tom},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.98a4210a},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/Pb4pAr2v4yU},\n title = {{HyperModels}\
+    \ - A Framework for {GPU} Accelerated Physical Modelling Sound Synthesis},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.98a4210a},\n year =\
     \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.98a4210a
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 109.pdf
   presentation-video: https://youtu.be/Pb4pAr2v4yU
   title: HyperModels - A Framework for GPU Accelerated Physical Modelling Sound Synthesis
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.98a4210a
   year: 2022
 
@@ -38459,7 +38465,7 @@
     has been discussed, concerning circuit bending, within the NIME literature. We
     conclude by developing a list of recommendations for a sustainable circuit bending
     practice.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 5
   author: 'Dorigatti, Enrico and Masu, Raul'
   bibtex: "@inproceedings{NIME22_5,\n abstract = {In this paper, we propose a set\
@@ -38473,22 +38479,24 @@
     \ we look at how the topic of environmental sustainability has been discussed,\
     \ concerning circuit bending, within the NIME literature. We conclude by developing\
     \ a list of recommendations for a sustainable circuit bending practice.},\n address\
-    \ = {The University of Auckland, New Zealand},\n articleno = {5},\n author = {Dorigatti,\
-    \ Enrico and Masu, Raul},\n booktitle = {Proceedings of the International Conference\
+    \ = {Auckland, New Zealand},\n articleno = {5},\n author = {Dorigatti, Enrico\
+    \ and Masu, Raul},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.18502d1d},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {11.pdf},\n presentation-video\
-    \ = {https://youtu.be/n3GcaaHkats},\n title = {Circuit Bending and Environmental\
-    \ Sustainability: Current Situation and Steps Forward},\n url = {https://doi.org/10.21428%2F92fbeb44.18502d1d},\n\
-    \ year = {2022}\n}\n"
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/n3GcaaHkats},\n title = {Circuit Bending\
+    \ and Environmental Sustainability: Current Situation and Steps Forward},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.18502d1d},\n year =\
+    \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.18502d1d
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 11.pdf
   presentation-video: https://youtu.be/n3GcaaHkats
   title: 'Circuit Bending and Environmental Sustainability: Current Situation and
     Steps Forward'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.18502d1d
   year: 2022
 
@@ -38507,7 +38515,7 @@
     device. This suggests that a sequential predictive model may be applied towards
     the development of a tactically predictive system according to Tanimoto’s hierarchy
     of liveness. The code is provided in a git repository.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 6
   author: 'Diapoulis, Georgios and Zannos, Iannis and Tatar, Kivanç and Dahlstedt,
     Palle'
@@ -38523,24 +38531,25 @@
     \ the sampling frequency of a variable clock using a knob as an input device.\
     \ This suggests that a sequential predictive model may be applied towards the\
     \ development of a tactically predictive system according to Tanimoto’s hierarchy\
-    \ of liveness. The code is provided in a git repository.},\n address = {The University\
-    \ of Auckland, New Zealand},\n articleno = {6},\n author = {Diapoulis, Georgios\
-    \ and Zannos, Iannis and Tatar, Kivan{\\c{c}} and Dahlstedt, Palle},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.51fecaab},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {110.pdf},\n presentation-video = {https://youtu.be/L_v5P7jGK8Y},\n\
+    \ of liveness. The code is provided in a git repository.},\n address = {Auckland,\
+    \ New Zealand},\n articleno = {6},\n author = {Diapoulis, Georgios and Zannos,\
+    \ Iannis and Tatar, Kivan{\\c{c}} and Dahlstedt, Palle},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.51fecaab},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/L_v5P7jGK8Y},\n\
     \ title = {Bottom-up live coding: Analysis of continuous interactions towards\
-    \ predicting programming behaviours},\n url = {https://doi.org/10.21428%2F92fbeb44.51fecaab},\n\
+    \ predicting programming behaviours},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.51fecaab},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.51fecaab
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 110.pdf
   presentation-video: https://youtu.be/L_v5P7jGK8Y
   title: 'Bottom-up live coding: Analysis of continuous interactions towards predicting
     programming behaviours'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.51fecaab
   year: 2022
 
@@ -38560,7 +38569,7 @@
     the kinds of experience that deformable DMIs might be most compelling for musicians
     and audiences. We discuss how DMI designers explore deformable materials and gestures
     input and the role of unexpected affordances in the design process.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 7
   author: 'Zheng, Jianing and Bryan-Kinns, Nick'
   bibtex: "@inproceedings{NIME22_7,\n abstract = {Deformable interfaces are an emerging\
@@ -38576,23 +38585,25 @@
     \ might be most suited to, and suggest the kinds of experience that deformable\
     \ DMIs might be most compelling for musicians and audiences. We discuss how DMI\
     \ designers explore deformable materials and gestures input and the role of unexpected\
-    \ affordances in the design process.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {7},\n author = {Zheng, Jianing and Bryan-Kinns,\
-    \ Nick},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.21428/92fbeb44.41da9da5},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {111.pdf},\n presentation-video = {https://youtu.be/KHqfxL4F7Bg},\n\
-    \ title = {Squeeze, Twist, Stretch: Exploring Deformable Digital Musical Interfaces\
-    \ Design Through Non-Functional Prototypes},\n url = {https://doi.org/10.21428%2F92fbeb44.41da9da5},\n\
+    \ affordances in the design process.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {7},\n author = {Zheng, Jianing and Bryan-Kinns, Nick},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.41da9da5},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
+    \ = {https://youtu.be/KHqfxL4F7Bg},\n title = {Squeeze, Twist, Stretch: Exploring\
+    \ Deformable Digital Musical Interfaces Design Through Non-Functional Prototypes},\n\
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.41da9da5},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.41da9da5
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 111.pdf
   presentation-video: https://youtu.be/KHqfxL4F7Bg
   title: 'Squeeze, Twist, Stretch: Exploring Deformable Digital Musical Interfaces
     Design Through Non-Functional Prototypes'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.41da9da5
   year: 2022
 
@@ -38617,7 +38628,7 @@
     the overall goals of each work. Based on our analyses, we present trends and challenges,
     including questions of gender and diversity in our community, and reflect on opportunities
     for future work.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 8
   author: 'Kleinberger, Rébecca and Singh, Nikhil and Xiao, Xiao and Troyer, Akito
     van'
@@ -38639,22 +38650,23 @@
     \ and more precisely situate each paper on a map, taking into account the overall\
     \ goals of each work. Based on our analyses, we present trends and challenges,\
     \ including questions of gender and diversity in our community, and reflect on\
-    \ opportunities for future work.},\n address = {The University of Auckland, New\
-    \ Zealand},\n articleno = {8},\n author = {Kleinberger, R{\\'{e}}becca and Singh,\
-    \ Nikhil and Xiao, Xiao and Troyer, Akito van},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.21428/92fbeb44.4308fb94},\n issn = {2220-4806},\n month = {jun},\n pdf\
-    \ = {112.pdf},\n presentation-video = {https://youtu.be/PUlGjAblfPM},\n title\
-    \ = {Voice at {NIME}: a Taxonomy of New Interfaces for Vocal Musical Expression},\n\
+    \ opportunities for future work.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {8},\n author = {Kleinberger, R{\\'{e}}becca and Singh, Nikhil and Xiao, Xiao\
+    \ and Troyer, Akito van},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.4308fb94},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/PUlGjAblfPM},\n title = {Voice at {NIME}:\
+    \ a Taxonomy of New Interfaces for Vocal Musical Expression},\n track = {Papers},\n\
     \ url = {https://doi.org/10.21428%2F92fbeb44.4308fb94},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.4308fb94
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 112.pdf
   presentation-video: https://youtu.be/PUlGjAblfPM
   title: 'Voice at NIME: a Taxonomy of New Interfaces for Vocal Musical Expression'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.4308fb94
   year: 2022
 
@@ -38673,7 +38685,7 @@
     methods and mappings. Practical exploration of the Slapbox by two professional
     percussionists is performed and their insights summarized, providing directions
     for future work.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 9
   author: 'Boettcher, Brady and Sullivan, John and Wanderley, Marcelo M.'
   bibtex: "@inproceedings{NIME22_9,\n abstract = {Digital musical instruments (DMIs)\
@@ -38687,24 +38699,25 @@
     \ tasks are reflected upon, including enclosure design, sensor evaluations, gesture\
     \ extraction algorithms, and sound synthesis methods and mappings. Practical exploration\
     \ of the Slapbox by two professional percussionists is performed and their insights\
-    \ summarized, providing directions for future work.},\n address = {The University\
-    \ of Auckland, New Zealand},\n articleno = {9},\n author = {Boettcher, Brady and\
-    \ Sullivan, John and Wanderley, Marcelo M.},\n booktitle = {Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n doi =\
-    \ {10.21428/92fbeb44.78fd89cc},\n issn = {2220-4806},\n month = {jun},\n pdf =\
-    \ {114.pdf},\n presentation-video = {https://youtu.be/NkYGAp4rmj8},\n title =\
-    \ {Slapbox: Redesign of a Digital Musical Instrument Towards Reliable Long-Term\
-    \ Practice},\n url = {https://doi.org/10.21428%2F92fbeb44.78fd89cc},\n year =\
+    \ summarized, providing directions for future work.},\n address = {Auckland, New\
+    \ Zealand},\n articleno = {9},\n author = {Boettcher, Brady and Sullivan, John\
+    \ and Wanderley, Marcelo M.},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.78fd89cc},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/NkYGAp4rmj8},\n title = {Slapbox: Redesign\
+    \ of a Digital Musical Instrument Towards Reliable Long-Term Practice},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.78fd89cc},\n year =\
     \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.78fd89cc
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 114.pdf
   presentation-video: https://youtu.be/NkYGAp4rmj8
   title: 'Slapbox: Redesign of a Digital Musical Instrument Towards Reliable Long-Term
     Practice'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.78fd89cc
   year: 2022
 
@@ -38718,7 +38731,7 @@
     audio effects, and controllers. The plugin’s uses and relevance in research, music
     production and musical performance settings are explored, detailing the development
     journey and ideas for future work on the project.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 10
   author: 'Boettcher, Brady and Malloch, Joseph and Wang, Johnty and Wanderley, Marcelo
     M.'
@@ -38729,23 +38742,24 @@
     \ between software and hardware synths, audio effects, and controllers. The plugin’s\
     \ uses and relevance in research, music production and musical performance settings\
     \ are explored, detailing the development journey and ideas for future work on\
-    \ the project.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {10},\n author = {Boettcher, Brady and Malloch, Joseph and Wang, Johnty and\
-    \ Wanderley, Marcelo M.},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.625fbdbf},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {115.pdf},\n presentation-video\
+    \ the project.},\n address = {Auckland, New Zealand},\n articleno = {10},\n author\
+    \ = {Boettcher, Brady and Malloch, Joseph and Wang, Johnty and Wanderley, Marcelo\
+    \ M.},\n booktitle = {Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n doi = {10.21428/92fbeb44.625fbdbf},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://youtu.be/Sv3v3Jmemp0},\n title = {Mapper4Live: Using Control Structures\
-    \ to Embed Complex Mapping Tools into Ableton Live},\n url = {https://doi.org/10.21428%2F92fbeb44.625fbdbf},\n\
-    \ year = {2022}\n}\n"
+    \ to Embed Complex Mapping Tools into Ableton Live},\n track = {Papers},\n url\
+    \ = {https://doi.org/10.21428%2F92fbeb44.625fbdbf},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.625fbdbf
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 115.pdf
   presentation-video: https://youtu.be/Sv3v3Jmemp0
   title: 'Mapper4Live: Using Control Structures to Embed Complex Mapping Tools into
     Ableton Live'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.625fbdbf
   year: 2022
 
@@ -38768,7 +38782,7 @@
     CMIs and to remotely manage script launching and parameter configuration across
     a group of Norns Shields, providing resources for ensembles interested in incorporating
     the device into their ranks.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 11
   author: 'Marasco, Anthony T.'
   bibtex: "@inproceedings{NIME22_11,\n abstract = {Music technology ensembles—often\
@@ -38787,23 +38801,24 @@
     \ abilities to share collaborative control data between internet-enabled CMIs\
     \ and to remotely manage script launching and parameter configuration across a\
     \ group of Norns Shields, providing resources for ensembles interested in incorporating\
-    \ the device into their ranks.},\n address = {The University of Auckland, New\
-    \ Zealand},\n articleno = {11},\n author = {Marasco, Anthony T.},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.89003700},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {120.pdf},\n presentation-video = {https://www.youtube.com/watch?v=2XixSYrgRuQ},\n\
+    \ the device into their ranks.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {11},\n author = {Marasco, Anthony T.},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.21428/92fbeb44.89003700},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://www.youtube.com/watch?v=2XixSYrgRuQ},\n\
     \ title = {Approaching the Norns Shield as a Laptop Alternative for Democratizing\
-    \ Music Technology Ensembles},\n url = {https://doi.org/10.21428%2F92fbeb44.89003700},\n\
+    \ Music Technology Ensembles},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.89003700},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.89003700
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 120.pdf
   presentation-video: https://www.youtube.com/watch?v=2XixSYrgRuQ
   title: Approaching the Norns Shield as a Laptop Alternative for Democratizing Music
     Technology Ensembles
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.89003700
   year: 2022
 
@@ -38819,7 +38834,7 @@
     contexts, providing an inclusive response to the current sociocultural demand.
     The project also involves research on instrument acoustics and the development
     of specialized software and hardware tools.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 12
   author: 'Ramos, Juan and Calcagno, Esteban and Vergara, Ramiro Oscar and Riera,
     Pablo and Rizza, Joaquín'
@@ -38832,24 +38847,25 @@
     \ be used in recreational, academic and professional contexts, providing an inclusive\
     \ response to the current sociocultural demand. The project also involves research\
     \ on instrument acoustics and the development of specialized software and hardware\
-    \ tools.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {12},\n author = {Ramos, Juan and Calcagno, Esteban and Vergara, Ramiro Oscar\
-    \ and Riera, Pablo and Rizza, Joaqu{\\'{\\i}}n},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.21428/92fbeb44.c38bfb86},\n issn = {2220-4806},\n month = {jun},\n pdf\
-    \ = {123.pdf},\n presentation-video = {https://www.youtube.com/watch?v=5y4BbQWVNGQ},\n\
-    \ title = {Bandoneon 2.0: an interdisciplinary project for research and development\
-    \ of electronic bandoneons in Argentina},\n url = {https://doi.org/10.21428%2F92fbeb44.c38bfb86},\n\
+    \ tools.},\n address = {Auckland, New Zealand},\n articleno = {12},\n author =\
+    \ {Ramos, Juan and Calcagno, Esteban and Vergara, Ramiro Oscar and Riera, Pablo\
+    \ and Rizza, Joaqu{\\'{\\i}}n},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c38bfb86},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://www.youtube.com/watch?v=5y4BbQWVNGQ},\n title\
+    \ = {Bandoneon 2.0: an interdisciplinary project for research and development\
+    \ of electronic bandoneons in Argentina},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.c38bfb86},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.c38bfb86
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 123.pdf
   presentation-video: https://www.youtube.com/watch?v=5y4BbQWVNGQ
   title: 'Bandoneon 2.0: an interdisciplinary project for research and development
     of electronic bandoneons in Argentina'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.c38bfb86
   year: 2022
 
@@ -38871,7 +38887,7 @@
     wildlife call imitation, the Call does not simply play back recorded wildlife
     sounds, it is designed for performative interaction by a user to bring synthesized
     sounds to life and imbue them with expression.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 13
   author: 'Brown, Andrew R.'
   bibtex: "@inproceedings{NIME22_13,\n abstract = {The On Board Call is a bespoke\
@@ -38890,21 +38906,22 @@
     \ of the previous work in wildlife call imitation, the Call does not simply play\
     \ back recorded wildlife sounds, it is designed for performative interaction by\
     \ a user to bring synthesized sounds to life and imbue them with expression.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {13},\n author\
-    \ = {Brown, Andrew R.},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.71a5a0ba},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {125.pdf},\n presentation-video\
+    \ address = {Auckland, New Zealand},\n articleno = {13},\n author = {Brown, Andrew\
+    \ R.},\n booktitle = {Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n doi = {10.21428/92fbeb44.71a5a0ba},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://www.youtube.com/watch?v=iBTBPpaSGi8},\n title = {On Board Call: A\
-    \ Gestural Wildlife Imitation Machine},\n url = {https://doi.org/10.21428%2F92fbeb44.71a5a0ba},\n\
+    \ Gestural Wildlife Imitation Machine},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.71a5a0ba},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.71a5a0ba
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 125.pdf
   presentation-video: https://www.youtube.com/watch?v=iBTBPpaSGi8
   title: 'On Board Call: A Gestural Wildlife Imitation Machine'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.71a5a0ba
   year: 2022
 
@@ -38919,7 +38936,7 @@
     the actual sound source. The pitch, however, is controlled digitally, allowing
     a wide range of musical material manipulation, bringing the possibilities of a
     digitally augmented performance into the realm of acoustic sound.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 14
   author: 'Cybulski, Krzysztof'
   bibtex: "@inproceedings{NIME22_14,\n abstract = {In a search for a symbiotic relationship\
@@ -38930,21 +38947,23 @@
     \ supplied by the player’s lungs, is the actual sound source. The pitch, however,\
     \ is controlled digitally, allowing a wide range of musical material manipulation,\
     \ bringing the possibilities of a digitally augmented performance into the realm\
-    \ of acoustic sound.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {14},\n author = {Cybulski, Krzysztof},\n booktitle = {Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.756616d4},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {126.pdf},\n presentation-video = {https://youtu.be/RnuEvjMdEj4},\n title\
-    \ = {Post-digital sax - a digitally controlled acoustic single-reed woodwind instrument},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.756616d4},\n year = {2022}\n}\n"
+    \ of acoustic sound.},\n address = {Auckland, New Zealand},\n articleno = {14},\n\
+    \ author = {Cybulski, Krzysztof},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.756616d4},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/RnuEvjMdEj4},\n title = {Post-digital\
+    \ sax - a digitally controlled acoustic single-reed woodwind instrument},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.756616d4},\n year =\
+    \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.756616d4
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 126.pdf
   presentation-video: https://youtu.be/RnuEvjMdEj4
   title: Post-digital sax - a digitally controlled acoustic single-reed woodwind instrument
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.756616d4
   year: 2022
 
@@ -38974,7 +38993,7 @@
     training generative networks conditionally dependent on input parameter values.
     SynTex has several characteristics designed to support a data-centric approach
     to developing, exploring, training, and testing generative models.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 15
   author: 'Wyse, Lonce and Ravikumar, Prashanth Thattai'
   bibtex: "@inproceedings{NIME22_15,\n abstract = {An emerging approach to building\
@@ -39001,23 +39020,24 @@
     \ training generative networks conditionally dependent on input parameter values.\
     \ SynTex has several characteristics designed to support a data-centric approach\
     \ to developing, exploring, training, and testing generative models.},\n address\
-    \ = {The University of Auckland, New Zealand},\n articleno = {15},\n author =\
-    \ {Wyse, Lonce and Ravikumar, Prashanth Thattai},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.21428/92fbeb44.0fe70450},\n issn = {2220-4806},\n month = {jun},\n pdf\
-    \ = {128.pdf},\n presentation-video = {https://youtu.be/KZHXck9c75s},\n title\
-    \ = {Syntex: parametric audio texture datasets for conditional training of instrumental\
-    \ interfaces.},\n url = {https://doi.org/10.21428%2F92fbeb44.0fe70450},\n year\
-    \ = {2022}\n}\n"
+    \ = {Auckland, New Zealand},\n articleno = {15},\n author = {Wyse, Lonce and Ravikumar,\
+    \ Prashanth Thattai},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.0fe70450},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/KZHXck9c75s},\n title = {Syntex: parametric\
+    \ audio texture datasets for conditional training of instrumental interfaces.},\n\
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.0fe70450},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.0fe70450
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 128.pdf
   presentation-video: https://youtu.be/KZHXck9c75s
   title: 'Syntex: parametric audio texture datasets for conditional training of instrumental
     interfaces.'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.0fe70450
   year: 2022
 
@@ -39034,7 +39054,7 @@
     uses only publicly available information organized in standard formats, and is
     available as open-source software to promote continuous development in step with
     the NIME archive.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 16
   author: 'Goode, Jackson and Fasciani, Stefano'
   bibtex: "@inproceedings{NIME22_16,\n abstract = {This paper describes a toolkit\
@@ -39047,21 +39067,23 @@
     \ that can be highly customized without the need for programming. The toolkit\
     \ uses only publicly available information organized in standard formats, and\
     \ is available as open-source software to promote continuous development in step\
-    \ with the NIME archive.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {16},\n author = {Goode, Jackson and Fasciani, Stefano},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.58efca21},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {13.pdf},\n presentation-video = {https://youtu.be/Awp5-oxL-NM},\n\
-    \ title = {A Toolkit for the Analysis of the {NIME} Proceedings Archive},\n url\
-    \ = {https://doi.org/10.21428%2F92fbeb44.58efca21},\n year = {2022}\n}\n"
+    \ with the NIME archive.},\n address = {Auckland, New Zealand},\n articleno =\
+    \ {16},\n author = {Goode, Jackson and Fasciani, Stefano},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.58efca21},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/Awp5-oxL-NM},\n\
+    \ title = {A Toolkit for the Analysis of the {NIME} Proceedings Archive},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.58efca21},\n year =\
+    \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.58efca21
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 13.pdf
   presentation-video: https://youtu.be/Awp5-oxL-NM
   title: A Toolkit for the Analysis of the NIME Proceedings Archive
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.58efca21
   year: 2022
 
@@ -39078,7 +39100,7 @@
     and approaches, its technical realisation, and its musical possibilities. To conclude,
     the Concentric Sampler’s potential as an instrument and compositional tool is
     discussed alongside the future possibilities for development.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 17
   author: 'Tate, Timothy'
   bibtex: "@inproceedings{NIME22_17,\n abstract = {This paper focuses on the redundancy\
@@ -39091,23 +39113,24 @@
     \ and background of the Concentric Sampler, related applications and approaches,\
     \ its technical realisation, and its musical possibilities. To conclude, the Concentric\
     \ Sampler’s potential as an instrument and compositional tool is discussed alongside\
-    \ the future possibilities for development.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {17},\n author = {Tate, Timothy},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.324729a3},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {131.pdf},\n presentation-video = {https://youtu.be/7Myu1W7tbts},\n title\
-    \ = {The Concentric Sampler: A musical instrument from a repurposed floppy disk\
-    \ drive},\n url = {https://doi.org/10.21428%2F92fbeb44.324729a3},\n year = {2022}\n\
-    }\n"
+    \ the future possibilities for development.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {17},\n author = {Tate, Timothy},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.324729a3},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/7Myu1W7tbts},\n\
+    \ title = {The Concentric Sampler: A musical instrument from a repurposed floppy\
+    \ disk drive},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.324729a3},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.324729a3
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 131.pdf
   presentation-video: https://youtu.be/7Myu1W7tbts
   title: 'The Concentric Sampler: A musical instrument from a repurposed floppy disk
     drive'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.324729a3
   year: 2022
 
@@ -39130,7 +39153,7 @@
     data using a graphic user interface. Finally, we demonstrated Ghost Play performing
     bowing and fingering techniques such as a spiccato, tremolo, and glissando, as
     well as a piece of classical music.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 18
   author: 'Kamatani, Takahiro and Sato, Yoshinao and Fujino, Masato'
   bibtex: "@inproceedings{NIME22_18,\n abstract = {Ghost Play is a violin-playing\
@@ -39149,21 +39172,23 @@
     \ We also developed an authoring tool for the performance data using a graphic\
     \ user interface. Finally, we demonstrated Ghost Play performing bowing and fingering\
     \ techniques such as a spiccato, tremolo, and glissando, as well as a piece of\
-    \ classical music.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {18},\n author = {Kamatani, Takahiro and Sato, Yoshinao and Fujino,\
-    \ Masato},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.21428/92fbeb44.754a50b5},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {136.pdf},\n presentation-video = {https://youtu.be/FOivgYXk1_g},\n\
-    \ title = {Ghost Play - A Violin-Playing Robot using Electromagnetic Linear Actuators},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.754a50b5},\n year = {2022}\n}\n"
+    \ classical music.},\n address = {Auckland, New Zealand},\n articleno = {18},\n\
+    \ author = {Kamatani, Takahiro and Sato, Yoshinao and Fujino, Masato},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.754a50b5},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
+    \ = {https://youtu.be/FOivgYXk1_g},\n title = {Ghost Play - A Violin-Playing Robot\
+    \ using Electromagnetic Linear Actuators},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.754a50b5},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.754a50b5
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 136.pdf
   presentation-video: https://youtu.be/FOivgYXk1_g
   title: Ghost Play - A Violin-Playing Robot using Electromagnetic Linear Actuators
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.754a50b5
   year: 2022
 
@@ -39182,7 +39207,7 @@
     a terminological and ideological framework as manifested at this point in time,
     and makes a theoretical contribution to the understanding of the rationale and
     potential of this technological and compositional approach.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 19
   author: 'Magnusson, Thor and Kiefer, Chris and Ulfarsson, Halldor'
   bibtex: "@inproceedings{NIME22_19,\n abstract = {Feedback is a technique that has\
@@ -39197,22 +39222,23 @@
     \ coupling, play, design and posthumanism. The paper presents a terminological\
     \ and ideological framework as manifested at this point in time, and makes a theoretical\
     \ contribution to the understanding of the rationale and potential of this technological\
-    \ and compositional approach.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {19},\n author = {Magnusson, Thor and Kiefer, Chris and Ulfarsson,\
-    \ Halldor},\n booktitle = {Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.aa7de712},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {151.pdf},\n presentation-video\
+    \ and compositional approach.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {19},\n author = {Magnusson, Thor and Kiefer, Chris and Ulfarsson, Halldor},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.21428/92fbeb44.aa7de712},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://www.youtube.com/watch?v=ouwIA_aVmEM},\n title = {Reflexions upon\
-    \ Feedback},\n url = {https://doi.org/10.21428%2F92fbeb44.aa7de712},\n year =\
-    \ {2022}\n}\n"
+    \ Feedback},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.aa7de712},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.aa7de712
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 151.pdf
   presentation-video: https://www.youtube.com/watch?v=ouwIA_aVmEM
   title: Reflexions upon Feedback
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.aa7de712
   year: 2022
 
@@ -39235,7 +39261,7 @@
     decolonize the violin by activating new flows and connectivities, freeing up habitual
     relations, and refreshing the musical affordances of this otherwise quintessentially
     western and canonical instrument.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 20
   author: 'Thorn, Seth and Lahey, Byron'
   bibtex: "@inproceedings{NIME22_20,\n abstract = {Beginning, amateur, and professional\
@@ -39254,21 +39280,23 @@
     \ long a tool of improvisation before the triumph of classical works. ASRs decolonize\
     \ the violin by activating new flows and connectivities, freeing up habitual relations,\
     \ and refreshing the musical affordances of this otherwise quintessentially western\
-    \ and canonical instrument.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {20},\n author = {Thorn, Seth and Lahey, Byron},\n booktitle = {Proceedings\
+    \ and canonical instrument.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {20},\n author = {Thorn, Seth and Lahey, Byron},\n booktitle = {Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.91f87875},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {16.pdf},\n presentation-video = {https://youtu.be/7qNTa4QplC4},\n title\
-    \ = {Decolonizing the Violin with Active Shoulder Rests ({ASRs})},\n url = {https://doi.org/10.21428%2F92fbeb44.91f87875},\n\
-    \ year = {2022}\n}\n"
+    \ doi = {10.21428/92fbeb44.91f87875},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/7qNTa4QplC4},\n\
+    \ title = {Decolonizing the Violin with Active Shoulder Rests ({ASRs})},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.91f87875},\n year =\
+    \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.91f87875
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 16.pdf
   presentation-video: https://youtu.be/7qNTa4QplC4
   title: Decolonizing the Violin with Active Shoulder Rests (ASRs)
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.91f87875
   year: 2022
 
@@ -39296,7 +39324,7 @@
     it was found that the experience engaged participants fruitfully, with many noting
     their ability to express themselves audiovisually in creative ways. The experience
     and the framework the author used to create it is available in a Github respository.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 21
   author: 'Bilbow, Sam'
   bibtex: "@inproceedings{NIME22_21,\n abstract = {Augmented reality (AR) is increasingly\
@@ -39321,23 +39349,24 @@
     \ the experience engaged participants fruitfully, with many noting their ability\
     \ to express themselves audiovisually in creative ways. The experience and the\
     \ framework the author used to create it is available in a Github respository.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {21},\n author\
-    \ = {Bilbow, Sam},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.8abb9ce6},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {162.pdf},\n presentation-video\
+    \ address = {Auckland, New Zealand},\n articleno = {21},\n author = {Bilbow, Sam},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.21428/92fbeb44.8abb9ce6},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://www.youtube.com/watch?v=eCdQku5hFOE},\n title = {Evaluating polaris{\\\
     textasciitilde} - An Audiovisual Augmented Reality Experience Built on Open-Source\
-    \ Hardware and Software},\n url = {https://doi.org/10.21428%2F92fbeb44.8abb9ce6},\n\
+    \ Hardware and Software},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.8abb9ce6},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.8abb9ce6
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 162.pdf
   presentation-video: https://www.youtube.com/watch?v=eCdQku5hFOE
   title: Evaluating polaris~ - An Audiovisual Augmented Reality Experience Built on
     Open-Source Hardware and Software
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.8abb9ce6
   year: 2022
 
@@ -39361,7 +39390,7 @@
     the application of the pipeline in an actual music performance. Thanks to their
     modular structure, the tools presented could be used in different creative and
     biomedical contexts involving gestural control of haptic stimuli.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 22
   author: 'Verdugo, Felipe and Ceglia, Amedeo and Frisson, Christian and Burton, Alexandre
     and Begon, Mickael and Gibet, Sylvie and Wanderley, Marcelo M.'
@@ -39383,24 +39412,25 @@
     \ address the application of the pipeline in an actual music performance. Thanks\
     \ to their modular structure, the tools presented could be used in different creative\
     \ and biomedical contexts involving gestural control of haptic stimuli.},\n address\
-    \ = {The University of Auckland, New Zealand},\n articleno = {22},\n author =\
-    \ {Verdugo, Felipe and Ceglia, Amedeo and Frisson, Christian and Burton, Alexandre\
-    \ and Begon, Mickael and Gibet, Sylvie and Wanderley, Marcelo M.},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.3ce22588},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {165.pdf},\n presentation-video = {https://youtu.be/gKM0lGs9rxw},\n\
+    \ = {Auckland, New Zealand},\n articleno = {22},\n author = {Verdugo, Felipe and\
+    \ Ceglia, Amedeo and Frisson, Christian and Burton, Alexandre and Begon, Mickael\
+    \ and Gibet, Sylvie and Wanderley, Marcelo M.},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.3ce22588},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/gKM0lGs9rxw},\n\
     \ title = {Feeling the Effort of Classical Musicians - A Pipeline from Electromyography\
-    \ to Smartphone Vibration for Live Music Performance},\n url = {https://doi.org/10.21428%2F92fbeb44.3ce22588},\n\
-    \ year = {2022}\n}\n"
+    \ to Smartphone Vibration for Live Music Performance},\n track = {Papers},\n url\
+    \ = {https://doi.org/10.21428%2F92fbeb44.3ce22588},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.3ce22588
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 165.pdf
   presentation-video: https://youtu.be/gKM0lGs9rxw
   title: Feeling the Effort of Classical Musicians - A Pipeline from Electromyography
     to Smartphone Vibration for Live Music Performance
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.3ce22588
   year: 2022
 
@@ -39422,7 +39452,7 @@
     with physically-inspired mass-interaction models in Synth-a-Modeler Designer.
     We distribute the documentation and source code of ForceHost and all of its components
     and forks.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 23
   author: 'Frisson, Christian and Kirkegaard, Mathias and Pietrzak, Thomas and Wanderley,
     Marcelo M.'
@@ -39441,24 +39471,25 @@
     \ and haptic devices in Webmapper, visual programming with physically-inspired\
     \ mass-interaction models in Synth-a-Modeler Designer. We distribute the documentation\
     \ and source code of ForceHost and all of its components and forks.},\n address\
-    \ = {The University of Auckland, New Zealand},\n articleno = {23},\n author =\
-    \ {Frisson, Christian and Kirkegaard, Mathias and Pietrzak, Thomas and Wanderley,\
-    \ Marcelo M.},\n booktitle = {Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.76cfc96e},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {172.pdf},\n presentation-video\
+    \ = {Auckland, New Zealand},\n articleno = {23},\n author = {Frisson, Christian\
+    \ and Kirkegaard, Mathias and Pietrzak, Thomas and Wanderley, Marcelo M.},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.76cfc96e},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://youtu.be/smFpkdw-J2w},\n title = {{ForceHost}: an open-source toolchain\
     \ for generating firmware embedding the authoring and rendering of audio and force-feedback\
-    \ haptics},\n url = {https://doi.org/10.21428%2F92fbeb44.76cfc96e},\n year = {2022}\n\
-    }\n"
+    \ haptics},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.76cfc96e},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.76cfc96e
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 172.pdf
   presentation-video: https://youtu.be/smFpkdw-J2w
   title: 'ForceHost: an open-source toolchain for generating firmware embedding the
     authoring and rendering of audio and force-feedback haptics'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.76cfc96e
   year: 2022
 
@@ -39479,7 +39510,7 @@
     independent LFOs, CHON’s signals push and pull on each other, creating a tangible
     causality in the resulting gestures. In this paper, I briefly describe the design
     of CHON and discuss its use in composition through examples in my own works.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 24
   author: 'DuPlessis, Rodney'
   bibtex: "@inproceedings{NIME22_24,\n abstract = {Physical metaphor provides a visceral\
@@ -39496,21 +39527,23 @@
     \ LFO model of musical control. Unlike independent LFOs, CHON’s signals push and\
     \ pull on each other, creating a tangible causality in the resulting gestures.\
     \ In this paper, I briefly describe the design of CHON and discuss its use in\
-    \ composition through examples in my own works.},\n address = {The University\
-    \ of Auckland, New Zealand},\n articleno = {24},\n author = {DuPlessis, Rodney},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.18aeca0e},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {173.pdf},\n presentation-video = {https://youtu.be/yXr1m6dW5jo},\n\
+    \ composition through examples in my own works.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {24},\n author = {DuPlessis, Rodney},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.18aeca0e},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/yXr1m6dW5jo},\n\
     \ title = {A virtual instrument for physics-based musical gesture: {CHON}},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.18aeca0e},\n year = {2022}\n}\n"
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.18aeca0e},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.18aeca0e
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 173.pdf
   presentation-video: https://youtu.be/yXr1m6dW5jo
   title: 'A virtual instrument for physics-based musical gesture: CHON'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.18aeca0e
   year: 2022
 
@@ -39528,7 +39561,7 @@
     with CAVI. We discuss the outcome of our artistic exploration, present the scientific
     methods it was based on, and reflect on developing an interactive system that
     is as much an audiovisual composition as an interactive musical instrument.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 25
   author: 'Erdem, Cagri and Wallace, Benedikte and Refsum Jensenius, Alexander'
   bibtex: "@inproceedings{NIME22_25,\n abstract = {This paper describes the development\
@@ -39543,21 +39576,23 @@
     \ the outcome of our artistic exploration, present the scientific methods it was\
     \ based on, and reflect on developing an interactive system that is as much an\
     \ audiovisual composition as an interactive musical instrument.},\n address =\
-    \ {The University of Auckland, New Zealand},\n articleno = {25},\n author = {Erdem,\
-    \ Cagri and Wallace, Benedikte and Refsum Jensenius, Alexander},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.803c24dd},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {176.pdf},\n presentation-video = {https://youtu.be/WO766vmghcQ},\n title\
-    \ = {{CAVI}: A Coadaptive Audiovisual Instrument{\\textendash}Composition},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.803c24dd},\n year = {2022}\n}\n"
+    \ {Auckland, New Zealand},\n articleno = {25},\n author = {Erdem, Cagri and Wallace,\
+    \ Benedikte and Refsum Jensenius, Alexander},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.21428/92fbeb44.803c24dd},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/WO766vmghcQ},\n\
+    \ title = {{CAVI}: A Coadaptive Audiovisual Instrument{\\textendash}Composition},\n\
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.803c24dd},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.803c24dd
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 176.pdf
   presentation-video: https://youtu.be/WO766vmghcQ
   title: 'CAVI: A Coadaptive Audiovisual Instrument–Composition'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.803c24dd
   year: 2022
 
@@ -39572,7 +39607,7 @@
     attempts to meet the authors’ goals of creating a novel musical experience for
     musicians and non-musicians alike, expanding on the premise of the original t-Stick,
     and mitigating technical obsolescence of DMIs.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 26
   author: 'Kirby, Linnea and Buser, Paul and Wanderley, Marcelo M.'
   bibtex: "@inproceedings{NIME22_26,\n abstract = {The authors introduce and document\
@@ -39583,22 +39618,23 @@
     \ a prototype is developed and showcased that attempts to meet the authors’ goals\
     \ of creating a novel musical experience for musicians and non-musicians alike,\
     \ expanding on the premise of the original t-Stick, and mitigating technical obsolescence\
-    \ of DMIs.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {26},\n author = {Kirby, Linnea and Buser, Paul and Wanderley, Marcelo M.},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.2d00f04f},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {179.pdf},\n presentation-video = {https://youtu.be/gS87Tpg3h_I},\n\
+    \ of DMIs.},\n address = {Auckland, New Zealand},\n articleno = {26},\n author\
+    \ = {Kirby, Linnea and Buser, Paul and Wanderley, Marcelo M.},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.2d00f04f},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/gS87Tpg3h_I},\n\
     \ title = {Introducing the t-Tree: Using Multiple t-Sticks for Performance and\
-    \ Installation},\n url = {https://doi.org/10.21428%2F92fbeb44.2d00f04f},\n year\
-    \ = {2022}\n}\n"
+    \ Installation},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.2d00f04f},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.2d00f04f
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 179.pdf
   presentation-video: https://youtu.be/gS87Tpg3h_I
   title: 'Introducing the t-Tree: Using Multiple t-Sticks for Performance and Installation'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.2d00f04f
   year: 2022
 
@@ -39618,7 +39654,7 @@
     through self-usage and improvisation. Our designs explore free-hand and embodied
     interaction in our interfaces, and we reflect on how these unique qualities of
     HMAR contribute to an expressive medium for sonic creation.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 27
   author: 'Wang, Yichen and Martin, Charles'
   bibtex: "@inproceedings{NIME22_27,\n abstract = {We present an empirical study of\
@@ -39635,21 +39671,22 @@
     \ through self-usage and improvisation. Our designs explore free-hand and embodied\
     \ interaction in our interfaces, and we reflect on how these unique qualities\
     \ of HMAR contribute to an expressive medium for sonic creation.},\n address =\
-    \ {The University of Auckland, New Zealand},\n articleno = {27},\n author = {Wang,\
-    \ Yichen and Martin, Charles},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.b540aa59},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {183.pdf},\n presentation-video\
-    \ = {https://youtu.be/iOuZqwIwinU},\n title = {Cubing Sound: Designing a {NIME}\
-    \ for Head-mounted Augmented Reality},\n url = {https://doi.org/10.21428%2F92fbeb44.b540aa59},\n\
-    \ year = {2022}\n}\n"
+    \ {Auckland, New Zealand},\n articleno = {27},\n author = {Wang, Yichen and Martin,\
+    \ Charles},\n booktitle = {Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.b540aa59},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/iOuZqwIwinU},\n title = {Cubing Sound:\
+    \ Designing a {NIME} for Head-mounted Augmented Reality},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.b540aa59},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.b540aa59
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 183.pdf
   presentation-video: https://youtu.be/iOuZqwIwinU
   title: 'Cubing Sound: Designing a NIME for Head-mounted Augmented Reality'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.b540aa59
   year: 2022
 
@@ -39667,7 +39704,7 @@
     that this is a reasonable tradeoff for the low barrier-to-entry that browser-based
     environments provide, and that the design in general supports a variety of educational
     goals and compositional strategies.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 28
   author: 'Roberts, Charlie and Hattwick, Ian and Sheffield, Eric and Smith, Gillian'
   bibtex: "@inproceedings{NIME22_28,\n abstract = {We describe a new set of affordances\
@@ -39681,22 +39718,23 @@
     \ pose challenges for larger ensembles, our experiences suggest that this is a\
     \ reasonable tradeoff for the low barrier-to-entry that browser-based environments\
     \ provide, and that the design in general supports a variety of educational goals\
-    \ and compositional strategies.},\n address = {The University of Auckland, New\
-    \ Zealand},\n articleno = {28},\n author = {Roberts, Charlie and Hattwick, Ian\
-    \ and Sheffield, Eric and Smith, Gillian},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.38cb7745},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {191.pdf},\n presentation-video\
-    \ = {https://youtu.be/BKlHkEAqUOo},\n title = {Rethinking networked collaboration\
-    \ in the live coding environment Gibber},\n url = {https://doi.org/10.21428%2F92fbeb44.38cb7745},\n\
-    \ year = {2022}\n}\n"
+    \ and compositional strategies.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {28},\n author = {Roberts, Charlie and Hattwick, Ian and Sheffield, Eric and\
+    \ Smith, Gillian},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.38cb7745},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/BKlHkEAqUOo},\n title = {Rethinking networked\
+    \ collaboration in the live coding environment Gibber},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.38cb7745},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.38cb7745
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 191.pdf
   presentation-video: https://youtu.be/BKlHkEAqUOo
   title: Rethinking networked collaboration in the live coding environment Gibber
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.38cb7745
   year: 2022
 
@@ -39716,7 +39754,7 @@
     of immersive musical instruments and the affordances of MR systems, we offer a
     new framework based on three dimensions to support the design and analysis of
     MRMIs. We illustrate its use with application to existing works.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 29
   author: 'Zellerbach, Karitta Christina and Roberts, Charlie'
   bibtex: "@inproceedings{NIME22_29,\n abstract = {In the context of immersive sonic\
@@ -39732,21 +39770,23 @@
     \ of existing literature concerning the evaluation of immersive musical instruments\
     \ and the affordances of MR systems, we offer a new framework based on three dimensions\
     \ to support the design and analysis of MRMIs. We illustrate its use with application\
-    \ to existing works.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {29},\n author = {Zellerbach, Karitta Christina and Roberts, Charlie},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.b2a44bc9},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {193.pdf},\n presentation-video = {https://youtu.be/Pb4pAr2v4yU},\n\
+    \ to existing works.},\n address = {Auckland, New Zealand},\n articleno = {29},\n\
+    \ author = {Zellerbach, Karitta Christina and Roberts, Charlie},\n booktitle =\
+    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.b2a44bc9},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/Pb4pAr2v4yU},\n\
     \ title = {A Framework for the Design and Analysis of Mixed Reality Musical Instruments},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.b2a44bc9},\n year = {2022}\n}\n"
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.b2a44bc9},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.b2a44bc9
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 193.pdf
   presentation-video: https://youtu.be/Pb4pAr2v4yU
   title: A Framework for the Design and Analysis of Mixed Reality Musical Instruments
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.b2a44bc9
   year: 2022
 
@@ -39778,7 +39818,7 @@
     the impact of imperialist legacies on the way we make music, understanding the
     techno-cultural subset of the colonial hegemony and its motives can create a space
     to advocate for conventions in music software that are more widely inclusive.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 30
   author: 'Pardue, Laurel and Bin, S. M. Astrid'
   bibtex: "@inproceedings{NIME22_30,\n abstract = {NIME has recently seen critique\
@@ -39807,23 +39847,24 @@
     \ the impact of imperialist legacies on the way we make music, understanding the\
     \ techno-cultural subset of the colonial hegemony and its motives can create a\
     \ space to advocate for conventions in music software that are more widely inclusive.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {30},\n author\
-    \ = {Pardue, Laurel and Bin, S. M. Astrid},\n booktitle = {Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n doi =\
-    \ {10.21428/92fbeb44.0cc78aeb},\n issn = {2220-4806},\n month = {jun},\n pdf =\
-    \ {201.pdf},\n presentation-video = {https://www.youtube.com/watch?v=a53vwOUDh0M},\n\
-    \ title = {The Other Hegemony: Effects of software development culture on music\
-    \ software, and what we can do about it},\n url = {https://doi.org/10.21428%2F92fbeb44.0cc78aeb},\n\
+    \ address = {Auckland, New Zealand},\n articleno = {30},\n author = {Pardue, Laurel\
+    \ and Bin, S. M. Astrid},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.0cc78aeb},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://www.youtube.com/watch?v=a53vwOUDh0M},\n title\
+    \ = {The Other Hegemony: Effects of software development culture on music software,\
+    \ and what we can do about it},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.0cc78aeb},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.0cc78aeb
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 201.pdf
   presentation-video: https://www.youtube.com/watch?v=a53vwOUDh0M
   title: 'The Other Hegemony: Effects of software development culture on music software,
     and what we can do about it'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.0cc78aeb
   year: 2022
 
@@ -39844,7 +39885,7 @@
     \ that affect the NIME community as a whole, contributing to a pluriversal view\
     \ on these matters, and to the embracement of multiple realities and ways of doing\
     \ things."
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 31
   author: 'Martinez Avila, Juan Pablo and Tragtenberg, Joāo and Calegario, Filipe
     and Alarcon, Ximena and Cadavid Hinojosa, Laddy Patricia and Corintha, Isabela
@@ -39863,25 +39904,26 @@
     \ from their socio-political reality. We also offer LATAM perspectives on critical\
     \ epistemological issues that affect the NIME community as a whole, contributing\
     \ to a pluriversal view on these matters, and to the embracement of multiple realities\
-    \ and ways of doing things.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {31},\n author = {Martinez Avila, Juan Pablo and Tragtenberg, Jo{\\\
-    =a}o and Calegario, Filipe and Alarcon, Ximena and Cadavid Hinojosa, Laddy Patricia\
-    \ and Corintha, Isabela and Dannemann, Teodoro and Jaimovich, Javier and Marquez-Borbon,\
+    \ and ways of doing things.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {31},\n author = {Martinez Avila, Juan Pablo and Tragtenberg, Jo{\\=a}o and\
+    \ Calegario, Filipe and Alarcon, Ximena and Cadavid Hinojosa, Laddy Patricia and\
+    \ Corintha, Isabela and Dannemann, Teodoro and Jaimovich, Javier and Marquez-Borbon,\
     \ Adnan and Lerner, Martin Matus and Ortiz, Miguel and Ramos, Juan and Sol{\\\
     '{i}}s Garc{\\'{i}}a, Hugo},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.b7a7ba4f},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {21.pdf},\n presentation-video\
-    \ = {https://youtu.be/dCxkrqrbM-M},\n title = {Being (A)part of NIME: Embracing\
-    \ Latin American Perspectives},\n url = {https://doi.org/10.21428/92fbeb44.b7a7ba4f},\n\
-    \ year = {2022}\n}\n"
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/dCxkrqrbM-M},\n title = {Being (A)part\
+    \ of NIME: Embracing Latin American Perspectives},\n track = {Papers},\n url =\
+    \ {https://doi.org/10.21428/92fbeb44.b7a7ba4f},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.b7a7ba4f
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 21.pdf
   presentation-video: https://youtu.be/dCxkrqrbM-M
   title: 'Being (A)part of NIME: Embracing Latin American Perspectives'
+  track: Papers
   url: https://doi.org/10.21428/92fbeb44.b7a7ba4f
   year: 2022
 
@@ -39900,7 +39942,7 @@
     in a sensitive and critical way. This will be done not to answer the broad question
     of ‘how do we decolonise art making with technology?’, but to break that question
     apart into prompts or potential pathways for decolonising.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 32
   author: 'Argabrite, Zak and Murphy, Jim and Norman, Sally Jane and Carnegie, Dale'
   bibtex: "@inproceedings{NIME22_32,\n abstract = {This article provides a lens for\
@@ -39915,23 +39957,24 @@
     \ process with technology) which seek to address these colonial processes in a\
     \ sensitive and critical way. This will be done not to answer the broad question\
     \ of ‘how do we decolonise art making with technology?’, but to break that question\
-    \ apart into prompts or potential pathways for decolonising.},\n address = {The\
-    \ University of Auckland, New Zealand},\n articleno = {32},\n author = {Argabrite,\
-    \ Zak and Murphy, Jim and Norman, Sally Jane and Carnegie, Dale},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.68f7c268},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {222.pdf},\n presentation-video = {https://youtu.be/JZTmiIByYN4},\n\
+    \ apart into prompts or potential pathways for decolonising.},\n address = {Auckland,\
+    \ New Zealand},\n articleno = {32},\n author = {Argabrite, Zak and Murphy, Jim\
+    \ and Norman, Sally Jane and Carnegie, Dale},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.21428/92fbeb44.68f7c268},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/JZTmiIByYN4},\n\
     \ title = {Technology is Land: Strategies towards decolonisation of technology\
-    \ in artmaking},\n url = {https://doi.org/10.21428%2F92fbeb44.68f7c268},\n year\
-    \ = {2022}\n}\n"
+    \ in artmaking},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.68f7c268},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.68f7c268
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 222.pdf
   presentation-video: https://youtu.be/JZTmiIByYN4
   title: 'Technology is Land: Strategies towards decolonisation of technology in artmaking'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.68f7c268
   year: 2022
 
@@ -39953,7 +39996,7 @@
     into motivation, constraints, design and implementation, and the observed impact
     as an applied instance of a proposed paradigmshift in telematic musicking and
     its newfound identity fueled by the live crowdsourced telematic music genre.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 33
   author: 'Bukvic, Ivica'
   bibtex: "@inproceedings{NIME22_33,\n abstract = {The following paper presents L2Ork\
@@ -39971,23 +40014,24 @@
     \ musicking. Below, the paper delves deeper into motivation, constraints, design\
     \ and implementation, and the observed impact as an applied instance of a proposed\
     \ paradigmshift in telematic musicking and its newfound identity fueled by the\
-    \ live crowdsourced telematic music genre.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {33},\n author = {Bukvic, Ivica},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.a0a8d914},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {26.pdf},\n presentation-video = {https://youtu.be/5pawphncSmg},\n title\
-    \ = {Latency-, Sync-, and Bandwidth-Agnostic Tightly-Timed Telematic and Crowdsourced\
-    \ Musicking Made Possible Using L2Ork Tweeter},\n url = {https://doi.org/10.21428%2F92fbeb44.a0a8d914},\n\
-    \ year = {2022}\n}\n"
+    \ live crowdsourced telematic music genre.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {33},\n author = {Bukvic, Ivica},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.a0a8d914},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/5pawphncSmg},\n\
+    \ title = {Latency-, Sync-, and Bandwidth-Agnostic Tightly-Timed Telematic and\
+    \ Crowdsourced Musicking Made Possible Using L2Ork Tweeter},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.a0a8d914},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.a0a8d914
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 26.pdf
   presentation-video: https://youtu.be/5pawphncSmg
   title: 'Latency-, Sync-, and Bandwidth-Agnostic Tightly-Timed Telematic and Crowdsourced
     Musicking Made Possible Using L2Ork Tweeter'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.a0a8d914
   year: 2022
 
@@ -40004,7 +40048,7 @@
     and conduct a thematic analysis to shine a light on the collaborative and iterative
     design process. In particular, we provide insights on the opportunities brought
     by Spatial AR and on the role of improvisation.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 34
   author: 'Arslan, Cagan and Berthaut, Florent and Beuchey, Anthony and Cambourian,
     Paul and Paté, Arthur'
@@ -40018,24 +40062,25 @@
     \ methods, we document the evolution of the augmentations and conduct a thematic\
     \ analysis to shine a light on the collaborative and iterative design process.\
     \ In particular, we provide insights on the opportunities brought by Spatial AR\
-    \ and on the role of improvisation.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {34},\n author = {Arslan, Cagan and Berthaut, Florent\
-    \ and Beuchey, Anthony and Cambourian, Paul and Pat{\\'{e}}, Arthur},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.c28dd323},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {30.pdf},\n presentation-video = {https://youtu.be/oxMrv3R6jK0},\n\
+    \ and on the role of improvisation.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {34},\n author = {Arslan, Cagan and Berthaut, Florent and Beuchey, Anthony\
+    \ and Cambourian, Paul and Pat{\\'{e}}, Arthur},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.c28dd323},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/oxMrv3R6jK0},\n\
     \ title = {Vibrating shapes : Design and evolution of a spatial augmented reality\
-    \ interface for actuated instruments},\n url = {https://doi.org/10.21428%2F92fbeb44.c28dd323},\n\
+    \ interface for actuated instruments},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.c28dd323},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.c28dd323
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 30.pdf
   presentation-video: https://youtu.be/oxMrv3R6jK0
   title: 'Vibrating shapes : Design and evolution of a spatial augmented reality interface
     for actuated instruments'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.c28dd323
   year: 2022
 
@@ -40056,7 +40101,7 @@
     during short improvisations by groups of three musicians. Our results suggest
     that internal visualisations of all instruments displayed close to each musician’s
     instrument provide the best awareness.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 35
   author: 'Berthaut, Florent and Dahl, Luke'
   bibtex: "@inproceedings{NIME22_35,\n abstract = {Digital Musical Instruments (DMIs)\
@@ -40073,23 +40118,24 @@
     \ the influence of visualisation level and situational visibility during short\
     \ improvisations by groups of three musicians. Our results suggest that internal\
     \ visualisations of all instruments displayed close to each musician’s instrument\
-    \ provide the best awareness.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {35},\n author = {Berthaut, Florent and Dahl, Luke},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.9d974714},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {31.pdf},\n presentation-video = {https://www.youtube.com/watch?v=903cs_oFfwo},\n\
+    \ provide the best awareness.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {35},\n author = {Berthaut, Florent and Dahl, Luke},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.9d974714},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://www.youtube.com/watch?v=903cs_oFfwo},\n\
     \ title = {The Effect of Visualisation Level and Situational Visibility in Co-located\
-    \ Digital Musical Ensembles},\n url = {https://doi.org/10.21428%2F92fbeb44.9d974714},\n\
+    \ Digital Musical Ensembles},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.9d974714},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.9d974714
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 31.pdf
   presentation-video: https://www.youtube.com/watch?v=903cs_oFfwo
   title: The Effect of Visualisation Level and Situational Visibility in Co-located
     Digital Musical Ensembles
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.9d974714
   year: 2022
 
@@ -40106,7 +40152,7 @@
     the experience. These diaries have been analyzed to understand the two systems
     individually and compare them. We finally discuss the main benefits related to
     the practical use of these systems, and possible use scenarios.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 36
   author: 'Rì, Francesco Ardan Dal and Masu, Raul'
   bibtex: "@inproceedings{NIME22_36,\n abstract = {The management of the musical structures\
@@ -40119,22 +40165,23 @@
     \ sessions by the first author of this paper, who created a diary about the experience.\
     \ These diaries have been analyzed to understand the two systems individually\
     \ and compare them. We finally discuss the main benefits related to the practical\
-    \ use of these systems, and possible use scenarios.},\n address = {The University\
-    \ of Auckland, New Zealand},\n articleno = {36},\n author = {R{\\`i}, Francesco\
-    \ Ardan Dal and Masu, Raul},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.828b6114},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {32.pdf},\n presentation-video\
+    \ use of these systems, and possible use scenarios.},\n address = {Auckland, New\
+    \ Zealand},\n articleno = {36},\n author = {R{\\`i}, Francesco Ardan Dal and Masu,\
+    \ Raul},\n booktitle = {Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n doi = {10.21428/92fbeb44.828b6114},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://www.youtube.com/watch?v=r-cxEXjnDzg},\n title = {Exploring Musical\
-    \ Form: Digital Scores to Support Live Coding Practice},\n url = {https://doi.org/10.21428%2F92fbeb44.828b6114},\n\
-    \ year = {2022}\n}\n"
+    \ Form: Digital Scores to Support Live Coding Practice},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.828b6114},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.828b6114
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 32.pdf
   presentation-video: https://www.youtube.com/watch?v=r-cxEXjnDzg
   title: 'Exploring Musical Form: Digital Scores to Support Live Coding Practice'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.828b6114
   year: 2022
 
@@ -40153,7 +40200,7 @@
     that integrates the repelling force between neodymium magnets into the controllers.
     This allows us to imbue the virtual instrument, which is inherently devoid of
     tactility, with haptic feedback—-an essential affordance of many musical instruments.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 37
   author: 'Çamci, Anil and Granzow, John'
   bibtex: "@inproceedings{NIME22_37,\n abstract = {In this paper, we discuss our ongoing\
@@ -40169,22 +40216,24 @@
     \ force between neodymium magnets into the controllers. This allows us to imbue\
     \ the virtual instrument, which is inherently devoid of tactility, with haptic\
     \ feedback—-an essential affordance of many musical instruments.},\n address =\
-    \ {The University of Auckland, New Zealand},\n articleno = {37},\n author = {{\\\
-    c{C}}amci, Anil and Granzow, John},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.a26a4014},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {33.pdf},\n presentation-video\
-    \ = {https://youtu.be/fnoQOO4rz4M},\n title = {Augmented Touch: A Mounting Adapter\
-    \ for Oculus Touch Controllers that Enables New Hyperreal Instruments},\n url\
-    \ = {https://doi.org/10.21428%2F92fbeb44.a26a4014},\n year = {2022}\n}\n"
+    \ {Auckland, New Zealand},\n articleno = {37},\n author = {{\\c{C}}amci, Anil\
+    \ and Granzow, John},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.a26a4014},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/fnoQOO4rz4M},\n title = {Augmented Touch:\
+    \ A Mounting Adapter for Oculus Touch Controllers that Enables New Hyperreal Instruments},\n\
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.a26a4014},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.a26a4014
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 33.pdf
   presentation-video: https://youtu.be/fnoQOO4rz4M
   title: 'Augmented Touch: A Mounting Adapter for Oculus Touch Controllers that Enables
     New Hyperreal Instruments'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.a26a4014
   year: 2022
 
@@ -40202,7 +40251,7 @@
     and present Latent Drummer, which is a prototype system dedicated to integrating
     machine learning-based interface abstractions into the tradition of sequencers
     for modular synthesis.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 38
   author: 'Warren, Nick and Çamci, Anil'
   bibtex: "@inproceedings{NIME22_38,\n abstract = {Automated processes in musical\
@@ -40216,21 +40265,22 @@
     \ We then offer a case study based on this approach and present Latent Drummer,\
     \ which is a prototype system dedicated to integrating machine learning-based\
     \ interface abstractions into the tradition of sequencers for modular synthesis.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {38},\n author\
-    \ = {Warren, Nick and {\\c{C}}amci, Anil},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.ed873363},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {34.pdf},\n presentation-video\
-    \ = {https://www.youtube.com/watch?v=Hr6B5dIhMVo},\n title = {Latent Drummer:\
-    \ A New Abstraction for Modular Sequencers},\n url = {https://doi.org/10.21428%2F92fbeb44.ed873363},\n\
-    \ year = {2022}\n}\n"
+    \ address = {Auckland, New Zealand},\n articleno = {38},\n author = {Warren, Nick\
+    \ and {\\c{C}}amci, Anil},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.ed873363},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://www.youtube.com/watch?v=Hr6B5dIhMVo},\n title\
+    \ = {Latent Drummer: A New Abstraction for Modular Sequencers},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.ed873363},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.ed873363
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 34.pdf
   presentation-video: https://www.youtube.com/watch?v=Hr6B5dIhMVo
   title: 'Latent Drummer: A New Abstraction for Modular Sequencers'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.ed873363
   year: 2022
 
@@ -40247,7 +40297,7 @@
     a qualitative pilot study with two subjects over ~11 hours of training with our
     tutoring system. The study reveals valuable insights about the music learning
     process and points towards new features and learning modes for the next prototype.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 39
   author: 'Chin, Daniel and Xia, Gus'
   bibtex: "@inproceedings{NIME22_39,\n abstract = {We present an AI-empowered music\
@@ -40260,23 +40310,24 @@
     \ multimodal instructions, guidance, and feedback using a qualitative pilot study\
     \ with two subjects over ~11 hours of training with our tutoring system. The study\
     \ reveals valuable insights about the music learning process and points towards\
-    \ new features and learning modes for the next prototype.},\n address = {The University\
-    \ of Auckland, New Zealand},\n articleno = {39},\n author = {Chin, Daniel and\
-    \ Xia, Gus},\n booktitle = {Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c6910363},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {39.pdf},\n presentation-video\
+    \ new features and learning modes for the next prototype.},\n address = {Auckland,\
+    \ New Zealand},\n articleno = {39},\n author = {Chin, Daniel and Xia, Gus},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.21428/92fbeb44.c6910363},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://youtu.be/DifOKvH1ErQ},\n title = {A Computer-aided Multimodal Music\
-    \ Learning System with Curriculum: A Pilot Study},\n url = {https://doi.org/10.21428%2F92fbeb44.c6910363},\n\
-    \ year = {2022}\n}\n"
+    \ Learning System with Curriculum: A Pilot Study},\n track = {Papers},\n url =\
+    \ {https://doi.org/10.21428%2F92fbeb44.c6910363},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.c6910363
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 39.pdf
   presentation-video: https://youtu.be/DifOKvH1ErQ
   title: 'A Computer-aided Multimodal Music Learning System with Curriculum: A Pilot
     Study'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.c6910363
   year: 2022
 
@@ -40295,7 +40346,7 @@
     tools (2) usability and normativity, and (3) learning and practice. These results
     provide ground for discussion about the design and study of movementsound interactive
     systems.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 40
   author: 'Paredes, Victor and Françoise, Jules and Bevilacqua, Frederic'
   bibtex: "@inproceedings{NIME22_40,\n abstract = {Movement-sound interactive systems\
@@ -40310,23 +40361,24 @@
     \ main themes related to (1) the mediating role of technological tools (2) usability\
     \ and normativity, and (3) learning and practice. These results provide ground\
     \ for discussion about the design and study of movementsound interactive systems.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {40},\n author\
-    \ = {Paredes, Victor and Fran{\\c{c}}oise, Jules and Bevilacqua, Frederic},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.5b9ac5ba},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {42.pdf},\n presentation-video = {https://youtu.be/n6DZE7TdEeI},\n\
+    \ address = {Auckland, New Zealand},\n articleno = {40},\n author = {Paredes,\
+    \ Victor and Fran{\\c{c}}oise, Jules and Bevilacqua, Frederic},\n booktitle =\
+    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.5b9ac5ba},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/n6DZE7TdEeI},\n\
     \ title = {Entangling Practice with Artistic and Educational Aims: Interviews\
-    \ on Technology-based Movement-Sound Interactions},\n url = {https://doi.org/10.21428%2F92fbeb44.5b9ac5ba},\n\
-    \ year = {2022}\n}\n"
+    \ on Technology-based Movement-Sound Interactions},\n track = {Papers},\n url\
+    \ = {https://doi.org/10.21428%2F92fbeb44.5b9ac5ba},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.5b9ac5ba
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 42.pdf
   presentation-video: https://youtu.be/n6DZE7TdEeI
   title: 'Entangling Practice with Artistic and Educational Aims: Interviews on Technology-based
     Movement-Sound Interactions'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.5b9ac5ba
   year: 2022
 
@@ -40350,7 +40402,7 @@
     from compatible browsers. This paper first looks at the context in which the specification
     was created and then discusses the usability improvements layered on top of the
     API by the opensource WEBMIDI.js library.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 41
   author: 'Côté, Jean-Philippe'
   bibtex: "@inproceedings{NIME22_41,\n abstract = {The Web MIDI API allows the Web\
@@ -40370,21 +40422,22 @@
     \ the library makes it easier to interface with MIDI devices from compatible browsers.\
     \ This paper first looks at the context in which the specification was created\
     \ and then discusses the usability improvements layered on top of the API by the\
-    \ opensource WEBMIDI.js library.},\n address = {The University of Auckland, New\
-    \ Zealand},\n articleno = {41},\n author = {C{\\^o}t{\\'e}, Jean-Philippe},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.388e4764},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {43.pdf},\n presentation-video = {https://youtu.be/jMzjpUJO860},\n\
-    \ title = {User-Friendly {MIDI} in the Web Browser},\n url = {https://doi.org/10.21428%2F92fbeb44.388e4764},\n\
-    \ year = {2022}\n}\n"
+    \ opensource WEBMIDI.js library.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {41},\n author = {C{\\^o}t{\\'e}, Jean-Philippe},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.388e4764},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/jMzjpUJO860},\n\
+    \ title = {User-Friendly {MIDI} in the Web Browser},\n track = {Papers},\n url\
+    \ = {https://doi.org/10.21428%2F92fbeb44.388e4764},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.388e4764
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 43.pdf
   presentation-video: https://youtu.be/jMzjpUJO860
   title: User-Friendly MIDI in the Web Browser
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.388e4764
   year: 2022
 
@@ -40397,7 +40450,7 @@
     of four pitch fingering systems that are ergonomic, simple, and symmetric. In
     hindsight, I emphasize the subjectivity of the design process, despite its reliance
     on objective quantitative assessment.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 42
   author: 'West, Travis'
   bibtex: "@inproceedings{NIME22_42,\n abstract = {In the search for better designs,\
@@ -40406,21 +40459,22 @@
     \ and limitations, and its results in the form of four pitch fingering systems\
     \ that are ergonomic, simple, and symmetric. In hindsight, I emphasize the subjectivity\
     \ of the design process, despite its reliance on objective quantitative assessment.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {42},\n author\
-    \ = {West, Travis},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.d6c9dcae},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {53.pdf},\n presentation-video\
+    \ address = {Auckland, New Zealand},\n articleno = {42},\n author = {West, Travis},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.21428/92fbeb44.d6c9dcae},\n editor = {Andrew\
+    \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://youtu.be/4QB3sNRmK1E},\n title = {Pitch Fingering Systems and the\
-    \ Search for Perfection},\n url = {https://doi.org/10.21428%2F92fbeb44.d6c9dcae},\n\
+    \ Search for Perfection},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.d6c9dcae},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.d6c9dcae
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 53.pdf
   presentation-video: https://youtu.be/4QB3sNRmK1E
   title: Pitch Fingering Systems and the Search for Perfection
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.d6c9dcae
   year: 2022
 
@@ -40435,7 +40489,7 @@
     mubone, as well as exploring how the instrument adapts to diverse creative contexts.
     We discuss mappings, musical exercises, and the development of Garcia, a sound-and-movement
     composition for mubone.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 43
   author: 'West, Travis and Leung, Kalun'
   bibtex: "@inproceedings{NIME22_43,\n abstract = {The mubone (lowercase “m”) is a\
@@ -40446,21 +40500,22 @@
     \ on the beginnings of an artistic practice: playing mubone, as well as exploring\
     \ how the instrument adapts to diverse creative contexts. We discuss mappings,\
     \ musical exercises, and the development of Garcia, a sound-and-movement composition\
-    \ for mubone.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {43},\n author = {West, Travis and Leung, Kalun},\n booktitle = {Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.e56a93c9},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {54.pdf},\n presentation-video = {https://youtu.be/B51eofO4f4Y},\n title\
-    \ = {early prototypes and artistic practice with the mubone},\n url = {https://doi.org/10.21428%2F92fbeb44.e56a93c9},\n\
+    \ for mubone.},\n address = {Auckland, New Zealand},\n articleno = {43},\n author\
+    \ = {West, Travis and Leung, Kalun},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.e56a93c9},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/B51eofO4f4Y},\n title = {early prototypes\
+    \ and artistic practice with the mubone},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.e56a93c9},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.e56a93c9
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 54.pdf
   presentation-video: https://youtu.be/B51eofO4f4Y
   title: early prototypes and artistic practice with the mubone
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.e56a93c9
   year: 2022
 
@@ -40482,7 +40537,7 @@
     of hand poses as expressive control, although this depended on customisation and
     temporal dynamics; the use of interactive machine learning (IML) for user-adaptive
     hand pose recognition was well received by participants.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 44
   author: 'Graf, Max and Barthet, Mathieu'
   bibtex: "@inproceedings{NIME22_44,\n abstract = {The study of extended reality musical\
@@ -40500,23 +40555,24 @@
     \ strain from playing. Participants were largely in favour of hand poses as expressive\
     \ control, although this depended on customisation and temporal dynamics; the\
     \ use of interactive machine learning (IML) for user-adaptive hand pose recognition\
-    \ was well received by participants.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {44},\n author = {Graf, Max and Barthet, Mathieu},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.56ba9b93},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {59.pdf},\n presentation-video = {https://youtu.be/qhE5X3rAWgg},\n\
+    \ was well received by participants.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {44},\n author = {Graf, Max and Barthet, Mathieu},\n booktitle =\
+    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.56ba9b93},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/qhE5X3rAWgg},\n\
     \ title = {Mixed Reality Musical Interface: Exploring Ergonomics and Adaptive\
-    \ Hand Pose Recognition for Gestural Control},\n url = {https://doi.org/10.21428%2F92fbeb44.56ba9b93},\n\
+    \ Hand Pose Recognition for Gestural Control},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.56ba9b93},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.56ba9b93
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 59.pdf
   presentation-video: https://youtu.be/qhE5X3rAWgg
   title: 'Mixed Reality Musical Interface: Exploring Ergonomics and Adaptive Hand
     Pose Recognition for Gestural Control'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.56ba9b93
   year: 2022
 
@@ -40541,7 +40597,7 @@
     different modalities of haptic feedback, the participation of Deaf users in wearable
     haptics design as well as music-movement performance practice, and artistic co-creation
     beyond technology development.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 45
   author: 'Cavdir, Doga'
   bibtex: "@inproceedings{NIME22_45,\n abstract = {Active participation of Deaf individuals\
@@ -40562,23 +40618,24 @@
     \ for increased inclusion. Overall, this paper addresses two different modalities\
     \ of haptic feedback, the participation of Deaf users in wearable haptics design\
     \ as well as music-movement performance practice, and artistic co-creation beyond\
-    \ technology development.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {45},\n author = {Cavdir, Doga},\n booktitle = {Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n doi =\
-    \ {10.21428/92fbeb44.b24043e8},\n issn = {2220-4806},\n month = {jun},\n pdf =\
-    \ {64.pdf},\n presentation-video = {https://youtu.be/tuSo2Sq7jy4},\n title = {Touch,\
-    \ Listen, (Re)Act: Co-designing Vibrotactile Wearable Instruments for Deaf and\
-    \ Hard of Hearing},\n url = {https://doi.org/10.21428%2F92fbeb44.b24043e8},\n\
+    \ technology development.},\n address = {Auckland, New Zealand},\n articleno =\
+    \ {45},\n author = {Cavdir, Doga},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.b24043e8},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/tuSo2Sq7jy4},\n title = {Touch, Listen,\
+    \ (Re)Act: Co-designing Vibrotactile Wearable Instruments for Deaf and Hard of\
+    \ Hearing},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.b24043e8},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.b24043e8
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 64.pdf
   presentation-video: https://youtu.be/tuSo2Sq7jy4
   title: 'Touch, Listen, (Re)Act: Co-designing Vibrotactile Wearable Instruments for
     Deaf and Hard of Hearing'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.b24043e8
   year: 2022
 
@@ -40597,7 +40654,7 @@
     that we designed. This research illustrates the value of a musicological approach
     to NIME research, suggesting the need for a broader conversation about a musicology
     of NIME performances, as distinct from its instruments.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 46
   author: 'Mice, Lia and McPherson, Andrew'
   bibtex: "@inproceedings{NIME22_46,\n abstract = {While the value of new digital\
@@ -40612,22 +40669,23 @@
     \ with a new large-scale digital musical instrument that we designed. This research\
     \ illustrates the value of a musicological approach to NIME research, suggesting\
     \ the need for a broader conversation about a musicology of NIME performances,\
-    \ as distinct from its instruments.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {46},\n author = {Mice, Lia and McPherson, Andrew},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.21428/92fbeb44.8c1c9817},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {65.pdf},\n presentation-video = {https://youtu.be/nXrRJGt11J4},\n\
+    \ as distinct from its instruments.},\n address = {Auckland, New Zealand},\n articleno\
+    \ = {46},\n author = {Mice, Lia and McPherson, Andrew},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.8c1c9817},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/nXrRJGt11J4},\n\
     \ title = {The M in {NIME}: Motivic analysis and the case for a musicology of\
-    \ {NIME} performances},\n url = {https://doi.org/10.21428%2F92fbeb44.8c1c9817},\n\
+    \ {NIME} performances},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.8c1c9817},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.8c1c9817
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 65.pdf
   presentation-video: https://youtu.be/nXrRJGt11J4
   title: 'The M in NIME: Motivic analysis and the case for a musicology of NIME performances'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.8c1c9817
   year: 2022
 
@@ -40643,7 +40701,7 @@
     data from this study, in this paper we set out how the conversations between researcher
     and participant have prepared us to build an instrument that responds to the lived
     experience of the participant.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 47
   author: 'Zayas-Garin, Eevee and McPherson, Andrew'
   bibtex: "@inproceedings{NIME22_47,\n abstract = {While it is accepted that accessible\
@@ -40655,23 +40713,24 @@
     \ of this instrument and provide an analysis of the data from this study, in this\
     \ paper we set out how the conversations between researcher and participant have\
     \ prepared us to build an instrument that responds to the lived experience of\
-    \ the participant.},\n address = {The University of Auckland, New Zealand},\n\
-    \ articleno = {47},\n author = {Zayas-Garin, Eevee and McPherson, Andrew},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.2b8ce9a4},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {66.pdf},\n presentation-video = {https://www.youtube.com/watch?v=8l1N3G0BdKw},\n\
+    \ the participant.},\n address = {Auckland, New Zealand},\n articleno = {47},\n\
+    \ author = {Zayas-Garin, Eevee and McPherson, Andrew},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.21428/92fbeb44.2b8ce9a4},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://www.youtube.com/watch?v=8l1N3G0BdKw},\n\
     \ title = {Dialogic Design of Accessible Digital Musical Instruments: Investigating\
-    \ Performer Experience},\n url = {https://doi.org/10.21428%2F92fbeb44.2b8ce9a4},\n\
+    \ Performer Experience},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.2b8ce9a4},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.2b8ce9a4
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 66.pdf
   presentation-video: https://www.youtube.com/watch?v=8l1N3G0BdKw
   title: 'Dialogic Design of Accessible Digital Musical Instruments: Investigating
     Performer Experience'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.2b8ce9a4
   year: 2022
 
@@ -40694,7 +40753,7 @@
     movement, and perceptual behaviour. This paper describes key influences on the
     installation, its ultrasonic technology, the design of modified headphones, and
     the compositional approach.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 48
   author: 'Robson, Nicole and McPherson, Andrew and Bryan-Kinns, Nick'
   bibtex: "@inproceedings{NIME22_48,\n abstract = {To the naked ear, the installation\
@@ -40713,23 +40772,24 @@
     \ by their orientation to sounds, physical movement, and perceptual behaviour.\
     \ This paper describes key influences on the installation, its ultrasonic technology,\
     \ the design of modified headphones, and the compositional approach.},\n address\
-    \ = {The University of Auckland, New Zealand},\n articleno = {48},\n author =\
-    \ {Robson, Nicole and McPherson, Andrew and Bryan-Kinns, Nick},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.376bc758},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {68.pdf},\n presentation-video = {https://www.youtube.com/watch?v=3D5S5moUvUA},\n\
+    \ = {Auckland, New Zealand},\n articleno = {48},\n author = {Robson, Nicole and\
+    \ McPherson, Andrew and Bryan-Kinns, Nick},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.21428/92fbeb44.376bc758},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://www.youtube.com/watch?v=3D5S5moUvUA},\n\
     \ title = {Being With The Waves: An Ultrasonic Art Installation Enabling Rich\
-    \ Interaction Without Sensors},\n url = {https://doi.org/10.21428%2F92fbeb44.376bc758},\n\
+    \ Interaction Without Sensors},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.376bc758},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.376bc758
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 68.pdf
   presentation-video: https://www.youtube.com/watch?v=3D5S5moUvUA
   title: 'Being With The Waves: An Ultrasonic Art Installation Enabling Rich Interaction
     Without Sensors'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.376bc758
   year: 2022
 
@@ -40749,7 +40809,7 @@
     interviews which would not have been revealed otherwise and the importance of
     these elements in researching perception, understanding, interaction, and performance
     with digital musical instruments.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 49
   author: 'Reed, Courtney N. and Nordmoen, Charlotte and Martelloni, Andrea and Lepri,
     Giacomo and Robson, Nicole and Zayas-Garin, Eevee and Cotton, Kelsey and Mice,
@@ -40767,23 +40827,24 @@
     \ highlight the elements of interaction captured in these interviews which would\
     \ not have been revealed otherwise and the importance of these elements in researching\
     \ perception, understanding, interaction, and performance with digital musical\
-    \ instruments.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {49},\n author = {Reed, Courtney N. and Nordmoen, Charlotte and Martelloni,\
-    \ Andrea and Lepri, Giacomo and Robson, Nicole and Zayas-Garin, Eevee and Cotton,\
-    \ Kelsey and Mice, Lia and McPherson, Andrew},\n booktitle = {Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n doi =\
-    \ {10.21428/92fbeb44.b304e4b1},\n issn = {2220-4806},\n month = {jun},\n pdf =\
-    \ {69.pdf},\n presentation-video = {https://youtu.be/-Ket6l90S8I},\n title = {Exploring\
-    \ Experiences with New Musical Instruments through Micro-phenomenology},\n url\
-    \ = {https://doi.org/10.21428%2F92fbeb44.b304e4b1},\n year = {2022}\n}\n"
+    \ instruments.},\n address = {Auckland, New Zealand},\n articleno = {49},\n author\
+    \ = {Reed, Courtney N. and Nordmoen, Charlotte and Martelloni, Andrea and Lepri,\
+    \ Giacomo and Robson, Nicole and Zayas-Garin, Eevee and Cotton, Kelsey and Mice,\
+    \ Lia and McPherson, Andrew},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.b304e4b1},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/-Ket6l90S8I},\n title = {Exploring Experiences\
+    \ with New Musical Instruments through Micro-phenomenology},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.b304e4b1},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.b304e4b1
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 69.pdf
   presentation-video: https://youtu.be/-Ket6l90S8I
   title: Exploring Experiences with New Musical Instruments through Micro-phenomenology
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.b304e4b1
   year: 2022
 
@@ -40800,7 +40861,7 @@
     we consider the ways this activity can support individuals’ creativity, unlock
     shared musical visions and reveal unconventional perspectives on music technology
     development.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 50
   author: 'Lepri, Giacomo and Bowers, John and Topley, Samantha and Stapleton, Paul
     and Bennett, Peter and Andersen, Kristina and McPherson, Andrew'
@@ -40814,23 +40875,24 @@
     \ approach to instrument design adopted in the workshop. In particular, we consider\
     \ the ways this activity can support individuals’ creativity, unlock shared musical\
     \ visions and reveal unconventional perspectives on music technology development.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {50},\n author\
-    \ = {Lepri, Giacomo and Bowers, John and Topley, Samantha and Stapleton, Paul\
-    \ and Bennett, Peter and Andersen, Kristina and McPherson, Andrew},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.21428/92fbeb44.9e7c9ba3},\n issn = {2220-4806},\n month\
-    \ = {jun},\n pdf = {70.pdf},\n presentation-video = {https://youtu.be/dif8K23TR1Y},\n\
+    \ address = {Auckland, New Zealand},\n articleno = {50},\n author = {Lepri, Giacomo\
+    \ and Bowers, John and Topley, Samantha and Stapleton, Paul and Bennett, Peter\
+    \ and Andersen, Kristina and McPherson, Andrew},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.9e7c9ba3},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://youtu.be/dif8K23TR1Y},\n\
     \ title = {The 10,000 Instruments Workshop - (Im)practical Research for Critical\
-    \ Speculation},\n url = {https://doi.org/10.21428%2F92fbeb44.9e7c9ba3},\n year\
-    \ = {2022}\n}\n"
+    \ Speculation},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.9e7c9ba3},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.9e7c9ba3
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 70.pdf
   presentation-video: https://youtu.be/dif8K23TR1Y
   title: 'The 10,000 Instruments Workshop - (Im)practical Research for Critical Speculation'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.9e7c9ba3
   year: 2022
 
@@ -40846,7 +40908,7 @@
     prototypes, give a technical overview of the custom hardware and software developed,
     and present short videos of three distinct mappings that intuitively translate
     movement into musical sounds.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 51
   author: 'Trolland, Sam and Ilsar, Alon and Frame, Ciaran and McCormack, Jon and
     Wilson, Elliott'
@@ -40859,22 +40921,23 @@
     \ this new instrument that has evolved from previous prototypes, give a technical\
     \ overview of the custom hardware and software developed, and present short videos\
     \ of three distinct mappings that intuitively translate movement into musical\
-    \ sounds.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {51},\n author = {Trolland, Sam and Ilsar, Alon and Frame, Ciaran and McCormack,\
-    \ Jon and Wilson, Elliott},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c400bdc2},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {77.pdf},\n presentation-video\
-    \ = {https://youtu.be/TnEzwGshr48},\n title = {{AirSticks} 2.0: Instrument Design\
-    \ for Expressive Gestural Interaction},\n url = {https://doi.org/10.21428%2F92fbeb44.c400bdc2},\n\
-    \ year = {2022}\n}\n"
+    \ sounds.},\n address = {Auckland, New Zealand},\n articleno = {51},\n author\
+    \ = {Trolland, Sam and Ilsar, Alon and Frame, Ciaran and McCormack, Jon and Wilson,\
+    \ Elliott},\n booktitle = {Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c400bdc2},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/TnEzwGshr48},\n title = {{AirSticks}\
+    \ 2.0: Instrument Design for Expressive Gestural Interaction},\n track = {Papers},\n\
+    \ url = {https://doi.org/10.21428%2F92fbeb44.c400bdc2},\n year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.c400bdc2
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 77.pdf
   presentation-video: https://youtu.be/TnEzwGshr48
   title: 'AirSticks 2.0: Instrument Design for Expressive Gestural Interaction'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.c400bdc2
   year: 2022
 
@@ -40890,7 +40953,7 @@
     non-commercial developers and designers, and present the results of three experiments
     that tested the benefits of co-existing design approaches to mitigate some of
     the inherent design challenges.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 52
   author: 'Rossmy, Beat and Rauh, Maximilian and Wiethoff, Alexander'
   bibtex: "@inproceedings{NIME22_52,\n abstract = {Musical grid interfaces are becoming\
@@ -40902,21 +40965,23 @@
     \ UIs for grid interfaces used by commercial and non-commercial developers and\
     \ designers, and present the results of three experiments that tested the benefits\
     \ of co-existing design approaches to mitigate some of the inherent design challenges.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {52},\n author\
-    \ = {Rossmy, Beat and Rauh, Maximilian and Wiethoff, Alexander},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.21428/92fbeb44.db84ecd0},\n issn = {2220-4806},\n month = {jun},\n\
-    \ pdf = {86.pdf},\n presentation-video = {https://www.youtube.com/watch?v=JF514EWYiQ8},\n\
-    \ title = {Towards User Interface Guidelines for Musical Grid Interfaces},\n url\
-    \ = {https://doi.org/10.21428%2F92fbeb44.db84ecd0},\n year = {2022}\n}\n"
+    \ address = {Auckland, New Zealand},\n articleno = {52},\n author = {Rossmy, Beat\
+    \ and Rauh, Maximilian and Wiethoff, Alexander},\n booktitle = {Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.21428/92fbeb44.db84ecd0},\n editor = {Andrew McPherson and Emma Frid},\n\
+    \ issn = {2220-4806},\n month = {jun},\n presentation-video = {https://www.youtube.com/watch?v=JF514EWYiQ8},\n\
+    \ title = {Towards User Interface Guidelines for Musical Grid Interfaces},\n track\
+    \ = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.db84ecd0},\n year =\
+    \ {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.db84ecd0
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 86.pdf
   presentation-video: https://www.youtube.com/watch?v=JF514EWYiQ8
   title: Towards User Interface Guidelines for Musical Grid Interfaces
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.db84ecd0
   year: 2022
 
@@ -40931,7 +40996,7 @@
     of recurring UI elements, which are clustered, described, and interactively presented
     in this survey. We further postulate 3 theses which standard UI elements should
     meet and propose novel UI elements deduced from WIMP standards.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 53
   author: 'Rossmy, Beat'
   bibtex: "@inproceedings{NIME22_53,\n abstract = {Applications for musical grid interfaces\
@@ -40942,21 +41007,23 @@
     \ and collected 18 types of recurring UI elements, which are clustered, described,\
     \ and interactively presented in this survey. We further postulate 3 theses which\
     \ standard UI elements should meet and propose novel UI elements deduced from\
-    \ WIMP standards.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {53},\n author = {Rossmy, Beat},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.563bfea9},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {87.pdf},\n presentation-video\
-    \ = {https://www.youtube.com/watch?v=CPHY4_G_LR0},\n title = {Buttons, Sliders,\
-    \ and Keys {\\textendash} A Survey on Musical Grid Interface Standards},\n url\
-    \ = {https://doi.org/10.21428%2F92fbeb44.563bfea9},\n year = {2022}\n}\n"
+    \ WIMP standards.},\n address = {Auckland, New Zealand},\n articleno = {53},\n\
+    \ author = {Rossmy, Beat},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.563bfea9},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://www.youtube.com/watch?v=CPHY4_G_LR0},\n title\
+    \ = {Buttons, Sliders, and Keys {\\textendash} A Survey on Musical Grid Interface\
+    \ Standards},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.563bfea9},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.563bfea9
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 87.pdf
   presentation-video: https://www.youtube.com/watch?v=CPHY4_G_LR0
   title: 'Buttons, Sliders, and Keys – A Survey on Musical Grid Interface Standards'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.563bfea9
   year: 2022
 
@@ -40977,7 +41044,7 @@
     as a methodology framing mechanism that eschews the more traditional empirical
     approaches in HCI. We conclude with a final provocation for NIME researchers to
     embrace AI research with an open mind.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 54
   author: 'Armitage, Jack and Magnusson, Thor and Shepardson, Victor and Ulfarsson,
     Halldor'
@@ -40995,23 +41062,25 @@
     \ replication, and reflect on encounters as a methodology framing mechanism that\
     \ eschews the more traditional empirical approaches in HCI. We conclude with a\
     \ final provocation for NIME researchers to embrace AI research with an open mind.},\n\
-    \ address = {The University of Auckland, New Zealand},\n articleno = {54},\n author\
-    \ = {Armitage, Jack and Magnusson, Thor and Shepardson, Victor and Ulfarsson,\
-    \ Halldor},\n booktitle = {Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.6178f575},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {88.pdf},\n presentation-video\
+    \ address = {Auckland, New Zealand},\n articleno = {54},\n author = {Armitage,\
+    \ Jack and Magnusson, Thor and Shepardson, Victor and Ulfarsson, Halldor},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.6178f575},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
     \ = {https://youtu.be/8tRTF1lB6Hg},\n title = {The Proto-Langspil: Launching an\
     \ Icelandic {NIME} Research Lab with the Help of a Marginalised Instrument},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.6178f575},\n year = {2022}\n}\n"
+    \ track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.6178f575},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.6178f575
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 88.pdf
   presentation-video: https://youtu.be/8tRTF1lB6Hg
   title: 'The Proto-Langspil: Launching an Icelandic NIME Research Lab with the Help
     of a Marginalised Instrument'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.6178f575
   year: 2022
 
@@ -41028,7 +41097,7 @@
     that might go unnoticed otherwise. We present an inexpensive application of a
     respiration sensor that emerges from the aforementioned conceptualisations. Lastly,
     we reflect on how to better frame the role of bodily awareness in NIME.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 55
   author: 'Tapparo, Carla Sophie and Zappi, Victor'
   bibtex: "@inproceedings{NIME22_55,\n abstract = {The lived body, or soma, is the\
@@ -41041,21 +41110,23 @@
     \ with technology as well as highlighting biases that might go unnoticed otherwise.\
     \ We present an inexpensive application of a respiration sensor that emerges from\
     \ the aforementioned conceptualisations. Lastly, we reflect on how to better frame\
-    \ the role of bodily awareness in NIME.},\n address = {The University of Auckland,\
-    \ New Zealand},\n articleno = {55},\n author = {Tapparo, Carla Sophie and Zappi,\
-    \ Victor},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.21428/92fbeb44.7e04cfc8},\n issn = {2220-4806},\n\
-    \ month = {jun},\n pdf = {99.pdf},\n presentation-video = {https://youtu.be/GEndgifZmkI},\n\
-    \ title = {Bodily Awareness Through {NIMEs}:  Deautomatising Music Making Processes},\n\
-    \ url = {https://doi.org/10.21428%2F92fbeb44.7e04cfc8},\n year = {2022}\n}\n"
+    \ the role of bodily awareness in NIME.},\n address = {Auckland, New Zealand},\n\
+    \ articleno = {55},\n author = {Tapparo, Carla Sophie and Zappi, Victor},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.21428/92fbeb44.7e04cfc8},\n editor = {Andrew McPherson\
+    \ and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
+    \ = {https://youtu.be/GEndgifZmkI},\n title = {Bodily Awareness Through {NIMEs}:\
+    \  Deautomatising Music Making Processes},\n track = {Papers},\n url = {https://doi.org/10.21428%2F92fbeb44.7e04cfc8},\n\
+    \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.21428/92fbeb44.7e04cfc8
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 99.pdf
   presentation-video: https://youtu.be/GEndgifZmkI
   title: 'Bodily Awareness Through NIMEs:  Deautomatising Music Making Processes'
+  track: Papers
   url: https://doi.org/10.21428%2F92fbeb44.7e04cfc8
   year: 2022
 
@@ -41078,7 +41149,7 @@
     theoretical-practical research on the vindication of the memory in ancestral Andean
     technological interfaces made invisible by colonization, reusing them from a decolonial
     perspective in NIMEs.'
-  address: 'The University of Auckland, New Zealand'
+  address: 'Auckland, New Zealand'
   articleno: 56
   author: 'Cadavid Hinojosa, Laddy Patricia'
   bibtex: "@inproceedings{NIME22_56,\n abstract = {The Kanchay_Yupana// is an open-source\
@@ -41097,24 +41168,26 @@
     \ technologies in experimental sound performance following the theoretical-practical\
     \ research on the vindication of the memory in ancestral Andean technological\
     \ interfaces made invisible by colonization, reusing them from a decolonial perspective\
-    \ in NIMEs.},\n address = {The University of Auckland, New Zealand},\n articleno\
-    \ = {56},\n author = {Cadavid Hinojosa, Laddy Patricia},\n booktitle = {Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ copyright = {Creative Commons Attribution 4.0 International},\n doi = {10.21428/92fbeb44.61d01269},\n\
-    \ issn = {2220-4806},\n month = {jun},\n pdf = {49.pdf},\n presentation-video\
-    \ = {https://youtu.be/MpMFL6R14kQ},\n title = {Kanchay_Yupana{\\slash \\slash}:\
-    \ Tangible rhythm sequencer inspired by ancestral Andean technologies},\n url\
-    \ = {https://doi.org/10.21428/92fbeb44.61d01269},\n year = {2022}\n}\n"
+    \ in NIMEs.},\n address = {Auckland, New Zealand},\n articleno = {56},\n author\
+    \ = {Cadavid Hinojosa, Laddy Patricia},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n copyright = {Creative\
+    \ Commons Attribution 4.0 International},\n doi = {10.21428/92fbeb44.61d01269},\n\
+    \ editor = {Andrew McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n\
+    \ presentation-video = {https://youtu.be/MpMFL6R14kQ},\n title = {Kanchay_Yupana{\\\
+    slash \\slash}: Tangible rhythm sequencer inspired by ancestral Andean technologies},\n\
+    \ track = {Papers},\n url = {https://doi.org/10.21428/92fbeb44.61d01269},\n year\
+    \ = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   copyright: Creative Commons Attribution 4.0 International
   doi: 10.21428/92fbeb44.61d01269
+  editor: Andrew McPherson and Emma Frid
   issn: 2220-4806
   month: jun
-  pdf: 49.pdf
   presentation-video: https://youtu.be/MpMFL6R14kQ
   title: 'Kanchay_Yupana/ /: Tangible rhythm sequencer inspired by ancestral Andean
     technologies'
+  track: Papers
   url: https://doi.org/10.21428/92fbeb44.61d01269
   year: 2022
 
