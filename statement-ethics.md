@@ -6,7 +6,7 @@ permalink: /ethics/
 
 Cite as:
 
-Morreale, F., Gold, N., Chevalier, C., Masu, R., Ergener, K., Cavdir, D., & Fuchs, N. (2025). NIME Principles & Code of Practice on Ethical Research. Zenodo. https://doi.org/10.5281/zenodo.17811082
+Morreale, F., Gold, N., Chevalier, C., Masu, R., Ergener, K., Cavdir, D., & Fuchs, N. (2025). NIME Principles & Code of Practice on Ethical Research. Zenodo. [https://doi.org/10.5281/zenodo.17811082](https://doi.org/10.5281/zenodo.17811082)
 
 ### Short version
 
