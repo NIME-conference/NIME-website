@@ -9546,7 +9546,7 @@
     glitch techno. The first features tightly defined sound structures laid out as
     a clearly readable tree of audio channels and modulations, while the second explores
     generative, self-modulating processes, resulting in an even more entangled, rhizomatic
-    patch topology (see figure 1).'
+    patch topology.'
   address: 'Canberra, Australia'
   articleno: 11
   author: Ludwig Zeller and Anselm Bauer
@@ -9576,14 +9576,14 @@
     \ the realm of abstract glitch techno. The first features tightly defined sound\
     \ structures laid out as a clearly readable tree of audio channels and modulations,\
     \ while the second explores generative, self-modulating processes, resulting in\
-    \ an even more entangled, rhizomatic patch topology (see figure 1).},\n address\
-    \ = {Canberra, Australia},\n articleno = {11},\n author = {Ludwig Zeller and Anselm\
-    \ Bauer},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.5281/zenodo.17802609},\n editor = {Sophie\
-    \ Rose and Jos Mulder and Nicole Carroll},\n format = {Remote Performance},\n\
-    \ issn = {2220-4806},\n month = {June},\n numpages = {4},\n pages = {36--39},\n\
-    \ title = {The Walkable Instrument: Modular Patches as Entangled Environments\
-    \ in OpenSoundLab},\n track = {Music},\n url = {http://nime.org/proceedings/2025/nime2025_music_11.pdf},\n\
+    \ an even more entangled, rhizomatic patch topology.},\n address = {Canberra,\
+    \ Australia},\n articleno = {11},\n author = {Ludwig Zeller and Anselm Bauer},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.17802609},\n editor = {Sophie Rose\
+    \ and Jos Mulder and Nicole Carroll},\n format = {Remote Performance},\n issn\
+    \ = {2220-4806},\n month = {June},\n numpages = {4},\n pages = {36--39},\n title\
+    \ = {The Walkable Instrument: Modular Patches as Entangled Environments in OpenSoundLab},\n\
+    \ track = {Music},\n url = {http://nime.org/proceedings/2025/nime2025_music_11.pdf},\n\
     \ year = {2025}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
