@@ -83156,8 +83156,8 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178127},\n\
     \ issn = {2220-4806},\n keywords = {Actuated Musical Instruments, Hybrid Instruments,\
     \ Active Acoustics, Electronic Violin },\n pages = {30--33},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Overholt.mov},\n title = {The\
-    \ Overtone Fiddle: an Actuated Acoustic Instrument},\n url = {http://www.nime.org/proceedings/2011/nime2011_004.pdf},\n\
+    \ = {http://nime.org/proceedings/2011/nime2011_Overholt.mov},\n title = {The Overtone\
+    \ Fiddle: an Actuated Acoustic Instrument},\n url = {http://www.nime.org/proceedings/2011/nime2011_004.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -83166,7 +83166,7 @@
   keywords: 'Actuated Musical Instruments, Hybrid Instruments, Active Acoustics, Electronic
     Violin '
   pages: 30--33
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Overholt.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Overholt.mov
   title: 'The Overtone Fiddle: an Actuated Acoustic Instrument'
   url: http://www.nime.org/proceedings/2011/nime2011_004.pdf
   year: 2011
@@ -83197,7 +83197,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.1178115},\n issn = {2220-4806},\n keywords = {multi-touch,\
     \ haptics, frustrated total internal reflection, music performance, music composition,\
-    \ latency, DIY },\n pages = {8--13},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Montag.mov},\n\
+    \ latency, DIY },\n pages = {8--13},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Montag.mov},\n\
     \ title = {A Low-Cost, Low-Latency Multi-Touch Table with Haptic Feedback for\
     \ Musical Applications},\n url = {http://www.nime.org/proceedings/2011/nime2011_008.pdf},\n\
     \ year = {2011}\n}\n"
@@ -83208,7 +83208,7 @@
   keywords: 'multi-touch, haptics, frustrated total internal reflection, music performance,
     music composition, latency, DIY '
   pages: 8--13
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Montag.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Montag.mov
   title: 'A Low-Cost, Low-Latency Multi-Touch Table with Haptic Feedback for Musical
     Applications'
   url: http://www.nime.org/proceedings/2011/nime2011_008.pdf
@@ -83241,7 +83241,7 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.1178161},\n issn = {2220-4806},\n\
     \ keywords = {Rhodes, keyboard, electromagnetic, sustain, augmented instrument,\
-    \ feedback, aftertouch },\n pages = {14--17},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Shear.mov},\n\
+    \ feedback, aftertouch },\n pages = {14--17},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Shear.mov},\n\
     \ title = {The Electromagnetically Sustained Rhodes Piano},\n url = {http://www.nime.org/proceedings/2011/nime2011_014.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -83251,7 +83251,7 @@
   keywords: 'Rhodes, keyboard, electromagnetic, sustain, augmented instrument, feedback,
     aftertouch '
   pages: 14--17
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Shear.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Shear.mov
   title: The Electromagnetically Sustained Rhodes Piano
   url: http://www.nime.org/proceedings/2011/nime2011_014.pdf
   year: 2011
@@ -83301,7 +83301,7 @@
     \ Alex},\n booktitle = {Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n doi = {10.5281/zenodo.1178131},\n issn = {2220-4806},\n\
     \ keywords = {bali, gamelan, musical instrument design, MIDI ensemble },\n pages\
-    \ = {18--23},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Pardue.mov},\n\
+    \ = {18--23},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Pardue.mov},\n\
     \ title = {Gamelan Elektrika: An Electronic Balinese Gamelan},\n url = {http://www.nime.org/proceedings/2011/nime2011_018.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -83310,7 +83310,7 @@
   issn: 2220-4806
   keywords: 'bali, gamelan, musical instrument design, MIDI ensemble '
   pages: 18--23
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Pardue.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Pardue.mov
   title: 'Gamelan Elektrika: An Electronic Balinese Gamelan'
   url: http://www.nime.org/proceedings/2011/nime2011_018.pdf
   year: 2011
@@ -83345,7 +83345,7 @@
     \ Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1180259},\n issn\
     \ = {2220-4806},\n keywords = {Stereotypical transducers, audible sound, Doppler\
     \ effect, handfree interface, musical instrument, interactive performance },\n\
-    \ pages = {24--27},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Lee.mov},\n\
+    \ pages = {24--27},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Lee.mov},\n\
     \ title = {Sonicstrument : A Musical Interface with Stereotypical Acoustic Transducers},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_024.pdf},\n year = {2011}\n\
     }\n"
@@ -83356,7 +83356,7 @@
   keywords: 'Stereotypical transducers, audible sound, Doppler effect, handfree interface,
     musical instrument, interactive performance '
   pages: 24--27
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Lee.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Lee.mov
   title: 'Sonicstrument : A Musical Interface with Stereotypical Acoustic Transducers'
   url: http://www.nime.org/proceedings/2011/nime2011_024.pdf
   year: 2011
@@ -84638,10 +84638,9 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1177979},\n\
     \ issn = {2220-4806},\n keywords = {Embodiment, Environmental Sound Perception,\
     \ Listening, Gesture Sound Interaction },\n pages = {144--148},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Caramiaux_b.mov},\n title =\
-    \ {Gestural Embodiment of Environmental Sounds: an Experimental Study},\n url\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_144.pdf},\n year = {2011}\n\
-    }\n"
+    \ = {http://nime.org/proceedings/2011/nime2011_Caramiaux_b.mov},\n title = {Gestural\
+    \ Embodiment of Environmental Sounds: an Experimental Study},\n url = {http://www.nime.org/proceedings/2011/nime2011_144.pdf},\n\
+    \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.1177979
@@ -84649,7 +84648,7 @@
   keywords: 'Embodiment, Environmental Sound Perception, Listening, Gesture Sound
     Interaction '
   pages: 144--148
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Caramiaux_b.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Caramiaux_b.mov
   title: 'Gestural Embodiment of Environmental Sounds: an Experimental Study'
   url: http://www.nime.org/proceedings/2011/nime2011_144.pdf
   year: 2011
@@ -84739,7 +84738,7 @@
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178121},\n\
     \ issn = {2220-4806},\n keywords = {Augmented Instruments, Instrument Design,\
     \ Digital Musical Instruments, Performance },\n pages = {155--160},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Newton.mov},\n title = {Examining\
+    \ = {http://nime.org/proceedings/2011/nime2011_Newton.mov},\n title = {Examining\
     \ How Musicians Create Augmented Musical Instruments},\n url = {http://www.nime.org/proceedings/2011/nime2011_155.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -84749,7 +84748,7 @@
   keywords: 'Augmented Instruments, Instrument Design, Digital Musical Instruments,
     Performance '
   pages: 155--160
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Newton.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Newton.mov
   title: Examining How Musicians Create Augmented Musical Instruments
   url: http://www.nime.org/proceedings/2011/nime2011_155.pdf
   year: 2011
@@ -84782,7 +84781,7 @@
     \ International Conference on New Interfaces for Musical Expression},\n doi =\
     \ {10.5281/zenodo.1178159},\n issn = {2220-4806},\n keywords = {Audio Control\
     \ Systems, Audio for VR, Max/MSP, Spatial Audio },\n pages = {161--166},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Seldess.mov},\n title = {Tahakum:\
+    \ = {http://nime.org/proceedings/2011/nime2011_Seldess.mov},\n title = {Tahakum:\
     \ A Multi-Purpose Audio Control Framework},\n url = {http://www.nime.org/proceedings/2011/nime2011_161.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -84791,7 +84790,7 @@
   issn: 2220-4806
   keywords: 'Audio Control Systems, Audio for VR, Max/MSP, Spatial Audio '
   pages: 161--166
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Seldess.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Seldess.mov
   title: 'Tahakum: A Multi-Purpose Audio Control Framework'
   url: http://www.nime.org/proceedings/2011/nime2011_161.pdf
   year: 2011
@@ -84832,7 +84831,7 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178091},\n\
     \ issn = {2220-4806},\n keywords = {automatic accompaniment,interactive,music\
     \ display,popular music,real-time,synchronization},\n pages = {167--172},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Liang.mov},\n title = {A Framework\
+    \ = {http://nime.org/proceedings/2011/nime2011_Liang.mov},\n title = {A Framework\
     \ for Coordination and Synchronization of Media},\n url = {http://www.nime.org/proceedings/2011/nime2011_167.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -84841,7 +84840,7 @@
   issn: 2220-4806
   keywords: 'automatic accompaniment,interactive,music display,popular music,real-time,synchronization'
   pages: 167--172
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Liang.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Liang.mov
   title: A Framework for Coordination and Synchronization of Media
   url: http://www.nime.org/proceedings/2011/nime2011_167.pdf
   year: 2011
@@ -84875,7 +84874,7 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.1177957},\n issn = {2220-4806},\n keywords\
     \ = {arduino,beagle board,instruments omap,linux,microcontrollers,music controllers,nime,pd,pedagogy,texas},\n\
-    \ pages = {173--178},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Berdahl_b.mov},\n\
+    \ pages = {173--178},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Berdahl_b.mov},\n\
     \ title = {Satellite CCRMA: A Musical Interaction and Sound Synthesis Platform},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_173.pdf},\n year = {2011}\n\
     }\n"
@@ -84885,7 +84884,7 @@
   issn: 2220-4806
   keywords: 'arduino,beagle board,instruments omap,linux,microcontrollers,music controllers,nime,pd,pedagogy,texas'
   pages: 173--178
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Berdahl_b.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Berdahl_b.mov
   title: 'Satellite CCRMA: A Musical Interaction and Sound Synthesis Platform'
   url: http://www.nime.org/proceedings/2011/nime2011_173.pdf
   year: 2011
@@ -84933,7 +84932,7 @@
     \ doi = {10.5281/zenodo.1177971},\n issn = {2220-4806},\n keywords = {Digital\
     \ scratching, mobile music, digital DJ, smartphone, turntable, turntablism, record\
     \ player, accelerometer, gyroscope, vinyl emulation software },\n pages = {179--184},\n\
-    \ presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Bryan.mov},\n\
+    \ presentation-video = {http://nime.org/proceedings/2011/nime2011_Bryan.mov},\n\
     \ title = {Two Turntables and a Mobile Phone},\n url = {http://www.nime.org/proceedings/2011/nime2011_179.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -84943,7 +84942,7 @@
   keywords: 'Digital scratching, mobile music, digital DJ, smartphone, turntable,
     turntablism, record player, accelerometer, gyroscope, vinyl emulation software '
   pages: 179--184
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Bryan.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Bryan.mov
   title: Two Turntables and a Mobile Phone
   url: http://www.nime.org/proceedings/2011/nime2011_179.pdf
   year: 2011
@@ -84982,7 +84981,7 @@
     \ Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178077},\n issn\
     \ = {2220-4806},\n keywords = {mobile music, networked music, social music, audiovisual,\
     \ sampling, user-generated content, crowdsourcing, sample station, iPad, iPhone\
-    \ },\n pages = {185--190},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Kruge.mov},\n\
+    \ },\n pages = {185--190},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Kruge.mov},\n\
     \ title = {MadPad: A Crowdsourcing System for Audiovisual Sampling},\n url = {http://www.nime.org/proceedings/2011/nime2011_185.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -84992,7 +84991,7 @@
   keywords: 'mobile music, networked music, social music, audiovisual, sampling, user-generated
     content, crowdsourcing, sample station, iPad, iPhone '
   pages: 185--190
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Kruge.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Kruge.mov
   title: 'MadPad: A Crowdsourcing System for Audiovisual Sampling'
   url: http://www.nime.org/proceedings/2011/nime2011_185.pdf
   year: 2011
@@ -85020,7 +85019,7 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.1178061},\n issn = {2220-4806},\n\
     \ keywords = {Mobile performance, visual interaction, camera phone, mobile collaboration\
-    \ },\n pages = {191--196},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Keefe.mov},\n\
+    \ },\n pages = {191--196},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Keefe.mov},\n\
     \ title = {The Visual in Mobile Music Performance},\n url = {http://www.nime.org/proceedings/2011/nime2011_191.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -85029,7 +85028,7 @@
   issn: 2220-4806
   keywords: 'Mobile performance, visual interaction, camera phone, mobile collaboration '
   pages: 191--196
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Keefe.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Keefe.mov
   title: The Visual in Mobile Music Performance
   url: http://www.nime.org/proceedings/2011/nime2011_191.pdf
   year: 2011
@@ -85054,7 +85053,7 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.1178187},\n issn = {2220-4806},\n keywords\
     \ = {Magic Fiddle, iPad, physical interaction design, experiential design, music\
-    \ education. },\n pages = {197--202},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Wang_a.mov},\n\
+    \ education. },\n pages = {197--202},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Wang_a.mov},\n\
     \ title = {Designing for the iPad: Magic Fiddle},\n url = {http://www.nime.org/proceedings/2011/nime2011_197.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -85064,7 +85063,7 @@
   keywords: 'Magic Fiddle, iPad, physical interaction design, experiential design,
     music education. '
   pages: 197--202
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Wang_a.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Wang_a.mov
   title: 'Designing for the iPad: Magic Fiddle'
   url: http://www.nime.org/proceedings/2011/nime2011_197.pdf
   year: 2011
@@ -85094,7 +85093,7 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.1178073},\n issn = {2220-4806},\n keywords\
     \ = {affective computing,bile music performance,mo-,physiological signal measurement},\n\
-    \ pages = {203--206},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Knapp.mov},\n\
+    \ pages = {203--206},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Knapp.mov},\n\
     \ title = {MobileMuse: Integral Music Control Goes Mobile},\n url = {http://www.nime.org/proceedings/2011/nime2011_203.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -85103,7 +85102,7 @@
   issn: 2220-4806
   keywords: 'affective computing,bile music performance,mo-,physiological signal measurement'
   pages: 203--206
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Knapp.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Knapp.mov
   title: 'MobileMuse: Integral Music Control Goes Mobile'
   url: http://www.nime.org/proceedings/2011/nime2011_203.pdf
   year: 2011
@@ -86493,7 +86492,7 @@
     \ Expression},\n doi = {10.5281/zenodo.1178029},\n issn = {2220-4806},\n keywords\
     \ = {Dynamic Time Warping, Gesture Recognition, Musician-Computer Interaction,\
     \ Multivariate Temporal Gestures },\n pages = {337--342},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Gillian_a.mov},\n title = {Recognition\
+    \ = {http://nime.org/proceedings/2011/nime2011_Gillian_a.mov},\n title = {Recognition\
     \ Of Multivariate Temporal Musical Gestures Using N-Dimensional Dynamic Time Warping},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_337.pdf},\n year = {2011}\n\
     }\n"
@@ -86504,7 +86503,7 @@
   keywords: 'Dynamic Time Warping, Gesture Recognition, Musician-Computer Interaction,
     Multivariate Temporal Gestures '
   pages: 337--342
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Gillian_a.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Gillian_a.mov
   title: Recognition Of Multivariate Temporal Musical Gestures Using N-Dimensional
     Dynamic Time Warping
   url: http://www.nime.org/proceedings/2011/nime2011_337.pdf
@@ -86540,7 +86539,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.1178031},\n issn = {2220-4806},\n keywords = {Machine\
     \ learning, gesture recognition, musician-computer interaction, SEC },\n pages\
-    \ = {343--348},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Gillian_b.mov},\n\
+    \ = {343--348},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Gillian_b.mov},\n\
     \ title = {A Machine Learning Toolbox For Musician Computer Interaction},\n url\
     \ = {http://www.nime.org/proceedings/2011/nime2011_343.pdf},\n year = {2011}\n\
     }\n"
@@ -86551,7 +86550,7 @@
   keywords: 'Machine learning, gesture recognition, musician-computer interaction,
     SEC '
   pages: 343--348
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Gillian_b.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Gillian_b.mov
   title: A Machine Learning Toolbox For Musician Computer Interaction
   url: http://www.nime.org/proceedings/2011/nime2011_343.pdf
   year: 2011
@@ -86592,7 +86591,7 @@
     \ the International Conference on New Interfaces for Musical Expression},\n doi\
     \ = {10.5281/zenodo.1178051},\n issn = {2220-4806},\n keywords = {opera, Death\
     \ and the Powers, Tod Machover, gestural interfaces, Disembodied Performance,\
-    \ ambisonics },\n pages = {349--354},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Jessop.mov},\n\
+    \ ambisonics },\n pages = {349--354},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Jessop.mov},\n\
     \ title = {Music and Technology in Death and the Powers},\n url = {http://www.nime.org/proceedings/2011/nime2011_349.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -86602,7 +86601,7 @@
   keywords: 'opera, Death and the Powers, Tod Machover, gestural interfaces, Disembodied
     Performance, ambisonics '
   pages: 349--354
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Jessop.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Jessop.mov
   title: Music and Technology in Death and the Powers
   url: http://www.nime.org/proceedings/2011/nime2011_349.pdf
   year: 2011
@@ -86643,8 +86642,8 @@
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178197},\n\
     \ issn = {2220-4806},\n keywords = {Interactive Performance, Hybrid Choreographies,\
     \ Virtual Reality, Music Control },\n pages = {355--360},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Zappi.mov},\n title = {Design\
-    \ and Evaluation of a Hybrid Reality Performance},\n url = {http://www.nime.org/proceedings/2011/nime2011_355.pdf},\n\
+    \ = {http://nime.org/proceedings/2011/nime2011_Zappi.mov},\n title = {Design and\
+    \ Evaluation of a Hybrid Reality Performance},\n url = {http://www.nime.org/proceedings/2011/nime2011_355.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -86653,7 +86652,7 @@
   keywords: 'Interactive Performance, Hybrid Choreographies, Virtual Reality, Music
     Control '
   pages: 355--360
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Zappi.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Zappi.mov
   title: Design and Evaluation of a Hybrid Reality Performance
   url: http://www.nime.org/proceedings/2011/nime2011_355.pdf
   year: 2011
@@ -86696,7 +86695,7 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178027},\n\
     \ issn = {2220-4806},\n keywords = {Composer, Creativity, Design Exploration,\
     \ InkSplorer, Interactive Paper, OpenMusic, Technology Probes. },\n pages = {361--366},\n\
-    \ presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Garcia_b.mov},\n\
+    \ presentation-video = {http://nime.org/proceedings/2011/nime2011_Garcia_b.mov},\n\
     \ title = {InkSplorer : Exploring Musical Ideas on Paper and Computer},\n url\
     \ = {http://www.nime.org/proceedings/2011/nime2011_361.pdf},\n year = {2011}\n\
     }\n"
@@ -86707,7 +86706,7 @@
   keywords: 'Composer, Creativity, Design Exploration, InkSplorer, Interactive Paper,
     OpenMusic, Technology Probes. '
   pages: 361--366
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Garcia_b.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Garcia_b.mov
   title: 'InkSplorer : Exploring Musical Ideas on Paper and Computer'
   url: http://www.nime.org/proceedings/2011/nime2011_361.pdf
   year: 2011
@@ -86749,7 +86748,7 @@
     \ Alfredo and Pereira, J. A. Madeiras},\n booktitle = {Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178093},\n\
     \ issn = {2220-4806},\n keywords = {DJing, Multitouch Interaction, Expert User\
-    \ evaluation, HCI },\n pages = {367--372},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Lopes.mov},\n\
+    \ evaluation, HCI },\n pages = {367--372},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Lopes.mov},\n\
     \ title = {Battle of the DJs: an HCI Perspective of Traditional, Virtual, Hybrid\
     \ and Multitouch DJing},\n url = {http://www.nime.org/proceedings/2011/nime2011_367.pdf},\n\
     \ year = {2011}\n}\n"
@@ -86759,7 +86758,7 @@
   issn: 2220-4806
   keywords: 'DJing, Multitouch Interaction, Expert User evaluation, HCI '
   pages: 367--372
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Lopes.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Lopes.mov
   title: 'Battle of the DJs: an HCI Perspective of Traditional, Virtual, Hybrid and
     Multitouch DJing'
   url: http://www.nime.org/proceedings/2011/nime2011_367.pdf
@@ -86794,7 +86793,7 @@
     \ Paul},\n booktitle = {Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n doi = {10.5281/zenodo.1178099},\n issn = {2220-4806},\n\
     \ keywords = {Experiment, Methodology, Instrument Design, DMIs },\n pages = {373--376},\n\
-    \ presentation-video = {http://www.nime.org/proceedings/2011/nime2011_MarquezBorbon.mov},\n\
+    \ presentation-video = {http://nime.org/proceedings/2011/nime2011_MarquezBorbon.mov},\n\
     \ title = {Designing Digital Musical Interactions in Experimental Contexts},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_373.pdf},\n year = {2011}\n\
     }\n"
@@ -86804,7 +86803,7 @@
   issn: 2220-4806
   keywords: 'Experiment, Methodology, Instrument Design, DMIs '
   pages: 373--376
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_MarquezBorbon.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_MarquezBorbon.mov
   title: Designing Digital Musical Interactions in Experimental Contexts
   url: http://www.nime.org/proceedings/2011/nime2011_373.pdf
   year: 2011
@@ -86834,7 +86833,7 @@
     \ the International Conference on New Interfaces for Musical Expression},\n doi\
     \ = {10.5281/zenodo.1178143},\n issn = {2220-4806},\n keywords = {touchscreen,\
     \ interface topology, mobile music, interaction paradigm, dynamic mapping, CrackleBox,\
-    \ iPhone },\n pages = {377--380},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Reus.mov},\n\
+    \ iPhone },\n pages = {377--380},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Reus.mov},\n\
     \ title = {Crackle: A Dynamic Mobile Multitouch Topology for Exploratory Sound\
     \ Interaction},\n url = {http://www.nime.org/proceedings/2011/nime2011_377.pdf},\n\
     \ year = {2011}\n}\n"
@@ -86845,7 +86844,7 @@
   keywords: 'touchscreen, interface topology, mobile music, interaction paradigm,
     dynamic mapping, CrackleBox, iPhone '
   pages: 377--380
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Reus.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Reus.mov
   title: 'Crackle: A Dynamic Mobile Multitouch Topology for Exploratory Sound Interaction'
   url: http://www.nime.org/proceedings/2011/nime2011_377.pdf
   year: 2011
@@ -86883,7 +86882,7 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1177935},\n\
     \ issn = {2220-4806},\n keywords = {Improvisation, live coding, controllers, monome,\
     \ collaboration, concurrency, abstractions },\n pages = {381--386},\n presentation-video\
-    \ = {http://www.nime.org/proceedings/2011/nime2011_Aaron.mov},\n title = {A Principled\
+    \ = {http://nime.org/proceedings/2011/nime2011_Aaron.mov},\n title = {A Principled\
     \ Approach to Developing New Languages for Live Coding},\n url = {http://www.nime.org/proceedings/2011/nime2011_381.pdf},\n\
     \ year = {2011}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -86893,7 +86892,7 @@
   keywords: 'Improvisation, live coding, controllers, monome, collaboration, concurrency,
     abstractions '
   pages: 381--386
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Aaron.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Aaron.mov
   title: A Principled Approach to Developing New Languages for Live Coding
   url: http://www.nime.org/proceedings/2011/nime2011_381.pdf
   year: 2011
@@ -86907,7 +86906,7 @@
     \ {Bullock, Jamie and Beattie, Daniel and Turner, Jerome},\n booktitle = {Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.1177973},\n issn = {2220-4806},\n keywords = {live electronics,software,usability,user\
-    \ experience},\n pages = {387--392},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Bullock.mov},\n\
+    \ experience},\n pages = {387--392},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Bullock.mov},\n\
     \ title = {Integra Live : a New Graphical User Interface for Live Electronic Music},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_387.pdf},\n year = {2011}\n\
     }\n"
@@ -86917,7 +86916,7 @@
   issn: 2220-4806
   keywords: 'live electronics,software,usability,user experience'
   pages: 387--392
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Bullock.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Bullock.mov
   title: 'Integra Live : a New Graphical User Interface for Live Electronic Music'
   url: http://www.nime.org/proceedings/2011/nime2011_387.pdf
   year: 2011
@@ -87023,7 +87022,7 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.1177995},\n issn = {2220-4806},\n\
     \ keywords = {Arduino, USB, HID, MIDI, HCI, controllers, microcontrollers },\n\
-    \ pages = {405--408},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Diakopoulos.mov},\n\
+    \ pages = {405--408},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Diakopoulos.mov},\n\
     \ title = {HIDUINO : A firmware for building driverless {USB}-MIDI devices using\
     \ the Arduino microcontroller},\n url = {http://www.nime.org/proceedings/2011/nime2011_405.pdf},\n\
     \ year = {2011}\n}\n"
@@ -87033,7 +87032,7 @@
   issn: 2220-4806
   keywords: 'Arduino, USB, HID, MIDI, HCI, controllers, microcontrollers '
   pages: 405--408
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Diakopoulos.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Diakopoulos.mov
   title: 'HIDUINO : A firmware for building driverless USB-MIDI devices using the
     Arduino microcontroller'
   url: http://www.nime.org/proceedings/2011/nime2011_405.pdf
@@ -87065,7 +87064,7 @@
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178009},\n\
     \ issn = {2220-4806},\n keywords = {Embedded sensors, gesture recognition, wireless,\
     \ sound and music computing, interaction, 802.15.4, Zigbee. },\n pages = {409--412},\n\
-    \ presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Flety.mov},\n\
+    \ presentation-video = {http://nime.org/proceedings/2011/nime2011_Flety.mov},\n\
     \ title = {Latency Improvement in Sensor Wireless Transmission Using {IEEE} 802.15.4},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_409.pdf},\n year = {2011}\n\
     }\n"
@@ -87076,7 +87075,7 @@
   keywords: 'Embedded sensors, gesture recognition, wireless, sound and music computing,
     interaction, 802.15.4, Zigbee. '
   pages: 409--412
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Flety.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Flety.mov
   title: Latency Improvement in Sensor Wireless Transmission Using IEEE 802.15.4
   url: http://www.nime.org/proceedings/2011/nime2011_409.pdf
   year: 2011
@@ -87109,7 +87108,7 @@
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.1178171},\n\
     \ issn = {2220-4806},\n keywords = {Snyderphonics, Manta, controller, USB, capacitive,\
     \ touch, sensor, decoupled LED, hexagon, grid, touch slider, HID, portable, wood,\
-    \ live music, live video },\n pages = {413--416},\n presentation-video = {http://www.nime.org/proceedings/2011/nime2011_Snyder.mov},\n\
+    \ live music, live video },\n pages = {413--416},\n presentation-video = {http://nime.org/proceedings/2011/nime2011_Snyder.mov},\n\
     \ title = {Snyderphonics Manta Controller, a Novel {USB} Touch-Controller},\n\
     \ url = {http://www.nime.org/proceedings/2011/nime2011_413.pdf},\n year = {2011}\n\
     }\n"
@@ -87120,7 +87119,7 @@
   keywords: 'Snyderphonics, Manta, controller, USB, capacitive, touch, sensor, decoupled
     LED, hexagon, grid, touch slider, HID, portable, wood, live music, live video '
   pages: 413--416
-  presentation-video: http://www.nime.org/proceedings/2011/nime2011_Snyder.mov
+  presentation-video: http://nime.org/proceedings/2011/nime2011_Snyder.mov
   title: 'Snyderphonics Manta Controller, a Novel USB Touch-Controller'
   url: http://www.nime.org/proceedings/2011/nime2011_413.pdf
   year: 2011
