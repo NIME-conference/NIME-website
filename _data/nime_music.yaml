@@ -7109,7 +7109,7 @@
     \ Avinash Sastry and Sang Won Lee and Shannon Yao},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {LOLC},\n url = {https://vimeo.com/26678685},\n\
+    \ = {Norwegian Academy of Music},\n title = {LOLC},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Troyer.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7117,7 +7117,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: LOLC
-  url: https://vimeo.com/26678685
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Troyer.mov
   year: 2011
 
 
@@ -7164,14 +7164,15 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n\
     \ month = {June},\n publisher = {Norwegian Academy of Music},\n title = {Little\
-    \ Soldier Joe},\n url = {https://vimeo.com/26680018},\n year = {2011}\n}\n"
+    \ Soldier Joe},\n urlsuppl1 = {http://nime.org/proceedings/2011nime2011_music_Brandtsegg.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Little Soldier Joe
-  url: https://vimeo.com/26680018
+  urlsuppl1: http://nime.org/proceedings/2011nime2011_music_Brandtsegg.mov
   year: 2011
 
 
@@ -7206,7 +7207,7 @@
     \ address = {Oslo, Norway},\n author = {Carles López},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {Reactable},\n url = {https://vimeo.com/26678704},\n\
+    \ = {Norwegian Academy of Music},\n title = {Reactable},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Lopez.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7214,7 +7215,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: Reactable
-  url: https://vimeo.com/26678704
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Lopez.mov
   year: 2011
 
 
@@ -7264,7 +7265,7 @@
     \ Norway},\n author = {Jacob Selle and Stefan Weinzierl},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {Licht \\& Hiebe},\n url = {https://vimeo.com/27687788},\n\
+    \ = {Norwegian Academy of Music},\n title = {Licht & Hiebe},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Selle.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7272,7 +7273,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: Licht & Hiebe
-  url: https://vimeo.com/27687788
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Selle.mov
   year: 2011
 
 
@@ -7310,7 +7311,7 @@
     \ address = {Oslo, Norway},\n author = {Joshua Clayton},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {ROYGBIV},\n url = {https://vimeo.com/27690118},\n\
+    \ = {Norwegian Academy of Music},\n title = {ROYGBIV},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Clayton.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7318,7 +7319,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: ROYGBIV
-  url: https://vimeo.com/27690118
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Clayton.mov
   year: 2011
 
 
@@ -7356,7 +7357,7 @@
     \ author = {Andrew Stewart},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Kjell Tore\
     \ Innervik and Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy\
-    \ of Music},\n title = {With Winds (for soprano t-stick)},\n url = {https://vimeo.com/28226070},\n\
+    \ of Music},\n title = {With Winds (for soprano t-stick)},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Stewart.m4v},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7364,7 +7365,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: With Winds (for soprano t-stick)
-  url: https://vimeo.com/28226070
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Stewart.m4v
   year: 2011
 
 
@@ -7404,7 +7405,7 @@
     \ address = {Oslo, Norway},\n author = {Tom Mays},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {L'instant},\n url = {https://vimeo.com/28238543},\n\
+    \ = {Norwegian Academy of Music},\n title = {L'instant},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Mays.m4v},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7412,7 +7413,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: L'instant
-  url: https://vimeo.com/28238543
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Mays.m4v
   year: 2011
 
 
@@ -7449,14 +7450,15 @@
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
     \ {June},\n publisher = {Norwegian Academy of Music},\n title = {All Hail the\
-    \ Dawn},\n url = {https://vimeo.com/27691545},\n year = {2011}\n}\n"
+    \ Dawn},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Dupuis.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: All Hail the Dawn
-  url: https://vimeo.com/27691545
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Dupuis.mov
   year: 2011
 
 
@@ -7492,20 +7494,20 @@
     \ Nagashima},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Kjell Tore Innervik and\
     \ Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy of Music},\n\
-    \ title = {Ural Power},\n url = {https://vimeo.com/27731875},\n year = {2011}\n\
-    }\n"
+    \ title = {Ural Power},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Nagashima.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Ural Power
-  url: https://vimeo.com/27731875
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Nagashima.mov
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_EPtrio–ErikaDonald
+  ID: nime2011_music_Donald
   abstract: 'Television Sky is a three-movement work composed by Eliot Britton. The
     movements (Channels 1, 2, 3) deal with various musical and physical elements that
     figure prominently in the EP trio''s research: Gesture, Texture, and Rhythm. Each
@@ -7518,11 +7520,11 @@
     from the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).'
   address: 'Oslo, Norway'
   author: Erika Donald and Ben Duinker and Eliot Britton
-  bibtex: "@inproceedings{nime2011_music_EPtrio–ErikaDonald,\n abstract = {Television\
-    \ Sky is a three-movement work composed by Eliot Britton. The movements (Channels\
-    \ 1, 2, 3) deal with various musical and physical elements that figure prominently\
-    \ in the EP trio's research: Gesture, Texture, and Rhythm. Each movement adopts\
-    \ a different approach to organizing sounds; these provide unique arenas to explore\
+  bibtex: "@inproceedings{nime2011_music_Donald,\n abstract = {Television Sky is a\
+    \ three-movement work composed by Eliot Britton. The movements (Channels 1, 2,\
+    \ 3) deal with various musical and physical elements that figure prominently in\
+    \ the EP trio's research: Gesture, Texture, and Rhythm. Each movement adopts a\
+    \ different approach to organizing sounds; these provide unique arenas to explore\
     \ communication, expression, and synchronization issues arising in an electroacoustic\
     \ chamber music ensemble. About the performer: EP trio is a multi-faceted research\
     \ group and performing ensemble. It is comprised of cellist Erika Donald, percussionist\
@@ -7533,19 +7535,20 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n\
     \ month = {June},\n publisher = {Norwegian Academy of Music},\n title = {Television\
-    \ Sky},\n url = {https://vimeo.com/28241338},\n year = {2011}\n}\n"
+    \ Sky},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Donald.m4v},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Television Sky
-  url: https://vimeo.com/28241338
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Donald.m4v
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_SarahTaylor
+  ID: nime2011_music_Taylor
   abstract: 'About the performers: Sarah Taylor: Dancer, Choreographer trained at
     the Australian Ballet School (Degree in Dance), in Classical, Cunningham and Graham,
     Scholarship student to Martha Graham school in New York. Currently working with
@@ -7560,7 +7563,7 @@
     has been part of the EGGS project since 2008.'
   address: 'Oslo, Norway'
   author: Sarah Taylor and Maurizio Goina and Pietro Polotti
-  bibtex: "@inproceedings{nime2011_music_SarahTaylor,\n abstract = {About the performers:\
+  bibtex: "@inproceedings{nime2011_music_Taylor,\n abstract = {About the performers:\
     \ Sarah Taylor: Dancer, Choreographer trained at the Australian Ballet School\
     \ (Degree in Dance), in Classical, Cunningham and Graham, Scholarship student\
     \ to Martha Graham school in New York. Currently working with Cesc Gelabert, for\
@@ -7577,6 +7580,7 @@
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
     \ = {Norwegian Academy of Music},\n title = {Body Jockey},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Taylor.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7585,6 +7589,7 @@
   publisher: Norwegian Academy of Music
   title: Body Jockey
   url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Taylor.mov
   year: 2011
 
 
@@ -7635,14 +7640,15 @@
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
     \ = {Norwegian Academy of Music},\n title = {Improvisation for piano + motion\
-    \ capture system},\n url = {https://vimeo.com/26678719},\n year = {2011}\n}\n"
+    \ capture system},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Nicolls.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Improvisation for piano + motion capture system
-  url: https://vimeo.com/26678719
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Nicolls.mov
   year: 2011
 
 
@@ -7693,19 +7699,20 @@
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
     \ {June},\n publisher = {Norwegian Academy of Music},\n title = {Socks and Ammo},\n\
-    \ url = {https://vimeo.com/26629807},\n year = {2011}\n}\n"
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Hayes.mov},\n year\
+    \ = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Socks and Ammo
-  url: https://vimeo.com/26629807
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Hayes.mov
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_PaulStapleton
+  ID: nime2011_music_Stapleton
   abstract: 'E=MCH is a recently formed quartet featuring Belfast-based improvisers
     Paul Stapleton (BoSS & Postcard Weevil), Caroline Pugh (Voice & Analogue Cassette
     Decks, Zero-input Mixer), Adnan Marquez-Borbon (Feedback Bass Clarinet, Recording
@@ -7736,7 +7743,7 @@
     (Hardware Hacking).'
   address: 'Oslo, Norway'
   author: Paul Stapleton and Caroline Pugh and Adnan Marquez-Borbon and Cavan Fyans
-  bibtex: "@inproceedings{nime2011_music_PaulStapleton,\n abstract = {E=MCH is a recently\
+  bibtex: "@inproceedings{nime2011_music_Stapleton,\n abstract = {E=MCH is a recently\
     \ formed quartet featuring Belfast-based improvisers Paul Stapleton (BoSS \\&\
     \ Postcard Weevil), Caroline Pugh (Voice \\& Analogue Cassette Decks, Zero-input\
     \ Mixer), Adnan Marquez-Borbon (Feedback Bass Clarinet, Recording Modules \\&\
@@ -7769,14 +7776,15 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n\
     \ month = {June},\n publisher = {Norwegian Academy of Music},\n title = {E=MCH},\n\
-    \ url = {https://vimeo.com/26620232},\n year = {2011}\n}\n"
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Stapleton.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: E=MCH
-  url: https://vimeo.com/26620232
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Stapleton.mov
   year: 2011
 
 
@@ -7817,7 +7825,7 @@
     \ address = {Oslo, Norway},\n author = {Christopher Alden},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {REMI Sings},\n url = {https://vimeo.com/26619152},\n\
+    \ = {Norwegian Academy of Music},\n title = {REMI Sings},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Alden.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7825,7 +7833,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: REMI Sings
-  url: https://vimeo.com/26619152
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Alden.mov
   year: 2011
 
 
@@ -7879,20 +7887,21 @@
     \ author = {Diemo Schwarz and Victoria Johnson},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {Suspended Beginnings},\n url = {https://vimeo.com/26679877},\n\
-    \ year = {2011}\n}\n"
+    \ = {Norwegian Academy of Music},\n title = {Suspended Beginnings},\n urlsuppl1\
+    \ = {http://nime.org/proceedings/2011/nime2011_music_Schwarz.mov},\n year = {2011}\n\
+    }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Suspended Beginnings
-  url: https://vimeo.com/26679877
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Schwarz.mov
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_JasonDixon
+  ID: nime2011_music_Dixon
   abstract: 'The Loop explores the possibilities of co-located performance, decentralized
     composition, and the acoustics of network. This performance begins with a brief
     improvisation presenting acoustic sources to excite the network. This material
@@ -7920,45 +7929,45 @@
     University, England and holds a PhD from the Sonic Arts Research Centre.'
   address: 'Oslo, Norway'
   author: Jason Dixon and Tom Davis and Jason Geistweidt and Alain B. Renaud
-  bibtex: "@inproceedings{nime2011_music_JasonDixon,\n abstract = {The Loop explores\
-    \ the possibilities of co-located performance, decentralized composition, and\
-    \ the acoustics of network. This performance begins with a brief improvisation\
-    \ presenting acoustic sources to excite the network. This material is shared,\
-    \ transformed, and reintroduced into the composition. This process continues through\
-    \ successive generations until a predetermined time or a point at which the composition\
-    \ naturally concludes. The result is an integrated meta-instrument and an emergent\
-    \ composition, with no one artist being the sole performer or composer. Remote\
-    \ participants are represented locally by a mono speaker enabling the audiences\
-    \ to hear the transformation of audio through the networked instrument. About\
-    \ the performers: Jason Dixon: Irish composer currently based in Norwich where\
-    \ he is in the process of completing his PhD in composition. His work explores\
-    \ issues of language, perception and memory in music. More recently he has been\
-    \ focusing on the Irish storytelling tradition and its place in contemporary Ireland.\
-    \ Tom Davis: Digital artist working mainly in the medium of sound installation.\
-    \ His practice and theory based output involves the creation of technology led\
-    \ environments for interaction. Davis is currently a lecturer at the University\
-    \ of Bournemouth and holds a PhD from the Sonic Arts Research Centre, Belfast.\
-    \ Jason Geistweidt: Sound artist based at the University or Tromsø, Norway, researching\
-    \ mixed-reality stages and performance systems. He is a former faculty member\
-    \ of Interactive Arts and Media department at Columbia College Chicago. He holds\
-    \ PhD in electro-acoustic composition from the Sonic Arts Research Centre, Queens\
-    \ University, Belfast. Alain B. Renaud: Alain's research focuses on networked\
-    \ music performance systems with an emphasis on the creation of strategies to\
-    \ interact over a network musically and the notion of shared networked acoustic\
-    \ spaces. He is a lecturer in at Bournemouth University, England and holds a PhD\
-    \ from the Sonic Arts Research Centre.},\n address = {Oslo, Norway},\n author\
-    \ = {Jason Dixon and Tom Davis and Jason Geistweidt and Alain B. Renaud},\n booktitle\
-    \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
-    \ {June},\n publisher = {Norwegian Academy of Music},\n title = {The Loop},\n\
-    \ url = {https://vimeo.com/26679893},\n year = {2011}\n}\n"
+  bibtex: "@inproceedings{nime2011_music_Dixon,\n abstract = {The Loop explores the\
+    \ possibilities of co-located performance, decentralized composition, and the\
+    \ acoustics of network. This performance begins with a brief improvisation presenting\
+    \ acoustic sources to excite the network. This material is shared, transformed,\
+    \ and reintroduced into the composition. This process continues through successive\
+    \ generations until a predetermined time or a point at which the composition naturally\
+    \ concludes. The result is an integrated meta-instrument and an emergent composition,\
+    \ with no one artist being the sole performer or composer. Remote participants\
+    \ are represented locally by a mono speaker enabling the audiences to hear the\
+    \ transformation of audio through the networked instrument. About the performers:\
+    \ Jason Dixon: Irish composer currently based in Norwich where he is in the process\
+    \ of completing his PhD in composition. His work explores issues of language,\
+    \ perception and memory in music. More recently he has been focusing on the Irish\
+    \ storytelling tradition and its place in contemporary Ireland. Tom Davis: Digital\
+    \ artist working mainly in the medium of sound installation. His practice and\
+    \ theory based output involves the creation of technology led environments for\
+    \ interaction. Davis is currently a lecturer at the University of Bournemouth\
+    \ and holds a PhD from the Sonic Arts Research Centre, Belfast. Jason Geistweidt:\
+    \ Sound artist based at the University or Tromsø, Norway, researching mixed-reality\
+    \ stages and performance systems. He is a former faculty member of Interactive\
+    \ Arts and Media department at Columbia College Chicago. He holds PhD in electro-acoustic\
+    \ composition from the Sonic Arts Research Centre, Queens University, Belfast.\
+    \ Alain B. Renaud: Alain's research focuses on networked music performance systems\
+    \ with an emphasis on the creation of strategies to interact over a network musically\
+    \ and the notion of shared networked acoustic spaces. He is a lecturer in at Bournemouth\
+    \ University, England and holds a PhD from the Sonic Arts Research Centre.},\n\
+    \ address = {Oslo, Norway},\n author = {Jason Dixon and Tom Davis and Jason Geistweidt\
+    \ and Alain B. Renaud},\n booktitle = {Music Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Kjell Tore\
+    \ Innervik and Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy\
+    \ of Music},\n title = {The Loop},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Dixon.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: The Loop
-  url: https://vimeo.com/26679893
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Dixon.mov
   year: 2011
 
 
@@ -7998,14 +8007,15 @@
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
     \ {June},\n publisher = {Norwegian Academy of Music},\n title = {Dissonance},\n\
-    \ url = {https://vimeo.com/26616186},\n year = {2011}\n}\n"
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Zappi.mov},\n year\
+    \ = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Dissonance
-  url: https://vimeo.com/26616186
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Zappi.mov
   year: 2011
 
 
@@ -8044,7 +8054,7 @@
     \ address = {Oslo, Norway},\n author = {Alex Nowitz},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {The Shells},\n url = {https://vimeo.com/26661484},\n\
+    \ = {Norwegian Academy of Music},\n title = {The Shells},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Nowitz.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8052,7 +8062,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: The Shells
-  url: https://vimeo.com/26661484
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Nowitz.mov
   year: 2011
 
 
@@ -8093,20 +8103,20 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n\
     \ month = {June},\n publisher = {Norwegian Academy of Music},\n title = {BiLE\
-    \ (Birmingham Laptop Ensemble)},\n url = {https://vimeo.com/26619928},\n year\
-    \ = {2011}\n}\n"
+    \ (Birmingham Laptop Ensemble)},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Guillamat.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: BiLE (Birmingham Laptop Ensemble)
-  url: https://vimeo.com/26619928
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Guillamat.mov
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_Quay
+  ID: nime2011_music_deQuay
   abstract: 'As artists, we have learned that throughout the history of mankind music
     and technology have co-evolved, shaping --- and being shaped by --- human expression
     and creativity. The variety and intricacy of these recombination processes contribute
@@ -8129,8 +8139,8 @@
     with the Xsens MVN inertial sensor suit.'
   address: 'Oslo, Norway'
   author: Yago de Quay and Ståle Skogstad
-  bibtex: "@inproceedings{nime2011_music_Quay,\n abstract = {As artists, we have learned\
-    \ that throughout the history of mankind music and technology have co-evolved,\
+  bibtex: "@inproceedings{nime2011_music_deQuay,\n abstract = {As artists, we have\
+    \ learned that throughout the history of mankind music and technology have co-evolved,\
     \ shaping --- and being shaped by --- human expression and creativity. The variety\
     \ and intricacy of these recombination processes contribute profoundly to the\
     \ current diversity of performative structures and aesthetics within the arts.\
@@ -8154,14 +8164,15 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
     \ = {Norwegian Academy of Music},\n title = {Where Art Thou?: Dance Jockey},\n\
-    \ url = {https://vimeo.com/26619980},\n year = {2011}\n}\n"
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_deQuay.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: 'Where Art Thou?: Dance Jockey'
-  url: https://vimeo.com/26619980
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_deQuay.mov
   year: 2011
 
 
@@ -8195,7 +8206,7 @@
     \ Norway},\n author = {Domenico Sciajno},\n booktitle = {Music Proceedings of\
     \ the International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher =\
-    \ {Norwegian Academy of Music},\n title = {Sonolume},\n url = {https://vimeo.com/26679879},\n\
+    \ {Norwegian Academy of Music},\n title = {Sonolume},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Sciajno.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8203,7 +8214,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: Sonolume
-  url: https://vimeo.com/26679879
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Sciajno.mov
   year: 2011
 
 
@@ -8250,14 +8261,15 @@
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
     \ {June},\n publisher = {Norwegian Academy of Music},\n title = {Trondheim Voices},\n\
-    \ url = {https://vimeo.com/26680007},\n year = {2011}\n}\n"
+    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Aase.mov},\n year\
+    \ = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Trondheim Voices
-  url: https://vimeo.com/26680007
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Aase.mov
   year: 2011
 
 
@@ -8307,15 +8319,15 @@
     \ Alain Crevoisier},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Kjell Tore Innervik and\
     \ Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy of Music},\n\
-    \ title = {Interstices AP},\n url = {https://vimeo.com/26629820},\n year = {2011}\n\
-    }\n"
+    \ title = {Interstices AP},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Hsu_a.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Interstices AP
-  url: https://vimeo.com/26629820
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Hsu_a.mov
   year: 2011
 
 
@@ -8363,15 +8375,15 @@
     \ Moe},\n booktitle = {Music Proceedings of the International Conference on New\
     \ Interfaces for Musical Expression},\n editor = {Kjell Tore Innervik and Ivar\
     \ Frounberg},\n month = {June},\n publisher = {Norwegian Academy of Music},\n\
-    \ title = {Flayed/Flock},\n url = {https://vimeo.com/26629835},\n year = {2011}\n\
-    }\n"
+    \ title = {Flayed/Flock},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Hsu_b.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Flayed/Flock
-  url: https://vimeo.com/26629835
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Hsu_b.mov
   year: 2011
 
 
@@ -8461,8 +8473,9 @@
     \ and Andrew Street and Elizabeth Ullrich and Adam Wirdzek},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {L2Ork},\n url = {https://vimeo.com/26678669},\n\
-    \ url2 = {https://vimeo.com/26678662},\n url3 = {https://vimeo.com/26643771},\n\
+    \ = {Norwegian Academy of Music},\n title = {L2Ork},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Bukvic1.mov},\n\
+    \ urlsuppl2 = {http://nime.org/proceedings/2011/nime2011_music_Bukvic2.mov},\n\
+    \ urlsuppl3 = {http://nime.org/proceedings/2011/nime2011_music_Bukvic3.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8470,9 +8483,9 @@
   month: June
   publisher: Norwegian Academy of Music
   title: L2Ork
-  url: https://vimeo.com/26678669
-  url2: https://vimeo.com/26678662
-  url3: https://vimeo.com/26643771
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Bukvic1.mov
+  urlsuppl2: http://nime.org/proceedings/2011/nime2011_music_Bukvic2.mov
+  urlsuppl3: http://nime.org/proceedings/2011/nime2011_music_Bukvic3.mov
   year: 2011
 
 
@@ -8516,7 +8529,7 @@
     \ author = {Mark Bokowiec and Julie Wilson-Bokowiec},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {V'Oct(Ritual)},\n url = {https://vimeo.com/27694214},\n\
+    \ = {Norwegian Academy of Music},\n title = {V'Oct(Ritual)},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Bokowiec.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8524,7 +8537,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: V'Oct(Ritual)
-  url: https://vimeo.com/27694214
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Bokowiec.mov
   year: 2011
 
 
@@ -8566,7 +8579,7 @@
     \ author = {Satoshi Shiraishi and Alo Allik},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {mikro:strukt},\n url = {https://vimeo.com/27694202},\n\
+    \ = {Norwegian Academy of Music},\n title = {mikro:strukt},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Shiraishi.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8574,7 +8587,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: mikro:strukt
-  url: https://vimeo.com/27694202
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Shiraishi.mov
   year: 2011
 
 
@@ -8615,19 +8628,20 @@
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Kjell Tore Innervik and Ivar Frounberg},\n month =\
     \ {June},\n publisher = {Norwegian Academy of Music},\n title = {Study No. 1 for\
-    \ Overtone Fiddle},\n url = {https://vimeo.com/26661494},\n year = {2011}\n}\n"
+    \ Overtone Fiddle},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Overholt.mov},\n\
+    \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: Study No. 1 for Overtone Fiddle
-  url: https://vimeo.com/26661494
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Overholt.mov
   year: 2011
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2011_music_DougVanNort
+  ID: nime2011_music_VanNort
   abstract: 'This piece is written in consideration of two distinct paradigms: telematic
     music performance and human-machine improvisation. Specifically this work is a
     structured improvisation for three humans and one intelligent agent, being constrained
@@ -8652,9 +8666,9 @@
     and Aural Architecture Research Laboratory at RPI.'
   address: 'Oslo, Norway'
   author: Doug Van Nort and Pauline Oliveros and Jonas Braasch
-  bibtex: "@inproceedings{nime2011_music_DougVanNort,\n abstract = {This piece is\
-    \ written in consideration of two distinct paradigms: telematic music performance\
-    \ and human-machine improvisation. Specifically this work is a structured improvisation\
+  bibtex: "@inproceedings{nime2011_music_VanNort,\n abstract = {This piece is written\
+    \ in consideration of two distinct paradigms: telematic music performance and\
+    \ human-machine improvisation. Specifically this work is a structured improvisation\
     \ for three humans and one intelligent agent, being constrained by sections that\
     \ determine which pairing (duos, trios) of performers are active. Instrumentation\
     \ also changes between sections in a way that blurs the line of agency and intent\
@@ -8679,7 +8693,7 @@
     \ Oliveros and Jonas Braasch},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Kjell Tore\
     \ Innervik and Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy\
-    \ of Music},\n title = {Distributed Composition #1},\n url = {https://vimeo.com/27691551},\n\
+    \ of Music},\n title = {Distributed Composition #1},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_VanNort.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8687,7 +8701,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: "Distributed Composition #1"
-  url: https://vimeo.com/27691551
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_VanNort.mov
   year: 2011
 
 
@@ -8737,15 +8751,16 @@
     \ author = {Daniel Schorno and Haraldur Karlsson},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {7-of-12 dialectologies},\n url =\
-    \ {https://vimeo.com/27694220},\n year = {2011}\n}\n"
+    \ = {Norwegian Academy of Music},\n title = {7-of-12 dialectologies},\n urlsuppl1\
+    \ = {http://nime.org/proceedings/2011/nime2011_music_Schorno.mov},\n year = {2011}\n\
+    }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: Kjell Tore Innervik and Ivar Frounberg
   month: June
   publisher: Norwegian Academy of Music
   title: 7-of-12 dialectologies
-  url: https://vimeo.com/27694220
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Schorno.mov
   year: 2011
 
 
@@ -8787,7 +8802,7 @@
     \ author = {Luke Dahl and Carr Wilkerson},\n booktitle = {Music Proceedings of\
     \ the International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher =\
-    \ {Norwegian Academy of Music},\n title = {TweetDreams},\n url = {https://vimeo.com/27694232},\n\
+    \ {Norwegian Academy of Music},\n title = {TweetDreams},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Dahl.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -8795,7 +8810,7 @@
   month: June
   publisher: Norwegian Academy of Music
   title: TweetDreams
-  url: https://vimeo.com/27694232
+  urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Dahl.mov
   year: 2011
 
 
@@ -13324,10 +13339,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Miyama2010
+  ID: nime2010_music_Miyama
   address: 'Sydney, Australia'
   author: Chikashi Miyama
-  bibtex: "@inproceedings{nime2010_music_Miyama2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Miyama,\n address = {Sydney, Australia},\n\
     \ author = {Chikashi Miyama},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -13364,10 +13379,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Perrin2010
+  ID: nime2010_music_Perrin
   address: 'Sydney, Australia'
   author: Stéphane Perrin and Utako Shibatsuji
-  bibtex: "@inproceedings{nime2010_music_Perrin2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Perrin,\n address = {Sydney, Australia},\n\
     \ author = {Stéphane Perrin and Utako Shibatsuji},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -13385,10 +13400,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Kanda2010
+  ID: nime2010_music_Kanda
   address: 'Sydney, Australia'
   author: Ryo Kanda
-  bibtex: "@inproceedings{nime2010_music_Kanda2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Kanda,\n address = {Sydney, Australia},\n\
     \ author = {Ryo Kanda},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -13405,10 +13420,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Tomczak2010
+  ID: nime2010_music_Tomczak
   address: 'Sydney, Australia'
   author: Sebastian Tomczak and Poppi Doser
-  bibtex: "@inproceedings{nime2010_music_Tomczak2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Tomczak,\n address = {Sydney, Australia},\n\
     \ author = {Sebastian Tomczak and Poppi Doser},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -13426,20 +13441,20 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Ganburged2010
+  ID: nime2010_music_Ganburged
   abstract: 'Bukhchuluun Ganburged , Fiddle and Throat Singing , Martin Slawig , Roger
     Mills'
   address: 'Sydney, Australia'
   author: Bukhchuluun Ganburged and Martin Slawig and Roger Mills
-  bibtex: "@inproceedings{nime2010_music_Ganburged2010,\n abstract = {Bukhchuluun\
-    \ Ganburged , Fiddle and Throat Singing , Martin Slawig , Roger Mills},\n address\
-    \ = {Sydney, Australia},\n author = {Bukhchuluun Ganburged and Martin Slawig and\
-    \ Roger Mills},\n booktitle = {Music Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n editor = {Andrew Johnston, Sam\
-    \ Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
-    \ Kirsty Beilharz, Roger Mills},\n month = {June},\n publisher = {University of\
-    \ Technology Sydney},\n title = {Ethernet Orchestra - Remote Networked Performance},\n\
-    \ year = {2010}\n}\n"
+  bibtex: "@inproceedings{nime2010_music_Ganburged,\n abstract = {Bukhchuluun Ganburged\
+    \ , Fiddle and Throat Singing , Martin Slawig , Roger Mills},\n address = {Sydney,\
+    \ Australia},\n author = {Bukhchuluun Ganburged and Martin Slawig and Roger Mills},\n\
+    \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n editor = {Andrew Johnston, Sam Ferguson, Jos Mulder,\
+    \ Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger\
+    \ Mills},\n month = {June},\n publisher = {University of Technology Sydney},\n\
+    \ title = {Ethernet Orchestra - Remote Networked Performance},\n year = {2010}\n\
+    }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: 'Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,
@@ -13451,10 +13466,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Pritchard2010
+  ID: nime2010_music_Pritchard
   address: 'Sydney, Australia'
   author: Bob Pritchard and Marguerite Witvoet
-  bibtex: "@inproceedings{nime2010_music_Pritchard2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Pritchard,\n address = {Sydney, Australia},\n\
     \ author = {Bob Pritchard and Marguerite Witvoet},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -13472,7 +13487,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Barrass2010
+  ID: nime2010_music_Barrass
   abstract: 'The Cellist''s brain signals and pulse figure against the Baroque Basso
     Continuo that they are playing. The Cellist wears the state of the art Enobio
     system which transmits EEG, ECG and EOG from brain activity, eye movements, muscle
@@ -13483,21 +13498,21 @@
     Geoffrey Gartner is a Cellist in the Ensemble Offspring in Sydney'
   address: 'Sydney, Australia'
   author: Stephen Barrass and Diane Whitmer
-  bibtex: "@inproceedings{nime2010_music_Barrass2010,\n abstract = {The Cellist's\
-    \ brain signals and pulse figure against the Baroque Basso Continuo that they\
-    \ are playing. The Cellist wears the state of the art Enobio system which transmits\
-    \ EEG, ECG and EOG from brain activity, eye movements, muscle contractions, and\
-    \ pulse to a laptop computer. These signals are mapped into sound in realtime\
-    \ with specially designed sonication algorithms. About the performers: Stephen\
-    \ Barrass teaches and researches Digital Design and Media Arts at the University\
-    \ of Canberra. Diane Whitmer is a Neuroscientist at Starlab Pty. Ltd. in Barcelona.\
-    \ Geoffrey Gartner is a Cellist in the Ensemble Offspring in Sydney},\n address\
-    \ = {Sydney, Australia},\n author = {Stephen Barrass and Diane Whitmer},\n booktitle\
-    \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley,\
-    \ Garth Paine, Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger Mills},\n month\
-    \ = {June},\n publisher = {University of Technology Sydney},\n title = {Baroque\
-    \ Basso Continuo for Cello, Heart (ECG) and Mind (EEG)},\n year = {2010}\n}\n"
+  bibtex: "@inproceedings{nime2010_music_Barrass,\n abstract = {The Cellist's brain\
+    \ signals and pulse figure against the Baroque Basso Continuo that they are playing.\
+    \ The Cellist wears the state of the art Enobio system which transmits EEG, ECG\
+    \ and EOG from brain activity, eye movements, muscle contractions, and pulse to\
+    \ a laptop computer. These signals are mapped into sound in realtime with specially\
+    \ designed sonication algorithms. About the performers: Stephen Barrass teaches\
+    \ and researches Digital Design and Media Arts at the University of Canberra.\
+    \ Diane Whitmer is a Neuroscientist at Starlab Pty. Ltd. in Barcelona. Geoffrey\
+    \ Gartner is a Cellist in the Ensemble Offspring in Sydney},\n address = {Sydney,\
+    \ Australia},\n author = {Stephen Barrass and Diane Whitmer},\n booktitle = {Music\
+    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
+    \ Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger Mills},\n month = {June},\n\
+    \ publisher = {University of Technology Sydney},\n title = {Baroque Basso Continuo\
+    \ for Cello, Heart (ECG) and Mind (EEG)},\n year = {2010}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: 'Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,
@@ -13509,7 +13524,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Drummond2010
+  ID: nime2010_music_Drummond
   abstract: 'The interactive electroacoustics in Jet Stream are created through the
     use of an underlying virtual model of a flute. This hybrid virtual instrument
     is controlled through parameters such as bore length, blow intensity, pressure,
@@ -13528,28 +13543,28 @@
     Laboratories, the University of Western Sydney.'
   address: 'Sydney, Australia'
   author: Jon Drummond
-  bibtex: "@inproceedings{nime2010_music_Drummond2010,\n abstract = {The interactive\
-    \ electroacoustics in Jet Stream are created through the use of an underlying\
-    \ virtual model of a flute. This hybrid virtual instrument is controlled through\
-    \ parameters such as bore length, blow intensity, pressure, canal width, labium\
-    \ position. Lamorna's “real” flute sounds are analyzed with respect to tone color,\
-    \ volume envelopes, frequency and spectral content. These sonic gestures are then\
-    \ mapped to performance parameters for the computer's virtual flute sonification.\
-    \ Of course the virtual flute doesn't have to conform to the physical constraints\
-    \ of the “real-world”. About the performer: Jon Drummond is a Sydney based composer,\
-    \ sound artist, programmer, academic and researcher. His creative work spans the\
-    \ fields of instrumental music, electroacoustic, interactive, sound and new media\
-    \ arts. Jon's electroacoustic and interactive work has been presented widely including\
-    \ the International Computer Music Conferences (Denmark 1994, Canada 1995, Greece\
-    \ 1997, China 1999, Singapore 2003), Electrofringe, Totally Huge New Music Festival,\
-    \ Darwin International Guitar Festival and the Adelaide Festival of Arts. Jon\
-    \ is currently employed as a researcher at MARCS Auditory Laboratories, the University\
-    \ of Western Sydney.},\n address = {Sydney, Australia},\n author = {Jon Drummond},\n\
-    \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n editor = {Andrew Johnston, Sam Ferguson, Jos Mulder,\
-    \ Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger\
-    \ Mills},\n month = {June},\n publisher = {University of Technology Sydney},\n\
-    \ title = {Jet Stream},\n year = {2010}\n}\n"
+  bibtex: "@inproceedings{nime2010_music_Drummond,\n abstract = {The interactive electroacoustics\
+    \ in Jet Stream are created through the use of an underlying virtual model of\
+    \ a flute. This hybrid virtual instrument is controlled through parameters such\
+    \ as bore length, blow intensity, pressure, canal width, labium position. Lamorna's\
+    \ “real” flute sounds are analyzed with respect to tone color, volume envelopes,\
+    \ frequency and spectral content. These sonic gestures are then mapped to performance\
+    \ parameters for the computer's virtual flute sonification. Of course the virtual\
+    \ flute doesn't have to conform to the physical constraints of the “real-world”.\
+    \ About the performer: Jon Drummond is a Sydney based composer, sound artist,\
+    \ programmer, academic and researcher. His creative work spans the fields of instrumental\
+    \ music, electroacoustic, interactive, sound and new media arts. Jon's electroacoustic\
+    \ and interactive work has been presented widely including the International Computer\
+    \ Music Conferences (Denmark 1994, Canada 1995, Greece 1997, China 1999, Singapore\
+    \ 2003), Electrofringe, Totally Huge New Music Festival, Darwin International\
+    \ Guitar Festival and the Adelaide Festival of Arts. Jon is currently employed\
+    \ as a researcher at MARCS Auditory Laboratories, the University of Western Sydney.},\n\
+    \ address = {Sydney, Australia},\n author = {Jon Drummond},\n booktitle = {Music\
+    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
+    \ Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger Mills},\n month = {June},\n\
+    \ publisher = {University of Technology Sydney},\n title = {Jet Stream},\n year\
+    \ = {2010}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: 'Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,
@@ -13561,7 +13576,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Johnston2010
+  ID: nime2010_music_Johnston
   abstract: ' This audiovisual work for acoustic instruments and interactive software
     uses simple models of physical structures to mediate between acoustic sounds and
     computer generated sound and visuals. Musicians use their acoustic instruments
@@ -13593,7 +13608,7 @@
     of Technology, Sydney. Phil Slater - Trumpet. Jason Noble - Clarinet'
   address: 'Sydney, Australia'
   author: Andrew Johnston
-  bibtex: "@inproceedings{nime2010_music_Johnston2010,\n abstract = { This audiovisual\
+  bibtex: "@inproceedings{nime2010_music_Johnston,\n abstract = { This audiovisual\
     \ work for acoustic instruments and interactive software uses simple models of\
     \ physical structures to mediate between acoustic sounds and computer generated\
     \ sound and visuals. Musicians use their acoustic instruments to playfully interact\
@@ -13693,7 +13708,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Ratcliffe2010
+  ID: nime2010_music_Ratcliffe
   abstract: '"Mutations" is an interactive work exploring notions of the DJ set and
     the remix through the integration of various streams of piano based material in
     live performance. Incorporating human and machine-generated material, a “realization”
@@ -13720,9 +13735,9 @@
     Ratcliffe - Electronics, Jon Weinel - Software Author'
   address: 'Sydney, Australia'
   author: Robert Ratcliffe and Jon Weinel
-  bibtex: "@inproceedings{nime2010_music_Ratcliffe2010,\n abstract = {\"Mutations\"\
-    \ is an interactive work exploring notions of the DJ set and the remix through\
-    \ the integration of various streams of piano based material in live performance.\
+  bibtex: "@inproceedings{nime2010_music_Ratcliffe,\n abstract = {\"Mutations\" is\
+    \ an interactive work exploring notions of the DJ set and the remix through the\
+    \ integration of various streams of piano based material in live performance.\
     \ Incorporating human and machine-generated material, a “realization” of the piece\
     \ involves the management of a pool of audio files, MIDI files, and score fragments,\
     \ which are drawn upon during performance. In this way, the performer is required\
@@ -13762,7 +13777,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Paine2010
+  ID: nime2010_music_Paine
   abstract: 'Grace Space is a new work for clarinet and realtime electronic transformation.
     It plays with sonic space and non-space; the use of the grace note to define relationships
     of transition from a forgotten or distant space to a familiar space, a known pitch.
@@ -13796,44 +13811,44 @@
     and Supervision. Jason Noble - Clarinet'
   address: 'Sydney, Australia'
   author: Garth Paine
-  bibtex: "@inproceedings{nime2010_music_Paine2010,\n abstract = {Grace Space is a\
-    \ new work for clarinet and realtime electronic transformation. It plays with\
-    \ sonic space and non-space; the use of the grace note to define relationships\
-    \ of transition from a forgotten or distant space to a familiar space, a known\
-    \ pitch. The piece contemplates memory, the experience of snapping out of a daydream,\
-    \ from distant imaginings or recollections to the real space, the events right\
-    \ in front of you. The realtime electronic transformation makes the space fluid\
-    \ and introduces a height ened depth of perspective. Surround sound spatialization\
-    \ techniques are used also to bring the sound of the clarinet off the stage and\
-    \ around the audience, subverting the audience as spectator relationship to one\
-    \ where the audience is at the core of the work, the position the performer usually\
-    \ occupies. About the performers: Garth Paine has exhibited immersive interactive\
-    \ environments in Australia, Europe, Japan, USA, Hong Kong and New Zealand. He\
-    \ is on the organizing and peer review panels for the International Conference\
-    \ On New Interfaces for Musical Expression (NIME), the International Computer\
-    \ Music Conference. He has twice been guest editor of Organized Sound Journal\
-    \ (Cambridge University Press) for special editions on interactive systems in\
-    \ music and sound installation. He is often invited to run workshops on interactivity\
-    \ for musical performance and commissioned to develop interactive system for realtime\
-    \ musical composition for dance and theatre performances. He was selected as one\
-    \ of ten creative professionals internationally for exhibition in the 10th New\
-    \ York Digital Salon; DesignX Critical Reflections, and as a millennium leader\
-    \ of innovation by the German Keyboard Magazine in 2000. Dr Paine was awarded\
-    \ the Australia Council for the Arts, New Media Arts Fellowship in 2000, and The\
-    \ RMIT Innovation Research Award in 2002. He is a member of the advisory panel\
-    \ for the Electronic Music Foundation and one of 17 advisors to the UNESCO funded\
-    \ Symposium on the Future, which is developing a taxonomy / design space of electronic\
-    \ musical instruments. Recently Dr Paine been invited to perform at the Agora\
-    \ Festival, Centre Pompidou, Paris (2006) and the New York Electronic Arts Festival\
-    \ (2007), and in 2009 will perform in Sydney, Melbourne, Perth, Lymerik Ireland,\
-    \ New York City, Montreal and Quebec in Canada, and Phoenix Arizona. In 2008 Dr\
-    \ Paine received the UWS Vice-Chancellor's Excellence Award for Postgraduate Research\
-    \ Training and Supervision. Jason Noble - Clarinet},\n address = {Sydney, Australia},\n\
-    \ author = {Garth Paine},\n booktitle = {Music Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
-    \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
-    \ Kirsty Beilharz, Roger Mills},\n month = {June},\n publisher = {University of\
-    \ Technology Sydney},\n title = {Grace Space},\n year = {2010}\n}\n"
+  bibtex: "@inproceedings{nime2010_music_Paine,\n abstract = {Grace Space is a new\
+    \ work for clarinet and realtime electronic transformation. It plays with sonic\
+    \ space and non-space; the use of the grace note to define relationships of transition\
+    \ from a forgotten or distant space to a familiar space, a known pitch. The piece\
+    \ contemplates memory, the experience of snapping out of a daydream, from distant\
+    \ imaginings or recollections to the real space, the events right in front of\
+    \ you. The realtime electronic transformation makes the space fluid and introduces\
+    \ a height ened depth of perspective. Surround sound spatialization techniques\
+    \ are used also to bring the sound of the clarinet off the stage and around the\
+    \ audience, subverting the audience as spectator relationship to one where the\
+    \ audience is at the core of the work, the position the performer usually occupies.\
+    \ About the performers: Garth Paine has exhibited immersive interactive environments\
+    \ in Australia, Europe, Japan, USA, Hong Kong and New Zealand. He is on the organizing\
+    \ and peer review panels for the International Conference On New Interfaces for\
+    \ Musical Expression (NIME), the International Computer Music Conference. He has\
+    \ twice been guest editor of Organized Sound Journal (Cambridge University Press)\
+    \ for special editions on interactive systems in music and sound installation.\
+    \ He is often invited to run workshops on interactivity for musical performance\
+    \ and commissioned to develop interactive system for realtime musical composition\
+    \ for dance and theatre performances. He was selected as one of ten creative professionals\
+    \ internationally for exhibition in the 10th New York Digital Salon; DesignX Critical\
+    \ Reflections, and as a millennium leader of innovation by the German Keyboard\
+    \ Magazine in 2000. Dr Paine was awarded the Australia Council for the Arts, New\
+    \ Media Arts Fellowship in 2000, and The RMIT Innovation Research Award in 2002.\
+    \ He is a member of the advisory panel for the Electronic Music Foundation and\
+    \ one of 17 advisors to the UNESCO funded Symposium on the Future, which is developing\
+    \ a taxonomy / design space of electronic musical instruments. Recently Dr Paine\
+    \ been invited to perform at the Agora Festival, Centre Pompidou, Paris (2006)\
+    \ and the New York Electronic Arts Festival (2007), and in 2009 will perform in\
+    \ Sydney, Melbourne, Perth, Lymerik Ireland, New York City, Montreal and Quebec\
+    \ in Canada, and Phoenix Arizona. In 2008 Dr Paine received the UWS Vice-Chancellor's\
+    \ Excellence Award for Postgraduate Research Training and Supervision. Jason Noble\
+    \ - Clarinet},\n address = {Sydney, Australia},\n author = {Garth Paine},\n booktitle\
+    \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley,\
+    \ Garth Paine, Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger Mills},\n month\
+    \ = {June},\n publisher = {University of Technology Sydney},\n title = {Grace\
+    \ Space},\n year = {2010}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
   editor: 'Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,
@@ -13845,7 +13860,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Mackay2010
+  ID: nime2010_music_Mackay
   abstract: 'This piece was written for Duo Contour, and uses the following poem `Under
     the Slates'' by Martin Daws as its inspiration: We are earth people, Long have
     we hidden, In the rock heavy heart, And harboured our strengths, Among the agonies
@@ -13886,11 +13901,11 @@
     www.digital-music-archives.com'
   address: 'Sydney, Australia'
   author: Robert Mackay
-  bibtex: "@inproceedings{nime2010_music_Mackay2010,\n abstract = {This piece was\
-    \ written for Duo Contour, and uses the following poem `Under the Slates' by Martin\
-    \ Daws as its inspiration: We are earth people, Long have we hidden, In the rock\
-    \ heavy heart, And harboured our strengths, Among the agonies of stone, Ours is\
-    \ the granite, Wind withered to pinnacles, And the whispered secret, Passed behind\
+  bibtex: "@inproceedings{nime2010_music_Mackay,\n abstract = {This piece was written\
+    \ for Duo Contour, and uses the following poem `Under the Slates' by Martin Daws\
+    \ as its inspiration: We are earth people, Long have we hidden, In the rock heavy\
+    \ heart, And harboured our strengths, Among the agonies of stone, Ours is the\
+    \ granite, Wind withered to pinnacles, And the whispered secret, Passed behind\
     \ its scream, And the dark slate blasted, Into fragments of its nature, Shattered\
     \ forgotten bodies, Patterned random, Heaped on houses, Dropped on churches, Silenced\
     \ hymns, On buried villages lost to light, We mourn our eagles, Count our sheep,\
@@ -13942,7 +13957,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Havryliv2010
+  ID: nime2010_music_Havryliv
   abstract: 'This performance draws on a natural feature of a particular class of
     chaotic oscillators described by Julien Sprott, namely that they require a driving
     force in order to perform as chaotic attractors. In the unmodified equations driving
@@ -13967,7 +13982,7 @@
     Grady - Just Intonation Tuned Marimba. Mark Havryliv - Saxophone'
   address: 'Sydney, Australia'
   author: Mark Havryliv
-  bibtex: "@inproceedings{nime2010_music_Havryliv2010,\n abstract = {This performance\
+  bibtex: "@inproceedings{nime2010_music_Havryliv,\n abstract = {This performance\
     \ draws on a natural feature of a particular class of chaotic oscillators described\
     \ by Julien Sprott, namely that they require a driving force in order to perform\
     \ as chaotic attractors. In the unmodified equations driving forces are introduced\
@@ -14057,10 +14072,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Sorensen2010
+  ID: nime2010_music_Sorensen
   address: 'Sydney, Australia'
   author: Andrew Sorensen
-  bibtex: "@inproceedings{nime2010_music_Sorensen2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Sorensen,\n address = {Sydney, Australia},\n\
     \ author = {Andrew Sorensen},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14078,10 +14093,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Brown2010
+  ID: nime2010_music_Brown
   address: 'Sydney, Australia'
   author: Andrew Brown
-  bibtex: "@inproceedings{nime2010_music_Brown2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Brown,\n address = {Sydney, Australia},\n\
     \ author = {Andrew Brown},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14099,10 +14114,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Magnusson2010
+  ID: nime2010_music_Magnusson
   address: 'Sydney, Australia'
   author: Thor Magnusson
-  bibtex: "@inproceedings{nime2010_music_Magnusson2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Magnusson,\n address = {Sydney, Australia},\n\
     \ author = {Thor Magnusson},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14119,10 +14134,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Dubrau2010
+  ID: nime2010_music_Dubrau
   address: 'Sydney, Australia'
   author: Mei-Ling Dubrau and Mark Havryliv
-  bibtex: "@inproceedings{nime2010_music_Dubrau2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Dubrau,\n address = {Sydney, Australia},\n\
     \ author = {Mei-Ling Dubrau and Mark Havryliv},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -14140,10 +14155,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Ptak2010
+  ID: nime2010_music_Ptak
   address: 'Sydney, Australia'
   author: Anthony Ptak
-  bibtex: "@inproceedings{nime2010_music_Ptak2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Ptak,\n address = {Sydney, Australia},\n\
     \ author = {Anthony Ptak},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14160,10 +14175,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Sazdov2010
+  ID: nime2010_music_Sazdov
   address: 'Sydney, Australia'
   author: Robert Sazdov and Giuseppe Torre
-  bibtex: "@inproceedings{nime2010_music_Sazdov2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Sazdov,\n address = {Sydney, Australia},\n\
     \ author = {Robert Sazdov and Giuseppe Torre},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -14201,10 +14216,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Lyon2010
+  ID: nime2010_music_Lyon
   address: 'Sydney, Australia'
   author: Eric Lyon and Ben Knapp
-  bibtex: "@inproceedings{nime2010_music_Lyon2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Lyon,\n address = {Sydney, Australia},\n\
     \ author = {Eric Lyon and Ben Knapp},\n booktitle = {Music Proceedings of the\
     \ International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon\
@@ -14222,10 +14237,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Ensemble2010
+  ID: nime2010_music_Ensemble
   address: 'Sydney, Australia'
   author: Charisma Ensemble and Kirsty Beilharz
-  bibtex: "@inproceedings{nime2010_music_Ensemble2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Ensemble,\n address = {Sydney, Australia},\n\
     \ author = {Charisma Ensemble and Kirsty Beilharz},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine,\
@@ -14243,10 +14258,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Hewitt2010
+  ID: nime2010_music_Hewitt
   address: 'Sydney, Australia'
   author: Donna Hewitt and Avril Huddy
-  bibtex: "@inproceedings{nime2010_music_Hewitt2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Hewitt,\n address = {Sydney, Australia},\n\
     \ author = {Donna Hewitt and Avril Huddy},\n booktitle = {Music Proceedings of\
     \ the International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon\
@@ -14264,10 +14279,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Martinez2010
+  ID: nime2010_music_Martinez
   address: 'Sydney, Australia'
   author: Christopher Martinez
-  bibtex: "@inproceedings{nime2010_music_Martinez2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Martinez,\n address = {Sydney, Australia},\n\
     \ author = {Christopher Martinez},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14284,10 +14299,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Langley2010
+  ID: nime2010_music_Langley
   address: 'Sydney, Australia'
   author: Somaya Langley
-  bibtex: "@inproceedings{nime2010_music_Langley2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Langley,\n address = {Sydney, Australia},\n\
     \ author = {Somaya Langley},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14304,10 +14319,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Schubert2010
+  ID: nime2010_music_Schubert
   address: 'Sydney, Australia'
   author: Alexander Schubert
-  bibtex: "@inproceedings{nime2010_music_Schubert2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Schubert,\n address = {Sydney, Australia},\n\
     \ author = {Alexander Schubert},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14324,7 +14339,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Lai2010
+  ID: nime2010_music_Lai
   abstract: 'Interactivity between performer and technology is a crucial part of media
     performance. This is made possible through creative integration of software and
     hardware devices. The performance work, Strike On Stage, uses such an integration
@@ -14339,7 +14354,7 @@
     which was a solo, audiovisual performance work created during 2007 and 2008.'
   address: 'Sydney, Australia'
   author: Chi-Hsia Lai and Charles Martin
-  bibtex: "@inproceedings{nime2010_music_Lai2010,\n abstract = {Interactivity between\
+  bibtex: "@inproceedings{nime2010_music_Lai,\n abstract = {Interactivity between\
     \ performer and technology is a crucial part of media performance. This is made\
     \ possible through creative integration of software and hardware devices. The\
     \ performance work, Strike On Stage, uses such an integration to bridge three\
@@ -14369,10 +14384,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Schunior2010
+  ID: nime2010_music_Schunior
   address: 'Sydney, Australia'
   author: Michael Schunior
-  bibtex: "@inproceedings{nime2010_music_Schunior2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Schunior,\n address = {Sydney, Australia},\n\
     \ author = {Michael Schunior},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14389,10 +14404,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_GeWang2010
+  ID: nime2010_music_GeWang
   address: 'Sydney, Australia'
   author: 'Ge Wang, Jieun Oh, Jorge Herrera, Nicholas J. Bryan and Luke Dahl'
-  bibtex: "@inproceedings{nime2010_music_GeWang2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_GeWang,\n address = {Sydney, Australia},\n\
     \ author = {Ge Wang, Jieun Oh, Jorge Herrera, Nicholas J. Bryan and Luke Dahl},\n\
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Andrew Johnston, Sam Ferguson, Jos Mulder,\
@@ -14410,10 +14425,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Essl2010
+  ID: nime2010_music_Essl
   address: 'Sydney, Australia'
   author: Georg Essl
-  bibtex: "@inproceedings{nime2010_music_Essl2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Essl,\n address = {Sydney, Australia},\n\
     \ author = {Georg Essl},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14431,10 +14446,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Haines2010
+  ID: nime2010_music_Haines
   address: 'Sydney, Australia'
   author: Christian Haines
-  bibtex: "@inproceedings{nime2010_music_Haines2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Haines,\n address = {Sydney, Australia},\n\
     \ author = {Christian Haines},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -14451,10 +14466,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010_music_Schiemer2010
+  ID: nime2010_music_Schiemer
   address: 'Sydney, Australia'
   author: Greg Schiemer
-  bibtex: "@inproceedings{nime2010_music_Schiemer2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010_music_Schiemer,\n address = {Sydney, Australia},\n\
     \ author = {Greg Schiemer},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
