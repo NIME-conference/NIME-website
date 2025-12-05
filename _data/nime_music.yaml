@@ -7579,8 +7579,7 @@
     \ = {Sarah Taylor and Maurizio Goina and Pietro Polotti},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {Body Jockey},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
-    \ urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Taylor.mov},\n\
+    \ = {Norwegian Academy of Music},\n title = {Body Jockey},\n urlsuppl1 = {http://nime.org/proceedings/2011/nime2011_music_Taylor.mov},\n\
     \ year = {2011}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -7588,7 +7587,6 @@
   month: June
   publisher: Norwegian Academy of Music
   title: Body Jockey
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
   urlsuppl1: http://nime.org/proceedings/2011/nime2011_music_Taylor.mov
   year: 2011
 
