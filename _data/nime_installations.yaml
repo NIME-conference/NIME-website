@@ -1124,13 +1124,13 @@
     \ in a historical context. We invite NIME 2021 participants to visit the exhibition.},\n\
     \ address = {Shanghai, China},\n articleno = {6},\n author = {Cândida Borges and\
     \ Gabriel Mario Velez},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.ad75f3e},\n\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.ad75f3e3},\n\
     \ editor = {Rodolfo Cossovich and Demi Li},\n issn = {2220-4806},\n month = {June},\n\
     \ title = {Transeuntis Mundi - Web Derive 01},\n track = {Installations},\n url\
     \ = {https://doi.org/10.21428/92fbeb44.ad75f3e3},\n year = {2021}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
-  doi: 10.21428/92fbeb44.ad75f3e
+  doi: 10.21428/92fbeb44.ad75f3e3
   editor: Rodolfo Cossovich and Demi Li
   issn: 2220-4806
   month: June
