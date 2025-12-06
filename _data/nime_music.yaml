@@ -16080,13 +16080,13 @@
     \ enables the improviser to interact with the electronics during performances.},\n\
     \ address = {Auckland, New Zealand},\n articleno = {25},\n author = {Vincent Cusson\
     \ and Tommy Davis},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c05957e},\n\
+    \ on New Interfaces for Musical Expression},\n doi = {10.21428/92fbeb44.c05957ee},\n\
     \ editor = {Raul Masu},\n issn = {2220-4806},\n month = {jun},\n title = {Etu{d,b}e:\
     \ A Preliminary Conduit},\n track = {Music},\n url = {https://doi.org/10.21428/92fbeb44.c05957ee},\n\
     \ year = {2022}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
-  doi: 10.21428/92fbeb44.c05957e
+  doi: 10.21428/92fbeb44.c05957ee
   editor: Raul Masu
   issn: 2220-4806
   month: jun
