@@ -27,8 +27,8 @@
 {% if include.boldtitle %}</b>{% endif %}
 {% if include.link %}</a>{% endif %}
 <em>{{ include.entry.booktitle }}</em>. 
-DOI: <a href="https://doi.org/{{include.entry.doi}}">{{ include.entry.doi }}</a>
-{% if include.entry.url and include.entry.url != "" %}[<a href="{{include.entry.url}}">PDF</a>]{% endif %}
+{% if include.entry.doi %}DOI: <a href="https://doi.org/{{include.entry.doi}}">{{ include.entry.doi }}</a>{% endif %}
+{% if include.entry.url %}[<a href="{{include.entry.url}}">PDF</a>]{% endif %}
 
 {% comment %}
 Pages, other links? article no?
