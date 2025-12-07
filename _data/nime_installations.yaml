@@ -2516,14 +2516,14 @@
     \ of the artistic system and its grounding concept.},\n address = {Utrecht, Netherlands},\n\
     \ articleno = {8},\n author = {Enrico Dorigatti},\n booktitle = {Proceedings of\
     \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.5281/zenodo.15027164},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
+    \ = {10.5281/zenodo.17846330},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {4},\n pages = {28--31},\n\
     \ presentation-video = {},\n title = {[in.tangibile]},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_7.pdf},\n year\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_8.pdf},\n year\
     \ = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
-  doi: 10.5281/zenodo.15027164
+  doi: 10.5281/zenodo.17846330
   editor: Laurel Smith Pardue and Palle Dahlstedt
   issn: 2220-4806
   month: September
@@ -2532,7 +2532,7 @@
   presentation-video: ""
   title: "[in.tangibile]"
   track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_7.pdf
+  url: http://nime.org/proceedings/2024/nime2024_installations_8.pdf
   year: 2024
 
 
