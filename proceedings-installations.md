@@ -4,7 +4,7 @@ title: Installations Proceedings
 permalink: /installations/
 ---
 
-This page lists all peer-reviewed installations shown at NIME conferences, organized in reverse chronological order. (_N.B.: this list is currently incomplete. We are currently assembling installations proceedings from previous NIMEs_)
+This page lists all peer-reviewed Installations shown at NIME conferences, organized in reverse chronological order. (Note: This list is incomplete, as we are in the process of assembling proceedings of Installations from previous NIME conferences.) At times, Installation proceedings are included with the Music or Paper proceedings.
 
 <!-- This liquid code sets up a list of years up to now (this year) and generates lists of bib entries for each year. Empty years are not listed. -->
 {% assign first_year = 2001 %}
