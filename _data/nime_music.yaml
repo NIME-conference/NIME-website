@@ -16364,7 +16364,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.15028142},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {3},\n pages = {6--8},\n\
-    \ presentation-video = {},\n title = {Spectra},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_2.pdf},\n\
+    \ title = {Spectra},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_2.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -16374,7 +16374,6 @@
   month: September
   numpages: 3
   pages: 6--8
-  presentation-video: ""
   title: Spectra
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_2.pdf
@@ -16532,8 +16531,8 @@
     \ Ryu},\n booktitle = {Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n doi = {10.5281/zenodo.17553219},\n editor = {Laurel\
     \ Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {7},\n pages = {16--22},\n presentation-video = {},\n title = {Monster\
-    \ Voice: Split Tongue},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_5.pdf},\n\
+    \ numpages = {7},\n pages = {16--22},\n title = {Monster Voice: Split Tongue},\n\
+    \ track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_5.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -16543,7 +16542,6 @@
   month: September
   numpages: 7
   pages: 16--22
-  presentation-video: ""
   title: 'Monster Voice: Split Tongue'
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_5.pdf
@@ -16577,8 +16575,8 @@
     \ = {Jessica Rodríguez},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15028161},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {3},\n pages = {23--25},\n presentation-video\
-    \ = {},\n title = {encarnadas (f.) embodiments},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_6.pdf},\n\
+    \ month = {September},\n numpages = {3},\n pages = {23--25},\n title = {encarnadas\
+    \ (f.) embodiments},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_6.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -16588,7 +16586,6 @@
   month: September
   numpages: 3
   pages: 23--25
-  presentation-video: ""
   title: encarnadas (f.) embodiments
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_6.pdf
@@ -16714,9 +16711,9 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.17553260},\n editor = {Laurel Smith Pardue\
     \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {3},\n pages = {34--36},\n presentation-video = {},\n title = {A History Told\
-    \ in Grains},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_9.pdf},\n\
-    \ year = {2024}\n}\n"
+    \ = {3},\n pages = {34--36},\n title = {A History Told in Grains},\n track = {Music},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_music_9.pdf},\n year = {2024}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.17553260
@@ -16725,7 +16722,6 @@
   month: September
   numpages: 3
   pages: 34--36
-  presentation-video: ""
   title: A History Told in Grains
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_9.pdf
@@ -16976,8 +16972,8 @@
     \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.15028005},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {3},\n pages = {49--51},\n\
-    \ presentation-video = {},\n title = {Three is a crowd? A prompt driven human-bot\
-    \ performance},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_14.pdf},\n\
+    \ title = {Three is a crowd? A prompt driven human-bot performance},\n track =\
+    \ {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_14.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -16987,7 +16983,6 @@
   month: September
   numpages: 3
   pages: 49--51
-  presentation-video: ""
   title: 'Three is a crowd? A prompt driven human-bot performance'
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_14.pdf
@@ -17630,9 +17625,9 @@
     \ the International Conference on New Interfaces for Musical Expression},\n doi\
     \ = {10.5281/zenodo.17553299},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {3},\n pages = {92--94},\n\
-    \ presentation-video = {},\n title = {Fulgura Frango: Breath-Extended Harpsichord},\n\
-    \ track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_26.pdf},\n\
-    \ year = {2024}\n}\n"
+    \ title = {Fulgura Frango: Breath-Extended Harpsichord},\n track = {Music},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_music_26.pdf},\n year = {2024}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.17553299
@@ -17641,7 +17636,6 @@
   month: September
   numpages: 3
   pages: 92--94
-  presentation-video: ""
   title: 'Fulgura Frango: Breath-Extended Harpsichord'
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_26.pdf
@@ -17728,8 +17722,8 @@
     \ and Paul Evans and Tanja Jörgensen},\n booktitle = {Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17553311},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {2},\n pages = {97--98},\n presentation-video\
-    \ = {},\n title = {Vertical Resonance},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_28.pdf},\n\
+    \ month = {September},\n numpages = {2},\n pages = {97--98},\n title = {Vertical\
+    \ Resonance},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_28.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -17739,7 +17733,6 @@
   month: September
   numpages: 2
   pages: 97--98
-  presentation-video: ""
   title: Vertical Resonance
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_28.pdf
@@ -17965,7 +17958,7 @@
     \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.17553322},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {3},\n pages = {114--116},\n\
-    \ presentation-video = {},\n title = {Talandon},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_33.pdf},\n\
+    \ title = {Talandon},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_33.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -17975,7 +17968,6 @@
   month: September
   numpages: 3
   pages: 114--116
-  presentation-video: ""
   title: Talandon
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_33.pdf
@@ -18269,9 +18261,9 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.15028095},\n editor = {Laurel Smith Pardue\
     \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {3},\n pages = {135--137},\n presentation-video = {},\n title = {PlayTrainPlay},\n\
-    \ track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_38.pdf},\n\
-    \ year = {2024}\n}\n"
+    \ = {3},\n pages = {135--137},\n title = {PlayTrainPlay},\n track = {Music},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_music_38.pdf},\n year = {2024}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.15028095
@@ -18280,7 +18272,6 @@
   month: September
   numpages: 3
   pages: 135--137
-  presentation-video: ""
   title: PlayTrainPlay
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_38.pdf
@@ -18337,8 +18328,7 @@
     \ International Conference on New Interfaces for Musical Expression},\n doi =\
     \ {10.5281/zenodo.15028181},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {4},\n pages = {138--141},\n\
-    \ presentation-video = {},\n title = {What it means to be post-human},\n track\
-    \ = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_39.pdf},\n\
+    \ title = {What it means to be post-human},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_39.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -18348,7 +18338,6 @@
   month: September
   numpages: 4
   pages: 138--141
-  presentation-video: ""
   title: What it means to be post-human
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_39.pdf
@@ -18572,8 +18561,8 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.17553396},\n editor = {Laurel Smith Pardue\
     \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {5},\n pages = {151--155},\n presentation-video = {},\n title = {WYPYM - Were\
-    \ you a part of your mother?},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_43.pdf},\n\
+    \ = {5},\n pages = {151--155},\n title = {WYPYM - Were you a part of your mother?},\n\
+    \ track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_43.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -18583,7 +18572,6 @@
   month: September
   numpages: 5
   pages: 151--155
-  presentation-video: ""
   title: 'WYPYM - Were you a part of your mother?'
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_43.pdf
@@ -18608,7 +18596,7 @@
     \ International Conference on New Interfaces for Musical Expression},\n doi =\
     \ {10.5281/zenodo.17553401},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
     \ issn = {2220-4806},\n month = {September},\n numpages = {2},\n pages = {156--157},\n\
-    \ presentation-video = {},\n title = {La durée},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_44.pdf},\n\
+    \ title = {La durée},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_44.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -18618,7 +18606,6 @@
   month: September
   numpages: 2
   pages: 156--157
-  presentation-video: ""
   title: La durée
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_44.pdf
@@ -18717,8 +18704,8 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.15028184},\n editor = {Laurel Smith\
     \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {3},\n pages = {161--163},\n presentation-video = {},\n title = {\
-    \ 竹脑 - zhu nao },\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_46.pdf},\n\
+    \ numpages = {3},\n pages = {161--163},\n title = { 竹脑 - zhu nao },\n track =\
+    \ {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_46.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -18728,7 +18715,6 @@
   month: September
   numpages: 3
   pages: 161--163
-  presentation-video: ""
   title: ' 竹脑 - zhu nao '
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_46.pdf
@@ -18949,8 +18935,8 @@
     \ and Nicole Carroll},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15028198},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {3},\n pages = {174--176},\n presentation-video\
-    \ = {},\n title = {Modular Mechanical Systems},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_50.pdf},\n\
+    \ month = {September},\n numpages = {3},\n pages = {174--176},\n title = {Modular\
+    \ Mechanical Systems},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_50.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -18960,7 +18946,6 @@
   month: September
   numpages: 3
   pages: 174--176
-  presentation-video: ""
   title: Modular Mechanical Systems
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_50.pdf
@@ -19000,8 +18985,8 @@
     \ and Albert Zhang},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17553403},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {3},\n pages = {177--179},\n presentation-video\
-    \ = {},\n title = {A Thousand Mornings},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_51.pdf},\n\
+    \ month = {September},\n numpages = {3},\n pages = {177--179},\n title = {A Thousand\
+    \ Mornings},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_51.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -19011,7 +18996,6 @@
   month: September
   numpages: 3
   pages: 177--179
-  presentation-video: ""
   title: A Thousand Mornings
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_51.pdf
@@ -19067,8 +19051,8 @@
     \ and John Bowers},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15028203},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {3},\n pages = {180--182},\n presentation-video\
-    \ = {},\n title = {Stuff In A Box},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_52.pdf},\n\
+    \ month = {September},\n numpages = {3},\n pages = {180--182},\n title = {Stuff\
+    \ In A Box},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_52.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -19078,7 +19062,6 @@
   month: September
   numpages: 3
   pages: 180--182
-  presentation-video: ""
   title: Stuff In A Box
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_52.pdf
@@ -19127,8 +19110,8 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.15028213},\n editor = {Laurel Smith\
     \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {2},\n pages = {183--184},\n presentation-video = {},\n title = {Dromos/Autos:\
-    \ The Autistic Ontology as Performance},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_53.pdf},\n\
+    \ numpages = {2},\n pages = {183--184},\n title = {Dromos/Autos: The Autistic\
+    \ Ontology as Performance},\n track = {Music},\n url = {http://nime.org/proceedings/2024/nime2024_music_53.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -19138,7 +19121,6 @@
   month: September
   numpages: 2
   pages: 183--184
-  presentation-video: ""
   title: 'Dromos/Autos: The Autistic Ontology as Performance'
   track: Music
   url: http://nime.org/proceedings/2024/nime2024_music_53.pdf

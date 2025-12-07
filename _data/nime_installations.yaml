@@ -2195,10 +2195,10 @@
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.15027650},\n editor = {Laurel Smith Pardue\
     \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {6},\n pages = {4--9},\n presentation-video = {},\n title = {Synaptic Sanctum\
-    \ Neuroscape: real-time emotionally adaptive music in a VR immersive environment\
-    \ },\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_2.pdf},\n\
-    \ year = {2024}\n}\n"
+    \ = {6},\n pages = {4--9},\n title = {Synaptic Sanctum Neuroscape: real-time emotionally\
+    \ adaptive music in a VR immersive environment },\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_2.pdf},\n year\
+    \ = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.15027650
@@ -2207,7 +2207,6 @@
   month: September
   numpages: 6
   pages: 4--9
-  presentation-video: ""
   title: 'Synaptic Sanctum Neuroscape: real-time emotionally adaptive music in a VR
     immersive environment '
   track: Installations
@@ -2324,8 +2323,8 @@
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.17552982},\n editor = {Laurel Smith\
     \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {3},\n pages = {14--16},\n presentation-video = {},\n title = {The\
-    \ Listening Canvas},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_4.pdf},\n\
+    \ numpages = {3},\n pages = {14--16},\n title = {The Listening Canvas},\n track\
+    \ = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_4.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -2335,7 +2334,6 @@
   month: September
   numpages: 3
   pages: 14--16
-  presentation-video: ""
   title: The Listening Canvas
   track: Installations
   url: http://nime.org/proceedings/2024/nime2024_installations_4.pdf
@@ -2458,8 +2456,8 @@
     \ Lina Bautista},\n booktitle = {Proceedings of the International Conference on\
     \ New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15027164},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {2},\n pages = {26--27},\n presentation-video\
-    \ = {},\n title = {Maria Choir},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_7.pdf},\n\
+    \ month = {September},\n numpages = {2},\n pages = {26--27},\n title = {Maria\
+    \ Choir},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_7.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -2469,70 +2467,9 @@
   month: September
   numpages: 2
   pages: 26--27
-  presentation-video: ""
   title: Maria Choir
   track: Installations
   url: http://nime.org/proceedings/2024/nime2024_installations_7.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_8
-  abstract: "[in.tangibile] is an interactive sound art installation confronting visitors\
-    \ with two main concepts. In the first instance, it proposes a reflection on the\
-    \ materiality of sound, which, although often referred to as an ’object’ in the\
-    \ sonic arts context, remains nevertheless formless and elusive. Yet, it is a\
-    \ physical phenomenon that impacts—albeit usually imperceptibly—the surrounding\
-    \ environment. Is its supposed intangibility, thus, intrinsic to the sound event,\
-    \ or is it related to our perceptual limitations? Secondly [in.tangibile] centralises\
-    \ the audience’s role in the artistic creation process. According to Umberto Eco’s\
-    \ open work concept, an artwork is not an accomplished and unchangeable fact but\
-    \ rather an artefact that only finds its completeness in combination with the\
-    \ interaction of the audience and the subsequent interpretative process it enacts.\
-    \ [in.tangibile], through experimental interfaces—recalling the tradition of graphic\
-    \ scores—and generative processes, aims to provide an experimental, tactile dimension\
-    \ to the sound phenomenon whilst elevating the audience at the role of co-creator,\
-    \ granting freedom of exploration and creative agency to explore the affordances\
-    \ of the artistic system and its grounding concept."
-  address: 'Utrecht, Netherlands'
-  articleno: 8
-  author: Enrico Dorigatti
-  bibtex: "@inproceedings{nime2024_installations_8,\n abstract = {[in.tangibile] is\
-    \ an interactive sound art installation confronting visitors with two main concepts.\
-    \ In the first instance, it proposes a reflection on the materiality of sound,\
-    \ which, although often referred to as an ’object’ in the sonic arts context,\
-    \ remains nevertheless formless and elusive. Yet, it is a physical phenomenon\
-    \ that impacts—albeit usually imperceptibly—the surrounding environment. Is its\
-    \ supposed intangibility, thus, intrinsic to the sound event, or is it related\
-    \ to our perceptual limitations? Secondly [in.tangibile] centralises the audience’s\
-    \ role in the artistic creation process. According to Umberto Eco’s open work\
-    \ concept, an artwork is not an accomplished and unchangeable fact but rather\
-    \ an artefact that only finds its completeness in combination with the interaction\
-    \ of the audience and the subsequent interpretative process it enacts. [in.tangibile],\
-    \ through experimental interfaces—recalling the tradition of graphic scores—and\
-    \ generative processes, aims to provide an experimental, tactile dimension to\
-    \ the sound phenomenon whilst elevating the audience at the role of co-creator,\
-    \ granting freedom of exploration and creative agency to explore the affordances\
-    \ of the artistic system and its grounding concept.},\n address = {Utrecht, Netherlands},\n\
-    \ articleno = {8},\n author = {Enrico Dorigatti},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.5281/zenodo.17846330},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
-    \ issn = {2220-4806},\n month = {September},\n numpages = {4},\n pages = {28--31},\n\
-    \ presentation-video = {},\n title = {[in.tangibile]},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_8.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17846330
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 4
-  pages: 28--31
-  presentation-video: ""
-  title: "[in.tangibile]"
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_8.pdf
   year: 2024
 
 
@@ -2568,8 +2505,8 @@
     \ and Nicole Luján},\n booktitle = {Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17553006},\n\
     \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {5},\n pages = {32--36},\n presentation-video\
-    \ = {},\n title = {Loco Loop},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_9.pdf},\n\
+    \ month = {September},\n numpages = {5},\n pages = {32--36},\n title = {Loco Loop},\n\
+    \ track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_9.pdf},\n\
     \ year = {2024}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -2579,7 +2516,6 @@
   month: September
   numpages: 5
   pages: 32--36
-  presentation-video: ""
   title: Loco Loop
   track: Installations
   url: http://nime.org/proceedings/2024/nime2024_installations_9.pdf
