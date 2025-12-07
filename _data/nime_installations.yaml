@@ -2474,6 +2474,63 @@
 
 
 - ENTRYTYPE: inproceedings
+  ID: nime2024_installations_8
+  abstract: "[in.tangibile] is an interactive sound art installation proposing a reflection\
+    \ on the materiality of sound, which, although often referred to as an object\
+    \ in the sonic arts context, remains nevertheless formless and elusive. Yet, it\
+    \ is a physical phenomenon that impacts—albeit usually imperceptibly—the surrounding\
+    \ environment. Is its supposed intangibility, thus, intrinsic to the sound event,\
+    \ or is it related to our perceptual limitations? By employing Umberto Eco’s open\
+    \ work concept, [in.tangibile] centralises the role of the audience in the process\
+    \ of artistic creation. According to Eco, an artwork is not an accomplished and\
+    \ unchangeable fact. Rather, it develops from the ecologies of interaction unfolding\
+    \ between the audience and the artefact provided by the artist. Such ecologies\
+    \ range from tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
+    \ through experimental interfaces recalling the tradition of graphic scores, aims\
+    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
+    \ elevating the audience as co-creators, centralising their role in the exploration\
+    \ of the artistic concept proposed and shaping the artistic and aesthetic experience."
+  address: 'Utrecht, Netherlands'
+  articleno: 8
+  author: Enrico Dorigatti
+  bibtex: "@inproceedings{nime2024_installations_8,\n abstract = {[in.tangibile] is\
+    \ an interactive sound art installation proposing a reflection on the materiality\
+    \ of sound, which, although often referred to as an object in the sonic arts context,\
+    \ remains nevertheless formless and elusive. Yet, it is a physical phenomenon\
+    \ that impacts—albeit usually imperceptibly—the surrounding environment. Is its\
+    \ supposed intangibility, thus, intrinsic to the sound event, or is it related\
+    \ to our perceptual limitations? By employing Umberto Eco’s open work concept,\
+    \ [in.tangibile] centralises the role of the audience in the process of artistic\
+    \ creation. According to Eco, an artwork is not an accomplished and unchangeable\
+    \ fact. Rather, it develops from the ecologies of interaction unfolding between\
+    \ the audience and the artefact provided by the artist. Such ecologies range from\
+    \ tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
+    \ through experimental interfaces recalling the tradition of graphic scores, aims\
+    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
+    \ elevating the audience as co-creators, centralising their role in the exploration\
+    \ of the artistic concept proposed and shaping the artistic and aesthetic experience.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {8},\n author = {Enrico Dorigatti},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.17846330},\n editor = {Laurel Smith\
+    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {4},\n pages = {28--31},\n title = {[in.tangibile]},\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_8.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17846330
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 4
+  pages: 28--31
+  title: "[in.tangibile]"
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_8.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
   ID: nime2024_installations_9
   abstract: 'Loco Loop is an installation for up to eight participants to record sounds
     into a loop, which they can create and manipulate together in real time. It has
