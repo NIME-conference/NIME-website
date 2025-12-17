@@ -8,7 +8,7 @@ permalink: /board/
 * [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony AI, Spain)
 * [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
 * [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer and Chair NIME 2026 (Imperial College, UK)
-* [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
+* [Stefano Fasciani](https://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
 * [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large (University of Aveiro, Portugal)
 * [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Chair NIME 2026 (Loughborough University London, UK)
 * [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Chair NIME 2025 (Australian National University, Australia)
