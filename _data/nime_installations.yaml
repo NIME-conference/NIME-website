@@ -2875,12 +2875,12 @@
     \ hand to sweep across a set of chimes.},\n address = {Mexico City, Mexico},\n\
     \ articleno = {31},\n author = {Steven Kemper},\n booktitle = {Installation Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.5281/zenodo.11194792},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ doi = {10.5281/zenodo.18000077},\n editor = {Salvador Chavez and Tito Rivas},\n\
     \ issn = {2220-4806},\n month = {May},\n title = {Tremolo-Chimes},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_31.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
-  doi: 10.5281/zenodo.11194792
+  doi: 10.5281/zenodo.18000077
   editor: Salvador Chavez and Tito Rivas
   issn: 2220-4806
   month: May
