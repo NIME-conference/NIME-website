@@ -8,6 +8,7 @@ The **ISSN** for the NIME proceedings series is: ISSN 2220-4806.
 
 Each year's individual ISBNs, when available, can be found in the list below:
 
+* 2026: 
 * 2025: 
 * 2024: 
 * 2023: 
