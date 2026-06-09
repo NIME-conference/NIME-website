@@ -106,11 +106,11 @@ navigation_header:
   url: /past-nimes/
 - title: Proceedings
   dropdown:
-    - title: Papers
+    - title: Paper
       url: /papers/
     - title: Music
       url: /music/
-    - title: Installations
+    - title: Installation
       url: /installations/
 - title: About
   dropdown:

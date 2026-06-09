@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Installations Proceedings
+title: Installation Proceedings
 permalink: /installations/
 ---
 
