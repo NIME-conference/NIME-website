@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers Proceedings
+title: Paper Proceedings
 permalink: /papers/
 ---
 
