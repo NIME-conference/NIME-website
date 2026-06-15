@@ -4,19 +4,19 @@ title: Hosting
 permalink: /hosting/
 ---
 
-The **Board of NIME** invites bids to host its 2027 and 2028 conferences.
+The **Board of NIME** invites bids to host its 2029 and 2030 conferences.
 
 ## Eligibility
 
-- For **NIME 2027**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
-- For **NIME 2028**, bids are welcome from **Europe**, in addition to the regions mentioned for 2027.
+- For **NIME 2029**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
+- For **NIME 2030**, bids are welcome from **Europe**, in addition to the regions mentioned for 2029.
 
 ## Bid Components
 
 Proposals should include the following elements:
 
 1. **Host Institution**: Brief introduction to the hosting institution(s) and any relevant affiliations.  
-2. **General chairs**: Please indicate who are going the be the General chairs, their affiliation, their connection to NIME.Highlight previous experience in hosting academic conferences or large events.  
+2. **General chairs**: Please indicate who are going the be the General chairs, their affiliation, their connection to NIME. Highlight previous experience in hosting academic conferences or large events.  
 3. **Other chairs**: Specify the additional chairing roles being considered and specify any intended deviation from the chairing structure of previous conferences.  
 4. **Organising Team**: Provide details of the team, including key chairs. This can be a tentative list.  
 5. **Proposed Theme**: Please describe the conference’s theme, highlighting its relevance to current NIME research.  
@@ -29,7 +29,7 @@ Proposals should include the following elements:
 
 ## Submission Process
 
-Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [f.morreale@auckland.ac.nz](mailto:f.morreale@auckland.ac.nz). Please specify whether the proposal is for 2027, 2028, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
+Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [fabio.morreale@sony.com](mailto:fabio.morreale@sony.com). Please specify whether the proposal is for 2029, 2030, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
 
 ## Review Criteria
 
