@@ -27,7 +27,7 @@ plugins:
   - jekyll-gist
   - jekyll-datapage-generator
   - jekyll-toc
-
+ 
 # This is the page_gen plugin config
 # This creates individual pages for each bibliography entry.
 page_gen:
@@ -58,31 +58,17 @@ page_gen:
   extension: html 
   page_data_prefix: entry
   debug: true 
-
-scholar:
-  style: "/assets/acm-sigchi-proceedings.csl"
-  repository: preprints
-  bibliography_template: bibliography
-  # details_layout: detail_layout
-  bibliography: nime_papers
-  group_by: year
-  group_order: descending
-  bibliography_list_tag: "ul"
-  bibliography_item_tag: "li"
-
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: nimeconf # jekyll-seo-tag > Owners twitter username
-author: NIMEconference # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: NIME Conference # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/nimeconf
-    - https://github.com/NIMEconference
+- data: nime_alt
+  template: paper
+  dir: proc_alt
+  index_files: true # false # I think this makes directories for each one which breaks linking somehow.
+  name: ID
+  title: title
+  extension: html 
+  page_data_prefix: entry
+  debug: true 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/nimeconf
-  GitHub: https://github.com/NIMEconference
   link: http://nime.org
   RSS: /feed.xml
     
@@ -112,6 +98,8 @@ navigation_header:
       url: /music/
     - title: Installation
       url: /installations/
+    - title: alt.nime
+      url: /alt/
 - title: About
   dropdown:
     - title: Statements
@@ -130,6 +118,8 @@ navigation_header:
       url: /mailinglist/
     - title: Forum
       url: https://forum.nime.org/
+    - title: Social
+      url: /social/
 
 navigation_footer:
 - title: Back to top

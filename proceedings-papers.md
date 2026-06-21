@@ -4,7 +4,7 @@ title: Paper Proceedings
 permalink: /papers/
 ---
 
-This page lists all papers published at the NIME conferences, organized in reverse chronological order.
+This page lists all peer-reviewed Papers published at the NIME conferences, organized in reverse chronological order.
 
 * **Peer review:** All papers have been peer-reviewed (most often by three international experts). See the [list of reviewers](/reviewers/). Only papers that were presented at the conferences (as presentation, poster or demo) are included.
 * **Open access:** NIME papers are open access (gold), and the copyright remains with the author(s). The NIME archive uses the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,822 @@
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_1
+  abstract: 'The Latin American (LATAM) NIME Network was created in 2021 by a group
+    of LATAM academics and artists. Since its creation the network has explored ways
+    of bringing LATAM NIME practitioners together through various initiatives such
+    as academic papers, workshops, gatherings and mentorship programmes. With this
+    zine our aim is to share previous and upcoming works from members of the LATAM
+    NIME community. We gathered the zine''s 13 entries through an open call in the
+    LATAM NIME Community WhatsApp group. Contributors are artists, technologists,
+    musicians, researchers, and educators from Argentina, Brazil, Chile, Colombia,
+    and Mexico. The works featured range from digital musical instruments, software
+    instruments, mobile applications and neural synthesis. These also explore decolonial
+    perspectives, building upon ancestral rituals and Latin American narratives and
+    traditions.'
+  address: 'London, United Kingdom'
+  articleno: 1
+  author: Juan Martinez Avila and Patricia Cadavid and Rafaele  Andrade and Ximena
+    Alarcon Diaz and Luam Clarindo and Teodoro Dannemann and Juan  Duarte Regino and
+    Moises  Horta Valenzuela and Gustavo Guzman and Alvaro Lopez Duarte and Juan Ramos
+    and Manuel Ruiz and Daniel  Upegui Flórez
+  bibtex: "@inproceedings{nime2026_alt_1,\n abstract = {The Latin American (LATAM)\
+    \ NIME Network was created in 2021 by a group of LATAM academics and artists.\
+    \ Since its creation the network has explored ways of bringing LATAM NIME practitioners\
+    \ together through various initiatives such as academic papers, workshops, gatherings\
+    \ and mentorship programmes. With this zine our aim is to share previous and upcoming\
+    \ works from members of the LATAM NIME community. We gathered the zine's 13 entries\
+    \ through an open call in the LATAM NIME Community WhatsApp group. Contributors\
+    \ are artists, technologists, musicians, researchers, and educators from Argentina,\
+    \ Brazil, Chile, Colombia, and Mexico. The works featured range from digital musical\
+    \ instruments, software instruments, mobile applications and neural synthesis.\
+    \ These also explore decolonial perspectives, building upon ancestral rituals\
+    \ and Latin American narratives and traditions.},\n address = {London, United\
+    \ Kingdom},\n articleno = {1},\n author = {Juan Martinez Avila and Patricia Cadavid\
+    \ and Rafaele  Andrade and Ximena Alarcon Diaz and Luam Clarindo and Teodoro Dannemann\
+    \ and Juan  Duarte Regino and Moises  Horta Valenzuela and Gustavo Guzman and\
+    \ Alvaro Lopez Duarte and Juan Ramos and Manuel Ruiz and Daniel  Upegui Flórez},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.20741928},\n editor = {Allie Texeira\
+    \ Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n\
+    \ note = {},\n numpages = {5},\n pages = {1--5},\n title = {LATAM NIME Zine 2026},\n\
+    \ track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_1.pdf},\n\
+    \ urlsuppl1 = {http://nime.org/proceedings/2026/nime2026_alt_1_file01.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741928
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 5
+  pages: 1--5
+  title: LATAM NIME Zine 2026
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_1.pdf
+  urlsuppl1: http://nime.org/proceedings/2026/nime2026_alt_1_file01.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_2
+  abstract: 'This work compiles radical interaction, a series of interviews with NIME
+    and HCI researchers and artists. Inspired by the timely arrival of the first alt.nime
+    at the 2026 conference, we consider an alternative method of bringing our ideas
+    to NIME, presenting a series of eight audio interviews as a linked podcast, zine
+    and online interactive website that plays with this year’s theme of community.
+    We present a standard linear view of the episodes alongside a shared listening
+    experience, where a community of listeners interact with each other through an
+    entangled listening experience that changes depending on how many concurrent listeners
+    are actively listening. The accompanying zine, circulated in physical form at
+    the conference, guides listeners through the processes and ideas of the podcast,
+    as a tool for engaging with a shared listening experience and the collision of
+    ideas radical interaction represents.'
+  address: 'London, United Kingdom'
+  articleno: 2
+  author: Benedict Gaster and Nathan Renney and Courtney Reed and Rodrigo Constanzo
+    and Sarah Angliss and Jasmine Butt and Patricia Hinojosa and Maisie Palmer and
+    Tom Mitchell and Atau Tanaka
+  bibtex: "@inproceedings{nime2026_alt_2,\n abstract = {This work compiles radical\
+    \ interaction, a series of interviews with NIME and HCI researchers and artists.\
+    \ Inspired by the timely arrival of the first alt.nime at the 2026 conference,\
+    \ we consider an alternative method of bringing our ideas to NIME, presenting\
+    \ a series of eight audio interviews as a linked podcast, zine and online interactive\
+    \ website that plays with this year’s theme of community. We present a standard\
+    \ linear view of the episodes alongside a shared listening experience, where a\
+    \ community of listeners interact with each other through an entangled listening\
+    \ experience that changes depending on how many concurrent listeners are actively\
+    \ listening. The accompanying zine, circulated in physical form at the conference,\
+    \ guides listeners through the processes and ideas of the podcast, as a tool for\
+    \ engaging with a shared listening experience and the collision of ideas radical\
+    \ interaction represents.},\n address = {London, United Kingdom},\n articleno\
+    \ = {2},\n author = {Benedict Gaster and Nathan Renney and Courtney Reed and Rodrigo\
+    \ Constanzo and Sarah Angliss and Jasmine Butt and Patricia Hinojosa and Maisie\
+    \ Palmer and Tom Mitchell and Atau Tanaka},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.5281/zenodo.20741934},\n editor = {Allie Texeira Riggs and Giacomo Lepri\
+    \ and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n note = {},\n numpages\
+    \ = {6},\n pages = {6--11},\n title = {radical interaction: a podcast of interaction\
+    \ exchange},\n track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_2.pdf},\n\
+    \ urlsuppl1 = {http://nime.org/proceedings/2026/nime2026_alt_2_file01.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741934
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 6
+  pages: 6--11
+  title: 'radical interaction: a podcast of interaction exchange'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_2.pdf
+  urlsuppl1: http://nime.org/proceedings/2026/nime2026_alt_2_file01.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_3
+  abstract: 'Connecting with nature, spirits, histories, and the emergent and experiential
+    dimensions of sound, we resist performativeegotism and challenge technosolutionism
+    in music technology through séance. Spirit mediums - human vessels thatinteract
+    with, channel, or anthropomorphise spirits - are cultural links between humans,
+    animals, and the surroundingenvironment. In Western contexts, the medium conducts
+    a specialist practice of discovering and performing techniquesto call upon spirits;
+    however, it is our position that anyone has the potential to become a spirit medium,
+    just as anyonehas creative voice. Using a collection of musical instruments, both
+    acoustic and electronically augmented, we propose anopportunity to spiritually
+    connect with the land and its spirits near the Loughborough University London
+    (LUL) campus.The séance overlaps ritual practices of experimental music-making,
+    healing of the connection between humans and land,and spiritual grounding through
+    meditative exercises. In light of technologically-enforced severances between
+    humansand spirits, we activate our potential as mediums, and use instruments as
+    conduits for rebuilding connection with thesame earth that this conference stands
+    on.'
+  address: 'London, United Kingdom'
+  articleno: 3
+  author: June Kuhn and Byuka Makodru and Courtney Reed and Adam Schmidt
+  bibtex: "@inproceedings{nime2026_alt_3,\n abstract = {Connecting with nature, spirits,\
+    \ histories, and the emergent and experiential dimensions of sound, we resist\
+    \ performativeegotism and challenge technosolutionism in music technology through\
+    \ séance. Spirit mediums - human vessels thatinteract with, channel, or anthropomorphise\
+    \ spirits - are cultural links between humans, animals, and the surroundingenvironment.\
+    \ In Western contexts, the medium conducts a specialist practice of discovering\
+    \ and performing techniquesto call upon spirits; however, it is our position that\
+    \ anyone has the potential to become a spirit medium, just as anyonehas creative\
+    \ voice. Using a collection of musical instruments, both acoustic and electronically\
+    \ augmented, we propose anopportunity to spiritually connect with the land and\
+    \ its spirits near the Loughborough University London (LUL) campus.The séance\
+    \ overlaps ritual practices of experimental music-making, healing of the connection\
+    \ between humans and land,and spiritual grounding through meditative exercises.\
+    \ In light of technologically-enforced severances between humansand spirits, we\
+    \ activate our potential as mediums, and use instruments as conduits for rebuilding\
+    \ connection with thesame earth that this conference stands on.},\n address =\
+    \ {London, United Kingdom},\n articleno = {3},\n author = {June Kuhn and Byuka\
+    \ Makodru and Courtney Reed and Adam Schmidt},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.5281/zenodo.20741940},\n editor = {Allie Texeira Riggs and Giacomo Lepri\
+    \ and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n note = {},\n numpages\
+    \ = {7},\n pages = {12--18},\n presentation-video = {https://youtu.be/QDc7eEwdCbQ},\n\
+    \ title = {Connecting to Ground: A Séance in the Wick Woodlands},\n track = {alt.nime},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_alt_3.pdf},\n urlsuppl1 = {http://nime.org/proceedings/2026/nime2026_alt_3_file01.mp4},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741940
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 7
+  pages: 12--18
+  presentation-video: https://youtu.be/QDc7eEwdCbQ
+  title: 'Connecting to Ground: A Séance in the Wick Woodlands'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_3.pdf
+  urlsuppl1: http://nime.org/proceedings/2026/nime2026_alt_3_file01.mp4
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_4
+  abstract: 'This research brings together reflections and experiments from a community
+    of optical sound filmmakers, bridging the worlds of NIME and experimental expanded
+    film. Encouraged by this year’s theme, as well as the arrival of alt.NIME, we
+    present a physical submission in the form of a spliced collage of film experiments,
+    a 16mm screening and a risographed zine.'
+  address: 'London, United Kingdom'
+  articleno: 4
+  author: Jasmine Butt and Jennifer Wicks  and Graeme Hogg and Kathy Hinde and Enrique
+    del Castillo and Matt Davies and Melanie Clifford and Lewis Heriz
+  bibtex: "@inproceedings{nime2026_alt_4,\n abstract = {This research brings together\
+    \ reflections and experiments from a community of optical sound filmmakers, bridging\
+    \ the worlds of NIME and experimental expanded film. Encouraged by this year’s\
+    \ theme, as well as the arrival of alt.NIME, we present a physical submission\
+    \ in the form of a spliced collage of film experiments, a 16mm screening and a\
+    \ risographed zine.},\n address = {London, United Kingdom},\n articleno = {4},\n\
+    \ author = {Jasmine Butt and Jennifer Wicks  and Graeme Hogg and Kathy Hinde and\
+    \ Enrique del Castillo and Matt Davies and Melanie Clifford and Lewis Heriz},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.20741944},\n editor = {Allie Texeira\
+    \ Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n\
+    \ note = {},\n numpages = {3},\n pages = {19--21},\n presentation-video = {https://doi.org/10.5281/zenodo.19919449},\n\
+    \ title = {Sound in Silver: A 16mm film screening and zine},\n track = {alt.nime},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_alt_4.pdf},\n year = {2026}\n\
+    }\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741944
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 3
+  pages: 19--21
+  presentation-video: https://doi.org/10.5281/zenodo.19919449
+  title: 'Sound in Silver: A 16mm film screening and zine'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_4.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_5
+  abstract: 'The 15-step pyramid tala by mridangam percussionist B C Manjunath is
+    introduced, as a frame for exploring algorithmicmusic through reciting syllables,
+    without the use of a computer. The authors share their self-reports on learning
+    to clap thetala while reciting patterns of syllables, and transforming them through
+    algorithmic procedures inspired by South Indian,Carnatic rhythms. The experience
+    of taking an embodied approach to learning algorithmic patterns is reflected on,
+    interms of the relationship between simple rules with complex results, the value
+    of learning to perform algorithms manually,the potential for inspiring new live
+    coding languages, and the relationship between algorithmic musician and audience.'
+  address: 'London, United Kingdom'
+  articleno: 5
+  author: Alex McLean  and Dan Stowell
+  bibtex: "@inproceedings{nime2026_alt_5,\n abstract = {The 15-step pyramid tala by\
+    \ mridangam percussionist B C Manjunath is introduced, as a frame for exploring\
+    \ algorithmicmusic through reciting syllables, without the use of a computer.\
+    \ The authors share their self-reports on learning to clap thetala while reciting\
+    \ patterns of syllables, and transforming them through algorithmic procedures\
+    \ inspired by South Indian,Carnatic rhythms. The experience of taking an embodied\
+    \ approach to learning algorithmic patterns is reflected on, interms of the relationship\
+    \ between simple rules with complex results, the value of learning to perform\
+    \ algorithms manually,the potential for inspiring new live coding languages, and\
+    \ the relationship between algorithmic musician and audience.},\n address = {London,\
+    \ United Kingdom},\n articleno = {5},\n author = {Alex McLean  and Dan Stowell},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.20741947},\n editor = {Allie Texeira\
+    \ Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n\
+    \ note = {},\n numpages = {7},\n pages = {22--28},\n presentation-video = {https://www.youtube.com/shorts/DV3RPS2-iZw},\n\
+    \ title = {Learning and Embodying Algorithmic Music via the Pyramid Tala},\n track\
+    \ = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_5.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741947
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 7
+  pages: 22--28
+  presentation-video: https://www.youtube.com/shorts/DV3RPS2-iZw
+  title: Learning and Embodying Algorithmic Music via the Pyramid Tala
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_5.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_6
+  abstract: 'Transcending conventional modes of documentation in NIME, this submission
+    presents ``No-gos, Incidents, Malfunctions and Errors: The Encyclopedia of Failed
+    Performances'''', an ongoing zine series where stories about ``failed''''performances
+    are shared among the community. The issues of the zine are provocatively organised
+    in an alphabetical order akin to an encyclopedia in stark contrast with the complex
+    and often unclassifiable nature of the subject matter. Through an open call, we
+    bring together first-hand accounts of moments when self-built instruments misbehave,
+    systems jam, sounds fail to emerge, or live setups resist control. By collecting
+    these stories and creating a space for sharing, our project aims to promote reflection
+    on what these situations potentially reveal about artistic intention, situational
+    adaptation, and the relationship between performers and technology.'
+  address: 'London, United Kingdom'
+  articleno: 6
+  author: Iurii Kuzmin and Xinran Chen and Wenqing GU and Nicolò Merendino
+  bibtex: "@inproceedings{nime2026_alt_6,\n abstract = {Transcending conventional\
+    \ modes of documentation in NIME, this submission presents ``No-gos, Incidents,\
+    \ Malfunctions and Errors: The Encyclopedia of Failed Performances'', an ongoing\
+    \ zine series where stories about ``failed''performances are shared among the\
+    \ community. The issues of the zine are provocatively organised in an alphabetical\
+    \ order akin to an encyclopedia in stark contrast with the complex and often unclassifiable\
+    \ nature of the subject matter. Through an open call, we bring together first-hand\
+    \ accounts of moments when self-built instruments misbehave, systems jam, sounds\
+    \ fail to emerge, or live setups resist control. By collecting these stories and\
+    \ creating a space for sharing, our project aims to promote reflection on what\
+    \ these situations potentially reveal about artistic intention, situational adaptation,\
+    \ and the relationship between performers and technology.},\n address = {London,\
+    \ United Kingdom},\n articleno = {6},\n author = {Iurii Kuzmin and Xinran Chen\
+    \ and Wenqing GU and Nicolò Merendino},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741949},\n\
+    \ editor = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {8},\n pages = {29--36},\n title =\
+    \ {No-gos, Incidents, Malfunctions and Errors: The Encyclopedia of Failed Performances},\n\
+    \ track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_6.pdf},\n\
+    \ urlsuppl1 = {http://nime.org/proceedings/2026/nime2026_alt_6_file01.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741949
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 8
+  pages: 29--36
+  title: 'No-gos, Incidents, Malfunctions and Errors: The Encyclopedia of Failed Performances'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_6.pdf
+  urlsuppl1: http://nime.org/proceedings/2026/nime2026_alt_6_file01.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_7
+  abstract: 'The default assumption in Western musical culture is that an instrument
+    is an object that a player uses to make music: one person, one instrument, one
+    set of expressive possibilities. This paper questions this from the perspective
+    of a practitioner working outside academia.Drawing on five years of practice with
+    RiTA, a browser-based shared soundboard built for Brighton & Hove Music for Connection(BHMC),
+    I describe something that was not designed as an instrument, but was recognised
+    as one by the community’s workshopfacilitators. RiTA has no single player, no
+    clear boundary, and no existence independent of the community it serves. It was
+    built to helplearning disabled musicians, older people, and refugees make music
+    together during a pandemic, and it has since travelled to contextsincluding the
+    British Library’s Unlocking Our Sound Heritage programme and the National Trust’s
+    Changing Chalk project. UsingRiTA as a case study, we argue that instruments are
+    better understood as entanglements of people, sounds, spaces, and organisationalstructures
+    than as objects. Applying Conway’s Law, I suggest that different organisational
+    structures naturally produce different kinds ofinstrument, and that widening the
+    conversation about what instruments can be may require welcoming the organisations
+    that produce them.'
+  address: 'London, United Kingdom'
+  articleno: 7
+  author: Stephen Wolff
+  bibtex: "@inproceedings{nime2026_alt_7,\n abstract = {The default assumption in\
+    \ Western musical culture is that an instrument is an object that a player uses\
+    \ to make music: one person, one instrument, one set of expressive possibilities.\
+    \ This paper questions this from the perspective of a practitioner working outside\
+    \ academia.Drawing on five years of practice with RiTA, a browser-based shared\
+    \ soundboard built for Brighton & Hove Music for Connection(BHMC), I describe\
+    \ something that was not designed as an instrument, but was recognised as one\
+    \ by the community’s workshopfacilitators. RiTA has no single player, no clear\
+    \ boundary, and no existence independent of the community it serves. It was built\
+    \ to helplearning disabled musicians, older people, and refugees make music together\
+    \ during a pandemic, and it has since travelled to contextsincluding the British\
+    \ Library’s Unlocking Our Sound Heritage programme and the National Trust’s Changing\
+    \ Chalk project. UsingRiTA as a case study, we argue that instruments are better\
+    \ understood as entanglements of people, sounds, spaces, and organisationalstructures\
+    \ than as objects. Applying Conway’s Law, I suggest that different organisational\
+    \ structures naturally produce different kinds ofinstrument, and that widening\
+    \ the conversation about what instruments can be may require welcoming the organisations\
+    \ that produce them.},\n address = {London, United Kingdom},\n articleno = {7},\n\
+    \ author = {Stephen Wolff},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741954},\n\
+    \ editor = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {5},\n pages = {37--41},\n title =\
+    \ {RiTA Is Not An Instrument},\n track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_7.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741954
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 5
+  pages: 37--41
+  title: RiTA Is Not An Instrument
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_7.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_8
+  abstract: 'Emergent Resonance is a politically situated sonic intervention responding
+    to the simultaneous violence of U.S. military bombing in Iran and the killing
+    of Iranian protesters by the Iranian regime. Composed during a moment of profound
+    personal and political discomfort, the work emerges from my position as an American-Iranian
+    music technologist. In this moment, composing feels less like an artistic endeavor
+    and more like a moral obligation.The piece constructs a sonic language of fragmentation,
+    resonance, and decay through algorithmic and live-coded processes. Vocal-like
+    textures and melodic gestures are broken into granular debris, echoes, and spectral
+    residues that resemble sonic ash—unstable remnants of voices that persist even
+    as they are suppressed. Rather than referencing a specific source, the work evokes
+    the collective presence of silenced voices through processes of erosion, distortion,
+    and transformation. Glitches, instability, and loss of coherence function as metaphors
+    for censorship, violence, and collective mourning.Within the context of the alt.nime
+    track at the International Conference on New Interfaces for Musical Expression,
+    this piece is not presented simply as music, but as a provocation. It questions
+    the neutrality often assumed in music technology research and asks what responsibility
+    artists and technologists carry when their tools exist within systems of geopolitical
+    power.What does it mean to design sonic systems while bombs fall and protesters
+    are shot? Can music technologies serve as forms of witnessing, or do they risk
+    turning tragedy into aesthetic material? By foregrounding discomfort, contradiction,
+    and diasporic responsibility, the work invites the NIME community to confront
+    the political entanglements of its own technological practices.'
+  address: 'London, United Kingdom'
+  articleno: 8
+  author: Visda Goudarzi
+  bibtex: "@inproceedings{nime2026_alt_8,\n abstract = {Emergent Resonance is a politically\
+    \ situated sonic intervention responding to the simultaneous violence of U.S.\
+    \ military bombing in Iran and the killing of Iranian protesters by the Iranian\
+    \ regime. Composed during a moment of profound personal and political discomfort,\
+    \ the work emerges from my position as an American-Iranian music technologist.\
+    \ In this moment, composing feels less like an artistic endeavor and more like\
+    \ a moral obligation.The piece constructs a sonic language of fragmentation, resonance,\
+    \ and decay through algorithmic and live-coded processes. Vocal-like textures\
+    \ and melodic gestures are broken into granular debris, echoes, and spectral residues\
+    \ that resemble sonic ash—unstable remnants of voices that persist even as they\
+    \ are suppressed. Rather than referencing a specific source, the work evokes the\
+    \ collective presence of silenced voices through processes of erosion, distortion,\
+    \ and transformation. Glitches, instability, and loss of coherence function as\
+    \ metaphors for censorship, violence, and collective mourning.Within the context\
+    \ of the alt.nime track at the International Conference on New Interfaces for\
+    \ Musical Expression, this piece is not presented simply as music, but as a provocation.\
+    \ It questions the neutrality often assumed in music technology research and asks\
+    \ what responsibility artists and technologists carry when their tools exist within\
+    \ systems of geopolitical power.What does it mean to design sonic systems while\
+    \ bombs fall and protesters are shot? Can music technologies serve as forms of\
+    \ witnessing, or do they risk turning tragedy into aesthetic material? By foregrounding\
+    \ discomfort, contradiction, and diasporic responsibility, the work invites the\
+    \ NIME community to confront the political entanglements of its own technological\
+    \ practices.},\n address = {London, United Kingdom},\n articleno = {8},\n author\
+    \ = {Visda Goudarzi},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741958},\n\
+    \ editor = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {1},\n pages = {42--42},\n title =\
+    \ {Emergent Resonance},\n track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_8.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741958
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 1
+  pages: 42--42
+  title: Emergent Resonance
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_8.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_9
+  abstract: 'The alt.NIME submission for Outlandish Lullaby presents the work as an
+    interactive sound art piece that seeks to establish a new discourse within NIME,
+    redirecting focus from control-based interaction to the politics of listening.
+    The conceptual foundation of the piece draws from two related experiences: listening
+    to Buddhist scripture chanting during childhood, where the sounds were known yet
+    the words continued incomprehensible, and engaging with multilingual conversations
+    in New York, where the language was only partially understood but held substantial
+    emotional meaning.The piece is structured as a listening environment in which
+    the incomprehensibility of the voices is not regarded as a limitation. Instead,
+    it creates a sense of comfort, co-presence, and spatial distance with the voices.
+    While the user cannot comprehend the language, they are able to manipulate the
+    metric density, the multilingual voices, and the perceived proximity of the voices.
+    I characterize this as a counter-listening device, serving as an interface for
+    engaging with incomprehensibility rather than striving for comprehensibility.'
+  address: 'London, United Kingdom'
+  articleno: 9
+  author: Jiyou Park
+  bibtex: "@inproceedings{nime2026_alt_9,\n abstract = {The alt.NIME submission for\
+    \ Outlandish Lullaby presents the work as an interactive sound art piece that\
+    \ seeks to establish a new discourse within NIME, redirecting focus from control-based\
+    \ interaction to the politics of listening. The conceptual foundation of the piece\
+    \ draws from two related experiences: listening to Buddhist scripture chanting\
+    \ during childhood, where the sounds were known yet the words continued incomprehensible,\
+    \ and engaging with multilingual conversations in New York, where the language\
+    \ was only partially understood but held substantial emotional meaning.The piece\
+    \ is structured as a listening environment in which the incomprehensibility of\
+    \ the voices is not regarded as a limitation. Instead, it creates a sense of comfort,\
+    \ co-presence, and spatial distance with the voices. While the user cannot comprehend\
+    \ the language, they are able to manipulate the metric density, the multilingual\
+    \ voices, and the perceived proximity of the voices. I characterize this as a\
+    \ counter-listening device, serving as an interface for engaging with incomprehensibility\
+    \ rather than striving for comprehensibility.},\n address = {London, United Kingdom},\n\
+    \ articleno = {9},\n author = {Jiyou Park},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.5281/zenodo.20741964},\n editor = {Allie Texeira Riggs and Giacomo Lepri\
+    \ and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n note = {},\n numpages\
+    \ = {3},\n pages = {43--45},\n presentation-video = {https://www.youtube.com/watch?v=pWx3eO4B_Mk},\n\
+    \ title = {Outlandish Lullaby as a Counter-Listening Device: Rest, Untranslatability,\
+    \ and Intimate Estrangement in NIME},\n track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_9.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741964
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 3
+  pages: 43--45
+  presentation-video: https://www.youtube.com/watch?v=pWx3eO4B_Mk
+  title: 'Outlandish Lullaby as a Counter-Listening Device: Rest, Untranslatability,
+    and Intimate Estrangement in NIME'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_9.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_10
+  abstract: 'This paper presents “Pop Music,” a semi-edible gastroacoustic installation
+    that would be presented at alt.NIME in a hybrid installation/paper presentation.
+    This paper documents the creation of the installation, considers popcorn and corn-related
+    art and music, the uses of corn in NIMEs, and the potential scarceness of that
+    space being addressed by this installation and paper. The mechanics of the installation
+    are presented, along with a discussion of theoretical background and commentary.
+    Users were fed, and user feedback was evaluated. The paper concludes by connecting
+    this seemingly "trivial" installation to the interrelation of play and research,
+    conversations on NIME self-seriousness and aesthetic conformity, the value of
+    interactive installations, the interactivity of valuable installations,questions
+    of edibility and ethical implications in installations, universality of moral
+    codes, government structures and syntacticalrelations, astronomical quasar deduction,
+    and the profound unseriousness of this work.'
+  address: 'London, United Kingdom'
+  articleno: 10
+  author: Walker Smith and Nicholas Shaheed and Michael Mulshine
+  bibtex: "@inproceedings{nime2026_alt_10,\n abstract = {This paper presents “Pop\
+    \ Music,” a semi-edible gastroacoustic installation that would be presented at\
+    \ alt.NIME in a hybrid installation/paper presentation. This paper documents the\
+    \ creation of the installation, considers popcorn and corn-related art and music,\
+    \ the uses of corn in NIMEs, and the potential scarceness of that space being\
+    \ addressed by this installation and paper. The mechanics of the installation\
+    \ are presented, along with a discussion of theoretical background and commentary.\
+    \ Users were fed, and user feedback was evaluated. The paper concludes by connecting\
+    \ this seemingly \"trivial\" installation to the interrelation of play and research,\
+    \ conversations on NIME self-seriousness and aesthetic conformity, the value of\
+    \ interactive installations, the interactivity of valuable installations,questions\
+    \ of edibility and ethical implications in installations, universality of moral\
+    \ codes, government structures and syntacticalrelations, astronomical quasar deduction,\
+    \ and the profound unseriousness of this work.},\n address = {London, United Kingdom},\n\
+    \ articleno = {10},\n author = {Walker Smith and Nicholas Shaheed and Michael\
+    \ Mulshine},\n booktitle = {Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741966},\n editor\
+    \ = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {13},\n pages = {46--58},\n title\
+    \ = {Pop Music},\n track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_10.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741966
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 13
+  pages: 46--58
+  title: Pop Music
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_10.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_11
+  abstract: 'AI and the culture of speed it accelerates has significantly influenced
+    music consumption, resulting in an economy characterised by excess, and raises
+    important questions around consent, data provenance, and accessibility. We introduce
+    Slow Samples, a web-based platform built on ethical principles, designed for the
+    responsible sharing, exploration, and documentation of audio sample collections,
+    with consent embedded from the start and accessibility beyond academic contexts
+    as core commitments. Initial artist interviews informed the design, highlighting
+    ongoing concerns regarding provenance, cultural appropriation, and the ethical
+    implications of AI in music. Rooted in slow consumption, intentional friction,
+    slow AI, and design by refusal, the platform opposes infrastructures that prioritise
+    efficiency over context and scale over community, which is realised through extensive
+    required metadata, timed microboundaries, provenance tracking, and constrained
+    AI tooling. We argue that design can be a site of resistance, and that small acts
+    of refusal in infrastructure lay the foundation for alternative practice.'
+  address: 'London, United Kingdom'
+  articleno: 11
+  author: Trisha Khallaghi and Pete Bennett and Atau Tanaka
+  bibtex: "@inproceedings{nime2026_alt_11,\n abstract = {AI and the culture of speed\
+    \ it accelerates has significantly influenced music consumption, resulting in\
+    \ an economy characterised by excess, and raises important questions around consent,\
+    \ data provenance, and accessibility. We introduce Slow Samples, a web-based platform\
+    \ built on ethical principles, designed for the responsible sharing, exploration,\
+    \ and documentation of audio sample collections, with consent embedded from the\
+    \ start and accessibility beyond academic contexts as core commitments. Initial\
+    \ artist interviews informed the design, highlighting ongoing concerns regarding\
+    \ provenance, cultural appropriation, and the ethical implications of AI in music.\
+    \ Rooted in slow consumption, intentional friction, slow AI, and design by refusal,\
+    \ the platform opposes infrastructures that prioritise efficiency over context\
+    \ and scale over community, which is realised through extensive required metadata,\
+    \ timed microboundaries, provenance tracking, and constrained AI tooling. We argue\
+    \ that design can be a site of resistance, and that small acts of refusal in infrastructure\
+    \ lay the foundation for alternative practice.},\n address = {London, United Kingdom},\n\
+    \ articleno = {11},\n author = {Trisha Khallaghi and Pete Bennett and Atau Tanaka},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.20741970},\n editor = {Allie Texeira\
+    \ Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n\
+    \ note = {},\n numpages = {14},\n pages = {59--72},\n title = {Speed Makes Us\
+    \ Oblivious: A Slow and Responsible Approach to Engaging with Audio Sample Archives},\n\
+    \ track = {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_11.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741970
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 14
+  pages: 59--72
+  title: 'Speed Makes Us Oblivious: A Slow and Responsible Approach to Engaging with
+    Audio Sample Archives'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_11.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_12
+  abstract: 'At this point, a philosophical question arises as to which implementation
+    more authentically embodies the spirit of John Cage’s 4’33". The one-line version
+    (Implementation B) could be considered the most minimal version possible—perhaps
+    the “Platonic ideal” of 4’33" as expressed in the strongly-timed syntax and semantics
+    of the ChucK programming language, in so far as the above program is the passage
+    of a specific duration of time “in silence”; the absence of unit generators implies
+    a zero-amplitude audio output. The computer musician writing/running this code
+    draws parallels to the pianist sitting in front of a piano, which is not only
+    capable of making sound but also carries strong cultural expectations to make
+    sound, and yet the pianist chooses, in this case, to proactively not make sound.
+    This implementation, therefore, could be an embodiment of 4’33" from the point
+    of view of the performer(s) onstage. On the other hand, Implementation A, which
+    contains not only Implementation B in its entirety, but also goes to lengths to
+    connect the live audio input (adc) to the audio output (dac), foregrounding not
+    the sound made by the software program, but rather the incidental sounds of the
+    room. This is fitting of 4’33" in a different sense. In Cage’s original work,
+    the incidental sounds of the room that accompanies the absence of instrumental
+    sounds onstage, are an essential part of the piece itself, inviting audiences
+    to contemplate the nature of musical performances as well as what may constitute
+    a performance in the first place. Under this interpretation, Implementation A
+    nods to the acoustic, social, and cultural contexts in which the piece is performed.'
+  address: 'London, United Kingdom'
+  articleno: 12
+  author: Nicholas Shaheed and Primrose Ohling and Ge Wang
+  bibtex: "@inproceedings{nime2026_alt_12,\n abstract = {At this point, a philosophical\
+    \ question arises as to which implementation more authentically embodies the spirit\
+    \ of John Cage’s 4’33\". The one-line version (Implementation B) could be considered\
+    \ the most minimal version possible—perhaps the “Platonic ideal” of 4’33\" as\
+    \ expressed in the strongly-timed syntax and semantics of the ChucK programming\
+    \ language, in so far as the above program is the passage of a specific duration\
+    \ of time “in silence”; the absence of unit generators implies a zero-amplitude\
+    \ audio output. The computer musician writing/running this code draws parallels\
+    \ to the pianist sitting in front of a piano, which is not only capable of making\
+    \ sound but also carries strong cultural expectations to make sound, and yet the\
+    \ pianist chooses, in this case, to proactively not make sound. This implementation,\
+    \ therefore, could be an embodiment of 4’33\" from the point of view of the performer(s)\
+    \ onstage. On the other hand, Implementation A, which contains not only Implementation\
+    \ B in its entirety, but also goes to lengths to connect the live audio input\
+    \ (adc) to the audio output (dac), foregrounding not the sound made by the software\
+    \ program, but rather the incidental sounds of the room. This is fitting of 4’33\"\
+    \ in a different sense. In Cage’s original work, the incidental sounds of the\
+    \ room that accompanies the absence of instrumental sounds onstage, are an essential\
+    \ part of the piece itself, inviting audiences to contemplate the nature of musical\
+    \ performances as well as what may constitute a performance in the first place.\
+    \ Under this interpretation, Implementation A nods to the acoustic, social, and\
+    \ cultural contexts in which the piece is performed.},\n address = {London, United\
+    \ Kingdom},\n articleno = {12},\n author = {Nicholas Shaheed and Primrose Ohling\
+    \ and Ge Wang},\n booktitle = {Proceedings of the International Conference on\
+    \ New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741974},\n\
+    \ editor = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {2},\n pages = {73--74},\n title =\
+    \ {Cage Off: Two Implementations of 4’33” in ChucK},\n track = {alt.nime},\n url\
+    \ = {http://nime.org/proceedings/2026/nime2026_alt_12.pdf},\n year = {2026}\n\
+    }\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741974
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 2
+  pages: 73--74
+  title: 'Cage Off: Two Implementations of 4’33” in ChucK'
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_12.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_13
+  abstract: 'As artificial intelligence continues to become embedded in musical instrument
+    design, this Alt.NIME paper proposes examining how data is used in any such system.
+    It extends the concept of small data beyond dataset size alone, proposing a framework
+    that emphasises limited, self-curated, marginalised, and situated datasets. To
+    explore current practices, we conduct an exploratory audit of submissions to the
+    NIME 2026 proceedings that employ artificial intelligence or data-driven techniques.
+    The audit investigates how datasets aredescribed, whether their sources are documented
+    and accessible, and the extent to which smaller or situated datasets are used.
+    Through this investigation, we aim to highlight the visibility (or absence) of
+    dataset transparency within NIME research.'
+  address: 'London, United Kingdom'
+  articleno: 13
+  author: Elizabeth Wilson
+  bibtex: "@inproceedings{nime2026_alt_13,\n abstract = {As artificial intelligence\
+    \ continues to become embedded in musical instrument design, this Alt.NIME paper\
+    \ proposes examining how data is used in any such system. It extends the concept\
+    \ of small data beyond dataset size alone, proposing a framework that emphasises\
+    \ limited, self-curated, marginalised, and situated datasets. To explore current\
+    \ practices, we conduct an exploratory audit of submissions to the NIME 2026 proceedings\
+    \ that employ artificial intelligence or data-driven techniques. The audit investigates\
+    \ how datasets aredescribed, whether their sources are documented and accessible,\
+    \ and the extent to which smaller or situated datasets are used. Through this\
+    \ investigation, we aim to highlight the visibility (or absence) of dataset transparency\
+    \ within NIME research.},\n address = {London, United Kingdom},\n articleno =\
+    \ {13},\n author = {Elizabeth Wilson},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20741976},\n\
+    \ editor = {Allie Texeira Riggs and Giacomo Lepri and Yann Seznec},\n issn = {2220-4806},\n\
+    \ month = {June},\n note = {},\n numpages = {4},\n pages = {75--78},\n title =\
+    \ {Rethinking Data Practices for ‘Intelligent’ Musical Interfaces},\n track =\
+    \ {alt.nime},\n url = {http://nime.org/proceedings/2026/nime2026_alt_13.pdf},\n\
+    \ year = {2026}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741976
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 4
+  pages: 75--78
+  title: Rethinking Data Practices for ‘Intelligent’ Musical Interfaces
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_13.pdf
+  year: 2026
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2026_alt_14
+  abstract: 'Across cultures and historical periods, collective sound practices have
+    structured ritual life. Circles of bodies and voices and repeated gestures have
+    long served as interfaces for binding communities together, mediating relationships
+    between individuals and forces perceived as larger than themselves. Anthropological
+    accounts of ritual, from liturgy and chant to shamanic invocation and communal
+    song, reveal a shared grammar: repetition, cyclical time, call-and-response structures,
+    and the transformation of individual voices into a collective sonic body.Within
+    such contexts, sound does not merely communicate meaning; it produces social and
+    symbolic order. The voice, in particular, occupies a privileged position. When
+    amplified through choral repetition or ritual mediation, it becomes detached from
+    singular authorship and re-emerges as something collective, authoritative, or
+    transcendent. Technological cultures have not abandoned these structures. Rather,
+    they frequently reproduce them in new forms. Gatherings centered around electronic
+    instruments, speaker arrays, and computational systems often replicate ritualistic
+    patterns of congregation. In these contexts, machines and interfaces may function
+    as focal objects around which collective sonic experience is organized.Within
+    this perspective, we ask: what are the intellectual, spiritual, and aesthetic
+    boundaries of NIME? If musical interfaces mediate collective sonic practices,
+    can they also participate in ritual structures? Can technological systems become
+    objects of symbolic focus, or even forms of contemporary idolization? Rather than
+    offering answers, the work proposes a speculative anthropological lens through
+    which the culture of musical interface research might be reconsidered: as a space
+    where technology and musical expression intersect with human rituals of gathering,
+    invocation, and shared sonic experience. '
+  address: 'London, United Kingdom'
+  articleno: 14
+  author: Nicholas Shaheed and Héloïse Garry
+  bibtex: "@inproceedings{nime2026_alt_14,\n abstract = {Across cultures and historical\
+    \ periods, collective sound practices have structured ritual life. Circles of\
+    \ bodies and voices and repeated gestures have long served as interfaces for binding\
+    \ communities together, mediating relationships between individuals and forces\
+    \ perceived as larger than themselves. Anthropological accounts of ritual, from\
+    \ liturgy and chant to shamanic invocation and communal song, reveal a shared\
+    \ grammar: repetition, cyclical time, call-and-response structures, and the transformation\
+    \ of individual voices into a collective sonic body.Within such contexts, sound\
+    \ does not merely communicate meaning; it produces social and symbolic order.\
+    \ The voice, in particular, occupies a privileged position. When amplified through\
+    \ choral repetition or ritual mediation, it becomes detached from singular authorship\
+    \ and re-emerges as something collective, authoritative, or transcendent. Technological\
+    \ cultures have not abandoned these structures. Rather, they frequently reproduce\
+    \ them in new forms. Gatherings centered around electronic instruments, speaker\
+    \ arrays, and computational systems often replicate ritualistic patterns of congregation.\
+    \ In these contexts, machines and interfaces may function as focal objects around\
+    \ which collective sonic experience is organized.Within this perspective, we ask:\
+    \ what are the intellectual, spiritual, and aesthetic boundaries of NIME? If musical\
+    \ interfaces mediate collective sonic practices, can they also participate in\
+    \ ritual structures? Can technological systems become objects of symbolic focus,\
+    \ or even forms of contemporary idolization? Rather than offering answers, the\
+    \ work proposes a speculative anthropological lens through which the culture of\
+    \ musical interface research might be reconsidered: as a space where technology\
+    \ and musical expression intersect with human rituals of gathering, invocation,\
+    \ and shared sonic experience. },\n address = {London, United Kingdom},\n articleno\
+    \ = {14},\n author = {Nicholas Shaheed and Héloïse Garry},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.5281/zenodo.20741980},\n editor = {Allie Texeira Riggs and Giacomo\
+    \ Lepri and Yann Seznec},\n issn = {2220-4806},\n month = {June},\n note = {},\n\
+    \ numpages = {3},\n pages = {79--81},\n presentation-video = {https://www.youtube.com/watch?v=Iy2pM-R1-6k},\n\
+    \ title = {ritus wired sacerdos - Ritualistic NIME},\n track = {alt.nime},\n url\
+    \ = {http://nime.org/proceedings/2026/nime2026_alt_14.pdf},\n year = {2026}\n\
+    }\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.20741980
+  editor: Allie Texeira Riggs and Giacomo Lepri and Yann Seznec
+  issn: 2220-4806
+  month: June
+  note: ""
+  numpages: 3
+  pages: 79--81
+  presentation-video: https://www.youtube.com/watch?v=Iy2pM-R1-6k
+  title: ritus wired sacerdos - Ritualistic NIME
+  track: alt.nime
+  url: http://nime.org/proceedings/2026/nime2026_alt_14.pdf
+  year: 2026

@@ -664,137 +664,1030 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Farshi
-  address: 'Genova, Italy'
-  author: Olly Farshi
-  bibtex: "@inproceedings{nime2008_installations_Farshi,\n address = {Genova, Italy},\n\
-    \ author = {Olly Farshi},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
-    \ month = {June},\n publisher = {Casa Paganini},\n title = {Habitat},\n year =\
-    \ {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Habitat
-  year: 2008
+  ID: nime2024_installations_1
+  abstract: 'Echo Chamber is a participatory sound installation using MusicGen’s audio
+    generative AI. Participants play a short melody on a piano, which is then used
+    as a reference for MusicGen to generate multiple versions of itself. These evolving
+    echoes of the original are played back through a multi-channel speaker installation.
+    The work alludes to concerns about generative AI creating a monoculture through
+    a feedback cycle of data scraping, copying and regenerating. By deliberately engaging
+    with (and simultaneously serving as a critique of) MusicGen’s innate tendency
+    to stay within predictable melodic and harmonic structures, we can layer and loop
+    multiple versions of the AI-generated audio while staying musically coherent.
+    The layering of multiple samples also allows us to produce a real-time participatory
+    work despite the time required for the AI generations (which currently take longer
+    to generate than the length of the audio samples generated). A piano was chosen
+    as the interface through which an audio reference is created by participants,
+    as it plays on the familiarity and ubiquity of the instrument, which has become
+    both a symbol and a tool of colonisation. Not only has the keyboard become a dominant
+    interface for music-making, the equal-tempered scale has become pervasive across
+    the globe in most popular music cultures, relegating other modes and scales to
+    the fringe – a pattern repeated by generative AI amplifying what is already amplified.'
+  address: 'Utrecht, Netherlands'
+  articleno: 1
+  author: Monica Lim and Jarrod Knibbe and Bingqing Chen and Ying Sima and Melanie
+    Huang
+  bibtex: "@inproceedings{nime2024_installations_1,\n abstract = {Echo Chamber is\
+    \ a participatory sound installation using MusicGen’s audio generative AI. Participants\
+    \ play a short melody on a piano, which is then used as a reference for MusicGen\
+    \ to generate multiple versions of itself. These evolving echoes of the original\
+    \ are played back through a multi-channel speaker installation. The work alludes\
+    \ to concerns about generative AI creating a monoculture through a feedback cycle\
+    \ of data scraping, copying and regenerating. By deliberately engaging with (and\
+    \ simultaneously serving as a critique of) MusicGen’s innate tendency to stay\
+    \ within predictable melodic and harmonic structures, we can layer and loop multiple\
+    \ versions of the AI-generated audio while staying musically coherent. The layering\
+    \ of multiple samples also allows us to produce a real-time participatory work\
+    \ despite the time required for the AI generations (which currently take longer\
+    \ to generate than the length of the audio samples generated). A piano was chosen\
+    \ as the interface through which an audio reference is created by participants,\
+    \ as it plays on the familiarity and ubiquity of the instrument, which has become\
+    \ both a symbol and a tool of colonisation. Not only has the keyboard become a\
+    \ dominant interface for music-making, the equal-tempered scale has become pervasive\
+    \ across the globe in most popular music cultures, relegating other modes and\
+    \ scales to the fringe – a pattern repeated by generative AI amplifying what is\
+    \ already amplified.},\n address = {Utrecht, Netherlands},\n articleno = {1},\n\
+    \ author = {Monica Lim and Jarrod Knibbe and Bingqing Chen and Ying Sima and Melanie\
+    \ Huang},\n booktitle = {Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n doi = {10.5281/zenodo.15027150},\n editor = {Laurel\
+    \ Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {3},\n pages = {1--3},\n presentation-video = {https://vimeo.com/938949011},\n\
+    \ title = {Echo Chamber},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_1.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027150
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 3
+  pages: 1--3
+  presentation-video: https://vimeo.com/938949011
+  title: Echo Chamber
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_1.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Talman
-  address: 'Genova, Italy'
-  author: Jeff Talman
-  bibtex: "@inproceedings{nime2008_installations_Talman,\n address = {Genova, Italy},\n\
-    \ author = {Jeff Talman},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
-    \ month = {June},\n publisher = {Casa Paganini},\n title = {MIRROR OF THE MOON},\n\
-    \ url = {www.jefftalman.com},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: MIRROR OF THE MOON
-  url: www.jefftalman.com
-  year: 2008
+  ID: nime2024_installations_2
+  abstract: 'Synaptic Sanctum Neuroscape is an immersive EEG-driven project that intertwines
+    the realms of neuroscience, music composition, and virtual reality. Developed
+    using Max/MSP and Unreal Engine 5, this immersive experience employs a custom
+    EEG device to read users’ brainwaves, transforming their neural activity into
+    emotionally adaptive music and particle systems. The sound spatialization uses
+    ambisonics, and music and environmental sounds are rendered in binaural format
+    for the VR headset’s headphones. This real-time EEG-driven composition, while
+    reflecting the user''s alert/relaxed states, also adapts the musical landscape
+    in response to the user’s evolving emotional dynamics, and the auditory experience
+    becomes an intimate collaboration between their neural patterns and the generative
+    musical algorithm. The EEG data also drives particle systems and manages the duration
+    of the 3D granulator’s grains. This granulator, built with the Max/MSP CataRT
+    library, manifests as glowing spheres within the virtual space, utilizing concatenative
+    synthesis where each sphere encapsulates a unique sonic fragment, and its position
+    and size are given by its sonic features. The visual elements resonate with the
+    music, creating a multisensory symphony that transcends the boundaries of traditional
+    VR experiences. The spatialization of this dynamically generated music is managed
+    by the ambisonics library Spat5: sound is encoded in ambisonics and decoded in
+    binaural format, allowing for a 3D perception of the music, and enhancing the
+    overall sense of presence and engagement. This project merges cheap custom EEG
+    technology and free VR development tools, dark aesthetics and generative art,
+    and invites participants to embark on a synesthetic journey through the realms
+    of their minds, where the convergence of science and art allows users to explore
+    what technology can show us of ourselves.'
+  address: 'Utrecht, Netherlands'
+  articleno: 2
+  author: Marta Rossi
+  bibtex: "@inproceedings{nime2024_installations_2,\n abstract = {Synaptic Sanctum\
+    \ Neuroscape is an immersive EEG-driven project that intertwines the realms of\
+    \ neuroscience, music composition, and virtual reality. Developed using Max/MSP\
+    \ and Unreal Engine 5, this immersive experience employs a custom EEG device to\
+    \ read users’ brainwaves, transforming their neural activity into emotionally\
+    \ adaptive music and particle systems. The sound spatialization uses ambisonics,\
+    \ and music and environmental sounds are rendered in binaural format for the VR\
+    \ headset’s headphones. This real-time EEG-driven composition, while reflecting\
+    \ the user's alert/relaxed states, also adapts the musical landscape in response\
+    \ to the user’s evolving emotional dynamics, and the auditory experience becomes\
+    \ an intimate collaboration between their neural patterns and the generative musical\
+    \ algorithm. The EEG data also drives particle systems and manages the duration\
+    \ of the 3D granulator’s grains. This granulator, built with the Max/MSP CataRT\
+    \ library, manifests as glowing spheres within the virtual space, utilizing concatenative\
+    \ synthesis where each sphere encapsulates a unique sonic fragment, and its position\
+    \ and size are given by its sonic features. The visual elements resonate with\
+    \ the music, creating a multisensory symphony that transcends the boundaries of\
+    \ traditional VR experiences. The spatialization of this dynamically generated\
+    \ music is managed by the ambisonics library Spat5: sound is encoded in ambisonics\
+    \ and decoded in binaural format, allowing for a 3D perception of the music, and\
+    \ enhancing the overall sense of presence and engagement. This project merges\
+    \ cheap custom EEG technology and free VR development tools, dark aesthetics and\
+    \ generative art, and invites participants to embark on a synesthetic journey\
+    \ through the realms of their minds, where the convergence of science and art\
+    \ allows users to explore what technology can show us of ourselves.},\n address\
+    \ = {Utrecht, Netherlands},\n articleno = {2},\n author = {Marta Rossi},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.5281/zenodo.15027650},\n editor = {Laurel Smith Pardue\
+    \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
+    \ = {6},\n pages = {4--9},\n title = {Synaptic Sanctum Neuroscape: real-time emotionally\
+    \ adaptive music in a VR immersive environment },\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_2.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027650
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 6
+  pages: 4--9
+  title: 'Synaptic Sanctum Neuroscape: real-time emotionally adaptive music in a VR
+    immersive environment '
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_2.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Paek
-  address: 'Genova, Italy'
-  author: JooYoun Paek
-  bibtex: "@inproceedings{nime2008_installations_Paek,\n address = {Genova, Italy},\n\
-    \ author = {JooYoun Paek},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
-    \ month = {June},\n publisher = {Casa Paganini},\n title = {Fold Loud},\n url\
-    \ = {https://shakethatbutton.com/fold-loud/},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Fold Loud
-  url: https://shakethatbutton.com/fold-loud/
-  year: 2008
+  ID: nime2024_installations_3
+  abstract: 'Token Telephone is a co-creative AI sound installation. Participants
+    enter a space equipped with a microphone and a quartet of generative sound neural
+    networks, each represented by a loudspeaker. Upon vocalizing into the microphone,
+    the participants'' utterance is transformed into neural acoustic tokens and played
+    back, initiating a game of telephone between the neural networks. Each network
+    encodes, processes and reconstructs the sound, distorting the original utterance
+    into new textures guided by the network''s training data. The newly reconfigured
+    sound is then passed to the next network/loudspeaker in a clockwise direction,
+    and the process repeats. The sound produced by the fourth network is passed back
+    to the first network in the cycle, creating a feedback loop wherein the original
+    utterance incrementally loses all of its original characteristics and disintegrates
+    into textures that reflect the inherent biases of the generative models in play.
+    In time, the resonant properties of the processes are revealed in front of the
+    participant. Inspired by the popular children''s game of telephone, Token Telephone
+    illuminates the gradual formation of hallucinations through the iterative processing
+    and re-processing of audio, reflecting the biases introduced by the model''s understanding
+    of sound objects, as well as the data that was provided to it.  '
+  address: 'Utrecht, Netherlands'
+  articleno: 3
+  author: Hugo Flores Garcia and Stephan Moore
+  bibtex: "@inproceedings{nime2024_installations_3,\n abstract = {Token Telephone\
+    \ is a co-creative AI sound installation. Participants enter a space equipped\
+    \ with a microphone and a quartet of generative sound neural networks, each represented\
+    \ by a loudspeaker. Upon vocalizing into the microphone, the participants' utterance\
+    \ is transformed into neural acoustic tokens and played back, initiating a game\
+    \ of telephone between the neural networks. Each network encodes, processes and\
+    \ reconstructs the sound, distorting the original utterance into new textures\
+    \ guided by the network's training data. The newly reconfigured sound is then\
+    \ passed to the next network/loudspeaker in a clockwise direction, and the process\
+    \ repeats. The sound produced by the fourth network is passed back to the first\
+    \ network in the cycle, creating a feedback loop wherein the original utterance\
+    \ incrementally loses all of its original characteristics and disintegrates into\
+    \ textures that reflect the inherent biases of the generative models in play.\
+    \ In time, the resonant properties of the processes are revealed in front of the\
+    \ participant. Inspired by the popular children's game of telephone, Token Telephone\
+    \ illuminates the gradual formation of hallucinations through the iterative processing\
+    \ and re-processing of audio, reflecting the biases introduced by the model's\
+    \ understanding of sound objects, as well as the data that was provided to it.\
+    \  },\n address = {Utrecht, Netherlands},\n articleno = {3},\n author = {Hugo\
+    \ Flores Garcia and Stephan Moore},\n booktitle = {Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17552961},\n\
+    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
+    \ month = {September},\n numpages = {4},\n pages = {10--13},\n presentation-video\
+    \ = {https://youtu.be/vEaYoEgtSUo},\n title = {Token Telephone},\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_3.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17552961
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 4
+  pages: 10--13
+  presentation-video: https://youtu.be/vEaYoEgtSUo
+  title: Token Telephone
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_3.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Newby
-  address: 'Genova, Italy'
-  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
-  bibtex: "@inproceedings{nime2008_installations_Newby,\n address = {Genova, Italy},\n\
-    \ author = {Kenneth Newby, Aleksandra Dulic and Martin Gotfrit},\n booktitle =\
-    \ {Installation Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
-    \ = {Casa Paganini},\n title = {in a thousand drops... refracted glances},\n url\
-    \ = {http://aleksandradulic.net/Projects/1000/1000.html},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: in a thousand drops... refracted glances
-  url: http://aleksandradulic.net/Projects/1000/1000.html
-  year: 2008
+  ID: nime2024_installations_4
+  abstract: '‘The Listening Canvas’ is an interactive sound installation that invites
+    audiences to discover the sounds of found objects by way of engaging in tactile
+    interactions with organic (grains, leaves, stems) and synthetic (plastics, cardboard,
+    fabric) matter within an open canvas. This sound installation displays a canvas
+    made of multiple synthetic materials surrounded by hanging found objects. Audiences
+    are invited to produce sounds by touching the surface of the canvas with their
+    hands or with leaves and other vegetal materials provided. This tactile interaction
+    is captured by contact microphones placed on the verso of the canvas. The sounds
+    are modified and diffused in real time through two transducers attached to hanging
+    found objects used as resonators, such as a frying pan and a watering can. The
+    installation enables a two-sided experience in which listening and sound-making
+    are equally encouraged. The aim of this artwork is to engage wide audiences, including
+    adults and children, in experimental sound-making and active listening practices.
+    They will be offered the opportunity to actively participate by way of touching
+    art objects in display, which is traditionally forbidden in exhibition spaces.
+    The organic and synthetic matter used to produce sounds through the canvas surface
+    is explored sonically in a way that fosters different modes of listening, challenging
+    boundaries between nature and culture towards an ecofeminist configuration.'
+  address: 'Utrecht, Netherlands'
+  articleno: 4
+  author: Luciana Perc
+  bibtex: "@inproceedings{nime2024_installations_4,\n abstract = {‘The Listening Canvas’\
+    \ is an interactive sound installation that invites audiences to discover the\
+    \ sounds of found objects by way of engaging in tactile interactions with organic\
+    \ (grains, leaves, stems) and synthetic (plastics, cardboard, fabric) matter within\
+    \ an open canvas. This sound installation displays a canvas made of multiple synthetic\
+    \ materials surrounded by hanging found objects. Audiences are invited to produce\
+    \ sounds by touching the surface of the canvas with their hands or with leaves\
+    \ and other vegetal materials provided. This tactile interaction is captured by\
+    \ contact microphones placed on the verso of the canvas. The sounds are modified\
+    \ and diffused in real time through two transducers attached to hanging found\
+    \ objects used as resonators, such as a frying pan and a watering can. The installation\
+    \ enables a two-sided experience in which listening and sound-making are equally\
+    \ encouraged. The aim of this artwork is to engage wide audiences, including adults\
+    \ and children, in experimental sound-making and active listening practices. They\
+    \ will be offered the opportunity to actively participate by way of touching art\
+    \ objects in display, which is traditionally forbidden in exhibition spaces. The\
+    \ organic and synthetic matter used to produce sounds through the canvas surface\
+    \ is explored sonically in a way that fosters different modes of listening, challenging\
+    \ boundaries between nature and culture towards an ecofeminist configuration.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {4},\n author = {Luciana Perc},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.17552982},\n editor = {Laurel Smith\
+    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {3},\n pages = {14--16},\n title = {The Listening Canvas},\n track\
+    \ = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_4.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17552982
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 3
+  pages: 14--16
+  title: The Listening Canvas
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_4.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Lamenzo
-  address: 'Genova, Italy'
-  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
-  bibtex: "@inproceedings{nime2008_installations_Lamenzo,\n address = {Genova, Italy},\n\
-    \ author = {Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli},\n booktitle\
-    \ = {Installation Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
-    \ = {Casa Paganini},\n title = {Soundscaper},\n url = {http://mediatedspaces/lib/mov/soundscaperlow.mov.},\n\
-    \ year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Soundscaper
-  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
-  year: 2008
+  ID: nime2024_installations_5
+  abstract: 'In this immersive installation, participants take on the role of rainmakers,
+    orchestrating their own thunderstorms through two distinctive modes. The first,
+    a free-playing mode, invites individuals to generate their personalized storms
+    by interacting with an electric taiko display. The intensity of their performance
+    directly influences the gathering pace of storm clouds, culminating in the triumphant
+    arrival of rain. The second mode, a precision-playing experience, challenges participants
+    to execute a specific musical phrase, vying for the esteemed title of successor
+    to a retiring rain god.'
+  address: 'Utrecht, Netherlands'
+  articleno: 5
+  author: Yunyu Ong and Emma Smith and Lee McIver and Maddie Duncan
+  bibtex: "@inproceedings{nime2024_installations_5,\n abstract = {In this immersive\
+    \ installation, participants take on the role of rainmakers, orchestrating their\
+    \ own thunderstorms through two distinctive modes. The first, a free-playing mode,\
+    \ invites individuals to generate their personalized storms by interacting with\
+    \ an electric taiko display. The intensity of their performance directly influences\
+    \ the gathering pace of storm clouds, culminating in the triumphant arrival of\
+    \ rain. The second mode, a precision-playing experience, challenges participants\
+    \ to execute a specific musical phrase, vying for the esteemed title of successor\
+    \ to a retiring rain god.},\n address = {Utrecht, Netherlands},\n articleno =\
+    \ {5},\n author = {Yunyu Ong and Emma Smith and Lee McIver and Maddie Duncan},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.17552998},\n editor = {Laurel Smith\
+    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {4},\n pages = {17--20},\n presentation-video = {https://vimeo.com/942206916/761cb98da1},\n\
+    \ title = {Be Your Own Rain God},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_5.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17552998
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 4
+  pages: 17--20
+  presentation-video: https://vimeo.com/942206916/761cb98da1
+  title: Be Your Own Rain God
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_5.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Napolitano
-  address: 'Genova, Italy'
-  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
-  bibtex: "@inproceedings{nime2008_installations_Napolitano,\n address = {Genova,\
-    \ Italy},\n author = {Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda},\n\
-    \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
-    \ publisher = {Casa Paganini},\n title = {SoundBarrier_},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: SoundBarrier_
-  year: 2008
+  ID: nime2024_installations_6
+  abstract: 'The work ‘What Is It (not) Like to Be a Bat?’ is a contemporary interpretation
+    of the famous paper ‘What Is It Like to Be a Bat’ (1974) by the American philosopher
+    Thomas Nagel. The work consists of a self-built headset which uses three ultrasonic
+    sensors and a gyroscope, translating the data in real-time into sound — analogous
+    to the sonar of a bat — creating an interactive musical ‘Bat-Theme’. Hence, it
+    is not only questioning the hard problem of consciousness and the line between
+    subjectivity and intersubjectivity, but also the urge to of science, philosophy
+    and technology to solve it, which might be impossible by nature.'
+  address: 'Utrecht, Netherlands'
+  articleno: 6
+  author: Leon Eckard
+  bibtex: "@inproceedings{nime2024_installations_6,\n abstract = {The work ‘What Is\
+    \ It (not) Like to Be a Bat?’ is a contemporary interpretation of the famous paper\
+    \ ‘What Is It Like to Be a Bat’ (1974) by the American philosopher Thomas Nagel.\
+    \ The work consists of a self-built headset which uses three ultrasonic sensors\
+    \ and a gyroscope, translating the data in real-time into sound — analogous to\
+    \ the sonar of a bat — creating an interactive musical ‘Bat-Theme’. Hence, it\
+    \ is not only questioning the hard problem of consciousness and the line between\
+    \ subjectivity and intersubjectivity, but also the urge to of science, philosophy\
+    \ and technology to solve it, which might be impossible by nature.},\n address\
+    \ = {Utrecht, Netherlands},\n articleno = {6},\n author = {Leon Eckard},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.5281/zenodo.17048764},\n editor = {Laurel Smith Pardue\
+    \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
+    \ = {5},\n pages = {21--25},\n presentation-video = {https://vimeo.com/912907360},\n\
+    \ title = {What Is It (not) Like to Be a Bat?},\n track = {Installations},\n url\
+    \ = {http://nime.org/proceedings/2024/nime2024_installations_6.pdf},\n year =\
+    \ {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17048764
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 5
+  pages: 21--25
+  presentation-video: https://vimeo.com/912907360
+  title: 'What Is It (not) Like to Be a Bat?'
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_6.pdf
+  year: 2024
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008_installations_Majoe
-  address: 'Genova, Italy'
-  author: Art Clay & Dennis Majoe
-  bibtex: "@inproceedings{nime2008_installations_Majoe,\n address = {Genova, Italy},\n\
-    \ author = {Art Clay & Dennis Majoe},\n booktitle = {Installation Proceedings\
+  ID: nime2024_installations_7
+  abstract: 'Interactive installation where a synthetic reproduction (using a timbre
+    transfer model) of the Catalan singer Maria Arnal’s voice harmonizes in real time
+    what the visitor sings, forming a hybrid choir. The harmonization is performed
+    by analysing the input voice and using different singing voice models (trained
+    for different vocal registers). The harmonization process also includes a set
+    of Maria Arnal''s samples triggered accordingly to the result of the analysis
+    of the input signal. This work explores on the timber transfer possibilities to
+    extend the human voice and reflects on how timber transfer techniques could offer
+    new expressive possibilities.'
+  address: 'Utrecht, Netherlands'
+  articleno: 7
+  author: Iván Paz and Lina Bautista
+  bibtex: "@inproceedings{nime2024_installations_7,\n abstract = {Interactive installation\
+    \ where a synthetic reproduction (using a timbre transfer model) of the Catalan\
+    \ singer Maria Arnal’s voice harmonizes in real time what the visitor sings, forming\
+    \ a hybrid choir. The harmonization is performed by analysing the input voice\
+    \ and using different singing voice models (trained for different vocal registers).\
+    \ The harmonization process also includes a set of Maria Arnal's samples triggered\
+    \ accordingly to the result of the analysis of the input signal. This work explores\
+    \ on the timber transfer possibilities to extend the human voice and reflects\
+    \ on how timber transfer techniques could offer new expressive possibilities.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {7},\n author = {Iván Paz and\
+    \ Lina Bautista},\n booktitle = {Proceedings of the International Conference on\
+    \ New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15027164},\n\
+    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
+    \ month = {September},\n numpages = {2},\n pages = {26--27},\n title = {Maria\
+    \ Choir},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_7.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027164
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 2
+  pages: 26--27
+  title: Maria Choir
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_7.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_8
+  abstract: "[in.tangibile] is an interactive sound art installation proposing a reflection\
+    \ on the materiality of sound, which, although often referred to as an object\
+    \ in the sonic arts context, remains nevertheless formless and elusive. Yet, it\
+    \ is a physical phenomenon that impacts—albeit usually imperceptibly—the surrounding\
+    \ environment. Is its supposed intangibility, thus, intrinsic to the sound event,\
+    \ or is it related to our perceptual limitations? By employing Umberto Eco’s open\
+    \ work concept, [in.tangibile] centralises the role of the audience in the process\
+    \ of artistic creation. According to Eco, an artwork is not an accomplished and\
+    \ unchangeable fact. Rather, it develops from the ecologies of interaction unfolding\
+    \ between the audience and the artefact provided by the artist. Such ecologies\
+    \ range from tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
+    \ through experimental interfaces recalling the tradition of graphic scores, aims\
+    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
+    \ elevating the audience as co-creators, centralising their role in the exploration\
+    \ of the artistic concept proposed and shaping the artistic and aesthetic experience."
+  address: 'Utrecht, Netherlands'
+  articleno: 8
+  author: Enrico Dorigatti
+  bibtex: "@inproceedings{nime2024_installations_8,\n abstract = {[in.tangibile] is\
+    \ an interactive sound art installation proposing a reflection on the materiality\
+    \ of sound, which, although often referred to as an object in the sonic arts context,\
+    \ remains nevertheless formless and elusive. Yet, it is a physical phenomenon\
+    \ that impacts—albeit usually imperceptibly—the surrounding environment. Is its\
+    \ supposed intangibility, thus, intrinsic to the sound event, or is it related\
+    \ to our perceptual limitations? By employing Umberto Eco’s open work concept,\
+    \ [in.tangibile] centralises the role of the audience in the process of artistic\
+    \ creation. According to Eco, an artwork is not an accomplished and unchangeable\
+    \ fact. Rather, it develops from the ecologies of interaction unfolding between\
+    \ the audience and the artefact provided by the artist. Such ecologies range from\
+    \ tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
+    \ through experimental interfaces recalling the tradition of graphic scores, aims\
+    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
+    \ elevating the audience as co-creators, centralising their role in the exploration\
+    \ of the artistic concept proposed and shaping the artistic and aesthetic experience.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {8},\n author = {Enrico Dorigatti},\n\
+    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
+    \ Musical Expression},\n doi = {10.5281/zenodo.17846330},\n editor = {Laurel Smith\
+    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {4},\n pages = {28--31},\n title = {[in.tangibile]},\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_8.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17846330
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 4
+  pages: 28--31
+  title: "[in.tangibile]"
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_8.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_9
+  abstract: 'Loco Loop is an installation for up to eight participants to record sounds
+    into a loop, which they can create and manipulate together in real time. It has
+    the shape of an octagonal table with eight pairs of headphones in which the surroundings
+    can be heard through two microphones embedded in the table top. There are three
+    main controls in the center of the table: one button to record, one button to
+    erase and a rotary knob to change the speed – and thus the pitch – of the loop.
+    There are two additional knobs on the sides for master effects such as reverb,
+    delay or distortion. Playing with this collaborative looper results in an attention
+    shift towards auditory perception. In continuous repetition, every sound becomes
+    music. Ultimately, the minimalist interface allows all participants – both with
+    and without musical education – to have a musical experience through sound manipulation.'
+  address: 'Utrecht, Netherlands'
+  articleno: 9
+  author: Fabian Werfel and Nicole Luján
+  bibtex: "@inproceedings{nime2024_installations_9,\n abstract = {Loco Loop is an\
+    \ installation for up to eight participants to record sounds into a loop, which\
+    \ they can create and manipulate together in real time. It has the shape of an\
+    \ octagonal table with eight pairs of headphones in which the surroundings can\
+    \ be heard through two microphones embedded in the table top. There are three\
+    \ main controls in the center of the table: one button to record, one button to\
+    \ erase and a rotary knob to change the speed – and thus the pitch – of the loop.\
+    \ There are two additional knobs on the sides for master effects such as reverb,\
+    \ delay or distortion. Playing with this collaborative looper results in an attention\
+    \ shift towards auditory perception. In continuous repetition, every sound becomes\
+    \ music. Ultimately, the minimalist interface allows all participants – both with\
+    \ and without musical education – to have a musical experience through sound manipulation.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {9},\n author = {Fabian Werfel\
+    \ and Nicole Luján},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17553006},\n\
+    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
+    \ month = {September},\n numpages = {5},\n pages = {32--36},\n title = {Loco Loop},\n\
+    \ track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_9.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17553006
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 5
+  pages: 32--36
+  title: Loco Loop
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_9.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_10
+  abstract: 'The Jellyfish is a species with one of the most simplistic and complete
+    Umwelts. Its pulsating movements are caused by a refined network, composing only
+    of a few neurons. These neural receptors, named Rhopalia, receive external simulation
+    which determines their pulses. In the ocean, these pulses then ripple into waves
+    in the water, that is sensed by the Rhopalia, triggering the pulses of the next
+    jellyfish. Such interactions (that cannot be seen by the naked eye) in repetition
+    over time, have sustained the existence of the jellyfish species across 6 billion
+    years. This mechanical system causes organic pulses, radiating an inexplicable
+    feeling of vitality. ‘Sonic Rhopalia’ is a sound installation that is produced
+    by the pulsation of four Aurelia aurita (a.k.a. moon jellyfish). By using Touch
+    Designer and a web camera to capture the movement of each jellyfish, we detect
+    its pulse through image analysis, using OpenCV and a combination of pixel color
+    channel classification and area calculation. Once the pulse of a jellyfish is
+    detected, it sends a bang to M4L (Max for Live) using OSC (OpenSound Control),
+    where it is used as a trigger for music composition. Sounds are played in response
+    to each pulse, and when the jellyfish pulse at the same time, in synchronization,
+    different chords and sounds are produced. The work develops across one loop comprising
+    of three phases with varying soundscapes, all determined by the number pulse synchronizations.
+    By reframing jellyfish as an interface for music generation, the rhythms and movements
+    of the pulsating jellyfish come together create a unique soundscape, that allows
+    the audience to experience the vitality of jellyfish in a completely new dimension
+    from conventional methods of bio-marine appreciation.'
+  address: 'Utrecht, Netherlands'
+  articleno: 10
+  author: Kenshiro Taira and Sogen Handa and Risako Shibata and Nimisha Anand and
+    Len Matsuda and Victoria Maki and Ryotaro Hoshino and Kenta Tanaka and Ryoho Kobayashi
+    and Yuta Uozumi and Shinya Fujii
+  bibtex: "@inproceedings{nime2024_installations_10,\n abstract = {The Jellyfish is\
+    \ a species with one of the most simplistic and complete Umwelts. Its pulsating\
+    \ movements are caused by a refined network, composing only of a few neurons.\
+    \ These neural receptors, named Rhopalia, receive external simulation which determines\
+    \ their pulses. In the ocean, these pulses then ripple into waves in the water,\
+    \ that is sensed by the Rhopalia, triggering the pulses of the next jellyfish.\
+    \ Such interactions (that cannot be seen by the naked eye) in repetition over\
+    \ time, have sustained the existence of the jellyfish species across 6 billion\
+    \ years. This mechanical system causes organic pulses, radiating an inexplicable\
+    \ feeling of vitality. ‘Sonic Rhopalia’ is a sound installation that is produced\
+    \ by the pulsation of four Aurelia aurita (a.k.a. moon jellyfish). By using Touch\
+    \ Designer and a web camera to capture the movement of each jellyfish, we detect\
+    \ its pulse through image analysis, using OpenCV and a combination of pixel color\
+    \ channel classification and area calculation. Once the pulse of a jellyfish is\
+    \ detected, it sends a bang to M4L (Max for Live) using OSC (OpenSound Control),\
+    \ where it is used as a trigger for music composition. Sounds are played in response\
+    \ to each pulse, and when the jellyfish pulse at the same time, in synchronization,\
+    \ different chords and sounds are produced. The work develops across one loop\
+    \ comprising of three phases with varying soundscapes, all determined by the number\
+    \ pulse synchronizations. By reframing jellyfish as an interface for music generation,\
+    \ the rhythms and movements of the pulsating jellyfish come together create a\
+    \ unique soundscape, that allows the audience to experience the vitality of jellyfish\
+    \ in a completely new dimension from conventional methods of bio-marine appreciation.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {10},\n author = {Kenshiro Taira\
+    \ and Sogen Handa and Risako Shibata and Nimisha Anand and Len Matsuda and Victoria\
+    \ Maki and Ryotaro Hoshino and Kenta Tanaka and Ryoho Kobayashi and Yuta Uozumi\
+    \ and Shinya Fujii},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15027173},\n\
+    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
+    \ month = {September},\n numpages = {6},\n pages = {37--42},\n presentation-video\
+    \ = {https://youtu.be/HBFbDtB_Nsw},\n title = {Sonic Rhopalia},\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_10.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027173
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 6
+  pages: 37--42
+  presentation-video: https://youtu.be/HBFbDtB_Nsw
+  title: Sonic Rhopalia
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_10.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_11
+  abstract: 'This work is a sound installation that utilizes the surrounding human
+    flow information to dynamically transform the visual and auditory expressions
+    of a ‘Hokora’ integrating changes in light, shadow, and music based on the movements
+    and tendencies of people, ultimately creating an interactive environment where
+    the shrine and individuals mutually influence each other. ‘Hokora’ is a miniature
+    Shinto shrine on a street side, and in Japan, it is a common practice to stop
+    or bow when passing by. Through the faith in the shrine, the environment, or human
+    flow, also undergoes changes. In this work, the information from the surrounding
+    human flow is reflected in the presentation of light and shadow reminiscent of
+    dappled sunlight, causing the visual and auditory expressions of the Hokora to
+    change based on people''s actions and further influencing the environment. In
+    this work, three ultrasonic distance sensor values are used as input, and the
+    detection frequency and distance values of the past 10 detections are recorded
+    for each sensor. The recorded detection frequency is used to calculate the congestion
+    level of the surrounding human flow. Based on these two pieces of human flow information,
+    changes are introduced in the movement of lights controlled by motors (DC and
+    servo), creating shadow play and altering the music output. This contributes to
+    the portrayal of light inspired by dappled sunlight. The density of human flow
+    influences the left and right movement of lights, reflecting the intensity of
+    the light''s movement. On the other hand, in the realm of music, the density of
+    human flow modulates the frequency of high-pass and low-pass filters. By offering
+    viewers an expression of the Hokora that changes based on human flow information,
+    this installation creates an effect where the Hokora and people mutually influence
+    each other, a phenomenon not traditionally seen in Hokora.'
+  address: 'Utrecht, Netherlands'
+  articleno: 11
+  author: Riki Saito and Fushi Sano and Rikuto Shinmi and Minna Hosaka and Haruru
+    Muramatsu and Kenta Tanaka and Ryoho Kobayashi and Yuta Uozumi and Shinya Fujii
+  bibtex: "@inproceedings{nime2024_installations_11,\n abstract = {This work is a\
+    \ sound installation that utilizes the surrounding human flow information to dynamically\
+    \ transform the visual and auditory expressions of a ‘Hokora’ integrating changes\
+    \ in light, shadow, and music based on the movements and tendencies of people,\
+    \ ultimately creating an interactive environment where the shrine and individuals\
+    \ mutually influence each other. ‘Hokora’ is a miniature Shinto shrine on a street\
+    \ side, and in Japan, it is a common practice to stop or bow when passing by.\
+    \ Through the faith in the shrine, the environment, or human flow, also undergoes\
+    \ changes. In this work, the information from the surrounding human flow is reflected\
+    \ in the presentation of light and shadow reminiscent of dappled sunlight, causing\
+    \ the visual and auditory expressions of the Hokora to change based on people's\
+    \ actions and further influencing the environment. In this work, three ultrasonic\
+    \ distance sensor values are used as input, and the detection frequency and distance\
+    \ values of the past 10 detections are recorded for each sensor. The recorded\
+    \ detection frequency is used to calculate the congestion level of the surrounding\
+    \ human flow. Based on these two pieces of human flow information, changes are\
+    \ introduced in the movement of lights controlled by motors (DC and servo), creating\
+    \ shadow play and altering the music output. This contributes to the portrayal\
+    \ of light inspired by dappled sunlight. The density of human flow influences\
+    \ the left and right movement of lights, reflecting the intensity of the light's\
+    \ movement. On the other hand, in the realm of music, the density of human flow\
+    \ modulates the frequency of high-pass and low-pass filters. By offering viewers\
+    \ an expression of the Hokora that changes based on human flow information, this\
+    \ installation creates an effect where the Hokora and people mutually influence\
+    \ each other, a phenomenon not traditionally seen in Hokora.},\n address = {Utrecht,\
+    \ Netherlands},\n articleno = {11},\n author = {Riki Saito and Fushi Sano and\
+    \ Rikuto Shinmi and Minna Hosaka and Haruru Muramatsu and Kenta Tanaka and Ryoho\
+    \ Kobayashi and Yuta Uozumi and Shinya Fujii},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.5281/zenodo.15027175},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
+    \ issn = {2220-4806},\n month = {September},\n numpages = {6},\n pages = {43--48},\n\
+    \ presentation-video = {https://youtu.be/ML-aZeJ32UQ},\n title = {Yadorigi},\n\
+    \ track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_11.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027175
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 6
+  pages: 43--48
+  presentation-video: https://youtu.be/ML-aZeJ32UQ
+  title: Yadorigi
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_11.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_12
+  abstract: 'Five robots playing five tuned bells by striking them with a mallet.
+    Each robot is controlled by a minimalist, neurally inspired analogue oscillator.
+    These oscillators are mutually connected and connected to a pacemaker oscillator,
+    and through network connectivity, they will synchronize at different ratios with
+    the pacemaker. Slow-running analog oscillators of the same type switch on and
+    off the connectivity and modulate the activation of the robots'' oscillators.
+    Only through these changing network configurations does a musical score that alternates
+    between coordinated polyrhythms, random structure and moments of silence emerges.
+    The complex interaction between the analogue oscillators is visualized with a
+    computer program that graphically displays the changing relations of the oscillators
+    as multiple x-y plots.'
+  address: 'Utrecht, Netherlands'
+  articleno: 12
+  author: Christian Faubel
+  bibtex: "@inproceedings{nime2024_installations_12,\n abstract = {Five robots playing\
+    \ five tuned bells by striking them with a mallet. Each robot is controlled by\
+    \ a minimalist, neurally inspired analogue oscillator. These oscillators are mutually\
+    \ connected and connected to a pacemaker oscillator, and through network connectivity,\
+    \ they will synchronize at different ratios with the pacemaker. Slow-running analog\
+    \ oscillators of the same type switch on and off the connectivity and modulate\
+    \ the activation of the robots' oscillators. Only through these changing network\
+    \ configurations does a musical score that alternates between coordinated polyrhythms,\
+    \ random structure and moments of silence emerges. The complex interaction between\
+    \ the analogue oscillators is visualized with a computer program that graphically\
+    \ displays the changing relations of the oscillators as multiple x-y plots.},\n\
+    \ address = {Utrecht, Netherlands},\n articleno = {12},\n author = {Christian\
+    \ Faubel},\n booktitle = {Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n doi = {10.5281/zenodo.17553007},\n editor = {Laurel\
+    \ Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
+    \ numpages = {5},\n pages = {49--53},\n presentation-video = {https://vimeo.com/912950719},\n\
+    \ title = {Five Robots Playing Pentatonic, Polyrhythmic Songs},\n track = {Installations},\n\
+    \ url = {http://nime.org/proceedings/2024/nime2024_installations_12.pdf},\n year\
+    \ = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.17553007
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 5
+  pages: 49--53
+  presentation-video: https://vimeo.com/912950719
+  title: 'Five Robots Playing Pentatonic, Polyrhythmic Songs'
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_12.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2024_installations_13
+  abstract: 'This work is a sound installation that uses plastic debris to consider
+    the interrelationship between people and the ocean, and the history of the ocean.
+    Today, the toxicity of plastic in the marine environment is being debated, and
+    data shows the increase of plastic in the oceans. Although the data accurately
+    represents the facts, it is somewhat cold attitude and we are rarely aware of
+    our personal involvement in the data. Also, the ocean viewed from land is calm
+    and beautiful, and there is a gap between the actual pollution in the ocean and
+    what humans see from land. A critical situation for marine life is occurring in
+    the ocean. We humans cannot live underwater and cannot truly understand the creatures
+    of the sea. The project creates a virtual sea made of bottles to represent the
+    gap between the sea as seen from the land and the sea inside, and emotionally
+    translates the data to appeal to the human senses, looking into the situation
+    and history of the sea through the lens of sound.'
+  address: 'Utrecht, Netherlands'
+  articleno: 13
+  author: Ayaka Sakakibara
+  bibtex: "@inproceedings{nime2024_installations_13,\n abstract = {This work is a\
+    \ sound installation that uses plastic debris to consider the interrelationship\
+    \ between people and the ocean, and the history of the ocean. Today, the toxicity\
+    \ of plastic in the marine environment is being debated, and data shows the increase\
+    \ of plastic in the oceans. Although the data accurately represents the facts,\
+    \ it is somewhat cold attitude and we are rarely aware of our personal involvement\
+    \ in the data. Also, the ocean viewed from land is calm and beautiful, and there\
+    \ is a gap between the actual pollution in the ocean and what humans see from\
+    \ land. A critical situation for marine life is occurring in the ocean. We humans\
+    \ cannot live underwater and cannot truly understand the creatures of the sea.\
+    \ The project creates a virtual sea made of bottles to represent the gap between\
+    \ the sea as seen from the land and the sea inside, and emotionally translates\
+    \ the data to appeal to the human senses, looking into the situation and history\
+    \ of the sea through the lens of sound.},\n address = {Utrecht, Netherlands},\n\
+    \ articleno = {13},\n author = {Ayaka Sakakibara},\n booktitle = {Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n\
-    \ title = {China Gates},\n url = {http://mypage.bluewin.ch/artclay},\n year =\
-    \ {2008}\n}\n"
+    \ doi = {10.5281/zenodo.15027179},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
+    \ issn = {2220-4806},\n month = {September},\n numpages = {6},\n pages = {54--59},\n\
+    \ presentation-video = {https://youtu.be/KLEhXtMFkgU},\n title = {Ocean Pandæmonium\
+    \ -The Noisy Plasticscape-},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_13.pdf},\n\
+    \ year = {2024}\n}\n"
+  booktitle: Proceedings of the International Conference on New Interfaces for Musical
+    Expression
+  doi: 10.5281/zenodo.15027179
+  editor: Laurel Smith Pardue and Palle Dahlstedt
+  issn: 2220-4806
+  month: September
+  numpages: 6
+  pages: 54--59
+  presentation-video: https://youtu.be/KLEhXtMFkgU
+  title: Ocean Pandæmonium -The Noisy Plasticscape-
+  track: Installations
+  url: http://nime.org/proceedings/2024/nime2024_installations_13.pdf
+  year: 2024
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2009_installations_Stearns
+  abstract: 'Artificial Analog Neural Network (AANN) is an interactive, handmade electronic
+    sculpture that responds to environmental stimuli in a display of light and sound.
+    AANN’s structure is a skeletal point-to-point soldered network of analog electronic
+    components designed to approximate biological neural network behavior. The sculpture
+    is a 45 neuron network whose form was influenced in part by multi-layered network
+    models used in neural computing, and by the Fibonacci based branching of natural
+    systems. During the design process, studies of early marine and plant life became
+    the primary inspiration for AANN’s final form. AANN is situated at the intersection
+    of art and science, making physical the abstract processes used by computer scientists
+    in pattern recognition. As guests speak or cast shadows on AANN the abrupt changes
+    in sound and light cause the network to react by producing a series of swoops
+    and chirps, and by illuminating LEDs on active neurons; sounds are converted into
+    chirps and twitters, made visual by the LEDs indicating activity in the network.
+    What is heard and seen are the actual pulse streams being transmitted from one
+    neuron to the next throughout the entire network.'
+  address: 'Pittsburgh, Pennsylvania'
+  author: Phillip Stearns
+  bibtex: "@inproceedings{nime2009_installations_Stearns,\n abstract = {Artificial\
+    \ Analog Neural Network (AANN) is an interactive, handmade electronic sculpture\
+    \ that responds to environmental stimuli in a display of light and sound. AANN’s\
+    \ structure is a skeletal point-to-point soldered network of analog electronic\
+    \ components designed to approximate biological neural network behavior. The sculpture\
+    \ is a 45 neuron network whose form was influenced in part by multi-layered network\
+    \ models used in neural computing, and by the Fibonacci based branching of natural\
+    \ systems. During the design process, studies of early marine and plant life became\
+    \ the primary inspiration for AANN’s final form. AANN is situated at the intersection\
+    \ of art and science, making physical the abstract processes used by computer\
+    \ scientists in pattern recognition. As guests speak or cast shadows on AANN the\
+    \ abrupt changes in sound and light cause the network to react by producing a\
+    \ series of swoops and chirps, and by illuminating LEDs on active neurons; sounds\
+    \ are converted into chirps and twitters, made visual by the LEDs indicating activity\
+    \ in the network. What is heard and seen are the actual pulse streams being transmitted\
+    \ from one neuron to the next throughout the entire network.},\n address = {Pittsburgh,\
+    \ Pennsylvania},\n author = {Phillip Stearns},\n booktitle = {Installation Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
+    \ = {Artificial Analog Neural Network},\n year = {2009}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: China Gates
-  url: http://mypage.bluewin.ch/artclay
-  year: 2008
+  editor: Golan Levin
+  publisher: Carnegie Mellon University
+  title: Artificial Analog Neural Network
+  year: 2009
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2009_installations_Bukvic
+  abstract: 'Sound Lanterns is an interactive sound installation that is powered by
+    the sun, and emits sounds based on the amount of sunlight available, as well as
+    on the amount of light that falls on light sensors on each of the four lanterns
+    themselves. Listeners can change the nature of the sound by casting shadows over
+    the solar panel, or over individual sound lanterns. The piece relies entirely
+    on sunlight available in the moment. In most PV applications, the solar panel
+    is actually supplying current to a battery or a capacitor, thus “buffering” the
+    power. In this piece, I wanted to experiment with using the sun’s raw energy directly,
+    without regulating the voltage in any way. Therefore, these sound makers go through
+    many changes as the sunlight waxes and wanes. Each lantern features a slightly
+    different sound-making circuit, thus the four voices are unique and, when sounding
+    together, create a chorus of sun-powered chattering, squealing, buzzing, and humming.
+    Listeners should feel free to “play” the lanterns together by casting shadows,
+    touching the solar panels, or slightly tilting the panels. The performance of
+    these devices is variable and depends upon the amount of sunlight available: if
+    it is dark, they make no sound; in dim light, sound is non-existent, or very soft
+    and subtle. In bright sunlight, they scream and wail loudly.'
+  address: 'Pittsburgh, Pennsylvania'
+  author: Ivica Bukvic and Eric Standley
+  bibtex: "@inproceedings{nime2009_installations_Bukvic,\n abstract = {Sound Lanterns\
+    \ is an interactive sound installation that is powered by the sun, and emits sounds\
+    \ based on the amount of sunlight available, as well as on the amount of light\
+    \ that falls on light sensors on each of the four lanterns themselves. Listeners\
+    \ can change the nature of the sound by casting shadows over the solar panel,\
+    \ or over individual sound lanterns. The piece relies entirely on sunlight available\
+    \ in the moment. In most PV applications, the solar panel is actually supplying\
+    \ current to a battery or a capacitor, thus “buffering” the power. In this piece,\
+    \ I wanted to experiment with using the sun’s raw energy directly, without regulating\
+    \ the voltage in any way. Therefore, these sound makers go through many changes\
+    \ as the sunlight waxes and wanes. Each lantern features a slightly different\
+    \ sound-making circuit, thus the four voices are unique and, when sounding together,\
+    \ create a chorus of sun-powered chattering, squealing, buzzing, and humming.\
+    \ Listeners should feel free to “play” the lanterns together by casting shadows,\
+    \ touching the solar panels, or slightly tilting the panels. The performance of\
+    \ these devices is variable and depends upon the amount of sunlight available:\
+    \ if it is dark, they make no sound; in dim light, sound is non-existent, or very\
+    \ soft and subtle. In bright sunlight, they scream and wail loudly.},\n address\
+    \ = {Pittsburgh, Pennsylvania},\n author = {Ivica Bukvic and Eric Standley},\n\
+    \ booktitle = {Installation Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n editor = {Golan Levin},\n publisher =\
+    \ {Carnegie Mellon University},\n title = {Elemental & Cyrene Reefs},\n year =\
+    \ {2009}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Golan Levin
+  publisher: Carnegie Mellon University
+  title: Elemental & Cyrene Reefs
+  year: 2009
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2009_installations_Bull
+  abstract: 'Cellphonia: 4’33” is a tribute to the concept embodied in John Cage’s
+    landmark piece, 4’33”. It is a structural and aesthetic construct that is a formal
+    expansion of the piece. Technology is used to examine the sounds around us, but
+    also to include those parts of our personal soundscape that are augmented by technology,
+    by the addition of the cellphone to our acoustic world. There are two distinct
+    audio elements. The first is a “bed” created by an ambient microphone. This recording
+    is regeneratively looped at intervals that coincide directly to the timings of
+    Cage’s original score. Changes are injected in key parameters of the “looping”
+    to perturb and rearrange the material already captured in the previous section.
+    The second element is the “cellphone opera” score that takes input from participants
+    and redistributes the audio material from the calls to specific slots in a prearranged
+    “score”. Each new call rearranges the entire score as the recordings move to a
+    new temporally ordered location in the 4 minute and 33 second time frame. “At
+    the beep” participant callers are prompted to respond to randomly chosen requests.
+    “Make the sound of a radio out of tune” “Tell us about Cage’s 4’33” performance.”
+    “What is your mother’s name?” “Did David Tudor like mushrooms?” Each cellphone
+    call will be recorded for 4 seconds and 330 milliseconds.'
+  address: 'Pittsburgh, Pennsylvania'
+  author: Steve Bull and Scot Gresham-Lancaster
+  bibtex: "@inproceedings{nime2009_installations_Bull,\n abstract = {Cellphonia: 4’33”\
+    \ is a tribute to the concept embodied in John Cage’s landmark piece, 4’33”. It\
+    \ is a structural and aesthetic construct that is a formal expansion of the piece.\
+    \ Technology is used to examine the sounds around us, but also to include those\
+    \ parts of our personal soundscape that are augmented by technology, by the addition\
+    \ of the cellphone to our acoustic world. There are two distinct audio elements.\
+    \ The first is a “bed” created by an ambient microphone. This recording is regeneratively\
+    \ looped at intervals that coincide directly to the timings of Cage’s original\
+    \ score. Changes are injected in key parameters of the “looping” to perturb and\
+    \ rearrange the material already captured in the previous section. The second\
+    \ element is the “cellphone opera” score that takes input from participants and\
+    \ redistributes the audio material from the calls to specific slots in a prearranged\
+    \ “score”. Each new call rearranges the entire score as the recordings move to\
+    \ a new temporally ordered location in the 4 minute and 33 second time frame.\
+    \ “At the beep” participant callers are prompted to respond to randomly chosen\
+    \ requests. “Make the sound of a radio out of tune” “Tell us about Cage’s 4’33”\
+    \ performance.” “What is your mother’s name?” “Did David Tudor like mushrooms?”\
+    \ Each cellphone call will be recorded for 4 seconds and 330 milliseconds.},\n\
+    \ address = {Pittsburgh, Pennsylvania},\n author = {Steve Bull and Scot Gresham-Lancaster},\n\
+    \ booktitle = {Installation Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n editor = {Golan Levin},\n publisher =\
+    \ {Carnegie Mellon University},\n title = {Cellphonia: 4’ 33”},\n year = {2009}\n\
+    }\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Golan Levin
+  publisher: Carnegie Mellon University
+  title: 'Cellphonia: 4’ 33”'
+  year: 2009
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2009_installations_Overholt
+  abstract: 'Pendaphonics consists of 8 interactive sonic pendulums with sensors measuring
+    the x-y-z coordinates of their motion. Participants manipulate a spatialized soundscape
+    that is directly controlled by the positions and motions of the pendaphones. Each
+    of the pendaphones can be raised and lowered in height, and the trajectory of
+    a swing directly controls the sounds emanating from a loudspeaker mounted above.
+    The pendaphones are attached to spring-retracting cords that pull them toward
+    the ceiling, and are counter-weighted by their interaction nodes at the bottom
+    in order to attain neutral buoyancy. Multiple channels of loudspeakers spatialize
+    the generated sounds, enhancing the sense of physical immersion in the piece.
+    Pendaphonics focuses on explorative, collaborative performance, combining artistic
+    qualities with social activities and play. Visitors playing the pendaphones evoke
+    a soundscape through ensemble interaction, producing a wide range of musical sounds
+    via the many different combinations of inputs. One mode allows each pendaphone
+    to control a large virtual turntable that allows scratching and other DJ type
+    effects, while another enables control of a virtual Tibetan bowl in which audio
+    is generated through physical modeling synthesis. Other playful sounds encourage
+    sonic games involving bouncing, pulling, pushing, swinging in circles and collaborating
+    with other users to generate sounds of trembles, shudders, shakes, and collisions
+    that can be enjoyed by participants and observers alike.'
+  address: 'Pittsburgh, Pennsylvania'
+  author: 'Dan Overholt and Byron Lahey and Hansen, Anne-Marie Skriver and Winslow
+    Burleson and Jensen, Camilla N.'
+  bibtex: "@inproceedings{nime2009_installations_Overholt,\n abstract = {Pendaphonics\
+    \ consists of 8 interactive sonic pendulums with sensors measuring the x-y-z coordinates\
+    \ of their motion. Participants manipulate a spatialized soundscape that is directly\
+    \ controlled by the positions and motions of the pendaphones. Each of the pendaphones\
+    \ can be raised and lowered in height, and the trajectory of a swing directly\
+    \ controls the sounds emanating from a loudspeaker mounted above. The pendaphones\
+    \ are attached to spring-retracting cords that pull them toward the ceiling, and\
+    \ are counter-weighted by their interaction nodes at the bottom in order to attain\
+    \ neutral buoyancy. Multiple channels of loudspeakers spatialize the generated\
+    \ sounds, enhancing the sense of physical immersion in the piece. Pendaphonics\
+    \ focuses on explorative, collaborative performance, combining artistic qualities\
+    \ with social activities and play. Visitors playing the pendaphones evoke a soundscape\
+    \ through ensemble interaction, producing a wide range of musical sounds via the\
+    \ many different combinations of inputs. One mode allows each pendaphone to control\
+    \ a large virtual turntable that allows scratching and other DJ type effects,\
+    \ while another enables control of a virtual Tibetan bowl in which audio is generated\
+    \ through physical modeling synthesis. Other playful sounds encourage sonic games\
+    \ involving bouncing, pulling, pushing, swinging in circles and collaborating\
+    \ with other users to generate sounds of trembles, shudders, shakes, and collisions\
+    \ that can be enjoyed by participants and observers alike.},\n address = {Pittsburgh,\
+    \ Pennsylvania},\n author = {Dan Overholt and Byron Lahey and Hansen, Anne-Marie\
+    \ Skriver and Winslow Burleson and Jensen, Camilla N.},\n booktitle = {Installation\
+    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
+    \ = {Pendaphonics},\n year = {2009}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Golan Levin
+  publisher: Carnegie Mellon University
+  title: Pendaphonics
+  year: 2009
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2009_installations_Smallwood
+  abstract: 'The Revo:oveR installation is a collection of six co-located installations
+    exploring multimodal interaction, self-evolving audiovisual fabric, integration
+    of architectural space, and the notion of communal art. The interactive soundscape
+    Elemental and the sculpture entitled Cyrene Reefs are the core aural components
+    of the overall exhibit, exploring the notions of a musical instrument, traditional
+    performance practice, and their ties to the tactile and visual domains. Using
+    motion tracking in conjunction with an overhead speaker array, Elemental harvests
+    the motion of visitors in the exhibit space and augments their location and trajectory
+    with water ripples, thus generating a surreal sensation of traversing waist-deep
+    water. As an acknowledgment of visitors’ communal presence, the collisions among
+    individual ripples produce algorithmically synthesized aural fireworks, resulting
+    in an ever-changing soundscape that transforms architectural space into a musical
+    box of infinite possibilities. Cyrene Reefs complements Elemental as an intricate
+    mythical instrument. Populated with holes and fissures resembling stops of a woodwind
+    instrument, the Reef begs to be explored by hands. Akin to the notion of virtuosity,
+    the Reef reveals little of its true potential to the impatient, rewarding only
+    those who choose to persist'
+  address: 'Pittsburgh, Pennsylvania'
+  author: Scott Smallwood
+  bibtex: "@inproceedings{nime2009_installations_Smallwood,\n abstract = {The Revo:oveR\
+    \ installation is a collection of six co-located installations exploring multimodal\
+    \ interaction, self-evolving audiovisual fabric, integration of architectural\
+    \ space, and the notion of communal art. The interactive soundscape Elemental\
+    \ and the sculpture entitled Cyrene Reefs are the core aural components of the\
+    \ overall exhibit, exploring the notions of a musical instrument, traditional\
+    \ performance practice, and their ties to the tactile and visual domains. Using\
+    \ motion tracking in conjunction with an overhead speaker array, Elemental harvests\
+    \ the motion of visitors in the exhibit space and augments their location and\
+    \ trajectory with water ripples, thus generating a surreal sensation of traversing\
+    \ waist-deep water. As an acknowledgment of visitors’ communal presence, the collisions\
+    \ among individual ripples produce algorithmically synthesized aural fireworks,\
+    \ resulting in an ever-changing soundscape that transforms architectural space\
+    \ into a musical box of infinite possibilities. Cyrene Reefs complements Elemental\
+    \ as an intricate mythical instrument. Populated with holes and fissures resembling\
+    \ stops of a woodwind instrument, the Reef begs to be explored by hands. Akin\
+    \ to the notion of virtuosity, the Reef reveals little of its true potential to\
+    \ the impatient, rewarding only those who choose to persist},\n address = {Pittsburgh,\
+    \ Pennsylvania},\n author = {Scott Smallwood},\n booktitle = {Installation Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
+    \ = {Sound Lanterns},\n year = {2009}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Golan Levin
+  publisher: Carnegie Mellon University
+  title: Sound Lanterns
+  year: 2009
 
 
 - ENTRYTYPE: inproceedings
@@ -1813,1030 +2706,137 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2009_installations_Stearns
-  abstract: 'Artificial Analog Neural Network (AANN) is an interactive, handmade electronic
-    sculpture that responds to environmental stimuli in a display of light and sound.
-    AANN’s structure is a skeletal point-to-point soldered network of analog electronic
-    components designed to approximate biological neural network behavior. The sculpture
-    is a 45 neuron network whose form was influenced in part by multi-layered network
-    models used in neural computing, and by the Fibonacci based branching of natural
-    systems. During the design process, studies of early marine and plant life became
-    the primary inspiration for AANN’s final form. AANN is situated at the intersection
-    of art and science, making physical the abstract processes used by computer scientists
-    in pattern recognition. As guests speak or cast shadows on AANN the abrupt changes
-    in sound and light cause the network to react by producing a series of swoops
-    and chirps, and by illuminating LEDs on active neurons; sounds are converted into
-    chirps and twitters, made visual by the LEDs indicating activity in the network.
-    What is heard and seen are the actual pulse streams being transmitted from one
-    neuron to the next throughout the entire network.'
-  address: 'Pittsburgh, Pennsylvania'
-  author: Phillip Stearns
-  bibtex: "@inproceedings{nime2009_installations_Stearns,\n abstract = {Artificial\
-    \ Analog Neural Network (AANN) is an interactive, handmade electronic sculpture\
-    \ that responds to environmental stimuli in a display of light and sound. AANN’s\
-    \ structure is a skeletal point-to-point soldered network of analog electronic\
-    \ components designed to approximate biological neural network behavior. The sculpture\
-    \ is a 45 neuron network whose form was influenced in part by multi-layered network\
-    \ models used in neural computing, and by the Fibonacci based branching of natural\
-    \ systems. During the design process, studies of early marine and plant life became\
-    \ the primary inspiration for AANN’s final form. AANN is situated at the intersection\
-    \ of art and science, making physical the abstract processes used by computer\
-    \ scientists in pattern recognition. As guests speak or cast shadows on AANN the\
-    \ abrupt changes in sound and light cause the network to react by producing a\
-    \ series of swoops and chirps, and by illuminating LEDs on active neurons; sounds\
-    \ are converted into chirps and twitters, made visual by the LEDs indicating activity\
-    \ in the network. What is heard and seen are the actual pulse streams being transmitted\
-    \ from one neuron to the next throughout the entire network.},\n address = {Pittsburgh,\
-    \ Pennsylvania},\n author = {Phillip Stearns},\n booktitle = {Installation Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
-    \ = {Artificial Analog Neural Network},\n year = {2009}\n}\n"
+  ID: nime2008_installations_Farshi
+  address: 'Genova, Italy'
+  author: Olly Farshi
+  bibtex: "@inproceedings{nime2008_installations_Farshi,\n address = {Genova, Italy},\n\
+    \ author = {Olly Farshi},\n booktitle = {Installation Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
+    \ month = {June},\n publisher = {Casa Paganini},\n title = {Habitat},\n year =\
+    \ {2008}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
-  editor: Golan Levin
-  publisher: Carnegie Mellon University
-  title: Artificial Analog Neural Network
-  year: 2009
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Habitat
+  year: 2008
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2009_installations_Bukvic
-  abstract: 'Sound Lanterns is an interactive sound installation that is powered by
-    the sun, and emits sounds based on the amount of sunlight available, as well as
-    on the amount of light that falls on light sensors on each of the four lanterns
-    themselves. Listeners can change the nature of the sound by casting shadows over
-    the solar panel, or over individual sound lanterns. The piece relies entirely
-    on sunlight available in the moment. In most PV applications, the solar panel
-    is actually supplying current to a battery or a capacitor, thus “buffering” the
-    power. In this piece, I wanted to experiment with using the sun’s raw energy directly,
-    without regulating the voltage in any way. Therefore, these sound makers go through
-    many changes as the sunlight waxes and wanes. Each lantern features a slightly
-    different sound-making circuit, thus the four voices are unique and, when sounding
-    together, create a chorus of sun-powered chattering, squealing, buzzing, and humming.
-    Listeners should feel free to “play” the lanterns together by casting shadows,
-    touching the solar panels, or slightly tilting the panels. The performance of
-    these devices is variable and depends upon the amount of sunlight available: if
-    it is dark, they make no sound; in dim light, sound is non-existent, or very soft
-    and subtle. In bright sunlight, they scream and wail loudly.'
-  address: 'Pittsburgh, Pennsylvania'
-  author: Ivica Bukvic and Eric Standley
-  bibtex: "@inproceedings{nime2009_installations_Bukvic,\n abstract = {Sound Lanterns\
-    \ is an interactive sound installation that is powered by the sun, and emits sounds\
-    \ based on the amount of sunlight available, as well as on the amount of light\
-    \ that falls on light sensors on each of the four lanterns themselves. Listeners\
-    \ can change the nature of the sound by casting shadows over the solar panel,\
-    \ or over individual sound lanterns. The piece relies entirely on sunlight available\
-    \ in the moment. In most PV applications, the solar panel is actually supplying\
-    \ current to a battery or a capacitor, thus “buffering” the power. In this piece,\
-    \ I wanted to experiment with using the sun’s raw energy directly, without regulating\
-    \ the voltage in any way. Therefore, these sound makers go through many changes\
-    \ as the sunlight waxes and wanes. Each lantern features a slightly different\
-    \ sound-making circuit, thus the four voices are unique and, when sounding together,\
-    \ create a chorus of sun-powered chattering, squealing, buzzing, and humming.\
-    \ Listeners should feel free to “play” the lanterns together by casting shadows,\
-    \ touching the solar panels, or slightly tilting the panels. The performance of\
-    \ these devices is variable and depends upon the amount of sunlight available:\
-    \ if it is dark, they make no sound; in dim light, sound is non-existent, or very\
-    \ soft and subtle. In bright sunlight, they scream and wail loudly.},\n address\
-    \ = {Pittsburgh, Pennsylvania},\n author = {Ivica Bukvic and Eric Standley},\n\
+  ID: nime2008_installations_Talman
+  address: 'Genova, Italy'
+  author: Jeff Talman
+  bibtex: "@inproceedings{nime2008_installations_Talman,\n address = {Genova, Italy},\n\
+    \ author = {Jeff Talman},\n booktitle = {Installation Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
+    \ month = {June},\n publisher = {Casa Paganini},\n title = {MIRROR OF THE MOON},\n\
+    \ url = {www.jefftalman.com},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: MIRROR OF THE MOON
+  url: www.jefftalman.com
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008_installations_Paek
+  address: 'Genova, Italy'
+  author: JooYoun Paek
+  bibtex: "@inproceedings{nime2008_installations_Paek,\n address = {Genova, Italy},\n\
+    \ author = {JooYoun Paek},\n booktitle = {Installation Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
+    \ month = {June},\n publisher = {Casa Paganini},\n title = {Fold Loud},\n url\
+    \ = {https://shakethatbutton.com/fold-loud/},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Fold Loud
+  url: https://shakethatbutton.com/fold-loud/
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008_installations_Newby
+  address: 'Genova, Italy'
+  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
+  bibtex: "@inproceedings{nime2008_installations_Newby,\n address = {Genova, Italy},\n\
+    \ author = {Kenneth Newby, Aleksandra Dulic and Martin Gotfrit},\n booktitle =\
+    \ {Installation Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
+    \ = {Casa Paganini},\n title = {in a thousand drops... refracted glances},\n url\
+    \ = {http://aleksandradulic.net/Projects/1000/1000.html},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: in a thousand drops... refracted glances
+  url: http://aleksandradulic.net/Projects/1000/1000.html
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008_installations_Lamenzo
+  address: 'Genova, Italy'
+  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
+  bibtex: "@inproceedings{nime2008_installations_Lamenzo,\n address = {Genova, Italy},\n\
+    \ author = {Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli},\n booktitle\
+    \ = {Installation Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
+    \ = {Casa Paganini},\n title = {Soundscaper},\n url = {http://mediatedspaces/lib/mov/soundscaperlow.mov.},\n\
+    \ year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Soundscaper
+  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008_installations_Napolitano
+  address: 'Genova, Italy'
+  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
+  bibtex: "@inproceedings{nime2008_installations_Napolitano,\n address = {Genova,\
+    \ Italy},\n author = {Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda},\n\
     \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Golan Levin},\n publisher =\
-    \ {Carnegie Mellon University},\n title = {Elemental & Cyrene Reefs},\n year =\
-    \ {2009}\n}\n"
+    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
+    \ publisher = {Casa Paganini},\n title = {SoundBarrier_},\n year = {2008}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
-  editor: Golan Levin
-  publisher: Carnegie Mellon University
-  title: Elemental & Cyrene Reefs
-  year: 2009
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: SoundBarrier_
+  year: 2008
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2009_installations_Bull
-  abstract: 'Cellphonia: 4’33” is a tribute to the concept embodied in John Cage’s
-    landmark piece, 4’33”. It is a structural and aesthetic construct that is a formal
-    expansion of the piece. Technology is used to examine the sounds around us, but
-    also to include those parts of our personal soundscape that are augmented by technology,
-    by the addition of the cellphone to our acoustic world. There are two distinct
-    audio elements. The first is a “bed” created by an ambient microphone. This recording
-    is regeneratively looped at intervals that coincide directly to the timings of
-    Cage’s original score. Changes are injected in key parameters of the “looping”
-    to perturb and rearrange the material already captured in the previous section.
-    The second element is the “cellphone opera” score that takes input from participants
-    and redistributes the audio material from the calls to specific slots in a prearranged
-    “score”. Each new call rearranges the entire score as the recordings move to a
-    new temporally ordered location in the 4 minute and 33 second time frame. “At
-    the beep” participant callers are prompted to respond to randomly chosen requests.
-    “Make the sound of a radio out of tune” “Tell us about Cage’s 4’33” performance.”
-    “What is your mother’s name?” “Did David Tudor like mushrooms?” Each cellphone
-    call will be recorded for 4 seconds and 330 milliseconds.'
-  address: 'Pittsburgh, Pennsylvania'
-  author: Steve Bull and Scot Gresham-Lancaster
-  bibtex: "@inproceedings{nime2009_installations_Bull,\n abstract = {Cellphonia: 4’33”\
-    \ is a tribute to the concept embodied in John Cage’s landmark piece, 4’33”. It\
-    \ is a structural and aesthetic construct that is a formal expansion of the piece.\
-    \ Technology is used to examine the sounds around us, but also to include those\
-    \ parts of our personal soundscape that are augmented by technology, by the addition\
-    \ of the cellphone to our acoustic world. There are two distinct audio elements.\
-    \ The first is a “bed” created by an ambient microphone. This recording is regeneratively\
-    \ looped at intervals that coincide directly to the timings of Cage’s original\
-    \ score. Changes are injected in key parameters of the “looping” to perturb and\
-    \ rearrange the material already captured in the previous section. The second\
-    \ element is the “cellphone opera” score that takes input from participants and\
-    \ redistributes the audio material from the calls to specific slots in a prearranged\
-    \ “score”. Each new call rearranges the entire score as the recordings move to\
-    \ a new temporally ordered location in the 4 minute and 33 second time frame.\
-    \ “At the beep” participant callers are prompted to respond to randomly chosen\
-    \ requests. “Make the sound of a radio out of tune” “Tell us about Cage’s 4’33”\
-    \ performance.” “What is your mother’s name?” “Did David Tudor like mushrooms?”\
-    \ Each cellphone call will be recorded for 4 seconds and 330 milliseconds.},\n\
-    \ address = {Pittsburgh, Pennsylvania},\n author = {Steve Bull and Scot Gresham-Lancaster},\n\
-    \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Golan Levin},\n publisher =\
-    \ {Carnegie Mellon University},\n title = {Cellphonia: 4’ 33”},\n year = {2009}\n\
-    }\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Golan Levin
-  publisher: Carnegie Mellon University
-  title: 'Cellphonia: 4’ 33”'
-  year: 2009
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2009_installations_Overholt
-  abstract: 'Pendaphonics consists of 8 interactive sonic pendulums with sensors measuring
-    the x-y-z coordinates of their motion. Participants manipulate a spatialized soundscape
-    that is directly controlled by the positions and motions of the pendaphones. Each
-    of the pendaphones can be raised and lowered in height, and the trajectory of
-    a swing directly controls the sounds emanating from a loudspeaker mounted above.
-    The pendaphones are attached to spring-retracting cords that pull them toward
-    the ceiling, and are counter-weighted by their interaction nodes at the bottom
-    in order to attain neutral buoyancy. Multiple channels of loudspeakers spatialize
-    the generated sounds, enhancing the sense of physical immersion in the piece.
-    Pendaphonics focuses on explorative, collaborative performance, combining artistic
-    qualities with social activities and play. Visitors playing the pendaphones evoke
-    a soundscape through ensemble interaction, producing a wide range of musical sounds
-    via the many different combinations of inputs. One mode allows each pendaphone
-    to control a large virtual turntable that allows scratching and other DJ type
-    effects, while another enables control of a virtual Tibetan bowl in which audio
-    is generated through physical modeling synthesis. Other playful sounds encourage
-    sonic games involving bouncing, pulling, pushing, swinging in circles and collaborating
-    with other users to generate sounds of trembles, shudders, shakes, and collisions
-    that can be enjoyed by participants and observers alike.'
-  address: 'Pittsburgh, Pennsylvania'
-  author: 'Dan Overholt and Byron Lahey and Hansen, Anne-Marie Skriver and Winslow
-    Burleson and Jensen, Camilla N.'
-  bibtex: "@inproceedings{nime2009_installations_Overholt,\n abstract = {Pendaphonics\
-    \ consists of 8 interactive sonic pendulums with sensors measuring the x-y-z coordinates\
-    \ of their motion. Participants manipulate a spatialized soundscape that is directly\
-    \ controlled by the positions and motions of the pendaphones. Each of the pendaphones\
-    \ can be raised and lowered in height, and the trajectory of a swing directly\
-    \ controls the sounds emanating from a loudspeaker mounted above. The pendaphones\
-    \ are attached to spring-retracting cords that pull them toward the ceiling, and\
-    \ are counter-weighted by their interaction nodes at the bottom in order to attain\
-    \ neutral buoyancy. Multiple channels of loudspeakers spatialize the generated\
-    \ sounds, enhancing the sense of physical immersion in the piece. Pendaphonics\
-    \ focuses on explorative, collaborative performance, combining artistic qualities\
-    \ with social activities and play. Visitors playing the pendaphones evoke a soundscape\
-    \ through ensemble interaction, producing a wide range of musical sounds via the\
-    \ many different combinations of inputs. One mode allows each pendaphone to control\
-    \ a large virtual turntable that allows scratching and other DJ type effects,\
-    \ while another enables control of a virtual Tibetan bowl in which audio is generated\
-    \ through physical modeling synthesis. Other playful sounds encourage sonic games\
-    \ involving bouncing, pulling, pushing, swinging in circles and collaborating\
-    \ with other users to generate sounds of trembles, shudders, shakes, and collisions\
-    \ that can be enjoyed by participants and observers alike.},\n address = {Pittsburgh,\
-    \ Pennsylvania},\n author = {Dan Overholt and Byron Lahey and Hansen, Anne-Marie\
-    \ Skriver and Winslow Burleson and Jensen, Camilla N.},\n booktitle = {Installation\
-    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
-    \ = {Pendaphonics},\n year = {2009}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Golan Levin
-  publisher: Carnegie Mellon University
-  title: Pendaphonics
-  year: 2009
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2009_installations_Smallwood
-  abstract: 'The Revo:oveR installation is a collection of six co-located installations
-    exploring multimodal interaction, self-evolving audiovisual fabric, integration
-    of architectural space, and the notion of communal art. The interactive soundscape
-    Elemental and the sculpture entitled Cyrene Reefs are the core aural components
-    of the overall exhibit, exploring the notions of a musical instrument, traditional
-    performance practice, and their ties to the tactile and visual domains. Using
-    motion tracking in conjunction with an overhead speaker array, Elemental harvests
-    the motion of visitors in the exhibit space and augments their location and trajectory
-    with water ripples, thus generating a surreal sensation of traversing waist-deep
-    water. As an acknowledgment of visitors’ communal presence, the collisions among
-    individual ripples produce algorithmically synthesized aural fireworks, resulting
-    in an ever-changing soundscape that transforms architectural space into a musical
-    box of infinite possibilities. Cyrene Reefs complements Elemental as an intricate
-    mythical instrument. Populated with holes and fissures resembling stops of a woodwind
-    instrument, the Reef begs to be explored by hands. Akin to the notion of virtuosity,
-    the Reef reveals little of its true potential to the impatient, rewarding only
-    those who choose to persist'
-  address: 'Pittsburgh, Pennsylvania'
-  author: Scott Smallwood
-  bibtex: "@inproceedings{nime2009_installations_Smallwood,\n abstract = {The Revo:oveR\
-    \ installation is a collection of six co-located installations exploring multimodal\
-    \ interaction, self-evolving audiovisual fabric, integration of architectural\
-    \ space, and the notion of communal art. The interactive soundscape Elemental\
-    \ and the sculpture entitled Cyrene Reefs are the core aural components of the\
-    \ overall exhibit, exploring the notions of a musical instrument, traditional\
-    \ performance practice, and their ties to the tactile and visual domains. Using\
-    \ motion tracking in conjunction with an overhead speaker array, Elemental harvests\
-    \ the motion of visitors in the exhibit space and augments their location and\
-    \ trajectory with water ripples, thus generating a surreal sensation of traversing\
-    \ waist-deep water. As an acknowledgment of visitors’ communal presence, the collisions\
-    \ among individual ripples produce algorithmically synthesized aural fireworks,\
-    \ resulting in an ever-changing soundscape that transforms architectural space\
-    \ into a musical box of infinite possibilities. Cyrene Reefs complements Elemental\
-    \ as an intricate mythical instrument. Populated with holes and fissures resembling\
-    \ stops of a woodwind instrument, the Reef begs to be explored by hands. Akin\
-    \ to the notion of virtuosity, the Reef reveals little of its true potential to\
-    \ the impatient, rewarding only those who choose to persist},\n address = {Pittsburgh,\
-    \ Pennsylvania},\n author = {Scott Smallwood},\n booktitle = {Installation Proceedings\
+  ID: nime2008_installations_Majoe
+  address: 'Genova, Italy'
+  author: Art Clay & Dennis Majoe
+  bibtex: "@inproceedings{nime2008_installations_Majoe,\n address = {Genova, Italy},\n\
+    \ author = {Art Clay & Dennis Majoe},\n booktitle = {Installation Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Golan Levin},\n publisher = {Carnegie Mellon University},\n title\
-    \ = {Sound Lanterns},\n year = {2009}\n}\n"
+    \ editor = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n\
+    \ title = {China Gates},\n url = {http://mypage.bluewin.ch/artclay},\n year =\
+    \ {2008}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
-  editor: Golan Levin
-  publisher: Carnegie Mellon University
-  title: Sound Lanterns
-  year: 2009
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_1
-  abstract: 'Echo Chamber is a participatory sound installation using MusicGen’s audio
-    generative AI. Participants play a short melody on a piano, which is then used
-    as a reference for MusicGen to generate multiple versions of itself. These evolving
-    echoes of the original are played back through a multi-channel speaker installation.
-    The work alludes to concerns about generative AI creating a monoculture through
-    a feedback cycle of data scraping, copying and regenerating. By deliberately engaging
-    with (and simultaneously serving as a critique of) MusicGen’s innate tendency
-    to stay within predictable melodic and harmonic structures, we can layer and loop
-    multiple versions of the AI-generated audio while staying musically coherent.
-    The layering of multiple samples also allows us to produce a real-time participatory
-    work despite the time required for the AI generations (which currently take longer
-    to generate than the length of the audio samples generated). A piano was chosen
-    as the interface through which an audio reference is created by participants,
-    as it plays on the familiarity and ubiquity of the instrument, which has become
-    both a symbol and a tool of colonisation. Not only has the keyboard become a dominant
-    interface for music-making, the equal-tempered scale has become pervasive across
-    the globe in most popular music cultures, relegating other modes and scales to
-    the fringe – a pattern repeated by generative AI amplifying what is already amplified.'
-  address: 'Utrecht, Netherlands'
-  articleno: 1
-  author: Monica Lim and Jarrod Knibbe and Bingqing Chen and Ying Sima and Melanie
-    Huang
-  bibtex: "@inproceedings{nime2024_installations_1,\n abstract = {Echo Chamber is\
-    \ a participatory sound installation using MusicGen’s audio generative AI. Participants\
-    \ play a short melody on a piano, which is then used as a reference for MusicGen\
-    \ to generate multiple versions of itself. These evolving echoes of the original\
-    \ are played back through a multi-channel speaker installation. The work alludes\
-    \ to concerns about generative AI creating a monoculture through a feedback cycle\
-    \ of data scraping, copying and regenerating. By deliberately engaging with (and\
-    \ simultaneously serving as a critique of) MusicGen’s innate tendency to stay\
-    \ within predictable melodic and harmonic structures, we can layer and loop multiple\
-    \ versions of the AI-generated audio while staying musically coherent. The layering\
-    \ of multiple samples also allows us to produce a real-time participatory work\
-    \ despite the time required for the AI generations (which currently take longer\
-    \ to generate than the length of the audio samples generated). A piano was chosen\
-    \ as the interface through which an audio reference is created by participants,\
-    \ as it plays on the familiarity and ubiquity of the instrument, which has become\
-    \ both a symbol and a tool of colonisation. Not only has the keyboard become a\
-    \ dominant interface for music-making, the equal-tempered scale has become pervasive\
-    \ across the globe in most popular music cultures, relegating other modes and\
-    \ scales to the fringe – a pattern repeated by generative AI amplifying what is\
-    \ already amplified.},\n address = {Utrecht, Netherlands},\n articleno = {1},\n\
-    \ author = {Monica Lim and Jarrod Knibbe and Bingqing Chen and Ying Sima and Melanie\
-    \ Huang},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.5281/zenodo.15027150},\n editor = {Laurel\
-    \ Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {3},\n pages = {1--3},\n presentation-video = {https://vimeo.com/938949011},\n\
-    \ title = {Echo Chamber},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_1.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027150
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 3
-  pages: 1--3
-  presentation-video: https://vimeo.com/938949011
-  title: Echo Chamber
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_1.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_2
-  abstract: 'Synaptic Sanctum Neuroscape is an immersive EEG-driven project that intertwines
-    the realms of neuroscience, music composition, and virtual reality. Developed
-    using Max/MSP and Unreal Engine 5, this immersive experience employs a custom
-    EEG device to read users’ brainwaves, transforming their neural activity into
-    emotionally adaptive music and particle systems. The sound spatialization uses
-    ambisonics, and music and environmental sounds are rendered in binaural format
-    for the VR headset’s headphones. This real-time EEG-driven composition, while
-    reflecting the user''s alert/relaxed states, also adapts the musical landscape
-    in response to the user’s evolving emotional dynamics, and the auditory experience
-    becomes an intimate collaboration between their neural patterns and the generative
-    musical algorithm. The EEG data also drives particle systems and manages the duration
-    of the 3D granulator’s grains. This granulator, built with the Max/MSP CataRT
-    library, manifests as glowing spheres within the virtual space, utilizing concatenative
-    synthesis where each sphere encapsulates a unique sonic fragment, and its position
-    and size are given by its sonic features. The visual elements resonate with the
-    music, creating a multisensory symphony that transcends the boundaries of traditional
-    VR experiences. The spatialization of this dynamically generated music is managed
-    by the ambisonics library Spat5: sound is encoded in ambisonics and decoded in
-    binaural format, allowing for a 3D perception of the music, and enhancing the
-    overall sense of presence and engagement. This project merges cheap custom EEG
-    technology and free VR development tools, dark aesthetics and generative art,
-    and invites participants to embark on a synesthetic journey through the realms
-    of their minds, where the convergence of science and art allows users to explore
-    what technology can show us of ourselves.'
-  address: 'Utrecht, Netherlands'
-  articleno: 2
-  author: Marta Rossi
-  bibtex: "@inproceedings{nime2024_installations_2,\n abstract = {Synaptic Sanctum\
-    \ Neuroscape is an immersive EEG-driven project that intertwines the realms of\
-    \ neuroscience, music composition, and virtual reality. Developed using Max/MSP\
-    \ and Unreal Engine 5, this immersive experience employs a custom EEG device to\
-    \ read users’ brainwaves, transforming their neural activity into emotionally\
-    \ adaptive music and particle systems. The sound spatialization uses ambisonics,\
-    \ and music and environmental sounds are rendered in binaural format for the VR\
-    \ headset’s headphones. This real-time EEG-driven composition, while reflecting\
-    \ the user's alert/relaxed states, also adapts the musical landscape in response\
-    \ to the user’s evolving emotional dynamics, and the auditory experience becomes\
-    \ an intimate collaboration between their neural patterns and the generative musical\
-    \ algorithm. The EEG data also drives particle systems and manages the duration\
-    \ of the 3D granulator’s grains. This granulator, built with the Max/MSP CataRT\
-    \ library, manifests as glowing spheres within the virtual space, utilizing concatenative\
-    \ synthesis where each sphere encapsulates a unique sonic fragment, and its position\
-    \ and size are given by its sonic features. The visual elements resonate with\
-    \ the music, creating a multisensory symphony that transcends the boundaries of\
-    \ traditional VR experiences. The spatialization of this dynamically generated\
-    \ music is managed by the ambisonics library Spat5: sound is encoded in ambisonics\
-    \ and decoded in binaural format, allowing for a 3D perception of the music, and\
-    \ enhancing the overall sense of presence and engagement. This project merges\
-    \ cheap custom EEG technology and free VR development tools, dark aesthetics and\
-    \ generative art, and invites participants to embark on a synesthetic journey\
-    \ through the realms of their minds, where the convergence of science and art\
-    \ allows users to explore what technology can show us of ourselves.},\n address\
-    \ = {Utrecht, Netherlands},\n articleno = {2},\n author = {Marta Rossi},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.5281/zenodo.15027650},\n editor = {Laurel Smith Pardue\
-    \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {6},\n pages = {4--9},\n title = {Synaptic Sanctum Neuroscape: real-time emotionally\
-    \ adaptive music in a VR immersive environment },\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_2.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027650
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 6
-  pages: 4--9
-  title: 'Synaptic Sanctum Neuroscape: real-time emotionally adaptive music in a VR
-    immersive environment '
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_2.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_3
-  abstract: 'Token Telephone is a co-creative AI sound installation. Participants
-    enter a space equipped with a microphone and a quartet of generative sound neural
-    networks, each represented by a loudspeaker. Upon vocalizing into the microphone,
-    the participants'' utterance is transformed into neural acoustic tokens and played
-    back, initiating a game of telephone between the neural networks. Each network
-    encodes, processes and reconstructs the sound, distorting the original utterance
-    into new textures guided by the network''s training data. The newly reconfigured
-    sound is then passed to the next network/loudspeaker in a clockwise direction,
-    and the process repeats. The sound produced by the fourth network is passed back
-    to the first network in the cycle, creating a feedback loop wherein the original
-    utterance incrementally loses all of its original characteristics and disintegrates
-    into textures that reflect the inherent biases of the generative models in play.
-    In time, the resonant properties of the processes are revealed in front of the
-    participant. Inspired by the popular children''s game of telephone, Token Telephone
-    illuminates the gradual formation of hallucinations through the iterative processing
-    and re-processing of audio, reflecting the biases introduced by the model''s understanding
-    of sound objects, as well as the data that was provided to it.  '
-  address: 'Utrecht, Netherlands'
-  articleno: 3
-  author: Hugo Flores Garcia and Stephan Moore
-  bibtex: "@inproceedings{nime2024_installations_3,\n abstract = {Token Telephone\
-    \ is a co-creative AI sound installation. Participants enter a space equipped\
-    \ with a microphone and a quartet of generative sound neural networks, each represented\
-    \ by a loudspeaker. Upon vocalizing into the microphone, the participants' utterance\
-    \ is transformed into neural acoustic tokens and played back, initiating a game\
-    \ of telephone between the neural networks. Each network encodes, processes and\
-    \ reconstructs the sound, distorting the original utterance into new textures\
-    \ guided by the network's training data. The newly reconfigured sound is then\
-    \ passed to the next network/loudspeaker in a clockwise direction, and the process\
-    \ repeats. The sound produced by the fourth network is passed back to the first\
-    \ network in the cycle, creating a feedback loop wherein the original utterance\
-    \ incrementally loses all of its original characteristics and disintegrates into\
-    \ textures that reflect the inherent biases of the generative models in play.\
-    \ In time, the resonant properties of the processes are revealed in front of the\
-    \ participant. Inspired by the popular children's game of telephone, Token Telephone\
-    \ illuminates the gradual formation of hallucinations through the iterative processing\
-    \ and re-processing of audio, reflecting the biases introduced by the model's\
-    \ understanding of sound objects, as well as the data that was provided to it.\
-    \  },\n address = {Utrecht, Netherlands},\n articleno = {3},\n author = {Hugo\
-    \ Flores Garcia and Stephan Moore},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17552961},\n\
-    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {4},\n pages = {10--13},\n presentation-video\
-    \ = {https://youtu.be/vEaYoEgtSUo},\n title = {Token Telephone},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_3.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17552961
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 4
-  pages: 10--13
-  presentation-video: https://youtu.be/vEaYoEgtSUo
-  title: Token Telephone
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_3.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_4
-  abstract: '‘The Listening Canvas’ is an interactive sound installation that invites
-    audiences to discover the sounds of found objects by way of engaging in tactile
-    interactions with organic (grains, leaves, stems) and synthetic (plastics, cardboard,
-    fabric) matter within an open canvas. This sound installation displays a canvas
-    made of multiple synthetic materials surrounded by hanging found objects. Audiences
-    are invited to produce sounds by touching the surface of the canvas with their
-    hands or with leaves and other vegetal materials provided. This tactile interaction
-    is captured by contact microphones placed on the verso of the canvas. The sounds
-    are modified and diffused in real time through two transducers attached to hanging
-    found objects used as resonators, such as a frying pan and a watering can. The
-    installation enables a two-sided experience in which listening and sound-making
-    are equally encouraged. The aim of this artwork is to engage wide audiences, including
-    adults and children, in experimental sound-making and active listening practices.
-    They will be offered the opportunity to actively participate by way of touching
-    art objects in display, which is traditionally forbidden in exhibition spaces.
-    The organic and synthetic matter used to produce sounds through the canvas surface
-    is explored sonically in a way that fosters different modes of listening, challenging
-    boundaries between nature and culture towards an ecofeminist configuration.'
-  address: 'Utrecht, Netherlands'
-  articleno: 4
-  author: Luciana Perc
-  bibtex: "@inproceedings{nime2024_installations_4,\n abstract = {‘The Listening Canvas’\
-    \ is an interactive sound installation that invites audiences to discover the\
-    \ sounds of found objects by way of engaging in tactile interactions with organic\
-    \ (grains, leaves, stems) and synthetic (plastics, cardboard, fabric) matter within\
-    \ an open canvas. This sound installation displays a canvas made of multiple synthetic\
-    \ materials surrounded by hanging found objects. Audiences are invited to produce\
-    \ sounds by touching the surface of the canvas with their hands or with leaves\
-    \ and other vegetal materials provided. This tactile interaction is captured by\
-    \ contact microphones placed on the verso of the canvas. The sounds are modified\
-    \ and diffused in real time through two transducers attached to hanging found\
-    \ objects used as resonators, such as a frying pan and a watering can. The installation\
-    \ enables a two-sided experience in which listening and sound-making are equally\
-    \ encouraged. The aim of this artwork is to engage wide audiences, including adults\
-    \ and children, in experimental sound-making and active listening practices. They\
-    \ will be offered the opportunity to actively participate by way of touching art\
-    \ objects in display, which is traditionally forbidden in exhibition spaces. The\
-    \ organic and synthetic matter used to produce sounds through the canvas surface\
-    \ is explored sonically in a way that fosters different modes of listening, challenging\
-    \ boundaries between nature and culture towards an ecofeminist configuration.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {4},\n author = {Luciana Perc},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.5281/zenodo.17552982},\n editor = {Laurel Smith\
-    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {3},\n pages = {14--16},\n title = {The Listening Canvas},\n track\
-    \ = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_4.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17552982
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 3
-  pages: 14--16
-  title: The Listening Canvas
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_4.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_5
-  abstract: 'In this immersive installation, participants take on the role of rainmakers,
-    orchestrating their own thunderstorms through two distinctive modes. The first,
-    a free-playing mode, invites individuals to generate their personalized storms
-    by interacting with an electric taiko display. The intensity of their performance
-    directly influences the gathering pace of storm clouds, culminating in the triumphant
-    arrival of rain. The second mode, a precision-playing experience, challenges participants
-    to execute a specific musical phrase, vying for the esteemed title of successor
-    to a retiring rain god.'
-  address: 'Utrecht, Netherlands'
-  articleno: 5
-  author: Yunyu Ong and Emma Smith and Lee McIver and Maddie Duncan
-  bibtex: "@inproceedings{nime2024_installations_5,\n abstract = {In this immersive\
-    \ installation, participants take on the role of rainmakers, orchestrating their\
-    \ own thunderstorms through two distinctive modes. The first, a free-playing mode,\
-    \ invites individuals to generate their personalized storms by interacting with\
-    \ an electric taiko display. The intensity of their performance directly influences\
-    \ the gathering pace of storm clouds, culminating in the triumphant arrival of\
-    \ rain. The second mode, a precision-playing experience, challenges participants\
-    \ to execute a specific musical phrase, vying for the esteemed title of successor\
-    \ to a retiring rain god.},\n address = {Utrecht, Netherlands},\n articleno =\
-    \ {5},\n author = {Yunyu Ong and Emma Smith and Lee McIver and Maddie Duncan},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.5281/zenodo.17552998},\n editor = {Laurel Smith\
-    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {4},\n pages = {17--20},\n presentation-video = {https://vimeo.com/942206916/761cb98da1},\n\
-    \ title = {Be Your Own Rain God},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_5.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17552998
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 4
-  pages: 17--20
-  presentation-video: https://vimeo.com/942206916/761cb98da1
-  title: Be Your Own Rain God
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_5.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_6
-  abstract: 'The work ‘What Is It (not) Like to Be a Bat?’ is a contemporary interpretation
-    of the famous paper ‘What Is It Like to Be a Bat’ (1974) by the American philosopher
-    Thomas Nagel. The work consists of a self-built headset which uses three ultrasonic
-    sensors and a gyroscope, translating the data in real-time into sound — analogous
-    to the sonar of a bat — creating an interactive musical ‘Bat-Theme’. Hence, it
-    is not only questioning the hard problem of consciousness and the line between
-    subjectivity and intersubjectivity, but also the urge to of science, philosophy
-    and technology to solve it, which might be impossible by nature.'
-  address: 'Utrecht, Netherlands'
-  articleno: 6
-  author: Leon Eckard
-  bibtex: "@inproceedings{nime2024_installations_6,\n abstract = {The work ‘What Is\
-    \ It (not) Like to Be a Bat?’ is a contemporary interpretation of the famous paper\
-    \ ‘What Is It Like to Be a Bat’ (1974) by the American philosopher Thomas Nagel.\
-    \ The work consists of a self-built headset which uses three ultrasonic sensors\
-    \ and a gyroscope, translating the data in real-time into sound — analogous to\
-    \ the sonar of a bat — creating an interactive musical ‘Bat-Theme’. Hence, it\
-    \ is not only questioning the hard problem of consciousness and the line between\
-    \ subjectivity and intersubjectivity, but also the urge to of science, philosophy\
-    \ and technology to solve it, which might be impossible by nature.},\n address\
-    \ = {Utrecht, Netherlands},\n articleno = {6},\n author = {Leon Eckard},\n booktitle\
-    \ = {Proceedings of the International Conference on New Interfaces for Musical\
-    \ Expression},\n doi = {10.5281/zenodo.17048764},\n editor = {Laurel Smith Pardue\
-    \ and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n numpages\
-    \ = {5},\n pages = {21--25},\n presentation-video = {https://vimeo.com/912907360},\n\
-    \ title = {What Is It (not) Like to Be a Bat?},\n track = {Installations},\n url\
-    \ = {http://nime.org/proceedings/2024/nime2024_installations_6.pdf},\n year =\
-    \ {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17048764
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 5
-  pages: 21--25
-  presentation-video: https://vimeo.com/912907360
-  title: 'What Is It (not) Like to Be a Bat?'
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_6.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_7
-  abstract: 'Interactive installation where a synthetic reproduction (using a timbre
-    transfer model) of the Catalan singer Maria Arnal’s voice harmonizes in real time
-    what the visitor sings, forming a hybrid choir. The harmonization is performed
-    by analysing the input voice and using different singing voice models (trained
-    for different vocal registers). The harmonization process also includes a set
-    of Maria Arnal''s samples triggered accordingly to the result of the analysis
-    of the input signal. This work explores on the timber transfer possibilities to
-    extend the human voice and reflects on how timber transfer techniques could offer
-    new expressive possibilities.'
-  address: 'Utrecht, Netherlands'
-  articleno: 7
-  author: Iván Paz and Lina Bautista
-  bibtex: "@inproceedings{nime2024_installations_7,\n abstract = {Interactive installation\
-    \ where a synthetic reproduction (using a timbre transfer model) of the Catalan\
-    \ singer Maria Arnal’s voice harmonizes in real time what the visitor sings, forming\
-    \ a hybrid choir. The harmonization is performed by analysing the input voice\
-    \ and using different singing voice models (trained for different vocal registers).\
-    \ The harmonization process also includes a set of Maria Arnal's samples triggered\
-    \ accordingly to the result of the analysis of the input signal. This work explores\
-    \ on the timber transfer possibilities to extend the human voice and reflects\
-    \ on how timber transfer techniques could offer new expressive possibilities.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {7},\n author = {Iván Paz and\
-    \ Lina Bautista},\n booktitle = {Proceedings of the International Conference on\
-    \ New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15027164},\n\
-    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {2},\n pages = {26--27},\n title = {Maria\
-    \ Choir},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_7.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027164
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 2
-  pages: 26--27
-  title: Maria Choir
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_7.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_8
-  abstract: "[in.tangibile] is an interactive sound art installation proposing a reflection\
-    \ on the materiality of sound, which, although often referred to as an object\
-    \ in the sonic arts context, remains nevertheless formless and elusive. Yet, it\
-    \ is a physical phenomenon that impacts—albeit usually imperceptibly—the surrounding\
-    \ environment. Is its supposed intangibility, thus, intrinsic to the sound event,\
-    \ or is it related to our perceptual limitations? By employing Umberto Eco’s open\
-    \ work concept, [in.tangibile] centralises the role of the audience in the process\
-    \ of artistic creation. According to Eco, an artwork is not an accomplished and\
-    \ unchangeable fact. Rather, it develops from the ecologies of interaction unfolding\
-    \ between the audience and the artefact provided by the artist. Such ecologies\
-    \ range from tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
-    \ through experimental interfaces recalling the tradition of graphic scores, aims\
-    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
-    \ elevating the audience as co-creators, centralising their role in the exploration\
-    \ of the artistic concept proposed and shaping the artistic and aesthetic experience."
-  address: 'Utrecht, Netherlands'
-  articleno: 8
-  author: Enrico Dorigatti
-  bibtex: "@inproceedings{nime2024_installations_8,\n abstract = {[in.tangibile] is\
-    \ an interactive sound art installation proposing a reflection on the materiality\
-    \ of sound, which, although often referred to as an object in the sonic arts context,\
-    \ remains nevertheless formless and elusive. Yet, it is a physical phenomenon\
-    \ that impacts—albeit usually imperceptibly—the surrounding environment. Is its\
-    \ supposed intangibility, thus, intrinsic to the sound event, or is it related\
-    \ to our perceptual limitations? By employing Umberto Eco’s open work concept,\
-    \ [in.tangibile] centralises the role of the audience in the process of artistic\
-    \ creation. According to Eco, an artwork is not an accomplished and unchangeable\
-    \ fact. Rather, it develops from the ecologies of interaction unfolding between\
-    \ the audience and the artefact provided by the artist. Such ecologies range from\
-    \ tangible (physical interaction) to conceptual (interpretation). [in.tangibile],\
-    \ through experimental interfaces recalling the tradition of graphic scores, aims\
-    \ to provide an experimental, tactile dimension to the sound phenomenon whilst\
-    \ elevating the audience as co-creators, centralising their role in the exploration\
-    \ of the artistic concept proposed and shaping the artistic and aesthetic experience.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {8},\n author = {Enrico Dorigatti},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.5281/zenodo.17846330},\n editor = {Laurel Smith\
-    \ Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {4},\n pages = {28--31},\n title = {[in.tangibile]},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_8.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17846330
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 4
-  pages: 28--31
-  title: "[in.tangibile]"
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_8.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_9
-  abstract: 'Loco Loop is an installation for up to eight participants to record sounds
-    into a loop, which they can create and manipulate together in real time. It has
-    the shape of an octagonal table with eight pairs of headphones in which the surroundings
-    can be heard through two microphones embedded in the table top. There are three
-    main controls in the center of the table: one button to record, one button to
-    erase and a rotary knob to change the speed – and thus the pitch – of the loop.
-    There are two additional knobs on the sides for master effects such as reverb,
-    delay or distortion. Playing with this collaborative looper results in an attention
-    shift towards auditory perception. In continuous repetition, every sound becomes
-    music. Ultimately, the minimalist interface allows all participants – both with
-    and without musical education – to have a musical experience through sound manipulation.'
-  address: 'Utrecht, Netherlands'
-  articleno: 9
-  author: Fabian Werfel and Nicole Luján
-  bibtex: "@inproceedings{nime2024_installations_9,\n abstract = {Loco Loop is an\
-    \ installation for up to eight participants to record sounds into a loop, which\
-    \ they can create and manipulate together in real time. It has the shape of an\
-    \ octagonal table with eight pairs of headphones in which the surroundings can\
-    \ be heard through two microphones embedded in the table top. There are three\
-    \ main controls in the center of the table: one button to record, one button to\
-    \ erase and a rotary knob to change the speed – and thus the pitch – of the loop.\
-    \ There are two additional knobs on the sides for master effects such as reverb,\
-    \ delay or distortion. Playing with this collaborative looper results in an attention\
-    \ shift towards auditory perception. In continuous repetition, every sound becomes\
-    \ music. Ultimately, the minimalist interface allows all participants – both with\
-    \ and without musical education – to have a musical experience through sound manipulation.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {9},\n author = {Fabian Werfel\
-    \ and Nicole Luján},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.17553006},\n\
-    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {5},\n pages = {32--36},\n title = {Loco Loop},\n\
-    \ track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_9.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17553006
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 5
-  pages: 32--36
-  title: Loco Loop
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_9.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_10
-  abstract: 'The Jellyfish is a species with one of the most simplistic and complete
-    Umwelts. Its pulsating movements are caused by a refined network, composing only
-    of a few neurons. These neural receptors, named Rhopalia, receive external simulation
-    which determines their pulses. In the ocean, these pulses then ripple into waves
-    in the water, that is sensed by the Rhopalia, triggering the pulses of the next
-    jellyfish. Such interactions (that cannot be seen by the naked eye) in repetition
-    over time, have sustained the existence of the jellyfish species across 6 billion
-    years. This mechanical system causes organic pulses, radiating an inexplicable
-    feeling of vitality. ‘Sonic Rhopalia’ is a sound installation that is produced
-    by the pulsation of four Aurelia aurita (a.k.a. moon jellyfish). By using Touch
-    Designer and a web camera to capture the movement of each jellyfish, we detect
-    its pulse through image analysis, using OpenCV and a combination of pixel color
-    channel classification and area calculation. Once the pulse of a jellyfish is
-    detected, it sends a bang to M4L (Max for Live) using OSC (OpenSound Control),
-    where it is used as a trigger for music composition. Sounds are played in response
-    to each pulse, and when the jellyfish pulse at the same time, in synchronization,
-    different chords and sounds are produced. The work develops across one loop comprising
-    of three phases with varying soundscapes, all determined by the number pulse synchronizations.
-    By reframing jellyfish as an interface for music generation, the rhythms and movements
-    of the pulsating jellyfish come together create a unique soundscape, that allows
-    the audience to experience the vitality of jellyfish in a completely new dimension
-    from conventional methods of bio-marine appreciation.'
-  address: 'Utrecht, Netherlands'
-  articleno: 10
-  author: Kenshiro Taira and Sogen Handa and Risako Shibata and Nimisha Anand and
-    Len Matsuda and Victoria Maki and Ryotaro Hoshino and Kenta Tanaka and Ryoho Kobayashi
-    and Yuta Uozumi and Shinya Fujii
-  bibtex: "@inproceedings{nime2024_installations_10,\n abstract = {The Jellyfish is\
-    \ a species with one of the most simplistic and complete Umwelts. Its pulsating\
-    \ movements are caused by a refined network, composing only of a few neurons.\
-    \ These neural receptors, named Rhopalia, receive external simulation which determines\
-    \ their pulses. In the ocean, these pulses then ripple into waves in the water,\
-    \ that is sensed by the Rhopalia, triggering the pulses of the next jellyfish.\
-    \ Such interactions (that cannot be seen by the naked eye) in repetition over\
-    \ time, have sustained the existence of the jellyfish species across 6 billion\
-    \ years. This mechanical system causes organic pulses, radiating an inexplicable\
-    \ feeling of vitality. ‘Sonic Rhopalia’ is a sound installation that is produced\
-    \ by the pulsation of four Aurelia aurita (a.k.a. moon jellyfish). By using Touch\
-    \ Designer and a web camera to capture the movement of each jellyfish, we detect\
-    \ its pulse through image analysis, using OpenCV and a combination of pixel color\
-    \ channel classification and area calculation. Once the pulse of a jellyfish is\
-    \ detected, it sends a bang to M4L (Max for Live) using OSC (OpenSound Control),\
-    \ where it is used as a trigger for music composition. Sounds are played in response\
-    \ to each pulse, and when the jellyfish pulse at the same time, in synchronization,\
-    \ different chords and sounds are produced. The work develops across one loop\
-    \ comprising of three phases with varying soundscapes, all determined by the number\
-    \ pulse synchronizations. By reframing jellyfish as an interface for music generation,\
-    \ the rhythms and movements of the pulsating jellyfish come together create a\
-    \ unique soundscape, that allows the audience to experience the vitality of jellyfish\
-    \ in a completely new dimension from conventional methods of bio-marine appreciation.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {10},\n author = {Kenshiro Taira\
-    \ and Sogen Handa and Risako Shibata and Nimisha Anand and Len Matsuda and Victoria\
-    \ Maki and Ryotaro Hoshino and Kenta Tanaka and Ryoho Kobayashi and Yuta Uozumi\
-    \ and Shinya Fujii},\n booktitle = {Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.15027173},\n\
-    \ editor = {Laurel Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n\
-    \ month = {September},\n numpages = {6},\n pages = {37--42},\n presentation-video\
-    \ = {https://youtu.be/HBFbDtB_Nsw},\n title = {Sonic Rhopalia},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_10.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027173
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 6
-  pages: 37--42
-  presentation-video: https://youtu.be/HBFbDtB_Nsw
-  title: Sonic Rhopalia
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_10.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_11
-  abstract: 'This work is a sound installation that utilizes the surrounding human
-    flow information to dynamically transform the visual and auditory expressions
-    of a ‘Hokora’ integrating changes in light, shadow, and music based on the movements
-    and tendencies of people, ultimately creating an interactive environment where
-    the shrine and individuals mutually influence each other. ‘Hokora’ is a miniature
-    Shinto shrine on a street side, and in Japan, it is a common practice to stop
-    or bow when passing by. Through the faith in the shrine, the environment, or human
-    flow, also undergoes changes. In this work, the information from the surrounding
-    human flow is reflected in the presentation of light and shadow reminiscent of
-    dappled sunlight, causing the visual and auditory expressions of the Hokora to
-    change based on people''s actions and further influencing the environment. In
-    this work, three ultrasonic distance sensor values are used as input, and the
-    detection frequency and distance values of the past 10 detections are recorded
-    for each sensor. The recorded detection frequency is used to calculate the congestion
-    level of the surrounding human flow. Based on these two pieces of human flow information,
-    changes are introduced in the movement of lights controlled by motors (DC and
-    servo), creating shadow play and altering the music output. This contributes to
-    the portrayal of light inspired by dappled sunlight. The density of human flow
-    influences the left and right movement of lights, reflecting the intensity of
-    the light''s movement. On the other hand, in the realm of music, the density of
-    human flow modulates the frequency of high-pass and low-pass filters. By offering
-    viewers an expression of the Hokora that changes based on human flow information,
-    this installation creates an effect where the Hokora and people mutually influence
-    each other, a phenomenon not traditionally seen in Hokora.'
-  address: 'Utrecht, Netherlands'
-  articleno: 11
-  author: Riki Saito and Fushi Sano and Rikuto Shinmi and Minna Hosaka and Haruru
-    Muramatsu and Kenta Tanaka and Ryoho Kobayashi and Yuta Uozumi and Shinya Fujii
-  bibtex: "@inproceedings{nime2024_installations_11,\n abstract = {This work is a\
-    \ sound installation that utilizes the surrounding human flow information to dynamically\
-    \ transform the visual and auditory expressions of a ‘Hokora’ integrating changes\
-    \ in light, shadow, and music based on the movements and tendencies of people,\
-    \ ultimately creating an interactive environment where the shrine and individuals\
-    \ mutually influence each other. ‘Hokora’ is a miniature Shinto shrine on a street\
-    \ side, and in Japan, it is a common practice to stop or bow when passing by.\
-    \ Through the faith in the shrine, the environment, or human flow, also undergoes\
-    \ changes. In this work, the information from the surrounding human flow is reflected\
-    \ in the presentation of light and shadow reminiscent of dappled sunlight, causing\
-    \ the visual and auditory expressions of the Hokora to change based on people's\
-    \ actions and further influencing the environment. In this work, three ultrasonic\
-    \ distance sensor values are used as input, and the detection frequency and distance\
-    \ values of the past 10 detections are recorded for each sensor. The recorded\
-    \ detection frequency is used to calculate the congestion level of the surrounding\
-    \ human flow. Based on these two pieces of human flow information, changes are\
-    \ introduced in the movement of lights controlled by motors (DC and servo), creating\
-    \ shadow play and altering the music output. This contributes to the portrayal\
-    \ of light inspired by dappled sunlight. The density of human flow influences\
-    \ the left and right movement of lights, reflecting the intensity of the light's\
-    \ movement. On the other hand, in the realm of music, the density of human flow\
-    \ modulates the frequency of high-pass and low-pass filters. By offering viewers\
-    \ an expression of the Hokora that changes based on human flow information, this\
-    \ installation creates an effect where the Hokora and people mutually influence\
-    \ each other, a phenomenon not traditionally seen in Hokora.},\n address = {Utrecht,\
-    \ Netherlands},\n articleno = {11},\n author = {Riki Saito and Fushi Sano and\
-    \ Rikuto Shinmi and Minna Hosaka and Haruru Muramatsu and Kenta Tanaka and Ryoho\
-    \ Kobayashi and Yuta Uozumi and Shinya Fujii},\n booktitle = {Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n doi =\
-    \ {10.5281/zenodo.15027175},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
-    \ issn = {2220-4806},\n month = {September},\n numpages = {6},\n pages = {43--48},\n\
-    \ presentation-video = {https://youtu.be/ML-aZeJ32UQ},\n title = {Yadorigi},\n\
-    \ track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_11.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027175
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 6
-  pages: 43--48
-  presentation-video: https://youtu.be/ML-aZeJ32UQ
-  title: Yadorigi
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_11.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_12
-  abstract: 'Five robots playing five tuned bells by striking them with a mallet.
-    Each robot is controlled by a minimalist, neurally inspired analogue oscillator.
-    These oscillators are mutually connected and connected to a pacemaker oscillator,
-    and through network connectivity, they will synchronize at different ratios with
-    the pacemaker. Slow-running analog oscillators of the same type switch on and
-    off the connectivity and modulate the activation of the robots'' oscillators.
-    Only through these changing network configurations does a musical score that alternates
-    between coordinated polyrhythms, random structure and moments of silence emerges.
-    The complex interaction between the analogue oscillators is visualized with a
-    computer program that graphically displays the changing relations of the oscillators
-    as multiple x-y plots.'
-  address: 'Utrecht, Netherlands'
-  articleno: 12
-  author: Christian Faubel
-  bibtex: "@inproceedings{nime2024_installations_12,\n abstract = {Five robots playing\
-    \ five tuned bells by striking them with a mallet. Each robot is controlled by\
-    \ a minimalist, neurally inspired analogue oscillator. These oscillators are mutually\
-    \ connected and connected to a pacemaker oscillator, and through network connectivity,\
-    \ they will synchronize at different ratios with the pacemaker. Slow-running analog\
-    \ oscillators of the same type switch on and off the connectivity and modulate\
-    \ the activation of the robots' oscillators. Only through these changing network\
-    \ configurations does a musical score that alternates between coordinated polyrhythms,\
-    \ random structure and moments of silence emerges. The complex interaction between\
-    \ the analogue oscillators is visualized with a computer program that graphically\
-    \ displays the changing relations of the oscillators as multiple x-y plots.},\n\
-    \ address = {Utrecht, Netherlands},\n articleno = {12},\n author = {Christian\
-    \ Faubel},\n booktitle = {Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n doi = {10.5281/zenodo.17553007},\n editor = {Laurel\
-    \ Smith Pardue and Palle Dahlstedt},\n issn = {2220-4806},\n month = {September},\n\
-    \ numpages = {5},\n pages = {49--53},\n presentation-video = {https://vimeo.com/912950719},\n\
-    \ title = {Five Robots Playing Pentatonic, Polyrhythmic Songs},\n track = {Installations},\n\
-    \ url = {http://nime.org/proceedings/2024/nime2024_installations_12.pdf},\n year\
-    \ = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.17553007
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 5
-  pages: 49--53
-  presentation-video: https://vimeo.com/912950719
-  title: 'Five Robots Playing Pentatonic, Polyrhythmic Songs'
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_12.pdf
-  year: 2024
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2024_installations_13
-  abstract: 'This work is a sound installation that uses plastic debris to consider
-    the interrelationship between people and the ocean, and the history of the ocean.
-    Today, the toxicity of plastic in the marine environment is being debated, and
-    data shows the increase of plastic in the oceans. Although the data accurately
-    represents the facts, it is somewhat cold attitude and we are rarely aware of
-    our personal involvement in the data. Also, the ocean viewed from land is calm
-    and beautiful, and there is a gap between the actual pollution in the ocean and
-    what humans see from land. A critical situation for marine life is occurring in
-    the ocean. We humans cannot live underwater and cannot truly understand the creatures
-    of the sea. The project creates a virtual sea made of bottles to represent the
-    gap between the sea as seen from the land and the sea inside, and emotionally
-    translates the data to appeal to the human senses, looking into the situation
-    and history of the sea through the lens of sound.'
-  address: 'Utrecht, Netherlands'
-  articleno: 13
-  author: Ayaka Sakakibara
-  bibtex: "@inproceedings{nime2024_installations_13,\n abstract = {This work is a\
-    \ sound installation that uses plastic debris to consider the interrelationship\
-    \ between people and the ocean, and the history of the ocean. Today, the toxicity\
-    \ of plastic in the marine environment is being debated, and data shows the increase\
-    \ of plastic in the oceans. Although the data accurately represents the facts,\
-    \ it is somewhat cold attitude and we are rarely aware of our personal involvement\
-    \ in the data. Also, the ocean viewed from land is calm and beautiful, and there\
-    \ is a gap between the actual pollution in the ocean and what humans see from\
-    \ land. A critical situation for marine life is occurring in the ocean. We humans\
-    \ cannot live underwater and cannot truly understand the creatures of the sea.\
-    \ The project creates a virtual sea made of bottles to represent the gap between\
-    \ the sea as seen from the land and the sea inside, and emotionally translates\
-    \ the data to appeal to the human senses, looking into the situation and history\
-    \ of the sea through the lens of sound.},\n address = {Utrecht, Netherlands},\n\
-    \ articleno = {13},\n author = {Ayaka Sakakibara},\n booktitle = {Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.5281/zenodo.15027179},\n editor = {Laurel Smith Pardue and Palle Dahlstedt},\n\
-    \ issn = {2220-4806},\n month = {September},\n numpages = {6},\n pages = {54--59},\n\
-    \ presentation-video = {https://youtu.be/KLEhXtMFkgU},\n title = {Ocean Pandæmonium\
-    \ -The Noisy Plasticscape-},\n track = {Installations},\n url = {http://nime.org/proceedings/2024/nime2024_installations_13.pdf},\n\
-    \ year = {2024}\n}\n"
-  booktitle: Proceedings of the International Conference on New Interfaces for Musical
-    Expression
-  doi: 10.5281/zenodo.15027179
-  editor: Laurel Smith Pardue and Palle Dahlstedt
-  issn: 2220-4806
-  month: September
-  numpages: 6
-  pages: 54--59
-  presentation-video: https://youtu.be/KLEhXtMFkgU
-  title: Ocean Pandæmonium -The Noisy Plasticscape-
-  track: Installations
-  url: http://nime.org/proceedings/2024/nime2024_installations_13.pdf
-  year: 2024
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: China Gates
+  url: http://mypage.bluewin.ch/artclay
+  year: 2008
 
 
 - ENTRYTYPE: inproceedings

@@ -10,7 +10,7 @@ feature_image_alt: "An enigmatic image of waves in space with the NIME logo subt
 
 - [**NIME2026**](https://nime2026.org) will be held from 23 to 26 June, 2026 at the Loughborough University, London, United Kingdom. 
 
-- The Board of NIME invites bids to [host](/hosting/) its 2027 and 2028 conferences.
+- The Board of NIME invites bids to [host](/hosting/) its 2029 and 2030 conferences.
 
 ### NIME
 
@@ -22,7 +22,7 @@ This website is the permanent repository for [NIME proceedings](/papers/), servi
 
 <!--
 NIME2018: https://youtu.be/xc5I3wbwH_4
-NIKE2014: https://youtu.be/eJHzNMAWQR8
+NIME2014: https://youtu.be/eJHzNMAWQR8
 best of NIME2014: https://youtu.be/beLxqGKvI-M
 NIME2017: https://youtu.be/eTSNJPs8OH8
 NIME2016: https://youtu.be/VmyNYds8z00

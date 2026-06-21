@@ -25,7 +25,7 @@
             {% if page.entry.keywords %}<li>Keywords: {{ page.entry.keywords }}</li>{% endif %}
             {% if page.entry.doi %}<li>DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }} (Link to paper and supplementary files)</a></li>{% endif %}
             {% if page.entry.url %}<li><a href="{{ page.entry.url }}">PDF Link</a></li>{% endif %}
-            {% if page.entry.presentation-video %}<li><a href="{{ page.entry.presentation-video }}">Presentation Video</a></li>{% endif %}
+            {% if page.entry.presentation-video %}<li><a href="{{ page.entry.presentation-video }}">Presentation/Demo Video</a></li>{% endif %}
             {% if page.entry.urlsuppl1 %}<li><a href="{{ page.entry.urlsuppl1 }}">Supplementary File 1: {{ page.entry.urlsuppl1 | split: "/" | last}}</a></li>{% endif %}
             {% if page.entry.urlsuppl2 %}<li><a href="{{ page.entry.urlsuppl2 }}">Supplementary File 2: {{ page.entry.urlsuppl2 | split: "/" | last}}</a></li>{% endif %}
             {% if page.entry.urlsuppl3 %}<li><a href="{{ page.entry.urlsuppl3 }}">Supplementary File 3: {{ page.entry.urlsuppl3 | split: "/" | last}}</a></li>{% endif %}
