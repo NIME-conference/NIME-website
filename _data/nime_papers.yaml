@@ -80125,7 +80125,9 @@
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {},\n numpages = {10},\n pages = {233--242},\n presentation-video\
     \ = {https://youtu.be/AbXqMrDcumI},\n title = {Weaving Before Electronics: A Spiral\
-    \ Design Process for Sound-Interface Making},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_27.pdf},\n\
+    \ Design Process for Sound-Interface Making},\n track = {Paper},\n translations\
+    \ = {Spanish, 10.5281/zenodo.20786582, Tejer antes de la electrónica: Un proceso\
+    \ de diseño en espiral para la creación de interfaces sonoras},\n url = {http://nime.org/proceedings/2026/nime2026_27.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -80140,6 +80142,8 @@
   title: 'Weaving Before Electronics: A Spiral Design Process for Sound-Interface
     Making'
   track: Paper
+  translations: 'Spanish, 10.5281/zenodo.20786582, Tejer antes de la electrónica:
+    Un proceso de diseño en espiral para la creación de interfaces sonoras'
   url: http://nime.org/proceedings/2026/nime2026_27.pdf
   year: 2026
 
@@ -80878,7 +80882,9 @@
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {},\n numpages = {7},\n pages = {335--341},\n presentation-video\
     \ = {https://youtu.be/B2Gx2Ur9no0},\n title = {Ehecatl: A Frugal Digital Wind\
-    \ Instrument Inspired by Aztec Cosmogony},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_39.pdf},\n\
+    \ Instrument Inspired by Aztec Cosmogony},\n track = {Paper},\n translations =\
+    \ {Spanish, 10.5281/zenodo.20786584, Ehécatl: Un Frugal Instrumento de Viento\
+    \ Digital (DWI) Inspirado en la Cosmogonía Azteca},\n url = {http://nime.org/proceedings/2026/nime2026_39.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -80892,6 +80898,8 @@
   presentation-video: https://youtu.be/B2Gx2Ur9no0
   title: 'Ehecatl: A Frugal Digital Wind Instrument Inspired by Aztec Cosmogony'
   track: Paper
+  translations: 'Spanish, 10.5281/zenodo.20786584, Ehécatl: Un Frugal Instrumento
+    de Viento Digital (DWI) Inspirado en la Cosmogonía Azteca'
   url: http://nime.org/proceedings/2026/nime2026_39.pdf
   year: 2026
 
@@ -81633,8 +81641,9 @@
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {},\n numpages = {8},\n pages = {434--441},\n title\
     \ = {Designing Strategic Incongruity: An Audio Device for Sharpening Pencils},\n\
-    \ track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_51.pdf},\n\
-    \ year = {2026}\n}\n"
+    \ track = {Paper},\n translations = {Japanese, 10.5281/zenodo.20786588, 戦略的な違和感のデザイン：鉛筆を削れる音響機器},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_51.pdf},\n year = {2026}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784165
@@ -81646,6 +81655,7 @@
   pages: 434--441
   title: 'Designing Strategic Incongruity: An Audio Device for Sharpening Pencils'
   track: Paper
+  translations: 'Japanese, 10.5281/zenodo.20786588, 戦略的な違和感のデザイン：鉛筆を削れる音響機器'
   url: http://nime.org/proceedings/2026/nime2026_51.pdf
   year: 2026
 
@@ -81903,7 +81913,9 @@
     \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
     \ note = {},\n numpages = {11},\n pages = {474--484},\n title = {Giromin Residency\
     \ Report: Creative Exploration by Musicians and Dancers from Frevo and Afro-Brazilian\
-    \ traditions},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_56.pdf},\n\
+    \ traditions},\n track = {Paper},\n translations = {Portuguese, 10.5281/zenodo.20786596,\
+    \ Relatório da Residência Giromin: Exploração Criativa por Músicos e Dançarinos\
+    \ das Tradições do Frevo e Afro-Brasileiras},\n url = {http://nime.org/proceedings/2026/nime2026_56.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -81917,6 +81929,8 @@
   title: 'Giromin Residency Report: Creative Exploration by Musicians and Dancers
     from Frevo and Afro-Brazilian traditions'
   track: Paper
+  translations: 'Portuguese, 10.5281/zenodo.20786596, Relatório da Residência Giromin:
+    Exploração Criativa por Músicos e Dançarinos das Tradições do Frevo e Afro-Brasileiras'
   url: http://nime.org/proceedings/2026/nime2026_56.pdf
   year: 2026
 
@@ -82785,8 +82799,10 @@
     \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
     \ note = {},\n numpages = {12},\n pages = {593--604},\n presentation-video = {https://youtu.be/lCOmTg5O_Sg},\n\
     \ title = {A Community Moving with Air in the immersive Sound Installation HUELLAS\
-    \ DE AIRE (Traces of Air)},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_70.pdf},\n\
-    \ year = {2026}\n}\n"
+    \ DE AIRE (Traces of Air)},\n track = {Paper},\n translations = {Spanish, 10.5281/zenodo.20786598,\
+    \ Una Comunidad Moviéndose con Aire en la Instalación Sonora Inmersiva HUELLAS\
+    \ DE AIRE},\n url = {http://nime.org/proceedings/2026/nime2026_70.pdf},\n year\
+    \ = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784220
@@ -82800,6 +82816,8 @@
   title: A Community Moving with Air in the immersive Sound Installation HUELLAS DE
     AIRE (Traces of Air)
   track: Paper
+  translations: 'Spanish, 10.5281/zenodo.20786598, Una Comunidad Moviéndose con Aire
+    en la Instalación Sonora Inmersiva HUELLAS DE AIRE'
   url: http://nime.org/proceedings/2026/nime2026_70.pdf
   year: 2026
 
@@ -82906,7 +82924,9 @@
     \ issn = {2220-4806},\n month = {June},\n note = {},\n numpages = {10},\n pages\
     \ = {611--620},\n title = {Between Intimacy and Immensity: Composing Multilayered\
     \ Immersive Live Music for Bone Conduction Headphones and a Speaker-Dome Array},\n\
-    \ track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_72.pdf},\n\
+    \ track = {Paper},\n translations = {French, 10.5281/zenodo.20786600, Entre intimité\
+    \ et immensité : composer de la musique en direct immersive et multicouche pour\
+    \ des casques à conduction osseuse et un dôme de haut-parleurs},\n url = {http://nime.org/proceedings/2026/nime2026_72.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -82920,6 +82940,9 @@
   title: 'Between Intimacy and Immensity: Composing Multilayered Immersive Live Music
     for Bone Conduction Headphones and a Speaker-Dome Array'
   track: Paper
+  translations: 'French, 10.5281/zenodo.20786600, Entre intimité et immensité : composer
+    de la musique en direct immersive et multicouche pour des casques à conduction
+    osseuse et un dôme de haut-parleurs'
   url: http://nime.org/proceedings/2026/nime2026_72.pdf
   year: 2026
 
@@ -83243,7 +83266,7 @@
 
 - ENTRYTYPE: inproceedings
   ID: nime2026_78
-  abstract: 'This paper presents the iterative design of \textitBot Party, a collaborative
+  abstract: 'This paper presents the iterative design of Bot Party, a collaborative
     touch-based sonic game and alt.ctrl musical interface that uses capacitive sweeping
     for inter-player touch detection and IMU-driven motion control as its two interlocking
     interaction modes. Developed over seven years through practice-led research grounded
@@ -83265,9 +83288,9 @@
   articleno: 78
   author: Phoenix Perry
   bibtex: "@inproceedings{nime2026_78,\n abstract = {This paper presents the iterative\
-    \ design of \\textit{Bot Party}, a collaborative touch-based sonic game and alt.ctrl\
-    \ musical interface that uses capacitive sweeping for inter-player touch detection\
-    \ and IMU-driven motion control as its two interlocking interaction modes. Developed\
+    \ design of Bot Party, a collaborative touch-based sonic game and alt.ctrl musical\
+    \ interface that uses capacitive sweeping for inter-player touch detection and\
+    \ IMU-driven motion control as its two interlocking interaction modes. Developed\
     \ over seven years through practice-led research grounded in crip design epistemology,\
     \ the project explores how disability-led approaches to interface design produce\
     \ novel forms of embodied musical interaction. The system consists of three handheld\
@@ -83868,7 +83891,9 @@
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {},\n numpages = {11},\n pages = {740--750},\n title\
     \ = {Listening to Amazônia Verde Viva: Transmorphic Intersections of Ecology and\
-    \ Music Technology in the Global South},\n track = {paper},\n url = {http://nime.org/proceedings/2026/nime2026_88.pdf},\n\
+    \ Music Technology in the Global South},\n track = {paper},\n translations = {Portuguese,\
+    \ 10.5281/zenodo.20786576, Ouvindo \"Amazônia Verde Viva\": Intersecções Transmórficas\
+    \ entre Ecologia e Tecnologia Musical no Sul Global},\n url = {http://nime.org/proceedings/2026/nime2026_88.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -83882,6 +83907,8 @@
   title: 'Listening to Amazônia Verde Viva: Transmorphic Intersections of Ecology
     and Music Technology in the Global South'
   track: paper
+  translations: 'Portuguese, 10.5281/zenodo.20786576, Ouvindo "Amazônia Verde Viva":
+    Intersecções Transmórficas entre Ecologia e Tecnologia Musical no Sul Global'
   url: http://nime.org/proceedings/2026/nime2026_88.pdf
   year: 2026
 
@@ -84042,8 +84069,11 @@
     \ issn = {2220-4806},\n month = {June},\n note = {},\n numpages = {7},\n pages\
     \ = {767--773},\n presentation-video = {https://youtu.be/dCp6it-89io},\n title\
     \ = {The Gift of Chaos: Rob Hordijk's Open Design Philosophy and the Formation\
-    \ of Post-Digital Instrument Communities},\n track = {paper},\n url = {http://nime.org/proceedings/2026/nime2026_91.pdf},\n\
-    \ year = {2026}\n}\n"
+    \ of Post-Digital Instrument Communities},\n track = {paper},\n translations =\
+    \ {Spanish, 10.5281/zenodo.20786580, El regalo del caos: La filosofía de diseño\
+    \ abierto de Rob Hordijk y la formación de comunidades de instrumentos post-digitales},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_91.pdf},\n year = {2026}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784277
@@ -84057,6 +84087,9 @@
   title: 'The Gift of Chaos: Rob Hordijk''s Open Design Philosophy and the Formation
     of Post-Digital Instrument Communities'
   track: paper
+  translations: 'Spanish, 10.5281/zenodo.20786580, El regalo del caos: La filosofía
+    de diseño abierto de Rob Hordijk y la formación de comunidades de instrumentos
+    post-digitales'
   url: http://nime.org/proceedings/2026/nime2026_91.pdf
   year: 2026
 
@@ -85563,8 +85596,11 @@
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {},\n numpages = {9},\n pages = {957--965},\n title\
     \ = {From Control to Co-Agency: Reframing Instrumentality through Sonic Traces\
-    \ in Augmented Musical Practice},\n track = {paper},\n url = {http://nime.org/proceedings/2026/nime2026_116.pdf},\n\
-    \ year = {2026}\n}\n"
+    \ in Augmented Musical Practice},\n track = {paper},\n translations = {Spanish,\
+    \ 10.5281/zenodo.20786594, Del control a la co-agencia: reconfigurando la relación\
+    \ instrumental a través de fenómenos sonoros sutiles en la práctica musical aumentada},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_116.pdf},\n year = {2026}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784362
@@ -85577,6 +85613,9 @@
   title: 'From Control to Co-Agency: Reframing Instrumentality through Sonic Traces
     in Augmented Musical Practice'
   track: paper
+  translations: 'Spanish, 10.5281/zenodo.20786594, Del control a la co-agencia: reconfigurando
+    la relación instrumental a través de fenómenos sonoros sutiles en la práctica
+    musical aumentada'
   url: http://nime.org/proceedings/2026/nime2026_116.pdf
   year: 2026
 

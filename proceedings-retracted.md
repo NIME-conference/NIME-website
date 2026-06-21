@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Retracted Works
-permalink: /proceedings-retracted/
+permalink: /retracted/
 ---
 
 List of works retracted from the NIME proceedings:

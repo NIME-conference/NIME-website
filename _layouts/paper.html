@@ -29,6 +29,37 @@
             {% if page.entry.urlsuppl1 %}<li><a href="{{ page.entry.urlsuppl1 }}">Supplementary File 1: {{ page.entry.urlsuppl1 | split: "/" | last}}</a></li>{% endif %}
             {% if page.entry.urlsuppl2 %}<li><a href="{{ page.entry.urlsuppl2 }}">Supplementary File 2: {{ page.entry.urlsuppl2 | split: "/" | last}}</a></li>{% endif %}
             {% if page.entry.urlsuppl3 %}<li><a href="{{ page.entry.urlsuppl3 }}">Supplementary File 3: {{ page.entry.urlsuppl3 | split: "/" | last}}</a></li>{% endif %}
+
+            {%- comment -%}
+              Translations are stored as a single field:
+                translations = {LANG1, DOI1, TITLE1, LANG2, DOI2, TITLE2, ...}
+            {%- endcomment -%}
+            {% if page.entry.translations %}
+              {% assign tparts = page.entry.translations | split: ", " %}
+              {% assign tsize  = tparts | size %}
+              {% assign tlast  = tsize | minus: 1 %}
+              {% for idx in (0..tlast) %}
+                {% assign idx_mod_3 = idx | modulo: 3 %}
+                {% if idx_mod_3 == 0 %}
+                  {% assign lang      = tparts[idx] %}
+                  {% assign doi_index = idx | plus: 1 %}
+                  {% assign title_index = idx | plus: 2 %}
+                  {% if doi_index < tsize %}
+                    {% assign tdoi = tparts[doi_index] %}
+                  {% endif %}
+                  {% if title_index < tsize %}
+                    {% assign ttitle = tparts[title_index] %}
+                  {% else %}
+                    {% assign ttitle = "" %}
+                  {% endif %}
+                  {% if tdoi %}
+                    <li>
+                      <a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>
+                    </li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
           </ul>
           {% comment %}
           <!-- Alternative format for DOI and URL that displays URL only if DOI is not available -->
@@ -41,7 +72,11 @@
           <h3>Citation</h3>
           <p>{% include citation.html entry=page.entry %}</p>
           <h4>BibTeX Entry</h4>
-          <pre>{{ page.entry.bibtex }}</pre>
+          <pre>
+{% assign lines = page.entry.bibtex | split: "
+" %}{% for line in lines %}{% assign stripped = line | strip %}{% unless stripped == "" or stripped contains "translations = " or stripped contains "note = {}" %}
+{{ stripped }}{% endunless %}{% endfor %}
+          </pre>
         </article>
       </main>
     </div>
