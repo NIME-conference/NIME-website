@@ -14145,7 +14145,7 @@
     to build a sonic tapestry out of the "ghosts" of unseen prior contributors.'
   address: 'London, United Kingdom'
   articleno: 40
-  author: Anthony Marasco and Alexis Bacon and Sandro Barros
+  author: Anthony T. Marasco and Alexis Bacon and Sandro Barros
   bibtex: "@inproceedings{nime2026_music_40,\n abstract = {Host Your Ghosts is an\
     \ interactive sound art installation that explores communal musicking through\
     \ audience-provided audio recordings and a modified and repurposed Ouija board.\
@@ -14168,9 +14168,9 @@
     \ a collection of concatenative synthesizers pulling from the descriptor-driven\
     \ corpora and adjusting parameters on audio effects to build a sonic tapestry\
     \ out of the \"ghosts\" of unseen prior contributors.},\n address = {London, United\
-    \ Kingdom},\n articleno = {40},\n author = {Anthony Marasco and Alexis Bacon and\
-    \ Sandro Barros},\n booktitle = {Proceedings of the International Conference on\
-    \ New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20782144},\n\
+    \ Kingdom},\n articleno = {40},\n author = {Anthony T. Marasco and Alexis Bacon\
+    \ and Sandro Barros},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20782144},\n\
     \ editor = {Lia Mice and Nicole Robson and Tara Pattenden},\n issn = {2220-4806},\n\
     \ month = {June},\n note = {Installation},\n numpages = {6},\n pages = {165--170},\n\
     \ presentation-video = {https://www.youtube.com/watch?v=X-cTcdhSlPw},\n title\

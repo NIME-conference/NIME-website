@@ -78697,11 +78697,11 @@
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20784038},\n\
     \ editor = {Benedict Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n\
     \ issn = {2220-4806},\n month = {June},\n note = {},\n numpages = {11},\n pages\
-    \ = {15--25},\n title = {Anywhere and here: zcreative a toolkit for distributed\
-    \ control},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_3.pdf},\n\
-    \ urlsuppl1 = {http://nime.org/proceedings/2026/nime2026_3_file01.wav},\n urlsuppl2\
-    \ = {http://nime.org/proceedings/2026/nime2026_3_file02.pdf},\n year = {2026}\n\
-    }\n"
+    \ = {15--25},\n presentation-video = {https://youtu.be/6iHAqlsFw4c},\n title =\
+    \ {Anywhere and here: zcreative a toolkit for distributed control},\n track =\
+    \ {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_3.pdf},\n urlsuppl1\
+    \ = {http://nime.org/proceedings/2026/nime2026_3_file01.wav},\n urlsuppl2 = {http://nime.org/proceedings/2026/nime2026_3_file02.pdf},\n\
+    \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784038
@@ -78711,6 +78711,7 @@
   note: ""
   numpages: 11
   pages: 15--25
+  presentation-video: https://youtu.be/6iHAqlsFw4c
   title: 'Anywhere and here: zcreative a toolkit for distributed control'
   track: Paper
   url: http://nime.org/proceedings/2026/nime2026_3.pdf
@@ -78797,7 +78798,7 @@
     design.'
   address: 'London, United Kingdom'
   articleno: 5
-  author: S. M. Astrid Bin and maj nikita doehring and Berit Greinke
+  author: S. M. Astrid Bin and Maj Nikita Doehring and Berit Greinke
   bibtex: "@inproceedings{nime2026_5,\n abstract = {Touch is a key concept in music\
     \ performance and interactive music practice, encompassing both physical interactions\
     \ and metaphorical understandings. Within the NIME archive, however, touch remains\
@@ -78815,7 +78816,7 @@
     \ and embodied interaction remain under-explored in NIME. We conclude by highlighting\
     \ areas for inquiry that bridge music practice and technological design.},\n address\
     \ = {London, United Kingdom},\n articleno = {5},\n author = {S. M. Astrid Bin\
-    \ and maj nikita doehring and Berit Greinke},\n booktitle = {Proceedings of the\
+    \ and Maj Nikita Doehring and Berit Greinke},\n booktitle = {Proceedings of the\
     \ International Conference on New Interfaces for Musical Expression},\n doi =\
     \ {10.5281/zenodo.20784044},\n editor = {Benedict Gaster and João Tragtenberg\
     \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
@@ -78862,7 +78863,7 @@
     the technological design and implementation of the installation system.'
   address: 'London, United Kingdom'
   articleno: 6
-  author: Anthony Marasco and Alexis Bacon and Sandro Barros
+  author: Anthony T. Marasco and Alexis Bacon and Sandro Barros
   bibtex: "@inproceedings{nime2026_6,\n abstract = {Host Your Ghosts is an interactive\
     \ sound art installation that explores communal musicking through audience-provided\
     \ statements, a repurposed Ouija board, and a custom-made motion tracking planchette\
@@ -78885,14 +78886,14 @@
     \ and practices. We follow this with a breakdown of the installation's different\
     \ interactive phases and the programmatic inspirations behind them before outlining\
     \ the technological design and implementation of the installation system.},\n\
-    \ address = {London, United Kingdom},\n articleno = {6},\n author = {Anthony Marasco\
-    \ and Alexis Bacon and Sandro Barros},\n booktitle = {Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20784046},\n\
-    \ editor = {Benedict Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n\
-    \ issn = {2220-4806},\n month = {June},\n note = {},\n numpages = {8},\n pages\
-    \ = {42--49},\n presentation-video = {https://youtu.be/1IB9P6WSR5Q},\n title =\
-    \ {Host Your Ghosts: Recontextualizing the Ouija Board as a Communal NIME for\
-    \ Music Performance},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_6.pdf},\n\
+    \ address = {London, United Kingdom},\n articleno = {6},\n author = {Anthony T.\
+    \ Marasco and Alexis Bacon and Sandro Barros},\n booktitle = {Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n doi =\
+    \ {10.5281/zenodo.20784046},\n editor = {Benedict Gaster and João Tragtenberg\
+    \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
+    \ note = {},\n numpages = {8},\n pages = {42--49},\n presentation-video = {https://youtu.be/1IB9P6WSR5Q},\n\
+    \ title = {Host Your Ghosts: Recontextualizing the Ouija Board as a Communal NIME\
+    \ for Music Performance},\n track = {Paper},\n url = {http://nime.org/proceedings/2026/nime2026_6.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
