@@ -58,7 +58,7 @@ For past and already published NIME works, authors should use the template (when
   {% endif %}
 
   {% if tdoi != "" %}
-<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} {{ entry.booktitle }}. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
+<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} <em>{{ entry.booktitle }}</em>. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
   {% endif %}
 {% endif %}
 {% endfor %}
@@ -95,7 +95,7 @@ For past and already published NIME works, authors should use the template (when
   {% endif %}
 
   {% if tdoi != "" %}
-<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} {{ entry.booktitle }}. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
+<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} <em>{{ entry.booktitle }}</em>. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
   {% endif %}
 {% endif %}
 {% endfor %}
@@ -132,7 +132,7 @@ For past and already published NIME works, authors should use the template (when
   {% endif %}
 
   {% if tdoi != "" %}
-<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} {{ entry.booktitle }}. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
+<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} <em>{{ entry.booktitle }}</em>. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
   {% endif %}
 {% endif %}
 {% endfor %}
@@ -169,7 +169,7 @@ For past and already published NIME works, authors should use the template (when
   {% endif %}
 
   {% if tdoi != "" %}
-<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} {{ entry.booktitle }}. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
+<li>{% include author_names.html entry=entry %}. {{ entry.year }}. {% if ttitle != "" %}<a href="https://doi.org/{{ tdoi }}">{{ ttitle }}</a>.{% else %}<a href="https://doi.org/{{ tdoi }}">{{ lang }} translation</a>.{% endif %} <em>{{ entry.booktitle }}</em>. ({{ lang }} translation of <a href="{{ original_url }}">{{ entry.title }}</a>).</li>
   {% endif %}
 {% endif %}
 {% endfor %}
