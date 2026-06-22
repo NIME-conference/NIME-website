@@ -81912,12 +81912,13 @@
     \ International Conference on New Interfaces for Musical Expression},\n doi =\
     \ {10.5281/zenodo.20784182},\n editor = {Benedict Gaster and João Tragtenberg\
     \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
-    \ note = {},\n numpages = {11},\n pages = {474--484},\n title = {Giromin Residency\
-    \ Report: Creative Exploration by Musicians and Dancers from Frevo and Afro-Brazilian\
-    \ traditions},\n track = {Paper},\n translations = {Portuguese, 10.5281/zenodo.20786596,\
-    \ Relatório da Residência Giromin: Exploração Criativa por Músicos e Dançarinos\
-    \ das Tradições do Frevo e Afro-Brasileiras},\n url = {http://nime.org/proceedings/2026/nime2026_56.pdf},\n\
-    \ year = {2026}\n}\n"
+    \ note = {},\n numpages = {11},\n pages = {474--484},\n presentation-video = {https://youtu.be/1RCuxSZSXlY},\n\
+    \ title = {Giromin Residency Report: Creative Exploration by Musicians and Dancers\
+    \ from Frevo and Afro-Brazilian traditions},\n track = {Paper},\n translations\
+    \ = {Portuguese, 10.5281/zenodo.20786596, Relatório da Residência Giromin: Exploração\
+    \ Criativa por Músicos e Dançarinos das Tradições do Frevo e Afro-Brasileiras},\n\
+    \ url = {http://nime.org/proceedings/2026/nime2026_56.pdf},\n year = {2026}\n\
+    }\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.20784182
@@ -81927,6 +81928,7 @@
   note: ""
   numpages: 11
   pages: 474--484
+  presentation-video: https://youtu.be/1RCuxSZSXlY
   title: 'Giromin Residency Report: Creative Exploration by Musicians and Dancers
     from Frevo and Afro-Brazilian traditions'
   track: Paper
