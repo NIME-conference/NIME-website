@@ -10,6 +10,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 **NB: The pages below are historic web documents, and are not updated. If you are looking for the proceedings of the conferences, all papers are located in the common [NIME proceedings archive]({{site.baseurl}}/papers/).**
 
+*   [NIME 2026](https://nime.org/web_archive/2026/): London, United Kingdom ([live website](https://www.nime2026.org/))
 *   [NIME 2025](https://nime.org/web_archive/2025/): Canberra, Australia ([live website](https://www.nime2025.org/))
 *   [NIME 2024](https://nime.org/web_archive/2024/): Utrecht, Netherlands ([live website](https://www.nime2024.org/))
 *   [NIME 2023](https://nime.org/web_archive/2023/): Mexico City, Mexico ([live website](https://www.nime2023.org/))
@@ -41,6 +42,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 This list only contains the general chairs for the NIME conferences. Each year there were also several other chairs (paper, music, installation, workshops, etc.).
 
+* 2026: Courtney N. Reed and Andrew McPherson
 * 2025: Charles Martin and Pia van Gelder
 * 2024: Hans Leeuw and Martijn Buser and Marije Baalman
 * 2023: Hugo Solís García and Eric Pérez Segura
@@ -69,6 +71,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 
 ### Keynote speakers
 
+* 2026: (London) Kathy Hinde, Georgina Born, London Improviser’s Orchestra, Evicshen, Dhangsha
 * 2025: (Canberra) Clare Cooper, Peter Blamey
 * 2024: (Utrecht) Andi Otto, Kristina Andersen, Frank Wienk, Darsha Hewitt
 * 2023: (Mexico City) Tania Candiani, Ariel Guzik, Arcángelo Constantini
@@ -99,7 +102,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 
 This award recognizes a person who is doing significant work that improves the discussion about diversity in NIME - either through their research, connecting people or through actions such as organisation and awareness. It was named after Pamela Z because she was a keynote in the founding year, because she is a pioneer in this field and an extraordinary artist, and because spending time each NIME thinking about an award named after a prolific African American woman is a way of continually highlighting the value of her work, and representing voices that are often invisible in the community.
 
-* 2024: Qiaosheng Lyu, Ryo Ikeshiro | *Honorary Mention: Molly Joyce and Steph O’Hara, Alon Ilsar*
+* 2025: Qiaosheng Lyu, Ryo Ikeshiro | *Honorary Mention: Molly Joyce and Steph O’Hara, Alon Ilsar*
 * 2024: Kate Bosen, Dan Overholt
 * 2023: Patty Preece, Melania Jack, Giacomo Lepri
 * 2022: Astrid Bin, Laurel Pardue
