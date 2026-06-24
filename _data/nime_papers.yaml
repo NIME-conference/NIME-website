@@ -12532,7 +12532,7 @@
     future reuse within the community.'
   address: 'Canberra, Australia'
   articleno: 32
-  author: Isaac Clarke and Francesco Ardan  Dal Rí and Raul Masu
+  author: 'Isaac Clarke and Dal Rí, Francesco Ardan and Raul Masu'
   bibtex: "@inproceedings{nime2025_32,\n abstract = {In this paper, we present an\
     \ investigation into the longevity, reproducibility, and documentation quality\
     \ of Deep Generative Models (DGMs) introduced in previous editions of the NIME\
@@ -12545,7 +12545,7 @@
     \ key obstacles that hinder the long-term viability and reuse of DGMs in the NIME\
     \ context, and propose guidelines to improve their documentation and future reuse\
     \ within the community.},\n address = {Canberra, Australia},\n articleno = {32},\n\
-    \ author = {Isaac Clarke and Francesco Ardan  Dal Rí and Raul Masu},\n booktitle\
+    \ author = {Isaac Clarke and Dal Rí, Francesco Ardan and Raul Masu},\n booktitle\
     \ = {Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n doi = {10.5281/zenodo.15735662},\n editor = {Doga Cavdir and\
     \ Florent Berthaut},\n issn = {2220-4806},\n month = {June},\n numpages = {7},\n\
@@ -14587,7 +14587,8 @@
     time in NIME.'
   address: 'Canberra, Australia'
   articleno: 70
-  author: Hanyu Qu and Francesco Dal Rí  and Hao Zou and Hanqing Zhou and Raul Masu
+  author: 'Hanyu Qu and Dal Rí, Francesco Ardan and Hao Zou and Hanqing Zhou and Raul
+    Masu'
   bibtex: "@inproceedings{nime2025_70,\n abstract = {This paper introduces a Digital\
     \ Musical Instrument (DMI) that inscribes a linear and a circular conception of\
     \ time, inspired by Western and Eastern time philosophies. The DMI employs two\
@@ -14605,8 +14606,8 @@
     \ time across different cultural contexts. This project wishes to expand the constitutive\
     \ role of musical time, demonstrating its diversity and prompting a reflective\
     \ layer of the perception of performative and musical time in NIME.},\n address\
-    \ = {Canberra, Australia},\n articleno = {70},\n author = {Hanyu Qu and Francesco\
-    \ Dal Rí  and Hao Zou and Hanqing Zhou and Raul Masu},\n booktitle = {Proceedings\
+    \ = {Canberra, Australia},\n articleno = {70},\n author = {Hanyu Qu and Dal Rí,\
+    \ Francesco Ardan and Hao Zou and Hanqing Zhou and Raul Masu},\n booktitle = {Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.15698936},\n editor = {Doga Cavdir and Florent Berthaut},\n\
     \ issn = {2220-4806},\n month = {June},\n numpages = {8},\n pages = {481--488},\n\
@@ -61110,7 +61111,7 @@
     roles and agencies that emerged during the rehearsals.'
   address: 'Mexico City, Mexico'
   articleno: 20
-  author: Francesco Dal Rì and Francesca Zanghellini and Raul Masu
+  author: 'Dal Rí, Francesco Ardan and Francesca Zanghellini and Raul Masu'
   bibtex: "@inproceedings{nime2023_20,\n abstract = {This paper introduces a performative\
     \ ecosystem created with the aim of promoting a joint expression between a live\
     \ coder and an instrumentalist. The live coding environment is based on TidalCycles,\
@@ -61121,12 +61122,12 @@
     \ to develop a performance. At the end of this paper, we provide a number of reflections\
     \ on the entanglement of the different roles and agencies that emerged during\
     \ the rehearsals.},\n address = {Mexico City, Mexico},\n articleno = {20},\n author\
-    \ = {Francesco Dal Rì and Francesca Zanghellini and Raul Masu},\n booktitle =\
-    \ {Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ doi = {10.5281/zenodo.11189135},\n editor = {Miguel Ortiz and Adnan Marquez-Borbon},\n\
-    \ issn = {2220-4806},\n month = {May},\n numpages = {8},\n pages = {147--154},\n\
-    \ title = {Sharing the Same Sound: Reflecting on Interactions between a Live Coder\
-    \ and a Violinist},\n track = {Papers},\n url = {http://nime.org/proceedings/2023/nime2023_20.pdf},\n\
+    \ = {Dal Rí, Francesco Ardan and Francesca Zanghellini and Raul Masu},\n booktitle\
+    \ = {Proceedings of the International Conference on New Interfaces for Musical\
+    \ Expression},\n doi = {10.5281/zenodo.11189135},\n editor = {Miguel Ortiz and\
+    \ Adnan Marquez-Borbon},\n issn = {2220-4806},\n month = {May},\n numpages = {8},\n\
+    \ pages = {147--154},\n title = {Sharing the Same Sound: Reflecting on Interactions\
+    \ between a Live Coder and a Violinist},\n track = {Papers},\n url = {http://nime.org/proceedings/2023/nime2023_20.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
@@ -67440,7 +67441,7 @@
     the practical use of these systems, and possible use scenarios.'
   address: 'Auckland, New Zealand'
   articleno: 36
-  author: 'Rì, Francesco Ardan Dal and Masu, Raul'
+  author: 'Dal Rí, Francesco Ardan and Masu, Raul'
   bibtex: "@inproceedings{nime2022_36,\n abstract = {The management of the musical\
     \ structures and the awareness of the performer’s processes during a performance\
     \ are two important aspects of live coding improvisations. To support these aspects,\
@@ -67452,7 +67453,7 @@
     \ These diaries have been analyzed to understand the two systems individually\
     \ and compare them. We finally discuss the main benefits related to the practical\
     \ use of these systems, and possible use scenarios.},\n address = {Auckland, New\
-    \ Zealand},\n articleno = {36},\n author = {R{\\`i}, Francesco Ardan Dal and Masu,\
+    \ Zealand},\n articleno = {36},\n author = {Dal Rí, Francesco Ardan and Masu,\
     \ Raul},\n booktitle = {Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n doi = {10.21428/92fbeb44.828b6114},\n editor = {Andrew\
     \ McPherson and Emma Frid},\n issn = {2220-4806},\n month = {jun},\n presentation-video\
@@ -82021,7 +82022,7 @@
     and appropriation in machine learning-based musical instruments.'
   address: 'London, United Kingdom'
   articleno: 58
-  author: Domenico Stefani and Francesco Dal Rì and Luca Turchet
+  author: 'Domenico Stefani and Dal Rí, Francesco Ardan and Luca Turchet'
   bibtex: "@inproceedings{nime2026_58,\n abstract = {Recent advances have made deep\
     \ generative models practical for live music performance. Moreover, latent spaces\
     \ are increasingly exposed as sites of musical interaction. However, their use\
@@ -82041,9 +82042,9 @@
     \ details, this work contributes to ongoing discussions about controllability,\
     \ legibility, and appropriation in machine learning-based musical instruments.},\n\
     \ address = {London, United Kingdom},\n articleno = {58},\n author = {Domenico\
-    \ Stefani and Francesco Dal Rì and Luca Turchet},\n booktitle = {Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n doi\
-    \ = {10.5281/zenodo.20784186},\n editor = {Benedict Gaster and João Tragtenberg\
+    \ Stefani and Dal Rí, Francesco Ardan and Luca Turchet},\n booktitle = {Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ doi = {10.5281/zenodo.20784186},\n editor = {Benedict Gaster and João Tragtenberg\
     \ and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n month = {June},\n\
     \ note = {},\n numpages = {8},\n pages = {492--499},\n title = {Probing Latent\
     \ Space Interactions with Real-time Generative Audio Models Through a Physical\
@@ -82559,7 +82560,7 @@
     adoption in a real-world performance context.'
   address: 'London, United Kingdom'
   articleno: 67
-  author: Francesco Manenti and Raul Masu and Francesco Ardan Dal Rì and Luca Turchet
+  author: 'Francesco Manenti and Raul Masu and Dal Rí, Francesco Ardan and Luca Turchet'
   bibtex: "@inproceedings{nime2026_67,\n abstract = {Over the last century, the practice\
     \ of musical instruments modification has evolved in a wide range of contexts,\
     \ from early avant-garde to contemporary digital practices. More recently, research\
@@ -82576,7 +82577,7 @@
     \ how our approach situates the design process within the broader ecology of musicians’\
     \ working practices, supporting long term adoption in a real-world performance\
     \ context.},\n address = {London, United Kingdom},\n articleno = {67},\n author\
-    \ = {Francesco Manenti and Raul Masu and Francesco Ardan Dal Rì and Luca Turchet},\n\
+    \ = {Francesco Manenti and Raul Masu and Dal Rí, Francesco Ardan and Luca Turchet},\n\
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.20784209},\n editor = {Benedict\
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
@@ -97904,7 +97905,7 @@
     repertoire to visually impaired people. '
   address: 'Utrecht, Netherlands'
   articleno: 77
-  author: Francesco Manenti and Francesco Ardan Dal Rì
+  author: 'Francesco Manenti and Dal Rí, Francesco Ardan'
   bibtex: "@inproceedings{nime2024_77,\n abstract = {In this paper, we present the\
     \ outcome of a musical workshop on accessibility of graphic scores for blind people,\
     \ held in Brescia, Italy with the support of Unione Italiana dei Ciechi e degli\
@@ -97916,7 +97917,7 @@
     \ and creation of tactile scores and to discuss performance strategies, in order\
     \ to facilitate accessibility of this peculiar repertoire to visually impaired\
     \ people. },\n address = {Utrecht, Netherlands},\n articleno = {77},\n author\
-    \ = {Francesco Manenti and Francesco Ardan Dal Rì},\n booktitle = {Proceedings\
+    \ = {Francesco Manenti and Dal Rí, Francesco Ardan},\n booktitle = {Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ doi = {10.5281/zenodo.13904941},\n editor = {S M Astrid Bin and Courtney N.\
     \ Reed},\n issn = {2220-4806},\n month = {September},\n numpages = {6},\n pages\
