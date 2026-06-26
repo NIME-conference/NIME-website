@@ -55,7 +55,7 @@ In the motivation letter, the applicant should ask what type of mentor they want
 ### Language Support
 
 * Si necesitas una traducción al Español por favor contacta a: [Juan Martinez Avila](mailto:j.avila@nottingham.ac.uk)
-* Se precisar de ajuda para traduzir este formulário em Português, contacte: [Joao Tragtenberg](mailto:tragtenberg@gmail.com)
+* Se precisar de ajuda para traduzir este formulário em Português, contacte: [João Tragtenberg](mailto:tragtenberg@gmail.com)
 * Se avete bisogno di aiuto in italiano con l'inglese contattate: [Raul Masu](mailto:raul@raulmasu.org)
 * Si vous avez besoin d'aide pour traduire ce formulaire en Français, contact: [Kerem Ergener](mailto:kergen1@lsu.edu)
 * Türkçe çeviriye ihtiyacınız varsa lütfen iletişime geçiniz: [Kerem Ergener](mailto:kergen1@lsu.edu)
