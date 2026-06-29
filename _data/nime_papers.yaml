@@ -79460,7 +79460,7 @@
     musical instruments.'
   address: 'London, United Kingdom'
   articleno: 16
-  author: Charles Martin
+  author: Charles Patrick Martin
   bibtex: "@inproceedings{nime2026_16,\n abstract = {Machine generation of symbolic\
     \ music and digital audio are hot topics but there have been relatively few digital\
     \ musical instruments that integrate generative AI. Present musical AI tools are\
@@ -79477,7 +79477,7 @@
     \ AI models can be a transportable design resource, and that cheap hardware can\
     \ lower barriers to inclusion. This work could enable artists to explore new interaction\
     \ and performance schemes with intelligent musical instruments.},\n address =\
-    \ {London, United Kingdom},\n articleno = {16},\n author = {Charles Martin},\n\
+    \ {London, United Kingdom},\n articleno = {16},\n author = {Charles Patrick Martin},\n\
     \ booktitle = {Proceedings of the International Conference on New Interfaces for\
     \ Musical Expression},\n doi = {10.5281/zenodo.20784072},\n editor = {Benedict\
     \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
@@ -82903,7 +82903,7 @@
     AAR immersive live music.'
   address: 'London, United Kingdom'
   articleno: 72
-  author: Nicola Giannini and Andrea Gozzi and Dominic Thibault and Ana Dall'Ara Majek
+  author: Nicola Giannini and Andrea Gozzi and Dominic Thibault and Ana Dall'Ara-Majek
     and Kevin Gironnay and João Sebastião Lessa Catalão
   bibtex: "@inproceedings{nime2026_72,\n abstract = {This paper presents a research-creation\
     \ framework for composing immersive live music in multilayered listening environments\
@@ -82921,7 +82921,7 @@
     \ Challenges, strategies, limitations, and solutions are discussed, offering practical\
     \ insights for composing multilayered AAR immersive live music.},\n address =\
     \ {London, United Kingdom},\n articleno = {72},\n author = {Nicola Giannini and\
-    \ Andrea Gozzi and Dominic Thibault and Ana Dall'Ara Majek and Kevin Gironnay\
+    \ Andrea Gozzi and Dominic Thibault and Ana Dall'Ara-Majek and Kevin Gironnay\
     \ and João Sebastião Lessa Catalão},\n booktitle = {Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20784226},\n\
     \ editor = {Benedict Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n\
@@ -84726,7 +84726,7 @@
     factor for creative agency in intelligent instruments.'
   address: 'London, United Kingdom'
   articleno: 102
-  author: Hongzhe Zhu and Charles Martin
+  author: Hongzhe Kevin Zhu and Charles Patrick Martin
   bibtex: "@inproceedings{nime2026_102,\n abstract = {Interactive machine learning\
     \ systems are increasingly enabling new forms of real-time musical collaboration\
     \ between human performers and artificial intelligence, transforming how musicians\
@@ -84745,13 +84745,14 @@
     \ partners. This work contributes a framework for human-centered AI interface\
     \ design in the NIME community, suggesting that transparency is an important design\
     \ factor for creative agency in intelligent instruments.},\n address = {London,\
-    \ United Kingdom},\n articleno = {102},\n author = {Hongzhe Zhu and Charles Martin},\n\
-    \ booktitle = {Proceedings of the International Conference on New Interfaces for\
-    \ Musical Expression},\n doi = {10.5281/zenodo.20784312},\n editor = {Benedict\
-    \ Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n issn = {2220-4806},\n\
-    \ month = {June},\n note = {},\n numpages = {8},\n pages = {860--867},\n presentation-video\
-    \ = {https://youtu.be/roAjjsT5uO0},\n title = {A Web Interface for Real-Time Interaction\
-    \ with  Machine Learning in Musical Performance},\n track = {paper},\n url = {http://nime.org/proceedings/2026/nime2026_102.pdf},\n\
+    \ United Kingdom},\n articleno = {102},\n author = {Hongzhe Kevin Zhu and Charles\
+    \ Patrick Martin},\n booktitle = {Proceedings of the International Conference\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.20784312},\n\
+    \ editor = {Benedict Gaster and João Tragtenberg and Anna Xambó and Tom Mitchell},\n\
+    \ issn = {2220-4806},\n month = {June},\n note = {},\n numpages = {8},\n pages\
+    \ = {860--867},\n presentation-video = {https://youtu.be/roAjjsT5uO0},\n title\
+    \ = {A Web Interface for Real-Time Interaction with  Machine Learning in Musical\
+    \ Performance},\n track = {paper},\n url = {http://nime.org/proceedings/2026/nime2026_102.pdf},\n\
     \ year = {2026}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
