@@ -6,7 +6,7 @@ permalink: /papers/
 
 This page lists all peer-reviewed Papers published at the NIME conferences, organized in reverse chronological order.
 
-* **Peer review:** All papers have been peer-reviewed (most often by three international experts). See the [list of reviewers](/reviewers/). Only papers that were presented at the conferences (as presentation, poster or demo) are included.
+* **Peer review:** All papers have undergone a double-blind peer-review process (most often by three international experts). See the [list of reviewers](/reviewers/). Only papers that were presented at the conferences (as presentation, poster or demo) are included.
 * **Open access:** NIME papers are open access (gold), and the copyright remains with the author(s). The NIME archive uses the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 * **Public domain:** The bibliographic information for NIME, including all BibTeX information and abstracts, is public domain. The list below is generated automatically from a collection of BibTeX files hosted at [GitHub](https://github.com/NIME-conference/NIME-bibliography).
 * **PDFs:** PDFs of individual papers are linked for each entry below. All PDFs are archived separately in [Zenodo](https://www.zenodo.org/communities/nime_conference/), along with supplementary media files. There are also [Zip files](https://zenodo.org/communities/nime_conference_archive/?page=1&size=20) for each year in Zenodo, containing only the PDF of works published under the Paper, Music, and Installation proceedings. If you want to download everything quickly, you can also find these Zip files [here](https://www.nime.org/proceedings/ZIPs/).
