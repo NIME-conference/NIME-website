@@ -142,11 +142,11 @@ The Board is composed of the following members:
 
 ## 5. Board member's election process
 #### 5.1 Eligibility
-* Anyone who attended at least one of the last 5 NIME conferences (either in person or remotely) can advance their nomination
+* Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) can advance their nomination
 * The nomination modalities are communicated on [forum.nime.org](https://forum.nime.org)
 
 #### 5.2 Elections
-* Anyone who attended at least one of the last 5 NIME conferences (either in person or remotely) has the right to vote
+* Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) has the right to vote
 * The election modalities and results are communicated on [forum.nime.org](https://forum.nime.org)
 
 ## 6. Advisory Group
