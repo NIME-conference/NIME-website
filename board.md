@@ -5,11 +5,11 @@ permalink: /board/
 ---
 
 ## NIME Board Members
-* [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony AI, Spain)
+* [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony Europe, Spain)
 * [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
 * [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
 * [Stefano Fasciani](https://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
-* [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large (University of Aveiro, Portugal)
+* [Teresa Pelinski](https://teresapelinski.com/), Member-at-large (Queen Mary University of London, UK)
 * [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large (Australian National University, Australia)
 * [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Chair NIME 2026 (Loughborough University London, UK)
 * [Sofy Yuditskaya](https://www.yuditskaya.com/), Chair NIME 2027 (Devinci Higher Education, France)
@@ -17,7 +17,6 @@ permalink: /board/
 
 
 Upcoming elections:
-* 2026: 2x Members-at-Large
 * 2027: Chair of Committees, Proceedings Officer
 * 2028: Continuity Officer
 
