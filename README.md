@@ -1,12 +1,12 @@
 # NIME website
 
-[![Build and deploy](https://github.com/NIME-conference/nime-website/actions/workflows/build-github-pages.yml/badge.svg)](https://github.com/NIME-conference/nime-website/actions/workflows/build-github-pages.yml)
-[![Site quality](https://github.com/NIME-conference/nime-website/actions/workflows/site-quality.yml/badge.svg)](https://github.com/NIME-conference/nime-website/actions/workflows/site-quality.yml)
-[![External links](https://github.com/NIME-conference/nime-website/actions/workflows/external-links.yml/badge.svg)](https://github.com/NIME-conference/nime-website/actions/workflows/external-links.yml)
+[![Build and deploy](https://github.com/NIME-conference/NIME-website/actions/workflows/build-github-pages.yml/badge.svg)](https://github.com/NIME-conference/NIME-website/actions/workflows/build-github-pages.yml)
+[![Site quality](https://github.com/NIME-conference/NIME-website/actions/workflows/site-quality.yml/badge.svg)](https://github.com/NIME-conference/NIME-website/actions/workflows/site-quality.yml)
+[![External links](https://github.com/NIME-conference/NIME-website/actions/workflows/external-links.yml/badge.svg)](https://github.com/NIME-conference/NIME-website/actions/workflows/external-links.yml)
 [![nime.org](https://img.shields.io/website?url=https%3A%2F%2Fnime.org&label=nime.org)](https://nime.org)
 [![Built with Jekyll](https://img.shields.io/badge/built%20with-Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 [![github-pages gem](https://img.shields.io/badge/github--pages-v232-blue)](https://github.com/github/pages-gem)
-[![Last commit](https://img.shields.io/github/last-commit/NIME-conference/nime-website)](https://github.com/NIME-conference/nime-website/commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/NIME-conference/NIME-website)](https://github.com/NIME-conference/NIME-website/commits/master)
 [![Bibliography](https://img.shields.io/badge/data-NIME--bibliography-green)](https://github.com/NIME-conference/NIME-bibliography)
 
 This is the repository for the permanent website of the **International Conference on New Interfaces for Musical Expression (NIME)** at <https://nime.org>, including the proceedings archive. It is deliberately a small, static [Jekyll](https://jekyllrb.com) site that links to the PDF proceedings and media files from previous NIMEs, and to archival copies of the websites of previous editions of the conference.
@@ -28,7 +28,7 @@ Contact the [NIME Proceedings Officer](https://nime.org/board/) for further deta
 You will need Ruby and [Bundler](https://bundler.io). The site builds with the [`github-pages`](https://github.com/github/pages-gem) gem, so the Ruby version supported by that gem is the safe choice.
 
 ```sh
-git clone git@github.com:NIME-conference/nime-website.git
+git clone git@github.com:NIME-conference/NIME-website.git
 cd nime-website
 bundle install
 bundle exec jekyll serve
@@ -119,7 +119,7 @@ npx pa11y-ci -c .pa11yci.json
 ### Change the text on a regular page (e.g., the location of the next NIME)
 
 1. Edit the relevant markdown file (e.g., `index.md`, `hosting.md`) on GitHub or locally and commit to `master`.
-2. The website will automatically build and deploy to the web server within a few minutes. Check the [Actions tab](https://github.com/NIME-conference/nime-website/actions) if it does not appear.
+2. The website will automatically build and deploy to the web server within a few minutes. Check the [Actions tab](https://github.com/NIME-conference/NIME-website/actions) if it does not appear.
 
 ### Add a new year of NIME proceedings
 
