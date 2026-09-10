@@ -37,6 +37,9 @@ config = {
         "wait": 500,
         "concurrency": 4,
         "chromeLaunchConfig": {"args": ["--no-sandbox", "--disable-dev-shm-usage"]},
+        # axe cannot inspect cross-origin iframes (YouTube embeds) and reports
+        # "frame-tested" as an error for every one; the frame itself is not ours.
+        "ignore": ["frame-tested"],
     },
     "urls": [base + u for u in dict.fromkeys(urls)],
 }

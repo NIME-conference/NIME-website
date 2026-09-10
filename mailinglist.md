@@ -13,7 +13,7 @@ Except where specifically relevant to a large proportion of the NIME community, 
 
 In order to subscribe to the list, please send an email to [nime-community+subscribe@googlegroups.com](mailto:nime-community+subscribe@googlegroups.com). To unsubscribe from the list, send an email to [mailto:nime-community+unsubscribe@googlegroups.com](mailto:nime-community+unsubscribe@googlegroups.com).
 
-### Mailing List Archive
+## Mailing List Archive
 
 The mailing list is hosted on [Google Groups](https://groups.google.com/forum/#!forum/nime-community), which provides a searchable archive of discussions.
 

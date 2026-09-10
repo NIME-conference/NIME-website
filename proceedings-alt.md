@@ -15,7 +15,7 @@ This page lists all peer-reviewed alt.nime works presented at NIME conferences, 
 
 {% assign year_entries = site.data.nime_alt | where: "year", i %}
 {% unless year_entries == empty %}
-<h3>{{ i }}</h3>
+<h2>{{ i }}</h2>
 
 <ul>
 {% for entry in year_entries %}

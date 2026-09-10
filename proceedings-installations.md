@@ -15,7 +15,7 @@ This page lists all peer-reviewed Installations shown at NIME conferences, organ
 
 {% assign year_entries = site.data.nime_installations | where: "year", i %}
 {% unless year_entries == empty %}
-<h3>{{ i }}</h3>
+<h2>{{ i }}</h2>
 
 <ul>
 {% for entry in year_entries %}

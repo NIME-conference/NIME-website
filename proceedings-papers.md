@@ -27,7 +27,7 @@ This page lists all peer-reviewed Papers published at the NIME conferences, orga
 
 {% assign year_entries = site.data.nime_papers | where: "year", i %}
 {% unless year_entries == empty %}
-<h3>{{ i }}</h3>
+<h2>{{ i }}</h2>
 
 <ul>
 {% for entry in year_entries %}

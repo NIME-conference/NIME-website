@@ -5,36 +5,36 @@ description: "Standing committees of the NIME conference, including the ethics, 
 permalink: /committees/
 ---
 
-### Ethics Committee
+## Ethics Committee
 * [Kerem Ergener](https://www.keremergener.com/) (lead)
 * [Natalia Fuchs](http://artypical.com/) (member)
 * [Doga Cadvir](https://www.dogacavdir.com/) (member)
 
-### Diversity Committee
+## Diversity Committee
 * [Courtney Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/) (co-lead)
 * [João Tragtenberg](https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859) (co-lead)
 * [Andrew McMillan](https://andrewmcmillan.weebly.com/) (member)
 * [Yichen Wang](https://yichenwangs.github.io/) (member)
 * [Zeynep Ozcan](http://zeynepozcan.net/) (member)
 
-### Environmental Committee
+## Environmental Committee
 * [Raul Masu](https://raulmasu.org/) (lead)
 * [Ha-Moon Young](https://www.sustainable-music.org/) (member)
 * [Florent Berthaut](https://pro.univ-lille.fr/florent-berthaut) (member)
 * [Benedict Gaster](https://people.uwe.ac.uk/Person/BenedictGaster) (member)
 
-### WiNIME Committee
+## WiNIME Committee
 * [Isabela Corintha](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230/) (lead)
 * [Aida Khorsandi](https://www.rcmusic.com/bios/aida-khorsandi) (member)
 * [Eleni-Ira Panourgia](https://eleniirapanourgia.com/) (member)
 
-### LATAM NIME Committee
+## LATAM NIME Committee
 * [João Tragtenberg](https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859) (co-lead)
 * [Alvaro Lopez](https://www.linkedin.com/in/alvaro-e-lopez-duarte/) (co-lead)
 
 <br/><br/>
 
-### Officers
+## Officers
 * Mailing List:
 	- [Andrew Johnston](http://andrewjohnston.net/) (lead)
 	- [Michael Lyons](https://www.linkedin.com/in/michaeljlyons)
@@ -49,7 +49,7 @@ permalink: /committees/
 
 <br/><br/>
 
-### Advisory Board
+## Advisory Board
 > Please note that the information regarding the Advisory Board is not up to date.
 * [Michael Lyons](https://www.ritsumei.ac.jp/cias/about/faculty/teacher/article/?id=31), Chair NIME 2004
 * [Sidney Fels](https://ece.ubc.ca/sid-fels/), Chair NIME 2005
@@ -66,7 +66,7 @@ permalink: /committees/
 
 <br/><br/>
 
-### Steering Committee
+## Steering Committee
 > On 17 April 2024 the Steering Committee ceased its functions, and governance was officially transferred to the [NIME Board](https://nime.org/board/). The Steering Committee was responsible for guiding the future direction of the NIME conference. It was composed of previous, current and future NIME conference chairs.
 
 * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale) (Chair of the Steering Committee, Chair NIME 2022)
