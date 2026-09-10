@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-datapage-generator
   - jekyll-toc
+  - jekyll-seo-tag
  
 # This is the page_gen plugin config
 # This creates individual pages for each bibliography entry.

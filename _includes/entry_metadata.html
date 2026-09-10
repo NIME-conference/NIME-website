@@ -20,7 +20,7 @@ as citation_fulltext_html_url instead of citation_pdf_url.
 {%- endif -%}
 {%- assign author_names = include.entry.author | split: " and " -%}
 
-<meta name="citation_title" content="{{ include.entry.title | escape }}">
+<meta name="citation_title" content="{{ include.entry.title | newline_to_br | strip_newlines | replace: "<br />", " " | replace: "  ", " " | escape }}">
 {%- for auth in author_names %}
 <meta name="citation_author" content="{{ auth | strip | escape }}">
 {%- endfor %}

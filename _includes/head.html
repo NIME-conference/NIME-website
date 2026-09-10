@@ -1,8 +1,27 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ page.title }}</title>
-<meta name="description" content="{{ page.description }}">
+{%- if include.entry -%}
+{%- comment -%} Proceedings pages: hand-written SEO tags, because jekyll-seo-tag only reads
+page.description and the generated pages have their text in page.entry.abstract. {%- endcomment -%}
+{%- assign seo_title = include.entry.title | newline_to_br | strip_newlines | replace: "<br />", " " | replace: "  ", " " | append: " | NIME Proceedings" -%}
+{%- capture seo_desc -%}{%- if include.entry.abstract -%}{{ include.entry.abstract | strip_html | strip_newlines | strip | truncatewords: 28 }}{%- else -%}{{ include.entry.title }}{%- if include.entry.author %} ({% include author_names.html entry=include.entry %}){%- endif -%}, {{ include.entry.booktitle }}, {{ include.entry.year }}.{%- endif -%}{%- endcapture -%}
+{%- assign seo_desc = seo_desc | strip_newlines | replace: "    ", " " | replace: "   ", " " | replace: "  ", " " | replace: "( ", "(" | replace: " )", ")" | strip -%}
+<title>{{ seo_title | escape }}</title>
+<meta name="description" content="{{ seo_desc | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ include.entry.title | newline_to_br | strip_newlines | replace: "<br />", " " | replace: "  ", " " | escape }}">
+<meta property="og:description" content="{{ seo_desc | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ include.entry.title | newline_to_br | strip_newlines | replace: "<br />", " " | replace: "  ", " " | escape }}">
+<meta name="twitter:description" content="{{ seo_desc | escape }}">
+{%- else -%}
+{% seo %}
+{%- endif %}
 <!-- favicons --> 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="{{ site.lang | default: "en-GB" }}">
   <head>
-	  {% include head.html %}
+	  {% include head.html entry=page.entry %}
     <!-- start bibliography metadata -->
     {% include entry_metadata.html entry=page.entry %}
     <!-- end bibliography metadata -->
@@ -13,8 +13,8 @@
     <div class="container rounded bg-body">	   
       <main class="my-2 p-4" aria-label="Content">
         <article class="article article--page content typeset">
-          <h2>{{ page.entry.title }}</h2>
-          <h4>{% include author_names.html entry=page.entry %}</h4>
+          <h1>{{ page.entry.title }}</h1>
+          <p class="lead">{% include author_names.html entry=page.entry %}</p>
           <p>{{ page.entry.booktitle }}</p>
           <ul>
             {% if page.entry.year %}<li>Year: {{ page.entry.year }}</li>{% endif %}
@@ -67,11 +67,11 @@
           {% elsif page.entry.url %}<li><a href="{{ page.entry.url }}">PDF link</a></li>{% endif %}
           <!-- Only use if trying to save bandwidth. -->
           {% endcomment %}
-          <h3>Abstract</h3>
+          <h2>Abstract</h2>
           <p>{{ page.entry.abstract }}</p>
-          <h3>Citation</h3>
+          <h2>Citation</h2>
           <p>{% include citation.html entry=page.entry %}</p>
-          <h4>BibTeX Entry</h4>
+          <h3>BibTeX Entry</h3>
           <pre>
 {% assign lines = page.entry.bibtex | split: "
 " %}{% for line in lines %}{% assign stripped = line | strip %}{% unless stripped == "" or stripped contains "translations = " or stripped contains "note = {}" %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Retracted Works
+description: "Works retracted from the NIME proceedings."
 permalink: /retracted/
 ---
 

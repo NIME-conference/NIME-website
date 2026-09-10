@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hosting
+description: "How to bid to host a future NIME conference: the call for bids, requirements and the selection process."
 permalink: /hosting/
 ---
 

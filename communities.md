@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Communities
+description: "NIME communities: groups that operate during and between conferences, including online communities and special interest groups."
 permalink: /communities/
 ---
 

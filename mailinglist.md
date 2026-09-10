@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mailing List
+description: "The NIME community mailing list for announcements about new musical instrument design, and how to subscribe."
 permalink: /mailinglist/
 ---
 

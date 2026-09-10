@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NIME Principles & Code of Practice on Ethical Research
+description: "The NIME statement on ethics in research and practice involving new interfaces for musical expression."
 permalink: /ethics/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NIME Conference Code of Conduct
+description: "The NIME conference code of conduct for participants, organisers and reviewers."
 permalink: /code-of-conduct/
 date: 2018-09-26
 categories:  []

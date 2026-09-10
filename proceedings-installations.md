@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Installation Proceedings
+description: "Archive of peer-reviewed installations shown at NIME conferences, in reverse chronological order."
 permalink: /installations/
 ---
 

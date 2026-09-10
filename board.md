@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Board
+description: "Members of the NIME Board, the elected body that oversees the International Conference on New Interfaces for Musical Expression."
 permalink: /board/
 ---
 

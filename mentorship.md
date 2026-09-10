@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mentorship Program
+description: "The NIME mentorship program, which helps newcomers, underrepresented groups and non-English speakers join the NIME community."
 permalink: /mentorship/
 ---
 

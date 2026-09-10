@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Statements
+description: "Official statements issued by the NIME Board on conduct, diversity, environment and ethics."
 permalink: /statements/
 ---
 

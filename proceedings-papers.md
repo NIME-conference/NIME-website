@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paper Proceedings
+description: "Archive of all peer-reviewed papers published at the NIME conference since 2001, with PDFs, abstracts and citations."
 permalink: /papers/
 ---
 

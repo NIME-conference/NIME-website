@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The International Conference on New Interfaces for Musical Expression
+description: "NIME, the International Conference on New Interfaces for Musical Expression, gathers researchers and musicians worldwide to share work on new musical interface design."
 permalink: /
 feature_image: "assets/nime_banner.jpg"
 feature_image_alt: "An enigmatic image of waves in space with the NIME logo subtly superimposed."
