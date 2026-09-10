@@ -1,19 +1,23 @@
 source "https://rubygems.org"
 
-# Use the GitHub Pages gem to ensure compatibility
-gem "github-pages", "~> 232", group: :jekyll_plugins
+# The site is built in GitHub Actions and rsynced to our own server, so it
+# does not need the github-pages gem (which forces Jekyll into safe mode and
+# disables _plugins). Depend on Jekyll and the plugins we use directly.
+gem "jekyll", "~> 4.3"
 
-# Additional plugins not included in github-pages gem
 group :jekyll_plugins do
-  gem 'jekyll-fontawesome-svg'
-  gem "jekyll-datapage-generator"
-  gem 'jekyll-toc'
+  gem "jekyll-datapage-generator"   # one page per bibliography entry
+  gem "jekyll-feed"                 # /feed.xml
+  gem "jekyll-fontawesome-svg"      # {% fa_svg_generate %}
+  gem "jekyll-seo-tag"              # {% seo %}
+  gem "jekyll-sitemap"              # /sitemap.xml
+  gem "jekyll-toc"                  # toc_only filter
 end
+
+gem "kramdown-parser-gfm"           # GitHub-flavoured markdown, as before
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# Performance-booster for watching directories on Windows
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
+# Needed by `jekyll serve` on Ruby 3
 gem "webrick", "~> 1.7"
