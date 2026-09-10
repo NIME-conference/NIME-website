@@ -1,0 +1,16 @@
+# Served from public_html/ on nime.org (LiteSpeed, Apache-compatible).
+# This file is generated from the nime-website repository; edit it there.
+
+# Our own 404 page instead of the host's generic one.
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+# Canonical host: https://nime.org (no www, no http).
+RewriteCond %{HTTP_HOST} ^www\.nime\.org$ [NC]
+RewriteRule ^(.*)$ https://nime.org/$1 [R=301,L]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://nime.org/$1 [R=301,L]
+
+# Old mixed-case page URL.
+Redirect 301 /Social/ /social/

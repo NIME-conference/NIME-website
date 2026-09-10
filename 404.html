@@ -2,6 +2,7 @@
 layout: default
 title: Page not found
 sitemap: false
+permalink: /404.html
 ---
 
 <style type="text/css" media="screen">
@@ -23,4 +24,25 @@ sitemap: false
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <p id="case-hint" hidden>Proceedings URLs are lower-case. Try <a id="case-link" href="/">this address</a> instead.</p>
+  <p>Looking for a paper? Browse the <a href="/papers/">paper</a>, <a href="/music/">music</a>, <a href="/installations/">installation</a> and <a href="/alt/">alt.nime</a> proceedings.</p>
 </div>
+
+<script>
+  // Paper pages live at lower-case paths (/proc/nime2003_cannon/) but the
+  // bibliography IDs shown on the site are mixed case (nime2003_Cannon), and
+  // the server is case-sensitive. If someone typed a mixed-case ID, send them
+  // to the lower-case page.
+  (function () {
+    var path = window.location.pathname;
+    if (/^\/proc(_[a-z]+)?\/[^\/]*[A-Z]/.test(path)) {
+      var lower = path.toLowerCase();
+      var hint = document.getElementById("case-hint");
+      var link = document.getElementById("case-link");
+      link.href = lower;
+      link.textContent = "nime.org" + lower;
+      hint.hidden = false;
+      window.location.replace(lower + window.location.search + window.location.hash);
+    }
+  })();
+</script>
