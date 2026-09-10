@@ -102,19 +102,24 @@ $ui-2: rgb(55, 54, 67);
 $ui-3: rgb(99, 96, 104);
 $ui-4: #4d4bcd;
 
-.nav-item {
-    &:hover {
-        font-weight: 900;
-    }
+// Hover states keep the same text colour (no contrast change) and signal
+// with underline thickness instead of weight, so nothing shifts width.
+.nav-item .nav-link:hover,
+.nav-item .nav-link:focus-visible {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
 }
 
 .container a, main a {
     color: $ui-4;
     font-weight: 500;
-    
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+
     &:hover {
-        color: #fff;
-        background: $ui-gradient !important;
+        color: #3a38a8;  // darker shade of $ui-4, 9.1:1 on white
+        text-decoration-thickness: 3px;
     }
 }
 
