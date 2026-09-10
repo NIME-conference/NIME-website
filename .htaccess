@@ -12,11 +12,12 @@ ErrorDocument 404 /404.html
 
 RewriteEngine On
 
+# Legacy permalink (the page used to be published at /Social/). Handled
+# before host canonicalisation so it is a single 301 to the final URL.
+RewriteRule ^Social/?$ https://nime.org/social/ [R=301,L]
+
 # Canonical host: https://nime.org (no www, no http).
 RewriteCond %{HTTP_HOST} ^www\.nime\.org$ [NC]
 RewriteRule ^(.*)$ https://nime.org/$1 [R=301,L]
 RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://nime.org/$1 [R=301,L]
-
-# Old mixed-case page URL.
-Redirect 301 /Social/ /social/

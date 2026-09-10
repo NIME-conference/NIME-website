@@ -36,13 +36,13 @@ permalink: /404.html
   (function () {
     var path = window.location.pathname;
     if (/^\/proc(_[a-z]+)?\/[^\/]*[A-Z]/.test(path)) {
-      var lower = path.toLowerCase();
+      var target = path.toLowerCase() + window.location.search + window.location.hash;
       var hint = document.getElementById("case-hint");
       var link = document.getElementById("case-link");
-      link.href = lower;
-      link.textContent = "nime.org" + lower;
+      link.href = target;
+      link.textContent = "nime.org" + target;
       hint.hidden = false;
-      window.location.replace(lower + window.location.search + window.location.hash);
+      window.location.replace(target);
     }
   })();
 </script>
