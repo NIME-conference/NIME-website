@@ -67,7 +67,6 @@ GEM
     jekyll-datapage-generator (1.4.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-fontawesome-svg (0.4.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-seo-tag (2.9.0)
@@ -156,7 +155,6 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-datapage-generator
   jekyll-feed
-  jekyll-fontawesome-svg
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-toc
@@ -194,7 +192,6 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-datapage-generator (1.4.0) sha256=e5778bccbe8807f4ef47a45fffb362d2247db2a01960b9db86be7f3132f18b87
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
-  jekyll-fontawesome-svg (0.4.0) sha256=ee85041817b7150adf52c7814a5970922ab392622831069cd2bfc277d49864c0
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-seo-tag (2.9.0) sha256=0260015a8e1df9bf195cdfb0c675b7b2883fd8cbf12556e1c1cbe36a831c6852
   jekyll-sitemap (1.4.0) sha256=0de08c5debc185ea5a8f980e1025c7cd3f8e0c35c8b6ef592f15c46235cf4218

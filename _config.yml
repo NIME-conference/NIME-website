@@ -81,6 +81,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
     
 exclude:
 - README.md
+- scripts/
+- .lychee.toml
 - Gemfile
 - Gemfile.lock
 - node_modules
