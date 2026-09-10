@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Past NIMEs
+description: "All past editions of the NIME conference since 2001, with locations, dates and links to archived conference websites."
 permalink: /past-nimes/
 feature_image: "/assets/nime_logos_banner.jpg"
 feature_image_alt: "A collage of previous NIME conference logos."

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NIME Conference Diversity Statement
+description: "The NIME diversity statement on inclusion and representation in the conference and community."
 permalink: /diversity/
 ---
 

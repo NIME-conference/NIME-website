@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NIME Conference Environmental Statement
+description: "The NIME environmental statement on the sustainability of the conference."
 permalink: /environment/
 ---
 

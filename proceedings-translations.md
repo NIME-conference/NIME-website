@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Translated Works
+description: "Works in the NIME proceedings that have been translated into other languages by their authors."
 permalink: /translations/
 ---
 

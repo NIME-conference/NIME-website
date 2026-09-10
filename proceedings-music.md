@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Music Proceedings
+description: "Archive of peer-reviewed music performed at NIME conferences, in reverse chronological order."
 permalink: /music/
 ---
 

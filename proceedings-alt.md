@@ -1,6 +1,7 @@
 ---
 layout: page
 title: alt.nime Proceedings
+description: "Archive of peer-reviewed alt.nime works presented at NIME conferences, in reverse chronological order."
 permalink: /alt/
 ---
 

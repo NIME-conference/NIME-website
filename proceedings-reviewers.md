@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Peer reviewers at NIME
+description: "The international experts who have peer reviewed submissions to the NIME conference."
 permalink: /reviewers/
 date: 2020-09-05
 ---

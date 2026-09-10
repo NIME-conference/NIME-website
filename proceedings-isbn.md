@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Proceedings ISBN
+description: "ISSN and ISBN identifiers for the NIME proceedings series and each annual volume."
 permalink: /isbn/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Social
+description: "Where to find the NIME community on social media and other platforms."
 permalink: /Social/
 ---
 

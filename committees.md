@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Committees
+description: "Standing committees of the NIME conference, including the ethics, diversity, environment and proceedings committees."
 permalink: /committees/
 ---
 
