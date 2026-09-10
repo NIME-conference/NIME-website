@@ -11,7 +11,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
-          bundler-cache: true
+          bundler-cache: false
+      - name: Install gems
+        # Gemfile.lock is generated on macOS; resolve the Linux native gems
+        # (sass-embedded, nokogiri) here where RubyGems knows the platform.
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle install --jobs 4
       - name: build
         run: |
           bundle exec jekyll build
