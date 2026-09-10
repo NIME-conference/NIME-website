@@ -64,7 +64,7 @@ The Board is composed of the following members:
 
 ### 3.2 Chief of Committees
 #### 3.2.1 Responsibilities
-* To oversee the activities of all the current and future [NIME committees](/committee/) and working groups
+* To oversee the activities of all the current and future [NIME committees](/committees/) and working groups
 * It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
 * To update the Board on the status of such committees and working groups
 
@@ -163,7 +163,7 @@ The Advisory Group is composed of:
 
 ## 7. Times and modalities to constitute the NIME Board 
 ### 7.1 Constitution of the first NIME Board
-* On 1 March 2024, the last [Steering Committee](/committee/) elected the President of the Board
+* On 1 March 2024, the last [Steering Committee](/committees/) elected the President of the Board
 * From 1 March 2024, the President led the process of election of the other Board members
 * On 17 April 2024 The President announced the election results and constituted the NIME Board
 * At the end of the election period, the Steering Committee ceased its functions and the NIME Board governance became effective
