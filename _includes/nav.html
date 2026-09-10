@@ -19,10 +19,11 @@
         {% endif %}
         <li class="nav-item {{ dropdown_class }} {{ class }}">
           {% if link.dropdown %}
-            <a class="nav-link dropdown-toggle {{ class }}" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {% assign ddid = link.title | slugify | prepend: "nav-" %}
+            <button class="nav-link dropdown-toggle {{ class }}" type="button" id="{{ ddid }}" data-bs-toggle="dropdown" aria-expanded="false">
               {{ link.title }}
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="{{ ddid }}">
               {% for dropdown_link in link.dropdown %}
               <li><a class="dropdown-item" href="{{ site.baseurl }}{{ dropdown_link.url }}">{{ dropdown_link.title }}</a></li>
               {% endfor %}
