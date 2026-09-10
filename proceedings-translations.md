@@ -27,7 +27,7 @@ For past and already published NIME works, authors should use the template (when
 {% assign year_alt           = site.data.nime_alt           | where: "year", i | where_exp: "e", "e.translations" %}
 
 {% if year_papers != empty or year_music != empty or year_installations != empty or year_alt != empty %}
-<h3>{{ i }}</h3>
+<h2>{{ i }}</h2>
 {% endif %}
 
 {% if year_papers != empty %}

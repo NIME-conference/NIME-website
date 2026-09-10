@@ -7,11 +7,11 @@ date: 2018-09-26
 categories:  []
 ---
 
-### Short version
+## Short version
 
 NIME is dedicated to providing an inclusive, harassment-free community and conference experience for everyone. Our code of conduct can be found at: [http://www.nime.org/code-of-conduct](http://www.nime.org/code-of-conduct).
 
-### Long version
+## Long version
 
 NIME is dedicated to providing an inclusive, harassment-free community and conference experience for everyone regardless of all ethnicities, countries of origin, gender identities and expressions, ages, abilities, religions, sexual orientations, physical appearances, body sizes, economic backgrounds, scholarly or professional backgrounds, employment, religions, and other differences.
 
@@ -21,7 +21,7 @@ By registering for and attending the NIME conference, whether in person or onlin
 
 The principles and the code of practice regarding ethical research that have been adopted by NIME can be found at: [https://nime.org/ethics/](https://nime.org/ethics/).
 
-#### Reporting and Consequences
+### Reporting and Consequences
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns related to breaches of the NIME code of conduct, do not hesitate to report the misconduct.  Reports are treated confidentially.
 

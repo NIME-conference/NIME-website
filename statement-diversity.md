@@ -5,12 +5,12 @@ description: "The NIME diversity statement on inclusion and representation in th
 permalink: /diversity/
 ---
 
-### Short version
+## Short version
 
 Our goal is to create an inclusive and respectful conference environment that invites participation from people of all ethnicities, genders, ages, abilities, religions, and sexual orientations. The complete NIME Conference Diversity Statement can be found at:
 [www.nime.org/diversity](http://www.nime.org/diversity/).
 
-### Long version
+## Long version
 
 Our goal is to create an inclusive and respectful conference environment that invites participation from people of all ethnicities, countries of origin, gender identities and expressions, ages, abilities, religions, sexual orientations, physical appearances, body sizes, economic backgrounds, scholarly or professional backgrounds, employment, religions, and other differences.
 

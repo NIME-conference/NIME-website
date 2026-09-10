@@ -5,12 +5,12 @@ description: "The NIME environmental statement on the sustainability of the conf
 permalink: /environment/
 ---
 
-### Short version
+## Short version
 
 Every action we perform, including research, has an impact on our ecosystem. NIME is committed to environmental sustainability and conservation in both the delivery of the annual conference and in our day to day research and artistic practices. The complete NIME Conference Environmental Statement can be found at: [www.nime.org/environment](http://www.nime.org/environment/).
 
 
-### Long version
+## Long version
 
 Every action we perform, including research, has an impact on our ecosystem. We acknowledge that we live in a time of unprecedented environmental crisis caused by human activity and the intensified use of fossil fuel technologies. NIME is committed to lessening the environmental impact of our field through a continuous evaluation of our infrastructure, tools and consumption.
 
@@ -30,7 +30,7 @@ As artists and researchers, we have the ability to give voice to climate change 
 As individuals, our impact is negligible but as a community, we can make a difference.
 
 
-### Info and resources for environmental issues in NIME
+## Info and resources for environmental issues in NIME
 
 To support sustainable practices within and beyond NIME, we are building a [wiki](https://eco.nime.org) of information and green resources for environmental issues in NIME research. The wiki is regularly updated with new entries, ideas, and suggestions for how we can lessen the ecological footprint of our individual and institutional practices. It is softly curated by the environmental officers, and we highly encourage everyone to submit requests for additions and edits. We hope that this will become a resource, not only for evaluating our own environmental impact, but also to spawn new ideas, designs, sonic works, and collaborations, with the potential for impact beyond the boundaries of NIME research as well.
 

@@ -126,10 +126,6 @@ navigation_header:
     - title: Social
       url: /social/
 
-navigation_footer:
-- title: Back to top
-  url: "#top"
-
 collections:
   posts:
     title: Posts # Needed for Siteleaf

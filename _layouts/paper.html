@@ -8,10 +8,13 @@
   </head>
 
   <body>
+    <a class="visually-hidden-focusable d-block p-2 text-center" href="#main">Skip to content</a>
+    <header>
     {% include nav.html %}
+    </header>
 
     <div class="container rounded bg-body">	   
-      <main class="my-2 p-4" aria-label="Content">
+      <main id="main" class="my-2 p-4" aria-label="Content">
         <article class="article article--page content typeset">
           <h1>{{ page.entry.title }}</h1>
           <p class="lead">{% include author_names.html entry=page.entry %}</p>

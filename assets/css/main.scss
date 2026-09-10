@@ -63,6 +63,11 @@ h2.bibliography {
   font-weight: bold;
 }
 
+pre {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
 blockquote {
     margin: 0;
 }
