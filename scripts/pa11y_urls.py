@@ -33,9 +33,12 @@ config = {
     "defaults": {
         "standard": "WCAG2AA",
         "runners": ["axe", "htmlcs"],
-        "timeout": 60000,
+        # /papers/ is a 1.1 MB page with ~2500 list items; axe + htmlcs take
+        # about a minute on it locally and longer on a CI runner. A timeout
+        # kills the browser and fails every page queued after it.
+        "timeout": 300000,
         "wait": 500,
-        "concurrency": 4,
+        "concurrency": 2,
         "chromeLaunchConfig": {"args": ["--no-sandbox", "--disable-dev-shm-usage"]},
         # axe cannot inspect cross-origin iframes (YouTube embeds) and reports
         # "frame-tested" as an error for every one; the frame itself is not ours.
