@@ -5,7 +5,7 @@
 [![External links](https://github.com/NIME-conference/NIME-website/actions/workflows/external-links.yml/badge.svg)](https://github.com/NIME-conference/NIME-website/actions/workflows/external-links.yml)
 [![nime.org](https://img.shields.io/website?url=https%3A%2F%2Fnime.org&label=nime.org)](https://nime.org)
 [![Built with Jekyll](https://img.shields.io/badge/built%20with-Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com)
-[![github-pages gem](https://img.shields.io/badge/github--pages-v232-blue)](https://github.com/github/pages-gem)
+[![Jekyll 4](https://img.shields.io/badge/Jekyll-4.x-CC0000)](https://jekyllrb.com)
 [![Last commit](https://img.shields.io/github/last-commit/NIME-conference/NIME-website)](https://github.com/NIME-conference/NIME-website/commits/master)
 [![Bibliography](https://img.shields.io/badge/data-NIME--bibliography-green)](https://github.com/NIME-conference/NIME-bibliography)
 
@@ -25,7 +25,7 @@ Contact the [NIME Proceedings Officer](https://nime.org/board/) for further deta
 
 ## Quick start
 
-You will need Ruby and [Bundler](https://bundler.io). The site builds with the [`github-pages`](https://github.com/github/pages-gem) gem, so the Ruby version supported by that gem is the safe choice.
+You will need Ruby (see `.ruby-version`) and [Bundler](https://bundler.io). The site builds with Jekyll 4 and the plugins listed in the `Gemfile`; it does not use the `github-pages` gem, since it is deployed to our own server rather than GitHub Pages.
 
 ```sh
 git clone git@github.com:NIME-conference/NIME-website.git
@@ -53,7 +53,6 @@ The output is written to `_site/`, which is ignored by git.
 | `_data/*.yaml` | Bibliography data for the proceedings, fetched from the NIME-bibliography repository. Do not edit by hand. |
 | `_layouts/` | Page templates. `paper.html` is the template for an individual proceedings entry. |
 | `_includes/` | Shared fragments: head, nav, footer, citation and metadata blocks, video embeds. |
-| `_plugins/` | Site-specific Jekyll plugins. |
 | `_posts/`, `_drafts/` | News posts (feed at `/feed.xml`). |
 | `assets/` | Images, logos, CSS and JavaScript. |
 | `scripts/` | Python checks run by CI (see [Continuous integration](#continuous-integration)). |

@@ -13,18 +13,24 @@ logo: "/assets/logos/nime.png"
 css_inline: true
 
 markdown: kramdown
+# Settings the github-pages gem used to force; kept so output is unchanged.
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  gfm_quirks: paragraph_end
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
+  sourcemap: never
 permalink: pretty 
 excerpt_separator: <!-- more -->
 timezone: Europe/London
 
 plugins:
-  - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-gist
   - jekyll-datapage-generator
   - jekyll-toc
  
@@ -82,8 +88,6 @@ exclude:
 - vendor/gems/
 - vendor/ruby/
 
-include:
-- _redirects
 
 navigation_header:
 - title: Hosting
