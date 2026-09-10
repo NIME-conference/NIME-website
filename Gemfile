@@ -17,7 +17,7 @@ end
 gem "kramdown-parser-gfm"           # GitHub-flavoured markdown, as before
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:windows, :jruby]
 
 # Needed by `jekyll serve` on Ruby 3
 gem "webrick", "~> 1.7"
