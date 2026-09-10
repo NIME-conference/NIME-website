@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .DS_Store
+node_modules
+package.json
+package-lock.json
+.pa11yci.json

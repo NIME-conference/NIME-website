@@ -1,0 +1,95 @@
+# Site quality: accessibility, SEO / Google Scholar metadata, internal links.
+# Green here means: the built site has no WCAG 2 AA violations on the tested
+# pages, every page has the metadata search engines and Scholar need, and no
+# internal link or asset reference is broken.
+name: Site quality (a11y, SEO, links)
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: site-quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Build
+        run: bundle exec jekyll build --quiet
+        env:
+          JEKYLL_ENV: production
+      - uses: actions/upload-artifact@v4
+        with:
+          name: _site
+          path: _site
+          retention-days: 3
+
+  internal-links:
+    name: Internal links & assets (html-proofer)
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: _site
+          path: _site
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - run: gem install html-proofer --no-document
+      - name: html-proofer
+        run: |
+          htmlproofer _site \
+            --disable-external \
+            --no-enforce-https \
+            --checks Links,Images,Scripts \
+            --ignore-files "/_site\/web_archive\//,/_site\/proceedings\//"
+
+  seo-scholar:
+    name: SEO & Google Scholar metadata
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: _site
+          path: _site
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Check pages, Scholar tags, sitemap and bibliography data
+        run: python3 scripts/check_site_quality.py --site _site --data _data
+
+  accessibility:
+    name: Accessibility (pa11y-ci, axe + HTML_CodeSniffer, WCAG 2 AA)
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: _site
+          path: _site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install --no-save pa11y-ci@3 serve@14
+      - name: Serve built site
+        run: |
+          npx serve -l 5089 -n _site > serve.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf http://localhost:5089/ >/dev/null && break; sleep 1; done
+      - name: Generate URL list from sitemap
+        run: python3 scripts/pa11y_urls.py _site http://localhost:5089 > .pa11yci.json && cat .pa11yci.json
+      - name: pa11y-ci
+        run: npx pa11y-ci -c .pa11yci.json

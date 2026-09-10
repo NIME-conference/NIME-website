@@ -1,0 +1,36 @@
+# Weekly reachability check of external links (PDFs on nime.org, archived
+# conference sites, supplementary material). Opens/updates an issue on failure.
+name: External links (weekly)
+
+on:
+  schedule:
+    - cron: "17 3 * * 1" # Mondays 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - run: bundle exec jekyll build --quiet
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config .lychee.toml --no-progress --root-dir "$PWD/_site" "_site/**/*.html"
+          fail: false
+          output: lychee-report.md
+      - name: Open or update issue on failures
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Broken external links found by weekly check"
+          content-filepath: lychee-report.md
+          labels: reachability, automated

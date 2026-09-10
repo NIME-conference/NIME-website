@@ -1,0 +1,18 @@
+# Configuration for the scheduled external link check (lychee).
+# DOI resolvers and PubPub reject automated HEAD requests, so they are excluded;
+# the DOI-to-Zenodo relationship is checked by Zenodo, not by us.
+max_concurrency = 4
+max_retries = 2
+timeout = 30
+accept = ["200..=299", "403"]
+exclude_path = ["_site/web_archive", "_site/proceedings"]
+exclude = [
+  "^https?://doi\\.org/",
+  "^https?://dx\\.doi\\.org/",
+  "^https?://nime\\.pubpub\\.org/",
+  "^https?://(www\\.)?linkedin\\.com/",
+  "^https?://(www\\.)?twitter\\.com/",
+  "^https?://x\\.com/",
+  "^https?://(www\\.)?facebook\\.com/",
+  "^mailto:",
+]
