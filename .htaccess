@@ -1,6 +1,12 @@
 # Served from public_html/ on nime.org (LiteSpeed, Apache-compatible).
 # This file is generated from the nime-website repository; edit it there.
 
+# Carried over from the .htaccess that was previously on the server:
+# allow cross-origin requests for our files (PDFs, fonts, data).
+<IfModule mod_headers.c>
+Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
 # Our own 404 page instead of the host's generic one.
 ErrorDocument 404 /404.html
 
