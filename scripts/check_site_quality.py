@@ -157,7 +157,10 @@ def check_scholar(url, p, entries_by_id):
         report(FAIL, "scholar", f"{url}: missing citation_title")
     authors = [a for a in m.get("citation_author", []) if a.strip()]
     if not authors:
-        report(FAIL, "scholar", f"{url}: no citation_author tags")
+        if entry.get("author"):
+            report(FAIL, "scholar", f"{url}: no citation_author tags")
+        else:
+            report(WARN, "scholar", f"{url}: entry has no author field (fix in NIME-bibliography)")
     for a in authors:
         if re.search(r"(^\s*and\b|\band\s*$|\band\s*,|,\s*and\b)", a):
             report(WARN, "scholar", f"{url}: citation_author looks malformed: {a!r}")
@@ -167,15 +170,19 @@ def check_scholar(url, p, entries_by_id):
         report(FAIL, "scholar", f"{url}: missing citation_conference_title")
 
     pdf = [x for x in m.get("citation_pdf_url", []) if x.strip()]
-    if entry.get("url") and not pdf:
-        report(FAIL, "scholar", f"{url}: citation_pdf_url is empty although entry has a url")
-    if not entry.get("url") and not pdf:
-        report(WARN, "scholar", f"{url}: no citation_pdf_url (entry has no url); Scholar needs a full-text link")
+    fulltext = [x for x in m.get("citation_fulltext_html_url", []) if x.strip()]
+    if entry.get("url") and not pdf and not fulltext:
+        report(FAIL, "scholar", f"{url}: no citation_pdf_url / citation_fulltext_html_url although entry has a url")
+    if not entry.get("url") and not pdf and not fulltext:
+        report(WARN, "scholar", f"{url}: no full-text link (entry has no url or doi); Scholar needs one")
     for x in pdf:
         if not x.startswith("https://"):
             report(WARN, "scholar", f"{url}: citation_pdf_url is not https: {x}")
-        if "doi.org/" in x:
-            report(WARN, "scholar", f"{url}: citation_pdf_url points at a DOI landing page, not a PDF: {x}")
+        if "doi.org/" in x or "pubpub.org/" in x:
+            report(WARN, "scholar", f"{url}: citation_pdf_url points at an HTML landing page, not a PDF: {x}")
+    for x in fulltext:
+        if not x.startswith("https://"):
+            report(WARN, "scholar", f"{url}: citation_fulltext_html_url is not https: {x}")
 
     if entry.get("doi") and not any(x.strip() for x in m.get("citation_doi", [])):
         report(FAIL, "scholar", f"{url}: entry has a DOI but no citation_doi tag")

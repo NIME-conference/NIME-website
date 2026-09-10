@@ -1,33 +1,62 @@
 {% comment %}
-Generates appropriate metadata for a bibliographic entry in the proceedings.
-Hopefully this results in well-formed listings in Google Scholar over time.
-
-These are constructed following guidelines here:
+Generates Google Scholar ("Highwire Press") metadata for a bibliographic entry
+in the proceedings, following:
 https://scholar.google.com/intl/en/scholar/inclusion.html#indexing
 
-Parameters: 
+Parameters:
 
 - entry: the bib entry to be listed.
+
+The entry's `url` field is normalised to https://nime.org/... so that the
+full-text link is on the same host as the abstract page. URLs that point at a
+DOI landing page or a PubPub article are HTML, not PDFs, so they are emitted
+as citation_fulltext_html_url instead of citation_pdf_url.
 {% endcomment %}
+{%- assign entry_url = include.entry.url | default: "" | strip -%}
+{%- assign entry_url = entry_url | replace_first: "http://www.nime.org", "https://nime.org" | replace_first: "https://www.nime.org", "https://nime.org" | replace_first: "http://nime.org", "https://nime.org" | replace: "%2F", "/" -%}
+{%- assign entry_url_is_html = false -%}
+{%- if entry_url contains "doi.org/" or entry_url contains "pubpub.org/" -%}
+  {%- assign entry_url_is_html = true -%}
+{%- endif -%}
+{%- assign author_names = include.entry.author | split: " and " -%}
 
 <meta name="citation_title" content="{{ include.entry.title | escape }}">
-{% assign author_names = include.entry.author | split: " and " %}
-{% for auth in author_names %}
-<meta name="citation_author" content="{{ auth | escape }}">
-{% endfor %}
+{%- for auth in author_names %}
+<meta name="citation_author" content="{{ auth | strip | escape }}">
+{%- endfor %}
 <meta name="citation_publication_date" content="{{ include.entry.year }}">
-<meta name="citation_conference_title" content="{{ include.entry.booktitle }}">
-{% if include.entry.pages %}
-<meta name="citation_firstpage" content="{{ include.entry.pages | split: "--" | first }}">
-<meta name="citation_lastpage" content="{{ include.entry.pages | split: "--" | last }}">
-{% endif %}
-{% if include.entry.issn %}<meta name="citation_issn" content="{{ include.entry.issn }}">{% endif %}
-{% if include.entry.isbn %}<meta name="citation_isbn" content="{{ include.entry.isbn }}">{% endif %}
-<meta name="citation_pdf_url" content="{{ include.entry.url }}">
-{% if include.entry.doi %}<meta name="dc.Identifier" scheme="doi" content="{{ include.entry.doi }}">{% endif %}
-
-{% comment %}
-<!-- Some unused / to be explored metadata... -->
-{% if include.entry.articleno %}<meta name="dc.Identifier" scheme="article-no" content="{{ include.entry.articleno}}">{% endif %}
-<meta name="dc.Language" content="EN">
-{% endcomment %}
+<meta name="citation_conference_title" content="{{ include.entry.booktitle | escape }}">
+{%- if include.entry.publisher %}
+<meta name="citation_publisher" content="{{ include.entry.publisher | escape }}">
+{%- endif %}
+{%- if include.entry.pages %}
+<meta name="citation_firstpage" content="{{ include.entry.pages | split: "--" | first | strip }}">
+<meta name="citation_lastpage" content="{{ include.entry.pages | split: "--" | last | strip }}">
+{%- endif %}
+{%- if include.entry.issn %}
+<meta name="citation_issn" content="{{ include.entry.issn }}">
+{%- endif %}
+{%- if include.entry.isbn %}
+<meta name="citation_isbn" content="{{ include.entry.isbn }}">
+{%- endif %}
+{%- if include.entry.doi %}
+<meta name="citation_doi" content="{{ include.entry.doi }}">
+<meta name="dc.Identifier" scheme="doi" content="{{ include.entry.doi }}">
+{%- endif %}
+<meta name="citation_abstract_html_url" content="{{ page.url | absolute_url }}">
+{%- if entry_url != "" %}
+{%- if entry_url_is_html %}
+<meta name="citation_fulltext_html_url" content="{{ entry_url | escape }}">
+{%- else %}
+<meta name="citation_pdf_url" content="{{ entry_url | escape }}">
+{%- endif %}
+{%- elsif include.entry.doi %}
+<meta name="citation_fulltext_html_url" content="https://doi.org/{{ include.entry.doi }}">
+{%- endif %}
+{%- if include.entry.keywords %}
+<meta name="citation_keywords" content="{{ include.entry.keywords | strip | escape }}">
+{%- endif %}
+<meta name="citation_language" content="{{ include.entry.language | default: 'en' }}">
+{%- if include.entry.abstract %}
+<meta name="citation_abstract" content="{{ include.entry.abstract | strip_html | strip_newlines | escape }}">
+{%- endif %}
