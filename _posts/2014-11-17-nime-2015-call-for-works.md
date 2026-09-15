@@ -5,16 +5,13 @@ categories:
 - Uncategorized
 ---
 
-[![2015nimelogo_transparent](https://nime2015.lsu.edu/wp-content/uploads/2014/06/2015nimelogo_transparent.png)](https://nime2015.lsu.edu/wp-content/uploads/2014/06/2015nimelogo_transparent.png)
-
 May 31 – June 3, 2015
 Louisiana State University
 Baton Rouge, Louisiana, USA
 
-[http://nime2015.lsu.edu](http://nime2015.lsu.edu)
+[nime2015.lsu.edu](https://emdm.cct.lsu.edu/happenings/nime2015/)
 
-Download the Call for Works 
-[here](https://nime2015.lsu.edu/wp-content/uploads/2014/10/NIMECallForWorks2015.pdf).
+Download the Call for Works (PDF no longer online).
 Submit to NIME 2015 at the 
 [NIME 2015 Submission Portal](http://precisionconference.com/%7Enime).
 
@@ -194,8 +191,8 @@ Core topics central to NIME include the following. In addition to submissions th
 - Organizing Committee
 
 NIME 2015 is hosted by the Cultural Computing focus area, Center for Computation & Technology (
-[avatar.cct.lsu.edu](https://nime2015.lsu.edu/call-for-works/avatar.cct.lsu.edu)), and the LSU School of Music Experimental Music & Digital Media program (
-[emdm.music.lsu.edu](https://nime2015.lsu.edu/call-for-works/emdm.music.lsu.edu)) at Louisiana State University, Baton Rouge, Louisiana, USA.
+avatar.cct.lsu.edu), and the LSU School of Music Experimental Music & Digital Media program (
+[emdm.music.lsu.edu](https://emdm.cct.lsu.edu/)) at Louisiana State University, Baton Rouge, Louisiana, USA.
 
 General Inquiries: [nime@cct.lsu.edu](mailto:nime@cct.lsu.edu)
 Academic Inquiries: [nime-papers@cct.lsu.edu](mailto:nime-papers@cct.lsu.edu)
@@ -204,4 +201,4 @@ Installation: [nime-art@cct.lsu.edu](mailto:nime-art@cct.lsu.edu)
 Workshops: [nime-workshops@cct.lsu.edu](mailto:nime-workshops@cct.lsu.edu)
 Volunteers: [nime-volunteer@cct.lsu.edu](mailto:nime-volunteer@cct.lsu.edu)
 
-© 2014 [**NIME 2015**](https://nime2015.lsu.edu) All Rights Reserved.
+© 2014 [**NIME 2015**](https://emdm.cct.lsu.edu/happenings/nime2015/) All Rights Reserved.
