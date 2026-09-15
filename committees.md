@@ -8,7 +8,7 @@ permalink: /committees/
 ## Ethics Committee
 * [Kerem Ergener](https://www.keremergener.com/) (lead)
 * [Natalia Fuchs](http://artypical.com/) (member)
-* [Doga Cadvir](https://www.dogacavdir.com/) (member)
+* [Doga Cavdir](https://www.dogacavdir.com/) (member)
 
 ## Diversity Committee
 * [Courtney Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/) (co-lead)
@@ -43,7 +43,7 @@ permalink: /committees/
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Mentorship Program:
 	- [Kerem Ergener](https://keremergener.com/) (lead)
-	- [Doga Cavdir](https://https://www.dogacavdir.com/)
+	- [Doga Cavdir](https://www.dogacavdir.com/)
 * Sponsorship
 	- To be filled
 

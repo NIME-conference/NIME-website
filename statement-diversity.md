@@ -44,4 +44,4 @@ Here are some ways you can
 - Feedback: Start a [discussion](https://forum.nime.org/).
 - Based on:
     - [O'Reilly Conference Diversity](https://www.oreilly.com/conferences/diversity.csp)
-    - [Different Games Inclusivity Statement](http://goo.gl/Le1QJp)
+    - Different Games Inclusivity Statement
