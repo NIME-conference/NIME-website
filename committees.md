@@ -61,7 +61,7 @@ permalink: /committees/
 * [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrinkl), Chair NIME 2014
 * [Jesse Allison](https://www.lsu.edu/cmda/music/people/faculty/allison.php), Chair NIME 2015
 * [Andrew Brown](https://experts.griffith.edu.au/18549-andrew-brown), Chair NIME 2016
-* [Stefania Serafin](https://vbn.aau.dk/en/persons/107881), Chair NIME 2017
+* [Stefania Serafin](https://stefaniaserafin.github.io/), Chair NIME 2017
 * [Dan Overholt](https://vbn.aau.dk/da/persons/dano), Chair NIME 2017
 
 <br/><br/>
@@ -71,7 +71,7 @@ permalink: /committees/
 
 * [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale) (Chair of the Steering Committee, Chair NIME 2022)
 * [Sasha Leitman](http://sashaleitman.com/) (Chair NIME 2022)
-* [Ico Bukvic](http://imi.aau.dk/~sts/) (Chair NIME 2018)
+* [Ico Bukvic](https://ico.bukvic.net/) (Chair NIME 2018)
 * [Hugo Solís](http://hugosolis.net/en) (Chair NIME 2023)
 * [Eric Pérez Segura](https://mx.linkedin.com/in/eric-p%C3%A9rez-segura-358b919b) (Chair NIME 2023)
 * [Lamberto Coccioli](https://www.bcu.ac.uk/conservatoire/research/research-staff/lamberto-coccioli) (Chair NIME 2020)
