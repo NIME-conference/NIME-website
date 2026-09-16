@@ -9,7 +9,7 @@ feature_image_alt: "An enigmatic image of waves in space with the NIME logo subt
 
 ## Upcoming NIME Conferences
 
-- [**NIME2027**](https://nime2027.org) will be held from 22 to 25 June, 2027 at Devinci Higher Education, Paris, France. 
+- [**NIME2027**](https://nime2027.org) will be held from 21 to 25 June, 2027 at Devinci Higher Education, Paris, France. 
 
 - [**NIME2028**](https://nime2028.org) will be held from 26 to 29 June, 2028 at Auckland University, Auckland, New Zealand. 
 
