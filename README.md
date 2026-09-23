@@ -29,7 +29,7 @@ You will need Ruby (see `.ruby-version`) and [Bundler](https://bundler.io). The 
 
 ```sh
 git clone git@github.com:NIME-conference/NIME-website.git
-cd nime-website
+cd NIME-website
 bundle install
 bundle exec jekyll serve
 ```
