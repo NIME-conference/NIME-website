@@ -3,6 +3,8 @@
 # the DOI-to-Zenodo relationship is checked by Zenodo, not by us.
 # LinkedIn answers automated requests with 999 on every country subdomain, and
 # future host sites (nime2027/2028) are announced before the domains go live.
+# Google Forms (mentorship applications) require a Google sign-in, and Scopus
+# redirects automated requests, so both are checked by hand.
 max_concurrency = 4
 max_retries = 2
 timeout = 30
@@ -17,6 +19,8 @@ exclude = [
   "^https?://x\\.com/",
   "^https?://(www\\.)?facebook\\.com/",
   "^mailto:",
+  "^https?://forms\\.gle/",
+  "^https?://(www\\.)?scopus\\.com/",
   # Future host sites that have not been stood up yet.
   "^https?://nime202[789]\\.org/",
 ]
