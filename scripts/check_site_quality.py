@@ -16,6 +16,10 @@ Checks:
              citation_doi when the entry has a DOI.
   sitemap  - every <loc> in sitemap.xml resolves to a file in _site (case-sensitive),
              the 404 page is not listed, no mixed-case paths.
+  pdfs     - against _data/pdf_manifest.yml (from scripts/make_pdf_manifest.py):
+             every bibliography url on nime.org has a file on the server
+             (case-sensitive), PDFs over 5MB (not indexed by Google Scholar),
+             and PDFs that no bibliography entry points to.
 
 Warnings are printed but do not fail the build; pass --strict to make them fail.
 """
@@ -27,6 +31,7 @@ import re
 import sys
 from collections import Counter, defaultdict
 from html.parser import HTMLParser
+from urllib.parse import unquote
 
 try:
     import yaml
@@ -34,6 +39,10 @@ except ImportError:  # pragma: no cover
     yaml = None
 
 FAIL, WARN = "FAIL", "WARN"
+# Google Scholar ignores files that "exceed 5MB". 5,000,000 bytes rather than
+# 5 MiB, to be safe.
+SCHOLAR_MAX_BYTES = 5_000_000
+NIME_URL = re.compile(r"^https?://(?:www\.)?nime\.org/(proceedings/.+)$")
 problems = defaultdict(list)  # (level, check) -> [messages]
 
 
@@ -87,8 +96,9 @@ def rel(path, site):
 def check_data(data_dir):
     if yaml is None:
         report(WARN, "data", "PyYAML not installed; skipping bibliography data checks")
-        return {}
+        return {}, []
     entries_by_id = {}
+    all_entries = []  # (file name, entry), keeping entries whose IDs collide
     for f in sorted(glob.glob(os.path.join(data_dir, "nime_*.yaml"))):
         name = os.path.basename(f)
         entries = yaml.safe_load(open(f, encoding="utf-8")) or []
@@ -100,6 +110,7 @@ def check_data(data_dir):
         for e in entries:
             eid = e.get("ID", "?")
             entries_by_id[eid.lower()] = e
+            all_entries.append((name, e))
             author = e.get("author", "") or ""
             if not author.strip():
                 report(WARN, "data", f"{name}:{eid}: empty author field")
@@ -114,7 +125,50 @@ def check_data(data_dir):
                 report(WARN, "data", f"{name}:{eid}: entry has neither url nor doi")
             if not (e.get("abstract") or "").strip():
                 report(WARN, "data", f"{name}:{eid}: no abstract")
-    return entries_by_id
+    return entries_by_id, all_entries
+
+
+def load_manifest(path):
+    """Return {path relative to web root: {"bytes": n, ...}}, or None if there is no manifest."""
+    if not os.path.exists(path):
+        return None
+    data = yaml.safe_load(open(path, encoding="utf-8")) or {}
+    return data.get("files") or {}
+
+
+def check_manifest(manifest_path, all_entries):
+    if yaml is None:
+        return
+    files = load_manifest(manifest_path)
+    if files is None:
+        report(WARN, "pdfs", f"{manifest_path} not found; skipping checks of the proceedings PDFs "
+                             "(generate it with scripts/make_pdf_manifest.py)")
+        return
+    by_lower = {k.lower(): k for k in files}
+    referenced = set()
+    for name, e in all_entries:
+        url = (e.get("url") or "").strip()
+        m = NIME_URL.match(url)
+        if not m:
+            continue
+        path = unquote(m.group(1))
+        eid = e.get("ID", "?")
+        if path in files:
+            referenced.add(path)
+            size = files[path].get("bytes") or 0
+            if size > SCHOLAR_MAX_BYTES:
+                report(WARN, "pdfs", f"{name}:{eid}: {path} is {size / 1e6:.1f}MB; "
+                                     "Google Scholar does not index PDFs over 5MB")
+        elif path.lower() in by_lower:
+            referenced.add(by_lower[path.lower()])
+            report(FAIL, "pdfs", f"{name}:{eid}: {path} not on the server; "
+                                 f"the server has {by_lower[path.lower()]} (URLs are case-sensitive)")
+        else:
+            report(FAIL, "pdfs", f"{name}:{eid}: {path} not in the PDF manifest; it is missing from "
+                                 "the server, or the manifest needs regenerating")
+    for path in sorted(files):
+        if path.lower().endswith(".pdf") and path not in referenced:
+            report(WARN, "pdfs", f"{path}: on the server but no bibliography entry points to it")
 
 
 def check_pages(site, entries_by_id):
@@ -216,11 +270,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--site", default="_site")
     ap.add_argument("--data", default="_data")
+    ap.add_argument("--manifest", help="PDF manifest (default: <data>/pdf_manifest.yml)")
     ap.add_argument("--strict", action="store_true", help="treat warnings as failures")
     ap.add_argument("--max-print", type=int, default=25, help="messages to print per check")
     args = ap.parse_args()
 
-    entries = check_data(args.data)
+    entries, all_entries = check_data(args.data)
+    check_manifest(args.manifest or os.path.join(args.data, "pdf_manifest.yml"), all_entries)
     check_pages(args.site, entries)
     check_sitemap(args.site)
 
