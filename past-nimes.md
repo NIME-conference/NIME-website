@@ -12,7 +12,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 **NB: The pages below are historic web documents, and are not updated. If you are looking for the proceedings of the conferences, all papers are located in the common [NIME proceedings archive]({{site.baseurl}}/papers/).**
 
 *   [NIME 2026](https://nime.org/web_archive/2026/): London, United Kingdom ([live website](https://www.nime2026.org/))
-*   [NIME 2025](https://nime.org/web_archive/2025/): Canberra, Australia ([live website](https://www.nime2025.org/))
+*   [NIME 2025](https://nime.org/web_archive/2025/): Canberra, Australia ([live website](https://nime2025.org/))
 *   [NIME 2024](https://nime.org/web_archive/2024/): Utrecht, Netherlands
 *   [NIME 2023](https://nime.org/web_archive/2023/): Mexico City, Mexico ([live website](https://www.nime2023.org/))
 *   [NIME 2022](https://nime.org/web_archive/2022/): Auckland, New Zealand

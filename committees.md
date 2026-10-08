@@ -8,7 +8,7 @@ permalink: /committees/
 ## Ethics Committee
 * [Kerem Ergener](https://www.keremergener.com/) (lead)
 * [Natalia Fuchs](http://artypical.com/) (member)
-* [Doga Cavdir](https://www.dogacavdir.com/) (member)
+* [Doga Cavdir](https://researcher.itu.dk/p/en/persons/doga-buse-cavdir) (member)
 
 ## Diversity Committee
 * [Courtney Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/) (co-lead)
@@ -18,7 +18,7 @@ permalink: /committees/
 * [Zeynep Ozcan](http://zeynepozcan.net/) (member)
 
 ## Environmental Committee
-* [Raul Masu](https://raulmasu.org/) (lead)
+* [Raul Masu](https://conservatorio.tn.it/en/docenti/masu-raul/) (lead)
 * [Ha-Moon Young](https://www.sustainable-music.org/) (member)
 * [Florent Berthaut](https://pro.univ-lille.fr/florent-berthaut) (member)
 * [Benedict Gaster](https://people.uwe.ac.uk/Person/BenedictGaster) (member)
@@ -43,7 +43,7 @@ permalink: /committees/
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Mentorship Program:
 	- [Kerem Ergener](https://keremergener.com/) (lead)
-	- [Doga Cavdir](https://www.dogacavdir.com/)
+	- [Doga Cavdir](https://researcher.itu.dk/p/en/persons/doga-buse-cavdir)
 * Sponsorship
 	- To be filled
 
