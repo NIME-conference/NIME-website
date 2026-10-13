@@ -127,6 +127,10 @@ navigation_header:
       url: https://forum.nime.org/
     - title: Social
       url: /social/
+- title: Resources
+  dropdown:
+    - title: Off-NIME
+      url: https://idmil.github.io/off-nime/
 
 collections:
   posts:
