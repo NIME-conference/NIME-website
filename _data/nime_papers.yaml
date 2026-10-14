@@ -11400,7 +11400,7 @@
     patterns in sonic input. The paper discusses aesthetic and functional aspects
     of sonification in this context and describes the evolution of our technique,
     artistic approach, and interaction design – from the low-resolution graphical
-    user interface in “Fish and Chips” to the highresolution tangible interaction
+    user interface in “Fish and Chips” to the high-resolution tangible interaction
     with newly developed controllers in “BrainWaves”. We conclude with an evaluative
     discussion and a number of suggestions for future work.'
   address: 'Paris, France'
@@ -11421,7 +11421,7 @@
     \ sonic input. The paper discusses aesthetic and functional aspects of sonification\
     \ in this context and describes the evolution of our technique, artistic approach,\
     \ and interaction design – from the low-resolution graphical user interface in\
-    \ “Fish and Chips” to the highresolution tangible interaction with newly developed\
+    \ “Fish and Chips” to the high-resolution tangible interaction with newly developed\
     \ controllers in “BrainWaves”. We conclude with an evaluative discussion and a\
     \ number of suggestions for future work.}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
@@ -17903,7 +17903,7 @@
     Erranti allows multiple users to interact with the music piece at several levels.
     On the one hand, multiple users can physically navigate a polyphonic music piece,
     actively exploring it; on the other hand they can intervene on the music performance
-    modifying and molding its expressive content in real-time through fullbody movement
+    modifying and molding its expressive content in real-time through full-body movement
     and gesture. An implementation of Mappe per Affetti Erranti was presented in the
     framework of the science exhibition "Metamorfosi del Senso", held at Casa Paganini,
     Genova, in October -- November 2007. In that occasion Mappe per Affetti Erranti
@@ -17930,7 +17930,7 @@
     \ at several levels. On the one hand, multiple users can physically navigate a\
     \ polyphonic music piece, actively exploring it; on the other hand they can intervene\
     \ on the music performance modifying and molding its expressive content in real-time\
-    \ through fullbody movement and gesture. An implementation of Mappe per Affetti\
+    \ through full-body movement and gesture. An implementation of Mappe per Affetti\
     \ Erranti was presented in the framework of the science exhibition \"Metamorfosi\
     \ del Senso\", held at Casa Paganini, Genova, in October -- November 2007. In\
     \ that occasion Mappe per Affetti Erranti was also used for a contemporary dance\
@@ -18426,11 +18426,11 @@
     body gesture, with an open experimental approach. In many ways this work can be
     characterised as prototype development. The sensor technology employed was three-axis
     accelerometers in consumer gamecontrollers. Outcomes were intentionally restrained
-    to strippedback experimental results. This paper discusses the processes and strategies
-    for developing the experiments, as well as providing background and rationale
-    for our approach. We describe "vocal prototyping" -- a technique for developing
-    new gesture-sound mappings, the mapping techniques applied, and briefly describe
-    a selection of our experimental results.'
+    to stripped-back experimental results. This paper discusses the processes and
+    strategies for developing the experiments, as well as providing background and
+    rationale for our approach. We describe "vocal prototyping" -- a technique for
+    developing new gesture-sound mappings, the mapping techniques applied, and briefly
+    describe a selection of our experimental results.'
   address: 'Genoa, Italy'
   author: 'Bencina, Ross and Wilde, Danielle and Langley, Somaya'
   bibtex: "@inproceedings{nime2008_Bencina,\n  author = {Bencina, Ross and Wilde,\
@@ -18445,7 +18445,7 @@
     \ and whole body gesture, with an open experimental approach. In many ways this\
     \ work can be characterised as prototype development. The sensor technology employed\
     \ was three-axis accelerometers in consumer gamecontrollers. Outcomes were intentionally\
-    \ restrained to strippedback experimental results. This paper discusses the processes\
+    \ restrained to stripped-back experimental results. This paper discusses the processes\
     \ and strategies for developing the experiments, as well as providing background\
     \ and rationale for our approach. We describe \"vocal prototyping\" -- a technique\
     \ for developing new gesture-sound mappings, the mapping techniques applied, and\
@@ -19651,13 +19651,13 @@
     beat tracker, we have taken the paradigm of the ''Turing Test'' in which an interrogator
     is asked to distinguish between human and machine. A drummer plays in succession
     with an interactive accompaniment that has one of three possible tempocontrollers
-    (the beat tracker, a human tapper and a steadytempo metronome). The test is double-blind
+    (the beat tracker, a human tapper and a steady-tempo metronome). The test is double-blind
     since the researchers do not know which controller is currently functioning. All
     participants are asked to rate the accompaniment and to judge which controller
     they believe was responsible. This method for evaluation enables the controllers
     to be contrasted in a more quantifiable way than the subjective testimony we have
     used in the past to evaluate the system. The results of the experiment suggest
-    that the beat tracker and a human tapper are both distinguishable from a steadytempo
+    that the beat tracker and a human tapper are both distinguishable from a steady-tempo
     accompaniment and they are preferable according to the ratings given by the participants.
     Also, the beat tracker and a human tapper are not sufficiently distinguishable
     by any of the participants in the experiment, which suggests that the system is
@@ -19676,14 +19676,14 @@
     \ to evaluate a real-time beat tracker, we have taken the paradigm of the 'Turing\
     \ Test' in which an interrogator is asked to distinguish between human and machine.\
     \ A drummer plays in succession with an interactive accompaniment that has one\
-    \ of three possible tempocontrollers (the beat tracker, a human tapper and a steadytempo\
+    \ of three possible tempocontrollers (the beat tracker, a human tapper and a steady-tempo\
     \ metronome). The test is double-blind since the researchers do not know which\
     \ controller is currently functioning. All participants are asked to rate the\
     \ accompaniment and to judge which controller they believe was responsible. This\
     \ method for evaluation enables the controllers to be contrasted in a more quantifiable\
     \ way than the subjective testimony we have used in the past to evaluate the system.\
     \ The results of the experiment suggest that the beat tracker and a human tapper\
-    \ are both distinguishable from a steadytempo accompaniment and they are preferable\
+    \ are both distinguishable from a steady-tempo accompaniment and they are preferable\
     \ according to the ratings given by the participants. Also, the beat tracker and\
     \ a human tapper are not sufficiently distinguishable by any of the participants\
     \ in the experiment, which suggests that the system is comparable in performance\
@@ -29883,7 +29883,7 @@
     can be seen as purely generative—as a method for creating algorithmic music—or
     as a way to create instruments that change autonomously as a human plays them.
     A third perspective is in between these two: agents and humans can cooperate or
-    compete to produce a gamelike or interactive experience.'
+    compete to produce a game-like or interactive experience.'
   address: 'Oslo, Norway'
   author: 'Schroeder, Benjamin and Ainger, Marc and Parent, Richard'
   bibtex: "@inproceedings{nime2011_Schroeder,\n  author = {Schroeder, Benjamin and\
@@ -29903,7 +29903,7 @@
     \ landscape. This can be seen as purely generative—as a method for creating algorithmic\
     \ music—or as a way to create instruments that change autonomously as a human\
     \ plays them. A third perspective is in between these two: agents and humans can\
-    \ cooperate or compete to produce a gamelike or interactive experience.}\n}\n"
+    \ cooperate or compete to produce a game-like or interactive experience.}\n}\n"
   booktitle: Proceedings of the International Conference on New Interfaces for Musical
     Expression
   doi: 10.5281/zenodo.1178157
@@ -34204,7 +34204,7 @@
     also provides passive haptic feedback. A microcontroller samples and transmits
     the measured pressure information. Conductive fabric attached to the finger contact
     area translates the touch to the bottom of the ball which allows the touchscreen
-    to detect the position and orientation. The addition of a tangible, pressuresensitive
+    to detect the position and orientation. The addition of a tangible, pressure-sensitive
     input to a portable multimedia device opens up new possibilities for expressive
     musical interfaces and Squeezy is used as a controller for real-time gesture controlled
     voice synthesis research.'
@@ -34224,7 +34224,7 @@
     \ haptic feedback. A microcontroller samples and transmits the measured pressure\
     \ information. Conductive fabric attached to the finger contact area translates\
     \ the touch to the bottom of the ball which allows the touchscreen to detect the\
-    \ position and orientation. The addition of a tangible, pressuresensitive input\
+    \ position and orientation. The addition of a tangible, pressure-sensitive input\
     \ to a portable multimedia device opens up new possibilities for expressive musical\
     \ interfaces and Squeezy is used as a controller for real-time gesture controlled\
     \ voice synthesis research.}\n}\n"
@@ -107021,7 +107021,7 @@
     studio that integrates digital control with the acoustic physicality of mechatronic
     musical instruments. Central to this update is the installation of a mechatronic
     instrument, an 8×8 array of Modulets mounted on the lab’s ceiling, forming an
-    immersive, distributed acoustic environment that enables highresolution spatialized
+    immersive, distributed acoustic environment that enables high-resolution spatialized
     sound across 64 discrete locations. Key architectural updates include the re-integration
     of Open Sound Control (OSC), enabling performers and composers to wirelessly network
     for flexible ensemble configurations. In addition, a novel AI-driven calibration
@@ -107048,7 +107048,7 @@
     \ studio that integrates digital control with the acoustic physicality of mechatronic\
     \ musical instruments. Central to this update is the installation of a mechatronic\
     \ instrument, an 8×8 array of Modulets mounted on the lab’s ceiling, forming an\
-    \ immersive, distributed acoustic environment that enables highresolution spatialized\
+    \ immersive, distributed acoustic environment that enables high-resolution spatialized\
     \ sound across 64 discrete locations. Key architectural updates include the re-integration\
     \ of Open Sound Control (OSC), enabling performers and composers to wirelessly\
     \ network for flexible ensemble configurations. In addition, a novel AI-driven\
