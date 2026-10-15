@@ -83,6 +83,17 @@ Corrections to titles, authors or PDF links should be made in the BibTeX in NIME
 
 Details of the server, credentials and the deploy key are held by the Proceedings Officer and stored as GitHub Actions secrets.
 
+### What lives in /proceedings/
+
+`/proceedings/` on the server is the complete archive of every NIME proceedings, not just the files the bibliography links to. It is one copy in a deliberately redundant backup strategy: the server, the [Zenodo](https://zenodo.org/communities/nime_conference) records, and copies on board members' own computers. Keeping the full archive on the production host is not ideal, but it is part of that spread, so **nothing should be removed from `/proceedings/` because the bibliography does not point to it.** In particular, these stay:
+
+- **`*_uncompressed.pdf`**: the original PDF as submitted, kept beside the compressed copy that is served to readers and to Google Scholar (#87). The compressed copy is the one the bibliography links to.
+- **Front matter, title pages, keynotes, panels and programs** (for example `2004/titles/`, `2006/nime2006_001.pdf`, `2006/nime2006_414.pdf` onwards, `2023/nime23_concert_*.pdf`). Some of these describe music and installation works that have a bibliography entry but no PDF of their own.
+- **Supplementary and alternative files** (`*_file01.pdf`, `*-file02.pdf`, `*_v1.pdf`, `*_alt_*`) and the audio, video and zip files that sit beside the PDFs, including the per-year zips in `ZIPs/`.
+- **The 2021 and 2022 PDFs** downloaded from PubPub (`2021/<uuid>.pdf`, named by the DOI suffix, and `2022/<number>.pdf`), which the bibliography currently reaches through PubPub links (#94).
+
+The manifest lists all of this, so `git diff _data/pdf_manifest.yml` after regenerating it shows anything that has changed, appeared or disappeared on the server. A removed file shows up as a deleted line; that is the signal to investigate, not to update the manifest and move on.
+
 ## Continuous integration
 
 Three workflows run in GitHub Actions:
@@ -100,6 +111,8 @@ Both checkers skip `/proceedings/` and `/web_archive/`, since that content is no
 - **warn** if a PDF on the server has no bibliography entry pointing to it.
 
 These checks are only as good as the manifest: regenerate it after every upload or replacement (see [Upload or replace proceedings PDFs](#upload-or-replace-proceedings-pdfs)). If the manifest is missing, the checks are skipped with a warning.
+
+The third check is a warning, not a failure, because `/proceedings/` is meant to hold more than the bibliography links to (see [What lives in /proceedings/](#what-lives-in-proceedings)). Treat an unreferenced file as a prompt to ask whether a bibliography entry should link to it, not as something to delete.
 
 The same workflow also runs the unit tests in `tests/` for the scripts.
 
