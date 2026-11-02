@@ -1,0 +1,162 @@
+/* NIME site styles: small overrides on top of Pico CSS (assets/vendor/pico).
+   Same structure as acma-jekyll's main.css, with NIME's cool monochrome palette. */
+
+/* Fonts: Lato for headings, Noto Sans for text (loaded from head.html). */
+:root {
+  --pico-font-family-sans-serif: "Noto Sans", system-ui, "Segoe UI", Roboto, sans-serif;
+  --nime-heading-font: "Lato", "Noto Sans", system-ui, sans-serif;
+}
+
+/* Colours: a slate blue, close to the old link and UI colours, with no warm
+   accent. Selectors mirror Pico's so these win in both light and dark mode. */
+:root:not([data-theme=dark]),
+[data-theme=light] {
+  --pico-primary: #3d4a7a;
+  --pico-primary-background: #3d4a7a;
+  --pico-primary-underline: rgba(61, 74, 122, 0.5);
+  --pico-primary-hover: #262f4f;
+  --pico-primary-hover-background: #262f4f;
+  --pico-primary-hover-underline: var(--pico-primary-hover);
+  --pico-primary-focus: rgba(61, 74, 122, 0.35);
+  --pico-primary-inverse: #fff;
+  --pico-text-selection-color: rgba(61, 74, 122, 0.2);
+  --nime-tint: #eceff5;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --pico-primary: #aebbdc;
+    --pico-primary-background: #3d4a7a;
+    --pico-primary-underline: rgba(174, 187, 220, 0.5);
+    --pico-primary-hover: #d0d9ec;
+    --pico-primary-hover-background: #4d5c92;
+    --pico-primary-hover-underline: var(--pico-primary-hover);
+    --pico-primary-focus: rgba(174, 187, 220, 0.4);
+    --pico-primary-inverse: #fff;
+    --pico-text-selection-color: rgba(174, 187, 220, 0.3);
+    --nime-tint: rgba(174, 187, 220, 0.12);
+  }
+}
+[data-theme=dark] {
+  --pico-primary: #aebbdc;
+  --pico-primary-background: #3d4a7a;
+  --pico-primary-underline: rgba(174, 187, 220, 0.5);
+  --pico-primary-hover: #d0d9ec;
+  --pico-primary-hover-background: #4d5c92;
+  --pico-primary-hover-underline: var(--pico-primary-hover);
+  --pico-primary-focus: rgba(174, 187, 220, 0.4);
+  --pico-primary-inverse: #fff;
+  --pico-text-selection-color: rgba(174, 187, 220, 0.3);
+  --nime-tint: rgba(174, 187, 220, 0.12);
+}
+/* The logo is black text on transparent; flip it for dark backgrounds. */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) .logo img { filter: invert(1); }
+}
+[data-theme=dark] .logo img { filter: invert(1); }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--nime-heading-font);
+  font-weight: 600;
+}
+
+/* Header and nav: links wrap on narrow screens instead of a menu toggle.
+   Sub-menus are Pico's <details class="dropdown">, so no JavaScript. */
+body > header { padding-block: 0.5rem; }
+body > header nav { flex-wrap: wrap; row-gap: 0.5rem; }
+body > header nav ul:last-child { flex-wrap: wrap; }
+.logo img { display: block; height: 3.25rem; width: auto; }
+body > header nav li { padding-block: 0.25rem; }
+body > header nav a,
+body > header nav details.dropdown > summary:not([role]) { color: var(--pico-contrast); }
+body > header nav a:hover,
+body > header nav a[aria-current="page"],
+body > header nav details.dropdown > summary:not([role]):hover { color: var(--pico-primary); }
+/* Pico draws dropdown summaries as form controls; make them read as nav links. */
+body > header nav details.dropdown > summary:not([role]) {
+  height: auto;
+  padding: var(--pico-nav-link-spacing-vertical) var(--pico-nav-link-spacing-horizontal);
+  border: none;
+  background: none;
+  font-weight: inherit;
+}
+body > header nav details.dropdown > summary:not([role]):focus,
+body > header nav details.dropdown > summary:not([role]):active {
+  background: none;
+}
+body > header nav details.dropdown ul li { padding-block: 0; }
+
+/* Full-width banner from a page's feature_image (an <img>, so it keeps its alt). */
+.feature { background: var(--pico-card-sectioning-background-color); }
+.feature img { display: block; width: 100%; height: auto; max-height: 40vh; object-fit: cover; }
+
+/* Readable, centred text column (and no Pico card styling on <article>). */
+.content {
+  max-width: 46rem;
+  padding: 0;
+  background: none;
+  box-shadow: none;
+  margin-inline: auto;
+  overflow-wrap: anywhere;
+}
+.content img { max-width: 80%; height: auto; display: block; margin-inline: auto; }
+/* Tables: wrap between words, not inside them (.content sets overflow-wrap: anywhere) */
+.content table { overflow-wrap: normal; }
+.content blockquote > :last-child { margin-bottom: 0; }
+.content pre { white-space: pre-wrap; overflow-wrap: anywhere; }
+
+.meta {
+  color: var(--pico-muted-color);
+  font-size: 0.9em;
+  margin-top: calc(var(--pico-typography-spacing-vertical) * -0.5);
+}
+
+/* Table of contents (page.toc: true) */
+.toc {
+  margin-block: var(--pico-typography-spacing-vertical);
+  padding: var(--pico-spacing);
+  border-top: 4px solid var(--pico-primary-background);
+  background: var(--nime-tint);
+}
+.toc h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+.toc ul { margin-bottom: 0; }
+.toc li { list-style: none; }
+
+/* Proceedings entry pages (_layouts/paper.html): keep the abstract high on
+   the page, Scholar wants it readable without scrolling. */
+.entry h1 { margin-bottom: 0.75rem; }
+.entry-authors { font-size: 1.15em; margin-bottom: 0.25rem; }
+
+/* Footer */
+body > footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.5rem 1.5rem;
+  border-top: 1px solid var(--pico-muted-border-color);
+  color: var(--pico-muted-color);
+  font-size: 0.9em;
+}
+body > footer ul { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; margin: 0; padding: 0; }
+body > footer li { list-style: none; margin: 0; }
+body > footer a { color: inherit; }
+
+/* Skip link: visible only when focused. */
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  padding: 0.5rem 1rem;
+  background: var(--pico-background-color);
+  z-index: 10;
+}
+.skip-link:focus { left: 0.5rem; top: 0.5rem; }
+
+/* 404 page */
+.not-found { text-align: center; }
+.not-found h1 { font-size: 4em; }
+
+@media (max-width: 576px) {
+  .logo img { height: 2.5rem; }
+  .content th, .content td { padding-inline: 0.35rem; }
+}

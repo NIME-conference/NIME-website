@@ -1,16 +1,9 @@
 ---
 layout: default
 ---
-
-<article>
-<div class="my-4">
-  <h1 class="">{{ page.title }}</h1>
-  <h6 class="font-italic">{{ page.date | date: "%d %b '%y" }}</h6>
-</div>
-
-{% include tocdiv.html %}
-
-<div class="my-4 p-2">
+<article class="content">
+  <h1>{{ page.title }}</h1>
+  <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time></p>
+  {% include tocdiv.html %}
   {{ content }}
-</div> 
 </article>

@@ -10,7 +10,6 @@ url: "https://nime.org"
 encoding: utf-8 
 lang: en-GB 
 logo: "/assets/logos/nime.png"
-css_inline: true
 
 markdown: kramdown
 # Settings the github-pages gem used to force; kept so output is unchanged.
@@ -20,10 +19,6 @@ kramdown:
   syntax_highlighter: rouge
   gfm_quirks: paragraph_end
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-  sourcemap: never
 permalink: pretty 
 excerpt_separator: <!-- more -->
 timezone: Europe/London

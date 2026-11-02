@@ -1,18 +1,8 @@
 ---
 layout: default
 ---
-
-<article>
-  {% if page.title %}
-  <div class="my-4">
-    <h1 class="">{{ page.title }}</h1>
-  </div>
-  {% endif %}
-
+<article class="content">
+  {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
   {% include tocdiv.html %}
-
-  <div class="my-4 p-2">
-    {{ content }}
-  </div>
+  {{ content }}
 </article>
-

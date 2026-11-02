@@ -1,100 +1,27 @@
-<nav class="navbar navbar-expand-lg">
-  <div class="container-lg">
-    <a class="navbar-brand" href="{{ site.url }}">
-      <img src="{% link /assets/logos/nime.svg %}" width="120" class="d-inline-block align-top" alt="NIME">
-    </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
-      <ul class="navbar-nav">
-        {% for link in site.navigation_header %}
-        {% assign dropdown_class = '' %}
-        {% if link.dropdown %}
-          {% assign dropdown_class = 'dropdown' %}
-        {% endif %}
-        {% assign class = nil %}
-        {% if page.url == link.url %}
-          {% assign class = "active" %}
-        {% endif %}
-        <li class="nav-item {{ dropdown_class }} {{ class }}">
-          {% if link.dropdown %}
-            {% assign ddid = link.title | slugify | prepend: "nav-" %}
-            <button class="nav-link dropdown-toggle {{ class }}" type="button" id="{{ ddid }}" data-bs-toggle="dropdown" aria-expanded="false">
-              {{ link.title }}
-            </button>
-            <ul class="dropdown-menu" aria-labelledby="{{ ddid }}">
-              {% for dropdown_link in link.dropdown %}
-              <li><a class="dropdown-item" href="{{ site.baseurl }}{{ dropdown_link.url }}">{{ dropdown_link.title }}</a></li>
-              {% endfor %}
-            </ul>
-          {% else %}
-            <a class="nav-link {{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-
-      {% comment %}
-      <!-- Colour Mode Toggling Icon ~~ a bit of custom CPM code. -->
-      <!-- <ul class="navbar-nav">
-        <li class="nav-item">
-          <button class="btn" id="btnSwitch">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">
-            <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/>
-          </svg>
-          </button>
-        </li>
-      </ul> -->
-      <!-- End Colour Mode Toggler -->
-      {% endcomment %}
-
-    </div>
-  </div>
+<nav aria-label="Main">
+  <ul>
+    <li>
+      <a class="logo" href="{{ '/' | relative_url }}">
+        <img src="{% link /assets/logos/nime.svg %}" alt="NIME home">
+      </a>
+    </li>
+  </ul>
+  <ul>
+    {%- for link in site.navigation_header %}
+    {%- if link.dropdown %}
+    <li>
+      <details class="dropdown">
+        <summary>{{ link.title }}</summary>
+        <ul>
+          {%- for item in link.dropdown %}
+          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {%- endfor %}
+        </ul>
+      </details>
+    </li>
+    {%- else %}
+    <li><a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+    {%- endif %}
+    {%- endfor %}
+  </ul>
 </nav>
-
-
-
-
-{% comment %}
-<!-- Colour Mode Toggling Code -->
-<!-- <script>
-/*!
- * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
- * Copyright 2011-2023 The Bootstrap Authors
- * Licensed under the Creative Commons Attribution 3.0 Unported License.
- */
-const storedTheme = localStorage.getItem('theme')
-
-  const getPreferredTheme = () => {
-    if (storedTheme) {
-      return storedTheme
-    }
-
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
-  }
-
-
-  const setTheme = function (theme) {
-    if (theme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      document.documentElement.setAttribute('data-bs-theme', 'dark')
-    } else {
-      document.documentElement.setAttribute('data-bs-theme', theme)
-    }
-  }
-
-  setTheme(getPreferredTheme())
-
-  // Super simple dark mode: Carol Skelly on StackOverflow
-  // https://stackoverflow.com/a/63087710
-document.getElementById('btnSwitch').addEventListener('click',()=>{
-    if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
-        setTheme('light')
-    }
-    else {
-  setTheme('dark')
-    }
-})
-</script> -->
-<!-- End Colour Mode Toggling -->
-{% endcomment %}
