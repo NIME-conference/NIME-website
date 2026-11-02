@@ -6,7 +6,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 
 group :jekyll_plugins do
-  gem "jekyll-datapage-generator"   # one page per bibliography entry
   gem "jekyll-feed"                 # /feed.xml
   gem "jekyll-seo-tag"              # {% seo %}
   gem "jekyll-sitemap"              # /sitemap.xml

@@ -9,11 +9,17 @@ Checks:
   pages    - every HTML page: non-empty <title>, non-empty meta description,
              exactly one <h1>, rel=canonical, no duplicate id= attributes,
              every <iframe> has a title.
-  scholar  - every proceedings page (/proc*/): Google Scholar "Highwire" tags
-             citation_title, citation_author (>=1, no stray "and"),
-             citation_publication_date, citation_conference_title,
+  scholar  - every proceedings entry page (/proc*/<id>/ and /proceedings/<year>/<id>.html):
+             Google Scholar "Highwire" tags citation_title, citation_author (>=1,
+             no stray "and"), citation_publication_date, citation_conference_title,
              citation_pdf_url (non-empty when the entry has a url) and
-             citation_doi when the entry has a DOI.
+             citation_doi when the entry has a DOI. For pages generated next to
+             their PDF, the PDF must be in the same directory as the page (#89).
+  proceedings - the build only ADDS .html pages to /proceedings/<year>/ (the
+             hand-uploaded archive, which deploys never delete, #65): any other
+             file type generated there is a failure, and an .html file listed in the
+             PDF manifest that this build does not generate is a warning (a stale
+             page of a renamed entry, or something uploaded by hand).
   sitemap  - every <loc> in sitemap.xml resolves to a file in _site (case-sensitive),
              the 404 page is not listed, no mixed-case paths.
   pdfs     - against _data/pdf_manifest.yml (from scripts/make_pdf_manifest.py):
@@ -43,6 +49,9 @@ FAIL, WARN = "FAIL", "WARN"
 # 5 MiB, to be safe.
 SCHOLAR_MAX_BYTES = 5_000_000
 NIME_URL = re.compile(r"^https?://(?:www\.)?nime\.org/(proceedings/.+)$")
+# A generated proceedings entry page: historical /proc*/<id>/ or, for the years
+# moved next to their PDFs (#89), /proceedings/<year>/<id>.html.
+ENTRY_PAGE = re.compile(r"^/proc(_[a-z]+)?/|^/proceedings/\d{4}/[^/]+\.html$")
 problems = defaultdict(list)  # (level, check) -> [messages]
 
 
@@ -175,7 +184,7 @@ def check_pages(site, entries_by_id):
     pages = sorted(glob.glob(os.path.join(site, "**", "*.html"), recursive=True))
     for path in pages:
         url = rel(path, site)
-        if "/web_archive/" in url or "/proceedings/" in url:
+        if "/web_archive/" in url:
             continue
         p = PageScanner()
         p.feed(open(path, encoding="utf-8", errors="replace").read())
@@ -198,13 +207,13 @@ def check_pages(site, entries_by_id):
         if p.imgs_without_alt:
             report(FAIL, "pages", f"{url}: {p.imgs_without_alt} <img> without alt attribute")
 
-        if re.match(r"^/proc(_[a-z]+)?/", url):
+        if ENTRY_PAGE.match(url):
             check_scholar(url, p, entries_by_id)
 
 
 def check_scholar(url, p, entries_by_id):
     m = p.metas
-    eid = re.sub(r"/index\.html$", "", url).rstrip("/").split("/")[-1].lower()
+    eid = entry_id_from_url(url)
     entry = entries_by_id.get(eid, {})
 
     if not any(x.strip() for x in m.get("citation_title", [])):
@@ -232,6 +241,12 @@ def check_scholar(url, p, entries_by_id):
     for x in pdf:
         if not x.startswith("https://"):
             report(WARN, "scholar", f"{url}: citation_pdf_url is not https: {x}")
+        if url.startswith("/proceedings/"):
+            m2 = NIME_URL.match(x.strip())
+            pdf_dir = os.path.dirname("/" + m2.group(1)) if m2 else None
+            if pdf_dir != os.path.dirname(url):
+                report(FAIL, "scholar", f"{url}: citation_pdf_url {x} is not in the same directory as the "
+                                        "page; Scholar wants the PDF next to the abstract page (#89)")
         if "doi.org/" in x or "pubpub.org/" in x:
             report(WARN, "scholar", f"{url}: citation_pdf_url points at an HTML landing page, not a PDF: {x}")
     for x in fulltext:
@@ -242,6 +257,36 @@ def check_scholar(url, p, entries_by_id):
         report(FAIL, "scholar", f"{url}: entry has a DOI but no citation_doi tag")
     if not m.get("citation_abstract_html_url"):
         report(WARN, "scholar", f"{url}: missing citation_abstract_html_url (should be the page's own URL)")
+
+
+def entry_id_from_url(url):
+    """/proc/nime2001_cook/, /proc/nime2001_cook/index.html and
+    /proceedings/2001/nime2001_cook.html all give 'nime2001_cook'."""
+    return re.sub(r"/index\.html$|\.html$", "", url).rstrip("/").split("/")[-1].lower()
+
+
+def check_generated_proceedings(site, manifest_path):
+    """/proceedings/ on the server is the hand-uploaded archive. The build may add
+    .html entry pages to it (#89) and nothing else; the deploy never deletes (#65)."""
+    generated = set()
+    for path in glob.glob(os.path.join(site, "proceedings", "**", "*"), recursive=True):
+        if os.path.isdir(path):
+            continue
+        url = rel(path, site)
+        generated.add(url.lstrip("/"))
+        if not url.endswith(".html"):
+            report(FAIL, "proceedings", f"{url}: the build wrote a non-HTML file into /proceedings/, "
+                                        "which must only ever receive .html entry pages")
+    files = load_manifest(manifest_path) if yaml else None
+    if files is None:
+        return generated
+    for path in sorted(files):
+        if (path.startswith("proceedings/") and path.lower().endswith((".html", ".htm"))
+                and path not in generated):
+            report(WARN, "proceedings", f"{path}: HTML page on the server that this build does not generate "
+                                        "(stale page of a renamed entry, or uploaded by hand); "
+                                        "redirect it in .htaccess or remove it")
+    return generated
 
 
 def check_sitemap(site):
@@ -276,7 +321,9 @@ def main():
     args = ap.parse_args()
 
     entries, all_entries = check_data(args.data)
-    check_manifest(args.manifest or os.path.join(args.data, "pdf_manifest.yml"), all_entries)
+    manifest = args.manifest or os.path.join(args.data, "pdf_manifest.yml")
+    check_manifest(manifest, all_entries)
+    check_generated_proceedings(args.site, manifest)
     check_pages(args.site, entries)
     check_sitemap(args.site)
 

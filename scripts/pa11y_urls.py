@@ -2,7 +2,8 @@
 """Build a pa11y-ci config from the generated sitemap.
 
 Every non-proceedings page is tested. Proceedings pages are all built from the
-same layout, so a sample is enough: the first N of each type plus the newest year.
+same layout, so a sample is enough: the first and last N of each directory
+(/proc*/ and each /proceedings/<year>/ that holds generated pages).
 """
 import json
 import os
@@ -18,7 +19,7 @@ paths = [re.sub(r"^https?://[^/]+", "", l) for l in re.findall(r"<loc>([^<]+)</l
 
 urls, per_dir = [], {}
 for p in sorted(paths):
-    m = re.match(r"^/(proc(?:_[a-z]+)?)/", p)
+    m = re.match(r"^/(proc(?:_[a-z]+)?|proceedings/\d{4})/", p)
     if not m:
         urls.append(p)
         continue
