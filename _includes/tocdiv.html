@@ -1,6 +1,6 @@
 {% if page.toc %}
-<div id="table-of-contents" class="mx-5 p-4 bg-body border rounded">
-  <h2 class="h5">Contents</h2>
+<nav class="toc" aria-labelledby="toc-heading">
+  <h2 id="toc-heading">Contents</h2>
   {{ content | toc_only }}
-</div>
+</nav>
 {% endif %}

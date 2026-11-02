@@ -1,5 +1,7 @@
-<footer class="container my-2 px-0">
-  <div class="mb-4">
-    <p class="text-center rounded-3 py-2">&copy; NIME Community {{ site.time | date: '%Y' }}</p>
-  </div>
+<footer class="container">
+  <small>&copy; NIME Community {{ site.time | date: '%Y' }}</small>
+  <ul>
+    <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+    <li><a href="https://github.com/NIME-conference/NIME-website">Website source</a></li>
+  </ul>
 </footer>
