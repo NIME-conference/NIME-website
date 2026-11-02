@@ -19,7 +19,7 @@ This page lists all peer-reviewed Music performed at NIME conferences, organized
 
 <ul>
 {% for entry in year_entries %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc_music" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture entry_url %}{{ entry | proceedings_page_url: "proc_music" | relative_url }}{% endcapture %}
 <li>{% include citation.html entry=entry link=entry_url %}</li>
 {% endfor %}
 </ul>

@@ -64,7 +64,7 @@ jobs:
             --disable-external \
             --no-enforce-https \
             --checks Links,Images,Scripts \
-            --ignore-files "/_site\/web_archive\//,/_site\/proceedings\//"
+            --ignore-files "/_site\/web_archive\//"
 
   seo-scholar:
     name: SEO & Google Scholar metadata

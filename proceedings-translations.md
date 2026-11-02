@@ -34,7 +34,7 @@ For past and already published NIME works, authors should use the template (when
 <h4>Paper</h4>
 <ul>
 {% for entry in year_papers %}
-{% capture original_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture original_url %}{{ entry | proceedings_page_url: "proc" | relative_url }}{% endcapture %}
 {% assign tparts = entry.translations | split: ", " %}
 {% assign tsize  = tparts | size %}
 {% assign tlast  = tsize | minus: 1 %}
@@ -71,7 +71,7 @@ For past and already published NIME works, authors should use the template (when
 <h4>Music</h4>
 <ul>
 {% for entry in year_music %}
-{% capture original_url %}{{ entry.ID | datapage_url: "proc_music" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture original_url %}{{ entry | proceedings_page_url: "proc_music" | relative_url }}{% endcapture %}
 {% assign tparts = entry.translations | split: ", " %}
 {% assign tsize  = tparts | size %}
 {% assign tlast  = tsize | minus: 1 %}
@@ -108,7 +108,7 @@ For past and already published NIME works, authors should use the template (when
 <h4>Installation</h4>
 <ul>
 {% for entry in year_installations %}
-{% capture original_url %}{{ entry.ID | datapage_url: "proc_installations" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture original_url %}{{ entry | proceedings_page_url: "proc_installations" | relative_url }}{% endcapture %}
 {% assign tparts = entry.translations | split: ", " %}
 {% assign tsize  = tparts | size %}
 {% assign tlast  = tsize | minus: 1 %}
@@ -145,7 +145,7 @@ For past and already published NIME works, authors should use the template (when
 <h4>alt.nime</h4>
 <ul>
 {% for entry in year_alt %}
-{% capture original_url %}{{ entry.ID | datapage_url: "proc_alt" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture original_url %}{{ entry | proceedings_page_url: "proc_alt" | relative_url }}{% endcapture %}
 {% assign tparts = entry.translations | split: ", " %}
 {% assign tsize  = tparts | size %}
 {% assign tlast  = tsize | minus: 1 %}

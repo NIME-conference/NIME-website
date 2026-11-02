@@ -31,7 +31,7 @@ This page lists all peer-reviewed Papers published at the NIME conferences, orga
 
 <ul>
 {% for entry in year_entries %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture entry_url %}{{ entry | proceedings_page_url: "proc" | relative_url }}{% endcapture %}
 <li>{% include citation.html entry=entry link=entry_url %}</li>
 {% endfor %}
 </ul>
@@ -41,7 +41,7 @@ This page lists all peer-reviewed Papers published at the NIME conferences, orga
 {% comment %}
 <ul>
 {% for entry in site.data.nime_papers %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture entry_url %}{{ entry | proceedings_page_url: "proc" | relative_url }}{% endcapture %}
 <li>{% include citation.html entry=entry link=entry_url %}</li>
 {% endfor %}
 </ul>

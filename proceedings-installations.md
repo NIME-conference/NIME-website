@@ -19,7 +19,7 @@ This page lists all peer-reviewed Installations shown at NIME conferences, organ
 
 <ul>
 {% for entry in year_entries %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc_installations" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture entry_url %}{{ entry | proceedings_page_url: "proc_installations" | relative_url }}{% endcapture %}
 <li>{% include citation.html entry=entry link=entry_url %}</li>
 {% endfor %}
 </ul>

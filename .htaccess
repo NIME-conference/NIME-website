@@ -1,3 +1,6 @@
+---
+# Front matter so Jekyll runs this file through Liquid (for the generated redirects below).
+---
 # Served from public_html/ on nime.org (LiteSpeed, Apache-compatible).
 # This file is generated from the nime-website repository; edit it there.
 
@@ -20,6 +23,12 @@ RewriteRule ^Social/?$ https://nime.org/social/ [R=301,L]
 # (NIME-bibliography#131). Deploys never delete (#65), so the old page is still on
 # the server; send readers and search engines to the surviving entry.
 RewriteRule ^proc/nime2012_smith_b/?(index.html)?$ https://nime.org/proc/nime2012_smith_a/ [R=301,L]
+
+# Proceedings entry pages that have moved next to their PDFs (#89). Generated at
+# build time by _plugins/proceedings_pages.rb from `moved_years` in _config.yml.
+# Deploys never delete, so the old /proc*/<id>/ pages are still on the server;
+# these rules win over them and tell Google Scholar where the page went.
+{% proceedings_redirects %}
 
 # Canonical host: https://nime.org (no www, no http).
 RewriteCond %{HTTP_HOST} ^www\.nime\.org$ [NC]
