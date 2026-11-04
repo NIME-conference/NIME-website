@@ -109,7 +109,7 @@ Principles & Code of Practice in Studies with Human Participants
 
 -   In studies involving minors and vulnerable individuals, extra attention must be paid to their safety, privacy, dignity, and well-being.
 
--   MMinors and vulnerable individuals for whom the consent of others (e.g., parents/carers) is required to participate (e.g., for legal and/or safeguarding reasons) should additionally be offered their own opportunity to fully consent, if possible, given their capacity to decide about the task. Their decisions should be respected.
+-   Minors and vulnerable individuals for whom the consent of others (e.g., parents/carers) is required to participate (e.g., for legal and/or safeguarding reasons) should additionally be offered their own opportunity to fully consent, if possible, given their capacity to decide about the task. Their decisions should be respected.
 
 ### Ethnographic Research
 

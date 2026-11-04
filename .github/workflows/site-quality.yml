@@ -1,7 +1,8 @@
 # Site quality: accessibility, SEO / Google Scholar metadata, internal links.
 # Green here means: the built site has no WCAG 2 AA violations on the tested
 # pages, every page has the metadata search engines and Scholar need, and no
-# internal link or asset reference is broken.
+# internal link or asset reference is broken, and every proceedings PDF the
+# bibliography points to is listed in _data/pdf_manifest.yml.
 name: Site quality (a11y, SEO, links)
 
 on:
@@ -15,6 +16,17 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  script-tests:
+    name: Unit tests for scripts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml pytest
+      - run: python3 -m pytest tests
+
   build:
     name: Build site
     runs-on: ubuntu-latest
