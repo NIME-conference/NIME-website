@@ -7,10 +7,10 @@ permalink: /board/
 
 ## NIME Board Members
 * [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony Europe, Spain)
-* [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
+* [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Vice-President of the Board (University of Nottingham, UK)
 * [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
 * [Stefano Fasciani](https://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
-* [Teresa Pelinski](https://teresapelinski.com/), Member-at-large (Queen Mary University of London, UK)
+* [Teresa Pelinski](https://teresapelinski.com/), Member-at-large (Sony Europe, Spain)
 * [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large (Australian National University, Australia)
 * [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Chair NIME 2026 (Loughborough University London, UK)
 * [Sofy Yuditskaya](https://www.yuditskaya.com/), Chair NIME 2027 (Devinci Higher Education, France)
@@ -40,7 +40,7 @@ In the past, the NIME community has expressed its preference for an informal org
 ## 3. Boards roles and membership
 The Board is composed of the following members:
 * President
-* Chief of Committees
+* Vice-President
 * Continuity Officer
 * Proceedings Officer
 * 2x Members-at-Large
@@ -62,14 +62,18 @@ The Board is composed of the following members:
 * The term of office is 3 years
 * The President can run again for this position but the maximum length of consecutive years is 9 (three consecutive mandates)
 
-### 3.2 Chief of Committees
+### 3.2 Vice-President
 #### 3.2.1 Responsibilities
+* To support the President in overseeing the activities of the NIME Board and the wider community
+* To act on behalf of the President when the President is unavailable or unable to fulfil their duties
+* To assist the President in coordinating Board meetings, following up on decisions, and ensuring the implementation of Board initiatives
+* To work alongside the President in addressing emerging issues and supporting new initiatives within the community
 * To oversee the activities of all the current and future [NIME committees](/committees/) and working groups
-* It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
-* To update the Board on the status of such committees and working groups
+* To periodically organise meetings with committee chairs and update the Board on the status of committees and working groups
+* To support the President in ensuring continuity and a smooth transition between Board leadership terms
 
 #### 3.2.2 Eligibility and term of office
-* The Chief of Committees is elected by the community
+* The Vice-President is elected by the community
 * The term of office is 3 years
 * The mandate can be renewed once
 
