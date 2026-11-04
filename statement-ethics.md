@@ -5,11 +5,24 @@ description: "The NIME statement on ethics in research and practice involving ne
 permalink: /ethics/
 ---
 
+## Index
+
+- [Short Version](#short-version)
+- [Long Version](#long-version)
+- [Principles & Code of Practice in Designing New Musical Interfaces](#principles--code-of-practice-in-designing-new-musical-interfaces)
+- [Principles & Code of Practice in Studies with Human Participants](#principles--code-of-practice-in-studies-with-human-participants)
+- [Principles & Code of Practice in Studies and Interfaces Involving Animals](#principles--code-of-practice-in-studies-and-interfaces-involving-animals)
+- [Principles & Code of Practice in Environmental Impact](#principles--code-of-practice-in-environmental-impact)
+- [Principles & Code of Practice in Originality](#principles--code-of-practice-in-originality)
+- [Principles & Code of Practice in Chairing & Peer Reviewing](#principles--code-of-practice-in-chairing--peer-reviewing)
+- [Principles & Code of Practice in the Use of Artificial Intelligence](#principles--code-of-practice-in-the-use-of-artificial-intelligence)
+
+
 Cite as:
 
 Morreale, F., Gold, N., Chevalier, C., Masu, R., Ergener, K., Cavdir, D., & Fuchs, N. (2025). NIME Principles & Code of Practice on Ethical Research. Zenodo. [https://doi.org/10.5281/zenodo.17811082](https://doi.org/10.5281/zenodo.17811082)
 
-## Short version
+## Short Version
 
 NIME upholds the highest ethical standards in research and artistic practice by recognising the importance of individual persons and data as an expression of personhood. These standards also include ethical values that are not always a concern of institutional research committees, including inclusivity, accessibility, animal rights, socio-economic fairness, and environmental awareness. The complete NIME Principles & Code of Practice on Ethical Research can be found at: [www.nime.org/ethics](http://www.nime.org/ethics/).
 
@@ -24,7 +37,8 @@ With this Code of Practice, NIME aims to be a role model for other academic comm
 Authors of all submissions are encouraged to reflect on any ethical issues connected with their research within their manuscripts, and it is expected that any ethical concerns are also listed in the ethical statement paragraph of the submission system. A failure to adhere to the Code of Practice presented herein will not result in an automatic rejection. However, authors are expected to pay careful consideration to these issues and to demonstrate an attempt to address them, as well as a commitment to higher ethical standards with each new submission.
 
 
-## Principles & Code of Practice in Designing New Musical Interfaces
+----------------------------------------------------------------
+## Principles & Code of Practice in Studies with Human Participants
 
 ### Accessibility
 
@@ -54,8 +68,10 @@ Authors of all submissions are encouraged to reflect on any ethical issues conne
 
 -   Authors should support the community by making new data openly available, with a permissive license.
 
-Principles & Code of Practice in Studies with Human Participants
+
 ----------------------------------------------------------------
+## Principles & Code of Practice in Studies with Human Participants
+
 
 ### Consent
 
@@ -117,8 +133,10 @@ Principles & Code of Practice in Studies with Human Participants
 
 -   In the case of culturally sensitive ethnographic research, authors should engage with the research participants and local communities to establish shared goals.
 
-Principles & Code of Practice in studies and interfaces involving animals
--------------------------------------------------------------------------
+
+## Principles & Code of Practice in Studies and Interfaces Involving Animals
+----------------------------------------------------------------
+
 
 ### General Principles
 
@@ -149,8 +167,9 @@ Principles & Code of Practice in studies and interfaces involving animals
 -   It is in the authors’ duties to ensure and/or promote a good quality of life for the animal after the animal’s involvement in the research.
 
 
-Principles & Code of Practice in Environmental Impact
------------------------------------------------------
+--------------------------------------------
+## Principles & Code of Practice in Environmental Impact
+
 
 -   While developing a NIME, or in the general management of the research, authors are encouraged to check the NIME [environmental statement](https://www.nime.org/environment/) and the [environment wiki](https://github.com/NIME-conference/ECO_NIME) to consider - and when possible address - the environmental impact of their work.
 
@@ -158,8 +177,10 @@ Principles & Code of Practice in Environmental Impact
 
 -   Not being able to reduce the environmental impact will not automatically result in rejection, although intentional abuse of the environment may do.
 
-Principles & Code of Practice in Originality
+
 --------------------------------------------
+## Principles & Code of Practice in Originality
+
 
 ### Plagiarism
 
@@ -214,8 +235,9 @@ Principles & Code of Practice in Originality
 - The sanctions include (but are not limited to) the retraction of the paper and barring of the authors from contributing to any NIME conference for a certain number of years.
 
 
-Principles & Code of Practice in Chairing & Peer Reviewing
-----------------------------------------------------------
+--------------------------------------------
+## Principles & Code of Practice in Chairing & Peer Reviewing
+
 
 ### Publication Decisions
 
@@ -249,10 +271,11 @@ Principles & Code of Practice in Chairing & Peer Reviewing
 - If the complaint is upheld, these measures might include the publication of a correction, retraction, expression of concern, or another note, as may be relevant. 
 - Every reported act of unethical publishing behavior must be investigated, even if it is discovered years after publication.
 
-Principles & Code of Practice in the Use of Artificial Intelligence
------------------------------------------------------
 
-###    General Principles 
+-----------------------------------------------------
+## Principles & Code of Practice in the Use of Artificial Intelligence
+
+### General Principles 
 
 - As artificial intelligence (AI) and machine learning (ML) become integral to NIME, researchers must ensure that these technologies are developed and deployed ethically, prioritizing fairness, transparency, accountability, and sustainability. AI should enhance human creativity without reinforcing biases, exploiting labor, or harming the environment.
 
@@ -270,7 +293,7 @@ Principles & Code of Practice in the Use of Artificial Intelligence
 - If AI contributes significantly to a creative work, its role should be acknowledged. This acknowledgment should be stated in the Ethical Statement section of the submitted manuscript.
 - AI-generated content should respect copyright and avoid plagiarism of existing works. 
 - Authors may use AI to help with grammar and editing. This is recommended for authors whose mother language is not English. If any AI tool is used in the process, it must be stated in the ethical statement. Otherwise, use of AI-generated text is forbidden. 
-- Any help received from AI in coding (including vibe-coding) must be stated. The prompts and answers received must be included in the code provided when submitting the paper (preferably hosted on GitHub).
+- Any help received from AI in coding (including vibe-coding) must be stated.
 - Any image created with an AI tool must be credited to the tool and must be stated in the ethical statement.
 - Any music created with an AI tool must be credited accordingly. The author must be aware that the AI tool they are using might own the right to the music they created. 
 - In the case of the use of AI in computer-assisted composition tools, the author must be aware that the output musical phrase might be too similar to the data provided and can cause copyright infringement. 
@@ -292,13 +315,10 @@ Principles & Code of Practice in the Use of Artificial Intelligence
 - AI tools used in cultural research (e.g., automated transcription, analysis) should respect local norms and avoid misrepresentation.  
 - AI systems should be designed to accommodate diverse users, avoiding exclusionary design (e.g., voice recognition that fails for certain accents).
 
-
-
-
 -------------------------
 
-- Version: 1.2
-- Date: 03 December 2025
+- Version: 1.2.1
+- Date: 4 November 2026
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Authors: Fabio Morreale, Nicolas Gold, Cécile Chevalier, Raul Masu, Kerem Ergener, Doga Cavdir, and Natalia Fuchs 
 - Feedback: Start a [discussion](https://forum.nime.org/).
