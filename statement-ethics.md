@@ -38,7 +38,7 @@ Authors of all submissions are encouraged to reflect on any ethical issues conne
 
 
 ----------------------------------------------------------------
-## Principles & Code of Practice in Studies with Human Participants
+## Principles & Code of Practice in Designing New Musical Interfaces
 
 ### Accessibility
 
