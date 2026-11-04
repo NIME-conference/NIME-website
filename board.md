@@ -179,8 +179,8 @@ The Advisory Group is composed of:
 
 -------------------------
 
-- Version: 1.2
-- Date: 8 October 2024
+- Version: 1.3
+- Date: 4 November 2026
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Authors: NIME Board
 - Feedback: Start a [discussion](https://forum.nime.org/).
